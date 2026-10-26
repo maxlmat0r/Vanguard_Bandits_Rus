@@ -1,0 +1,286 @@
+{
+ "file": 141,
+ "kind": "battle",
+ "lines": [
+  {
+   "id": 0,
+   "en": "Imperial Soldier:\nThe Kingdom Army has been sighted!\nDispatch the defense force!",
+   "ru": "Имперский солдат:\nЗамечена армия Королевства!\nВыслать силы обороны!"
+  },
+  {
+   "id": 1,
+   "en": "Those two ATACs are the same type\nthat Zakov used against us--the type\nPrincess Sadira had outlawed!",
+   "ru": "Это такие же АТАКи, как у\nЗакова, - те самые, что\nзапретила принцесса Садира!"
+  },
+  {
+   "id": 2,
+   "en": "So why are they being used against\nus again? Unless...",
+   "ru": "Так почему их снова бросили\nпротив нас? Разве что..."
+  },
+  {
+   "id": 3,
+   "en": "...something happened to Sadira!",
+   "ru": "...с Садирой что-то случилось!"
+  },
+  {
+   "id": 4,
+   "en": "At last, you are here! I was beginning\nto wonder if you would miss the\nglorious executions I have planned.",
+   "ru": "Наконец-то вы здесь! Я уж начал\nдумать, что вы пропустите\nславные казни, что я задумал."
+  },
+  {
+   "id": 5,
+   "en": "Faulkner!",
+   "ru": "Фолкнер!"
+  },
+  {
+   "id": 6,
+   "en": "What class of ATAC is THAT?",
+   "ru": "Что это за АТАК?"
+  },
+  {
+   "id": 7,
+   "en": "I have also never seen that type of\nATAC before, Bastion. Perhaps it is\nanother Imperial prototype?",
+   "ru": "Я тоже никогда не видел такого\nАТАКа, Бастион. Может, ещё один\nимперский опытный образец?"
+  },
+  {
+   "id": 8,
+   "en": "Allow me to introduce the harbinger\nof the Kingdom Army's destruction.",
+   "ru": "Позвольте представить вестника\nгибели армии Королевства."
+  },
+  {
+   "id": 9,
+   "en": "It exists in perfect disharmony with\nUltragunner. It is the darkness which\nswallows the light.",
+   "ru": "Он пребывает в совершенной\nдисгармонии с Ультраганнером.\nОн - тьма, поглощающая свет."
+  },
+  {
+   "id": 10,
+   "en": "It is the Zulwarn. The Shadow ATAC!",
+   "ru": "Это Зулварн. АТАК Тени!"
+  },
+  {
+   "id": 11,
+   "en": "I vaguely recall hearing stories of\nZulwarn, but I don't remember any\nof the details!",
+   "ru": "Я смутно припоминаю истории о\nЗулварне, но подробностей не\nпомню!"
+  },
+  {
+   "id": 12,
+   "en": "That's because they were so horrid,\nno sane person dared whisper them!",
+   "ru": "Потому что они так ужасны, что\nни один нормальный человек не\nсмел их пересказывать!"
+  },
+  {
+   "id": 13,
+   "en": "According to every legend I have\nheard, Zulwarn was defeated and\ndestroyed by Ultragunner...",
+   "ru": "Во всех легендах, что я слышал,\nУльтраганнер победил и\nуничтожил Зулварн..."
+  },
+  {
+   "id": 14,
+   "en": "But the legends were apparently\nincorrect.",
+   "ru": "Но легенды, видимо, ошибались."
+  },
+  {
+   "id": 15,
+   "en": "Indeed they were, Alden. Zulwarn\nmerely changed its form and was\nled into hiding.",
+   "ru": "Ошибались, Олден. Зулварн лишь\nсменил облик и был сокрыт."
+  },
+  {
+   "id": 16,
+   "en": "The time has come to return from\nexile and establish its superiority!",
+   "ru": "Пришло время вернуться из\nизгнания и утвердить своё\nпревосходство!"
+  },
+  {
+   "id": 17,
+   "en": "There is another legend of Zulwarn,\nBastion.",
+   "ru": "Есть ещё одна легенда о\nЗулварне, Бастион."
+  },
+  {
+   "id": 18,
+   "en": "Rather than drawing power from a\ngem, it is said to be powered by...\nhuman blood.",
+   "ru": "Говорят, его питает не камень,\nа... человеческая кровь."
+  },
+  {
+   "id": 19,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 20,
+   "en": "Dear God!!",
+   "ru": "Боже правый!!"
+  },
+  {
+   "id": 21,
+   "en": "It can't be true!!",
+   "ru": "Не может быть!!"
+  },
+  {
+   "id": 22,
+   "en": "Thus, if Faulkner has revived the\nZulwarn ATAC, he must have...",
+   "ru": "Значит, если Фолкнер пробудил\nЗулварн, он должен был..."
+  },
+  {
+   "id": 23,
+   "en": "Indeed. But what is the value of a\nlegion of living peasants? In death\nthey are more valuable to me!",
+   "ru": "Именно. Но какой прок от легиона\nживых крестьян? Мёртвые они\nдля меня ценнее!"
+  },
+  {
+   "id": 24,
+   "en": "I do regret the fact that I now have\nfewer subjects to dominate, but I\nshall find the strength to carry on.",
+   "ru": "Жаль, подданных для господства\nстало меньше, но я найду силы\nжить дальше."
+  },
+  {
+   "id": 25,
+   "en": "You are a heartless demon, Faulkner!\nAn abomination! A monster!!",
+   "ru": "Ты бессердечный демон, Фолкнер!\nМерзость! Чудовище!!"
+  },
+  {
+   "id": 26,
+   "en": "Sticks and stones may break my\nbones, dear boy, but my Zulwarn\nwill certainly harm you. Observe.",
+   "ru": "Брань на вороту не виснет,\nмальчик, а вот мой Зулварн тебя\nточно ранит. Смотри."
+  },
+  {
+   "id": 27,
+   "en": "What was that?!",
+   "ru": "Что это было?!"
+  },
+  {
+   "id": 28,
+   "en": "Something is awry, Bastion! Faulkner\nhas sabotaged our ATACs!",
+   "ru": "Что-то не так, Бастион! Фолкнер\nвывел из строя наши АТАКи!"
+  },
+  {
+   "id": 29,
+   "en": "Zeira is right! My ATAC readouts are\nmalfunctioning!",
+   "ru": "Зейра прав! Показания моего\nАТАКа сбоят!"
+  },
+  {
+   "id": 30,
+   "en": "Mine, too! What has Faulkner done?!",
+   "ru": "Мои тоже! Что сделал Фолкнер?!"
+  },
+  {
+   "id": 31,
+   "en": "Whatever he's done, I don't like it!!",
+   "ru": "Что бы он ни сделал, мне это не\nнравится!!"
+  },
+  {
+   "id": 32,
+   "en": "I should have known you would\nnever engage us in a fair fight!",
+   "ru": "Мне следовало знать, что ты\nникогда не станешь драться\nчестно!"
+  },
+  {
+   "id": 33,
+   "en": "There is no such word as `fair` in\nwar, boy. There are but two words\nof consequence: win...and lose.",
+   "ru": "На войне нет слова \"честно\",\nмальчик. Есть лишь два слова:\nпобеда... и поражение."
+  },
+  {
+   "id": 34,
+   "en": "I'm surprised that the Ultragunner\nwas not affected by the pulse wave.\nOr was it?",
+   "ru": "Удивительно, что импульсная\nволна не задела Ультраганнер.\nИли задела?"
+  },
+  {
+   "id": 35,
+   "en": "He's right! My controls are sluggish!",
+   "ru": "Он прав! Управление вялое!"
+  },
+  {
+   "id": 36,
+   "en": "As I expected. The Ultragunner is an\nantiquated ATAC, unable to match\nthe infinite power of Zulwarn.",
+   "ru": "Как я и ожидал. Устаревшему\nУльтраганнеру не сравниться с\nбесконечной мощью Зулварна."
+  },
+  {
+   "id": 37,
+   "en": "My soldiers should have more than\nenough power to annihilate you all.",
+   "ru": "Моим солдатам хватит сил,\nчтобы уничтожить вас всех."
+  },
+  {
+   "id": 38,
+   "en": "The only question is how long you\nwill be able to survive before you\nsuccumb to Zulwarn's power.",
+   "ru": "Вопрос лишь в том, сколько вы\nпродержитесь, прежде чем падёте\nперед силой Зулварна."
+  },
+  {
+   "id": 39,
+   "en": "Attack!",
+   "ru": "В атаку!"
+  },
+  {
+   "id": 40,
+   "en": "You and your friends are more\ndetermined than I expected, boy...",
+   "ru": "Ты и твои друзья упорнее, чем я\nожидал, мальчик..."
+  },
+  {
+   "id": 41,
+   "en": "But the effects of Zulwarn's pulse\nshall take their inevitable toll. You\nwill perish...mark my words!",
+   "ru": "Но действие импульса Зулварна\nнеизбежно скажется. Вы\nпогибнете... попомните мои слова!"
+  },
+  {
+   "id": 42,
+   "en": "Most impressive, Bastion. Your will\nto live is remarkably strong.",
+   "ru": "Весьма впечатляет, Бастион. Твоя\nволя к жизни удивительно\nсильна."
+  },
+  {
+   "id": 43,
+   "en": "As is my need for revenge, Faulkner!",
+   "ru": "Как и моя жажда мести, Фолкнер!"
+  },
+  {
+   "id": 44,
+   "en": "Come down from your pedestal\nbefore I have to knock you off!",
+   "ru": "Спускайся со своего пьедестала,\nпока я тебя не сбил!"
+  },
+  {
+   "id": 45,
+   "en": "Such impatience, Prince Bastion!\nYour immaturity is laid bare by\nyour impetuous demands!",
+   "ru": "Какое нетерпение, принц Бастион!\nТвои опрометчивые требования\nвыдают незрелость!"
+  },
+  {
+   "id": 46,
+   "en": "As I already told you, Ultragunner is\nno match for Zulwarn. Defeating you\nwould be far too easy.",
+   "ru": "Я уже говорил: Ультраганнеру не\nтягаться с Зулварном. Победить\nтебя было бы слишком легко."
+  },
+  {
+   "id": 47,
+   "en": "Then why not come down here\nand prove it?!",
+   "ru": "Тогда почему бы не спуститься и\nне доказать?!"
+  },
+  {
+   "id": 48,
+   "en": "I am a kind man, Bastion. So kind\nthat I shall allow you to live until\nyou reach the Imperial capital.",
+   "ru": "Я добр, Бастион. Так добр, что\nпозволю тебе дожить до\nимперской столицы."
+  },
+  {
+   "id": 49,
+   "en": "I expect you to develop your skills\nand strength before then. I want a\nsatisfying victory, not an easy one.",
+   "ru": "Жду, что к тому времени ты\nокрепнешь. Мне нужна достойная\nпобеда, а не лёгкая."
+  },
+  {
+   "id": 50,
+   "en": "Do not disappoint me, Bastion. I so\nhate disappointment...",
+   "ru": "Не разочаруй меня, Бастион. Я\nтак не люблю разочарований..."
+  },
+  {
+   "id": 51,
+   "en": "Damn you, Faulker!",
+   "ru": "Будь ты проклят, Фолкнер!"
+  },
+  {
+   "id": 52,
+   "en": "I have to admit that I'm exhausted.\nThose Sharking ATACs are strong.\nAlmost TOO strong.",
+   "ru": "Признаюсь, я выдохся. Эти\nШаркинги сильны. Почти\nСЛИШКОМ."
+  },
+  {
+   "id": 53,
+   "en": "Why don't we rest here for a while\nbefore proceeding to the capital? We\nshould rethink our strategy...",
+   "ru": "Может, отдохнём здесь, прежде\nчем идти на столицу? Стоит\nпересмотреть стратегию..."
+  },
+  {
+   "id": 54,
+   "en": "And we could all use the rest.",
+   "ru": "Да и отдых нам всем не\nпомешает."
+  },
+  {
+   "id": 55,
+   "en": "\n\n\n",
+   "ru": ""
+  }
+ ]
+}

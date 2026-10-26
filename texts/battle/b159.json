@@ -1,0 +1,216 @@
+{
+ "file": 159,
+ "kind": "battle",
+ "lines": [
+  {
+   "id": 0,
+   "en": "Halt!",
+   "ru": "Стоять!"
+  },
+  {
+   "id": 1,
+   "en": "Vell, vell! Dhe Imperial Princess!",
+   "ru": "Так-так! Имперская принцесса!"
+  },
+  {
+   "id": 2,
+   "en": "We beat you once before, Zakov, and\nI look forward to humiliating you a\nsecond time!",
+   "ru": "Мы уже побили вас однажды,\nЗаков, и я с удовольствием унижу\nвас во второй раз!"
+  },
+  {
+   "id": 3,
+   "en": "No, Princess! Please listen! After dhe\ndefeat you dealt me, Faulkner said I\nvas a disgrace to dhe Empire!",
+   "ru": "Нет, принцесса! Послушайте! После\nпоражения Фолкнер наспал меня\nпосором Империи!"
+  },
+  {
+   "id": 4,
+   "en": "I haff been exiled from dhe Imperial\nArmy! I haff nowhere to go!",
+   "ru": "Меня изгнали из имперской\nармии! Мне некуда итти!"
+  },
+  {
+   "id": 5,
+   "en": "Please, Sadira! I beg you to help me!",
+   "ru": "Прошу, Садира! Умоляю, помогите\nмне!"
+  },
+  {
+   "id": 6,
+   "en": "Commander Zakov, your lies are as\nridiculous as your mustache!",
+   "ru": "Командир Заков, ваша ложь так\nже нелепа, как ваши усы!"
+  },
+  {
+   "id": 7,
+   "en": "Vhat?! Vhy do you accuse me of dhis?!",
+   "ru": "Што?! Почему фы меня в этом\nобфиняете?!"
+  },
+  {
+   "id": 8,
+   "en": "Because you are FAR too egotistical to\nask for assistance, and especially not\nfrom a woman.",
+   "ru": "Потому что вы СЛИШКОМ\nсамовлюблённы, чтобы просить\nпомощи, тем более у женщины."
+  },
+  {
+   "id": 9,
+   "en": "Bah! You dhink you are so smart!",
+   "ru": "Ба! Фы думаете, что такая умная!"
+  },
+  {
+   "id": 10,
+   "en": "As expected, my scouts were correct.\nThe Imperial Army has violated the\nsanctity of our country.",
+   "ru": "Как и ожидалось, разведчики не\nошиблись. Имперская армия\nвторглась в нашу страну."
+  },
+  {
+   "id": 11,
+   "en": "Lord Alden!",
+   "ru": "Лорд Олден!"
+  },
+  {
+   "id": 12,
+   "en": "As you command, Princess Sadira. I\nvill return to dhe Empire and leave\nyou to deal vith Lord Alden!",
+   "ru": "Как прикашете, принцесса. Я\nфернусь в Империю, а фы\nрассбирайтесь с Олденом!"
+  },
+  {
+   "id": 13,
+   "en": "What are you talking about?!",
+   "ru": "О чём ты?!"
+  },
+  {
+   "id": 14,
+   "en": "Farevell, Princess, and good fortune\nto you in battle!",
+   "ru": "Прощайте, принцесса, и удачи в\nпою!"
+  },
+  {
+   "id": 15,
+   "en": "Wait!",
+   "ru": "Стой!"
+  },
+  {
+   "id": 16,
+   "en": "I was wondering when you would\nfinally reveal where your loyalties\nlie, Prince Bastion.",
+   "ru": "Я гадал, когда же вы наконец\nпокажете, на чьей вы стороне,\nпринц Бастион."
+  },
+  {
+   "id": 17,
+   "en": "Lord Alden! Join us in pursuit of\nCommander Zakov and the others!\nWe still have time to catch them!",
+   "ru": "Лорд Олден! Присоединяйтесь к\nпогоне за командиром Заковым!\nМы ещё успеем их догнать!"
+  },
+  {
+   "id": 18,
+   "en": "There is no need for your foolish\ncharade, Sadira. We already know\nthe truth.",
+   "ru": "Незачем ломать комедию, Садира.\nМы уже знаем правду."
+  },
+  {
+   "id": 19,
+   "en": "Charade?",
+   "ru": "Комедию?"
+  },
+  {
+   "id": 20,
+   "en": "Our scouts have already seen your\nATAC leading the Empire's forces\ninto battle against us!",
+   "ru": "Наши разведчики видели, как\nваш АТАК вёл войска Империи в\nбой против нас!"
+  },
+  {
+   "id": 21,
+   "en": "That's impossible! This is the first\ntime Sadira has been here since our\ninitial visit to meet with Alden!",
+   "ru": "Невозможно! Садира здесь\nвпервые с нашего первого визита\nк Олдену!"
+  },
+  {
+   "id": 22,
+   "en": "I told you, Prince Bastion, that the\nchoice you made would be crucial.\nUnfortunately, you chose...poorly.",
+   "ru": "Я говорил вам, принц Бастион,\nчто ваш выбор будет решающим.\nК сожалению, вы выбрали... плохо."
+  },
+  {
+   "id": 23,
+   "en": "Now I give you a second choice,\nBastion. Surrender now, or die.",
+   "ru": "Теперь даю вам второй выбор,\nБастион. Сдавайтесь или умрите."
+  },
+  {
+   "id": 24,
+   "en": "You don't understand, Alden! You're\nmaking a mistake! We're your allies!",
+   "ru": "Вы не понимаете, Олден! Вы\nошибаетесь! Мы ваши союзники!"
+  },
+  {
+   "id": 25,
+   "en": "Once again, Bastion, you have made\nthe wrong decision!",
+   "ru": "И снова, Бастион, вы приняли\nневерное решение!"
+  },
+  {
+   "id": 26,
+   "en": "I will try to make your death as\npainless as possible, Bastion!",
+   "ru": "Постараюсь, чтобы ваша смерть\nбыла как можно безболезненнее,\nБастион!"
+  },
+  {
+   "id": 27,
+   "en": "Damn it, Alden! We came here not\nto fight, but to HELP you! Why\nwon't you believe us?!",
+   "ru": "Проклятье, Олден! Мы пришли не\nвоевать, а ПОМОЧЬ! Почему вы\nнам не верите?!"
+  },
+  {
+   "id": 28,
+   "en": "Because the facts overwhelmingly\npoint to your affiliation with the\nImperial Army!",
+   "ru": "Потому что все факты указывают\nна вашу связь с имперской\nармией!"
+  },
+  {
+   "id": 29,
+   "en": "You're wrong, Alden! Dead wrong!",
+   "ru": "Вы ошибаетесь, Олден! Глубоко\nошибаетесь!"
+  },
+  {
+   "id": 30,
+   "en": "I thought you were an honest man,\nBastion! How could I have been so\nwrong about you?!",
+   "ru": "Я думал, вы честный человек,\nБастион! Как же я мог так в вас\nошибиться?!"
+  },
+  {
+   "id": 31,
+   "en": "What you're wrong about is thinking\nthat we have anything to do with the\nImperial Army!",
+   "ru": "Вы ошибаетесь, думая, что мы\nкак-то связаны с имперской\nармией!"
+  },
+  {
+   "id": 32,
+   "en": "Shut up, Bastion! I tire of this war,\nand your lies sicken me!",
+   "ru": "Замолчите, Бастион! Я устал от\nэтой войны, а ваша ложь мне\nпротивна!"
+  },
+  {
+   "id": 33,
+   "en": "Why won't you listen?!",
+   "ru": "Почему вы не слушаете?!"
+  },
+  {
+   "id": 34,
+   "en": "Please listen, Lord Alden!",
+   "ru": "Прошу, выслушайте, лорд Олден!"
+  },
+  {
+   "id": 35,
+   "en": "I do not savor the task of having to\nkill you, Princess Sadira, but you\nleave me no alternative.",
+   "ru": "Мне не по душе убивать вас,\nпринцесса Садира, но вы не\nоставляете мне выбора."
+  },
+  {
+   "id": 36,
+   "en": "This is a misunderstanding! We\nwere set up by Zakov and Faulkner!",
+   "ru": "Это недоразумение! Нас\nподставили Заков и Фолкнер!"
+  },
+  {
+   "id": 37,
+   "en": "I cannot believe I have lost to\nsuch dishonorable warriors.",
+   "ru": "Не верится, что я проиграл\nтаким бесчестным воинам."
+  },
+  {
+   "id": 38,
+   "en": "To suffer a defeat at the hands of\nscum like this?! I am worthless!",
+   "ru": "Потерпеть поражение от такого\nотребья?! Я ничтожество!"
+  },
+  {
+   "id": 39,
+   "en": "What a tragedy. What a waste.",
+   "ru": "Какая трагедия. Какая напрасная\nпотеря."
+  },
+  {
+   "id": 40,
+   "en": "None of this had to happen!",
+   "ru": "Ничего этого не должно было\nслучиться!"
+  },
+  {
+   "id": 41,
+   "en": "\n\n\n",
+   "ru": ""
+  }
+ ]
+}

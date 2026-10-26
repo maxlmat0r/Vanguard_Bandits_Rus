@@ -1,0 +1,56 @@
+{
+ "file": 649,
+ "kind": "story",
+ "lines": [
+  {
+   "id": 0,
+   "en": "It appears we're too late...",
+   "ru": "Похоже, мы опоздали..."
+  },
+  {
+   "id": 1,
+   "en": "No! I detect two ATACs in the center\nof the canyon!",
+   "ru": "Нет! Вижу два АТАКа в центре\nканьона!"
+  },
+  {
+   "id": 2,
+   "en": "If we hurry, we can save them!",
+   "ru": "Если поспешим, мы их спасём!"
+  },
+  {
+   "id": 3,
+   "en": "But they're surrounded by a mob\nof Imperials...what do you think,\nIone?",
+   "ru": "Но их окружила толпа имперцев...\nчто скажешь, Иона?"
+  },
+  {
+   "id": 4,
+   "en": "Well, inside such a narrow space,\nwe can easily cover each other's\nbacks...",
+   "ru": "Ну, в такой теснине мы легко\nприкроем друг другу спины..."
+  },
+  {
+   "id": 5,
+   "en": "But if that mob surrounds us as\nwell, our only escape route will\nbe cut off.",
+   "ru": "Но если толпа окружит и нас,\nединственный путь к\nотступлению будет отрезан."
+  },
+  {
+   "id": 6,
+   "en": "Stay close and move quickly, or\nwe'll watch those people die by\nthe Empire's hand.",
+   "ru": "Держитесь рядом и двигайтесь\nбыстро, иначе эти люди\nпогибнут от рук Империи."
+  },
+  {
+   "id": 7,
+   "en": "That's not going to happen, Ione.",
+   "ru": "Этого не случится, Иона."
+  },
+  {
+   "id": 8,
+   "en": "Time for you to watch and learn\nfrom the best of the Avalon Corps,\nBastion.",
+   "ru": "Смотри и учись у лучших бойцов\nКорпуса Авалона, Бастион."
+  },
+  {
+   "id": 9,
+   "en": "Hey! I'm not a student, Reyna.\nI'm a teacher!",
+   "ru": "Эй! Я не ученик, Рейна. Я\nучитель!"
+  }
+ ]
+}

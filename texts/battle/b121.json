@@ -1,0 +1,111 @@
+{
+ "file": 121,
+ "kind": "battle",
+ "lines": [
+  {
+   "id": 0,
+   "en": "Bastion:\nStop terrorizing these innocent\nvillagers, you filthy swine!",
+   "ru": "Бастион:\nХватит терзать этих мирных\nжителей, грязные свиньи!"
+  },
+  {
+   "id": 1,
+   "en": "Imperial Soldier 1:\nWarriors of the Junaris Empire stop\nfor no one!",
+   "ru": "Имперский солдат 1:\nВоины Империи Джунарис\nне отступают ни перед кем!"
+  },
+  {
+   "id": 2,
+   "en": "Imperial Soldier 2:\nSir, these appear to be the rogues we\nwere sent to find.",
+   "ru": "Имперский солдат 2:\nКомандир, похоже, это те самые\nбродяги, которых нам велели\nнайти."
+  },
+  {
+   "id": 3,
+   "en": "Imperial Soldier 1:\nAre you certain? I was expecting\nmercenaries, not peasants...",
+   "ru": "Имперский солдат 1:\nТы уверен? Я ожидал увидеть\nнаёмников, а не крестьян..."
+  },
+  {
+   "id": 4,
+   "en": "You may injure them, but do NOT\nkill them, or Faulkner will have\nall our heads!",
+   "ru": "Можете их ранить, но НЕ\nубивайте, иначе Фолкнер снимет\nнам всем головы!"
+  },
+  {
+   "id": 5,
+   "en": "Imperial Soldier:\nYou fight well for an old man...but I\nharbor no respect for my elders!",
+   "ru": "Имперский солдат:\nДля старика ты неплохо\nдерёшься... но к старшим я\nуважения не питаю!"
+  },
+  {
+   "id": 6,
+   "en": "Ione:\nIt's just like the old saying, Reyna.\nWhere there's smoke...",
+   "ru": "Иона:\nКак в старой поговорке, Рейна.\nНет дыма без..."
+  },
+  {
+   "id": 7,
+   "en": "Reyna:\nThere's the Imperial Army!!",
+   "ru": "Рейна:\nВот и имперская армия!!"
+  },
+  {
+   "id": 8,
+   "en": "Look over there, Father! Two more\nImperial ATACs!",
+   "ru": "Смотри, отец! Ещё два\nимперских АТАКа!"
+  },
+  {
+   "id": 9,
+   "en": "I would not be so quick as to assume\nthey are affiliated with the Empire...",
+   "ru": "Я бы не стал так спешить\nс выводом, что они служат\nИмперии..."
+  },
+  {
+   "id": 10,
+   "en": "Fear not, brave villagers! We shall\nsave your humble homes from these\nheartless bastards!",
+   "ru": "Не бойтесь, храбрые селяне! Мы\nспасём ваши скромные дома от\nэтих бессердечных мерзавцев!"
+  },
+  {
+   "id": 11,
+   "en": "Who are you?!\nDo you fight for the Empire?",
+   "ru": "Кто вы такие?!\nВы сражаетесь за Империю?"
+  },
+  {
+   "id": 12,
+   "en": "Who in the world are you? And what\nare you doing here?",
+   "ru": "Кто вы вообще такие? И что\nвы здесь делаете?"
+  },
+  {
+   "id": 13,
+   "en": "My name is Reyna, and I'm here to\nfight alongside you!",
+   "ru": "Меня зовут Рейна, и я пришла\nсражаться бок о бок с вами!"
+  },
+  {
+   "id": 14,
+   "en": "I'll answer any other questions you\nhave after I've slain these Imperial\nlackeys, alright?",
+   "ru": "На прочие вопросы отвечу, когда\nразделаюсь с этими имперскими\nшавками, ладно?"
+  },
+  {
+   "id": 15,
+   "en": "You mean when my father and I have\nslain them...",
+   "ru": "Ты хотела сказать - когда мы\nс отцом с ними разделаемся..."
+  },
+  {
+   "id": 16,
+   "en": "How are we to know that you're not\nmercenaries hired by the Empire?",
+   "ru": "Откуда нам знать, что вы не\nнаёмники на службе Империи?"
+  },
+  {
+   "id": 17,
+   "en": "Mercenaries?! We fight for the glory\nof the Avalon Principality, my friend,\nnot for filthy lucre!",
+   "ru": "Наёмники?! Мы бьёмся во славу\nКняжества Авалон, друг мой, а не\nради денег!"
+  },
+  {
+   "id": 18,
+   "en": "And do you really think the Empire\nwould approve the color of my ATAC?",
+   "ru": "И неужели ты думаешь, что\nИмперия одобрила бы цвет моего\nАТАКа?"
+  },
+  {
+   "id": 19,
+   "en": "Perhaps you'll believe us after we\nfinish these annoyances for you!",
+   "ru": "Может, вы поверите нам, когда\nмы избавим вас от этой\nназойливой мелочи!"
+  },
+  {
+   "id": 20,
+   "en": "Victory is ours, Father!",
+   "ru": "Победа за нами, отец!"
+  }
+ ]
+}

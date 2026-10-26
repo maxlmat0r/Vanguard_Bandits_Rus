@@ -1,0 +1,31 @@
+{
+ "file": 699,
+ "kind": "story",
+ "lines": [
+  {
+   "id": 0,
+   "en": "This IS a massive battle! How are\nthe Kingdom's forces holding up?",
+   "ru": "Это и правда огромная битва!\nКак держатся силы Королевства?"
+  },
+  {
+   "id": 1,
+   "en": "Bastion, this is a perfect situation!\nYour appearance is certain to rally\nthe Kingdom Army...",
+   "ru": "Бастион, это идеальный случай!\nТвоё появление наверняка\nвоодушевит армию Королевства..."
+  },
+  {
+   "id": 2,
+   "en": "...and when the battle has been won,\ntales of your heroism will spread\nacross the Continent!",
+   "ru": "...а когда битва будет выиграна,\nслава о твоём героизме\nразнесётся по всему Континенту!"
+  },
+  {
+   "id": 3,
+   "en": "Which will make it easier for me to\nunite the Continent after the Empire\nhas been quashed.",
+   "ru": "Это облегчит мне объединение\nКонтинента, когда Империя\nбудет повержена."
+  },
+  {
+   "id": 4,
+   "en": "Don't start planning too far ahead,\nBastion! We have to win this battle\nbefore we do anything else!",
+   "ru": "Не заглядывай так далеко,\nБастион! Сначала надо выиграть\nэту битву!"
+  }
+ ]
+}

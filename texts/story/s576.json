@@ -1,0 +1,341 @@
+{
+ "file": 576,
+ "kind": "story",
+ "lines": [
+  {
+   "id": 0,
+   "en": "Sadira, like, how is your brother?",
+   "ru": "Садира, типа, как твой брат?"
+  },
+  {
+   "id": 1,
+   "en": "Not good, Claire. Not good at all.",
+   "ru": "Плохо, Клэр. Совсем плохо."
+  },
+  {
+   "id": 2,
+   "en": "His breathing is somewhat shallow,\nand he hasn't regained consciousness.\nIn fact, he hasn't moved.",
+   "ru": "Дыхание слабое, и он не\nприходит в сознание. Даже не\nшевелится."
+  },
+  {
+   "id": 3,
+   "en": "I'm sorry.",
+   "ru": "Мне жаль."
+  },
+  {
+   "id": 4,
+   "en": "It's alright. We have to focus our\nattention on Faulkner, or we will\nall suffer Duyere's fate.",
+   "ru": "Ничего. Нужно думать о Фолкнере,\nиначе все разделим участь\nДюйера."
+  },
+  {
+   "id": 5,
+   "en": "You're right.",
+   "ru": "Ты права."
+  },
+  {
+   "id": 6,
+   "en": "Here's the situation.",
+   "ru": "Вот какое положение."
+  },
+  {
+   "id": 7,
+   "en": "After having a chat with Zakov,\nI was able to find out what Faulkner\nis planning.",
+   "ru": "Поболтав с Заковым, я узнал, что\nзадумал Фолкнер."
+  },
+  {
+   "id": 8,
+   "en": "He has one army marching through\nthe Kingdom, where it's set to\nattack Marquis Dionne.",
+   "ru": "Одна его армия идёт через\nКоролевство, чтобы напасть на\nмаркиза Дионна."
+  },
+  {
+   "id": 9,
+   "en": "But there's a second army heading\nfor Nordilain, and a third group\ngoing to Hibernia.",
+   "ru": "Вторая армия движется на\nНордилейн, а третья - на\nХибернию."
+  },
+  {
+   "id": 10,
+   "en": "Once those countries have been taken\nover, the armies are gonna surround\nAvalon, and that shall be the end.",
+   "ru": "Когда эти страны падут, армии\nокружат Авалон, и тогда всему\nконец."
+  },
+  {
+   "id": 11,
+   "en": "Each of these armies has more than\nenough Sharkings to wipe out any\nresistance, or so Zakov says.",
+   "ru": "По словам Закова, в каждой\nармии Шаркингов хватит, чтобы\nсмести любое сопротивление."
+  },
+  {
+   "id": 12,
+   "en": "Three armies of Sharkings! We've\nhad a hard enough time defeating\na single group of them!",
+   "ru": "Три армии Шаркингов! Мы и с\nодним отрядом еле справились!"
+  },
+  {
+   "id": 13,
+   "en": "This is, like, really bad. If we go to\nthe capital, Faulkner's armies will\ndestroy the Continent!",
+   "ru": "Это, типа, очень плохо. Если\nпойдём на столицу, армии\nФолкнера разорят Континент!"
+  },
+  {
+   "id": 14,
+   "en": "There's nothing we can do.",
+   "ru": "Мы ничего не можем сделать."
+  },
+  {
+   "id": 15,
+   "en": "Actually, Sadira, there IS something\nwe can do.",
+   "ru": "Вообще-то, Садира, кое-что мы\nМОЖЕМ."
+  },
+  {
+   "id": 16,
+   "en": "Let's hear it, Bastion.",
+   "ru": "Говори, Бастион."
+  },
+  {
+   "id": 17,
+   "en": "Sadira, Claire, Franco, and Halak\nwill return to Nordilain and join up\nwith Duke Logan.",
+   "ru": "Садира, Клэр, Франко и Халак\nвернутся в Нордилейн и\nсоединятся с герцогом Логаном."
+  },
+  {
+   "id": 18,
+   "en": "Duke Zeira will go to Hibernia and\nexplain the situation to Lord Alden.",
+   "ru": "Герцог Зейра отправится в\nХибернию и объяснит положение\nлорду Олдену."
+  },
+  {
+   "id": 19,
+   "en": "Nordilain and Hibernia will send\ntheir armies to attack the first two\narmies of Sharkings.",
+   "ru": "Нордилейн и Хиберния бросят\nвойска против первых двух\nармий Шаркингов."
+  },
+  {
+   "id": 20,
+   "en": "Zeira will keep his army in reserve,\nand attack the third Sharking group\nif they try to join the fight.",
+   "ru": "Армия Зейры в резерве ударит по\nтретьей группе Шаркингов, если\nте вмешаются."
+  },
+  {
+   "id": 21,
+   "en": "Commander Galvas and Marquis\nDionne will strike randomly, to keep\nthe Imperial forces off guard.",
+   "ru": "Гальвас и маркиз Дионн будут\nбить внезапно, не давая\nимперцам опомниться."
+  },
+  {
+   "id": 22,
+   "en": "I realize this isn't much of a plan,\nbut the alternative is to let Faulkner\nreduce the Continent to ashes.",
+   "ru": "Знаю, план так себе, но иначе\nФолкнер обратит Континент в\nпепел."
+  },
+  {
+   "id": 23,
+   "en": "Does anyone object to my proposal?",
+   "ru": "Кто-нибудь возражает?"
+  },
+  {
+   "id": 24,
+   "en": "It seems logical enough. \nUnfortunately, there really seem\nto be no sane alternatives...",
+   "ru": "Вполне логично. К сожалению,\nразумных альтернатив, похоже,\nнет..."
+  },
+  {
+   "id": 25,
+   "en": "I totally agree. I don't want to be put\non the defensive, but I don't want to\nlet my home be destroyed!",
+   "ru": "Реально согласна. Не хочу\nобороняться, но и не дам\nразрушить мой дом!"
+  },
+  {
+   "id": 26,
+   "en": "Bastion?",
+   "ru": "Бастион?"
+  },
+  {
+   "id": 27,
+   "en": "Yes, Sadira?",
+   "ru": "Да, Садира?"
+  },
+  {
+   "id": 28,
+   "en": "You mentioned what all of us will\ndo, but you never mentioned what\nYOU were going to do.",
+   "ru": "Ты сказал, что будем делать мы\nвсе, но не сказал, что будешь\nделать ТЫ."
+  },
+  {
+   "id": 29,
+   "en": "That's right, because I'm not going\nwith you.",
+   "ru": "Верно, потому что я с вами не\nиду."
+  },
+  {
+   "id": 30,
+   "en": "Where ARE you going, Bastion?",
+   "ru": "А КУДА ты идёшь, Бастион?"
+  },
+  {
+   "id": 31,
+   "en": "To the Imperial capital. To destroy\nZulwarn, and kill Faulkner.",
+   "ru": "В имперскую столицу.\nУничтожить Зулварн и убить\nФолкнера."
+  },
+  {
+   "id": 32,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 33,
+   "en": "Huh?!",
+   "ru": "А?!"
+  },
+  {
+   "id": 34,
+   "en": "Hmmm...",
+   "ru": "Хмм..."
+  },
+  {
+   "id": 35,
+   "en": "He's obviously sent the vast majority\nof his forces to invade the Continent.\nThe capital is thus unguarded.",
+   "ru": "Почти все силы он, очевидно,\nбросил на захват Континента.\nЗначит, столица не охраняется."
+  },
+  {
+   "id": 36,
+   "en": "Besides, Faulkner is too egotistical to\nbelieve that he needs guards at all.",
+   "ru": "К тому же Фолкнер слишком\nсамонадеян, чтобы считать, что\nему вообще нужна охрана."
+  },
+  {
+   "id": 37,
+   "en": "I'll march into the capital and show\nhim just how wrong he is.",
+   "ru": "Я войду в столицу и покажу ему,\nкак он ошибается."
+  },
+  {
+   "id": 38,
+   "en": "No, Bastion! What you're talking\nabout is a suicide mission, not a\nplan of attack!",
+   "ru": "Нет, Бастион! Это не план\nнаступления, а самоубийство!"
+  },
+  {
+   "id": 39,
+   "en": "Have you considered that this might\nbe a trap?!",
+   "ru": "Ты не думал, что это может\nбыть ловушка?!"
+  },
+  {
+   "id": 40,
+   "en": "Of course, Sadira. I'm sure he'll have\none or two traps waiting for me. But\nthey can't, and won't, stop me.",
+   "ru": "Конечно, думал, Садира. Уверен,\nпара ловушек меня ждёт. Но они\nменя не остановят."
+  },
+  {
+   "id": 41,
+   "en": "Why don't you wait until we have\ndefeated the Sharking armies?",
+   "ru": "Почему бы не подождать, пока\nмы не разобьём армии\nШаркингов?"
+  },
+  {
+   "id": 42,
+   "en": "No. If we do that, we lose the element\nof surprise. A simultaneous attack is\nthe best choice.",
+   "ru": "Нет. Тогда мы потеряем\nвнезапность. Одновременный\nудар - лучший выбор."
+  },
+  {
+   "id": 43,
+   "en": "If he heads for the front lines, I'll\nfollow and attack him from behind.\nDishonorable, but effective.",
+   "ru": "Если он двинется на фронт, я\nпойду следом и ударю с тыла.\nБесчестно, зато действенно."
+  },
+  {
+   "id": 44,
+   "en": "But what if he's able to hypnotize\nyou with the Zulwarn?!",
+   "ru": "А если он загипнотизирует тебя\nЗулварном?!"
+  },
+  {
+   "id": 45,
+   "en": "He can't, Sadira, not as long as I\nremain within the Ultragunner.",
+   "ru": "Не сможет, Садира, пока я в\nУльтраганнере."
+  },
+  {
+   "id": 46,
+   "en": "But--",
+   "ru": "Но--"
+  },
+  {
+   "id": 47,
+   "en": "Calm down, Sadira!",
+   "ru": "Успокойся, Садира!"
+  },
+  {
+   "id": 48,
+   "en": "Think it over. If we go with Bastion,\nwe'll just be hypnotized and forced\nto attack him, you know?",
+   "ru": "Подумай. Пойдём с Бастионом -\nнас загипнотизируют и бросят\nпротив него!"
+  },
+  {
+   "id": 49,
+   "en": "But--",
+   "ru": "Но--"
+  },
+  {
+   "id": 50,
+   "en": "Like, no buts, Sadira! Bastion's plan\nis the only one that makes sense.",
+   "ru": "Типа, никаких \"но\", Садира! План\nБастиона - единственный\nразумный."
+  },
+  {
+   "id": 51,
+   "en": "(Not to me, it doesn't...)",
+   "ru": "(Только не для меня...)"
+  },
+  {
+   "id": 52,
+   "en": "Duke Zeira? Do YOU think it's a bad\nidea for me to attack the capital?",
+   "ru": "Герцог Зейра? ВЫ считаете, что\nнапасть на столицу - плохая\nмысль?"
+  },
+  {
+   "id": 53,
+   "en": "If anyone has a chance for success,\nit's you, Bastion. ",
+   "ru": "Если у кого и есть шанс на успех,\nтак это у тебя, Бастион."
+  },
+  {
+   "id": 54,
+   "en": "We defend the Continent, and you\nkill Faulkner. If it works, it will\nbe the ending we've all worked for!",
+   "ru": "Мы защищаем Континент, ты\nубиваешь Фолкнера. Сработает -\nи это будет победа!"
+  },
+  {
+   "id": 55,
+   "en": "Thank you, Zeira.",
+   "ru": "Спасибо, Зейра."
+  },
+  {
+   "id": 56,
+   "en": "You're certainly welcome.",
+   "ru": "Пожалуйста."
+  },
+  {
+   "id": 57,
+   "en": "I'd better leave now, before we lose\nany more time.",
+   "ru": "Мне пора, пока мы не потеряли\nещё больше времени."
+  },
+  {
+   "id": 58,
+   "en": "Bastion!",
+   "ru": "Бастион!"
+  },
+  {
+   "id": 59,
+   "en": "What's the matter, Sadira?",
+   "ru": "Что случилось, Садира?"
+  },
+  {
+   "id": 60,
+   "en": "I don't know why I'm thinking this,\nor saying this, but...",
+   "ru": "Не знаю, почему я так думаю и\nпочему говорю это, но..."
+  },
+  {
+   "id": 61,
+   "en": "What is it?",
+   "ru": "Что такое?"
+  },
+  {
+   "id": 62,
+   "en": "I have this horrible feeling that I'm\nnever going to see you again.",
+   "ru": "У меня ужасное чувство, что я\nбольше никогда тебя не увижу."
+  },
+  {
+   "id": 63,
+   "en": "I couldn't bear that, Bastion.",
+   "ru": "Я этого не вынесу, Бастион."
+  },
+  {
+   "id": 64,
+   "en": "You worry too much, Sadira.",
+   "ru": "Ты слишком волнуешься, Садира."
+  },
+  {
+   "id": 65,
+   "en": "I'll see you again soon. I promise.",
+   "ru": "Скоро увидимся. Обещаю."
+  },
+  {
+   "id": 66,
+   "en": "Oh, Bastion...",
+   "ru": "Ох, Бастион..."
+  }
+ ]
+}

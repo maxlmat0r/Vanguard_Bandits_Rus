@@ -1,0 +1,326 @@
+{
+ "file": 143,
+ "kind": "battle",
+ "lines": [
+  {
+   "id": 0,
+   "en": "Warm greetings, my foolish foes.",
+   "ru": "Тёплый привет, мои глупые\nвраги."
+  },
+  {
+   "id": 1,
+   "en": "Faulkner!",
+   "ru": "Фолкнер!"
+  },
+  {
+   "id": 2,
+   "en": "What have you done with Franco and\nHalak, you scum?!",
+   "ru": "Что ты сделал с Франко и Халак,\nмерзавец?!"
+  },
+  {
+   "id": 3,
+   "en": "Princess Sadira.",
+   "ru": "Принцесса Садира."
+  },
+  {
+   "id": 4,
+   "en": "I am glad to see that you have finally\nrevealed who holds your loyalty, even\nif it happens to be this...boy.",
+   "ru": "Рад видеть, что вы наконец\nпоказали, кому верны, пусть это\nвсего лишь... мальчишка."
+  },
+  {
+   "id": 5,
+   "en": "Loyalty?! I'm amazed you know the\nmeaning of the word, you fiend!",
+   "ru": "Верны?! Поражаюсь, что ты\nзнаешь значение этого слова,\nизверг!"
+  },
+  {
+   "id": 6,
+   "en": "Now tell me what happened to my\nfriends, and tell me NOW!",
+   "ru": "Говори, что случилось с моими\nдрузьями, говори СЕЙЧАС ЖЕ!"
+  },
+  {
+   "id": 7,
+   "en": "It's so touching to see your concern,\nSadira. If I had a heart, I'm sure it\nwould be warmed.",
+   "ru": "Как трогательна ваша забота,\nСадира. Будь у меня сердце, оно\nбы, уверен, растаяло."
+  },
+  {
+   "id": 8,
+   "en": "I have an idea. Why don't you ASK\nyour friends how they're feeling?",
+   "ru": "У меня идея. Почему бы вам не\nСПРОСИТЬ друзей, как они себя\nчувствуют?"
+  },
+  {
+   "id": 9,
+   "en": "Franco! Halak! We have company!\nDon't be shy--say hello!",
+   "ru": "Франко! Халак! У нас гости! Не\nстесняйтесь - поздоровайтесь!"
+  },
+  {
+   "id": 10,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 11,
+   "en": "I don't understand!",
+   "ru": "Не понимаю!"
+  },
+  {
+   "id": 12,
+   "en": "I've got a bad feeling about this.",
+   "ru": "У меня дурное предчувствие."
+  },
+  {
+   "id": 13,
+   "en": "The Crimson ATAC? Duke Logan?!",
+   "ru": "Кримсон? Герцог Логан?!"
+  },
+  {
+   "id": 14,
+   "en": "Franco! Halak! You're alright!",
+   "ru": "Франко! Халак! Вы целы!"
+  },
+  {
+   "id": 15,
+   "en": "...   ...   ...",
+   "ru": ""
+  },
+  {
+   "id": 16,
+   "en": "...   ...   ...",
+   "ru": ""
+  },
+  {
+   "id": 17,
+   "en": "Logan, you swore on your pride as a\nwarrior that you would never fight\nfor the Empire again!",
+   "ru": "Логан, вы клялись гордостью\nвоина, что больше никогда не\nбудете сражаться за Империю!"
+  },
+  {
+   "id": 18,
+   "en": "...   ...   ...",
+   "ru": ""
+  },
+  {
+   "id": 19,
+   "en": "Listen to me, Franco! Faulkner has\nsacrificed the people of the Imperial\ncapital! The man is insane! He--",
+   "ru": "Послушай, Франко! Фолкнер\nпринёс в жертву жителей\nстолицы! Он безумен! Он--"
+  },
+  {
+   "id": 20,
+   "en": "Save your breath, Sadira. Something\nis very, very wrong here!",
+   "ru": "Не трать слов, Садира. Здесь\nчто-то очень, очень не так!"
+  },
+  {
+   "id": 21,
+   "en": "Ha, ha, ha! From my vantage point,\nit is very, very right!",
+   "ru": "Ха-ха-ха! С моей точки зрения,\nвсё очень, очень так!"
+  },
+  {
+   "id": 22,
+   "en": "All these dear people are under the\ncontrol of the Zulwarn. They are my\npuppets to control.",
+   "ru": "Все эти милые люди под властью\nЗулварна. Они мои марионетки."
+  },
+  {
+   "id": 23,
+   "en": "And how I shall make them dance!",
+   "ru": "И как же я заставлю их плясать!"
+  },
+  {
+   "id": 24,
+   "en": "Unbelievable!",
+   "ru": "Невероятно!"
+  },
+  {
+   "id": 25,
+   "en": "Don't worry, Sadira! I'm confident\nthat we will break the spell when we\ndestroy the Zulwarn!",
+   "ru": "Не волнуйся, Садира! Уверен, мы\nразрушим чары, когда\nуничтожим Зулварн!"
+  },
+  {
+   "id": 26,
+   "en": "Confidence is one of your most\nendearing traits, Bastion, and one of\nyour greatest flaws.",
+   "ru": "Уверенность - самая милая твоя\nчерта, Бастион, и самый большой\nнедостаток."
+  },
+  {
+   "id": 27,
+   "en": "The Zulwarn cannot be destroyed,\nand I cannot be stopped!!",
+   "ru": "Зулварн не уничтожить, а меня\nне остановить!!"
+  },
+  {
+   "id": 28,
+   "en": "Not again--!",
+   "ru": "Только не снова--!"
+  },
+  {
+   "id": 29,
+   "en": "Damn it!",
+   "ru": "Проклятье!"
+  },
+  {
+   "id": 30,
+   "en": "Your evil magic...won't...affect me,\nFaulkner! I'm too strong...for you!",
+   "ru": "Твоя злая магия... на меня... не\nподействует, Фолкнер! Я... сильнее\nтебя!"
+  },
+  {
+   "id": 31,
+   "en": "I will protect my friends...and this\nworld...from your darkness!",
+   "ru": "Я защищу друзей... и этот мир...\nот твоей тьмы!"
+  },
+  {
+   "id": 32,
+   "en": "AAHHHH!!!",
+   "ru": "А-А-А-А!!!"
+  },
+  {
+   "id": 33,
+   "en": "Hmmm? The boy was able to repel\nthe Zulwarn's spell? Impressive.",
+   "ru": "Хм? Мальчишка отразил чары\nЗулварна? Впечатляет."
+  },
+  {
+   "id": 34,
+   "en": "It seems that you heeded my advice\nafter all, Prince Bastion, and it's a\nwise man who listens to me.",
+   "ru": "Похоже, вы всё-таки вняли моему\nсовету, принц Бастион, а мудр\nтот, кто меня слушает."
+  },
+  {
+   "id": 35,
+   "en": "It pleases me greatly to know that\nyou will not be easily defeated.",
+   "ru": "Очень рад, что вас будет\nнепросто победить."
+  },
+  {
+   "id": 36,
+   "en": "But you WILL be defeated, Bastion,\nand I WILL rule the Continent. It is\nmy destiny!",
+   "ru": "Но вы БУДЕТЕ побеждены,\nБастион, и я БУДУ править\nКонтинентом. Это моя судьба!"
+  },
+  {
+   "id": 37,
+   "en": "Your destiny is to die, Faulkner!",
+   "ru": "Твоя судьба - умереть, Фолкнер!"
+  },
+  {
+   "id": 38,
+   "en": "Open your heart, Franco! You must\nremember me!",
+   "ru": "Открой своё сердце, Франко! Ты\nдолжен меня помнить!"
+  },
+  {
+   "id": 39,
+   "en": "...   ...   ...",
+   "ru": ""
+  },
+  {
+   "id": 40,
+   "en": "Franco...",
+   "ru": "Франко..."
+  },
+  {
+   "id": 41,
+   "en": "Halak, please answer me!",
+   "ru": "Халак, прошу, ответь мне!"
+  },
+  {
+   "id": 42,
+   "en": "...   ...   ...",
+   "ru": ""
+  },
+  {
+   "id": 43,
+   "en": "This is horrible!",
+   "ru": "Это ужасно!"
+  },
+  {
+   "id": 44,
+   "en": "Duyere! We may have a rivalry,\nbut I know you would never fight me\nbecause of it! What's wrong?!",
+   "ru": "Дюйер! Мы соперники, но я знаю,\nты бы не стал из-за этого со\nмной сражаться! Что с тобой?!"
+  },
+  {
+   "id": 45,
+   "en": "...   ...   ...",
+   "ru": ""
+  },
+  {
+   "id": 46,
+   "en": "My brother is lost to me!",
+   "ru": "Я потеряла брата!"
+  },
+  {
+   "id": 47,
+   "en": "Duke Logan! We have no reason to\ncross swords! You swore that you\nwould stay out of this!",
+   "ru": "Герцог Логан! Нам незачем\nскрещивать мечи! Вы клялись не\nвмешиваться!"
+  },
+  {
+   "id": 48,
+   "en": "...   ...   ...",
+   "ru": ""
+  },
+  {
+   "id": 49,
+   "en": "He doesn't even recognize me!\nFaulkner has warped his mind!",
+   "ru": "Он меня даже не узнаёт! Фолкнер\nисказил его разум!"
+  },
+  {
+   "id": 50,
+   "en": "Give me a good fight, Bastion! I want\nyou to struggle as I send you to your\ngrave, to join your father!",
+   "ru": "Сражайся достойно, Бастион!\nХочу видеть, как ты бьёшься,\nпока я шлю тебя в могилу к отцу!"
+  },
+  {
+   "id": 51,
+   "en": "You shall be the one to die this day,\nFaulkner, unless you wisely decide\nto surrender!",
+   "ru": "Это ты сегодня умрёшь, Фолкнер,\nесли не догадаешься сдаться!"
+  },
+  {
+   "id": 52,
+   "en": "You fight without honor, so you have\nnone to lose by giving up!",
+   "ru": "Ты сражаешься без чести, так\nчто, сдавшись, ничего не\nпотеряешь!"
+  },
+  {
+   "id": 53,
+   "en": "Go...to...HELL!!",
+   "ru": "Иди... ты... к ЧЁРТУ!!"
+  },
+  {
+   "id": 54,
+   "en": "Faulkner, perhaps you could still\nredeem your lost soul! You could try\nto make amends for your crimes!",
+   "ru": "Фолкнер, твою душу ещё можно\nспасти! Ты мог бы искупить свои\nпреступления!"
+  },
+  {
+   "id": 55,
+   "en": "I have nothing to apologize for, boy.\nI pursued my destiny, and was sadly\nunable to fulfill it. I have failed...",
+   "ru": "Мне не за что извиняться,\nмальчик. Я шёл за своей судьбой,\nно не смог её исполнить..."
+  },
+  {
+   "id": 56,
+   "en": "And I deserve to die. Such is the price\nto be paid. Such is my ignoble fate.",
+   "ru": "И я заслуживаю смерти. Такова\nцена. Такова моя бесславная\nучасть."
+  },
+  {
+   "id": 57,
+   "en": "Faulkner...",
+   "ru": "Фолкнер..."
+  },
+  {
+   "id": 58,
+   "en": "Congratulations on your victory.\nYou will always be remembered,\nand I will soon be forgotten.",
+   "ru": "Поздравляю с победой. Тебя\nбудут помнить всегда, а меня\nскоро забудут."
+  },
+  {
+   "id": 59,
+   "en": "...   ...   ...",
+   "ru": ""
+  },
+  {
+   "id": 60,
+   "en": "You're wrong, Faulkner. I will never\nforget the unspeakable evil you tried\nto inflict upon this world.",
+   "ru": "Ты ошибаешься, Фолкнер. Я\nникогда не забуду зло, что ты\nпытался обрушить на мир."
+  },
+  {
+   "id": 61,
+   "en": "I will never forget the lives you stole\nin your maniacal quest for power.",
+   "ru": "Я никогда не забуду жизни, что\nты украл в своей маниакальной\nпогоне за властью."
+  },
+  {
+   "id": 62,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 63,
+   "en": "\n\n\n",
+   "ru": ""
+  }
+ ]
+}

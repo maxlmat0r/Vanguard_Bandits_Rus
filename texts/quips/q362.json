@@ -1,0 +1,346 @@
+{
+ "file": 362,
+ "kind": "quip",
+ "lines": [
+  {
+   "id": 0,
+   "en": "From the left?",
+   "ru": "Слева?"
+  },
+  {
+   "id": 1,
+   "en": "Interesting!",
+   "ru": "Любопытно!"
+  },
+  {
+   "id": 2,
+   "en": "From the right?",
+   "ru": "Справа?"
+  },
+  {
+   "id": 3,
+   "en": "Fascinating!",
+   "ru": "Занятно!"
+  },
+  {
+   "id": 4,
+   "en": "Hmmm? Did someone\njust strike me?",
+   "ru": "Хм? Меня кто-то\nударил?"
+  },
+  {
+   "id": 5,
+   "en": "That tickles!",
+   "ru": "Щекотно!"
+  },
+  {
+   "id": 6,
+   "en": "Come on! Put more\npower into it!",
+   "ru": "Давай! Вложи\nпобольше силы!"
+  },
+  {
+   "id": 7,
+   "en": "What's wrong?",
+   "ru": "Что такое?"
+  },
+  {
+   "id": 8,
+   "en": "Hmmm. Not bad.",
+   "ru": "Хм. Неплохо."
+  },
+  {
+   "id": 9,
+   "en": "This is starting to be\na good fight!",
+   "ru": "А бой-то становится\nхорошим!"
+  },
+  {
+   "id": 10,
+   "en": "That's an impressive\ntactic!",
+   "ru": "Впечатляющая\nтактика!"
+  },
+  {
+   "id": 11,
+   "en": "That was an excellent\nattack!",
+   "ru": "Отличная атака!"
+  },
+  {
+   "id": 12,
+   "en": "Rrraaahhh!",
+   "ru": "Р-р-ра-а!"
+  },
+  {
+   "id": 13,
+   "en": "What have you done\nto me?!",
+   "ru": "Что ты со мной\nсделал?!"
+  },
+  {
+   "id": 14,
+   "en": "That attack was\nmagnificent!",
+   "ru": "Великолепная атака!"
+  },
+  {
+   "id": 15,
+   "en": "I've never been\nwounded so badly!",
+   "ru": "Меня ещё так не\nранили!"
+  },
+  {
+   "id": 16,
+   "en": "AHHHHH!!",
+   "ru": "А-А-А-А!!"
+  },
+  {
+   "id": 17,
+   "en": "I'm defeated?! I don't\nbelieve it!",
+   "ru": "Я побеждён?! Не\nверю!"
+  },
+  {
+   "id": 18,
+   "en": "It was a good fight!",
+   "ru": "Это был славный\nбой!"
+  },
+  {
+   "id": 19,
+   "en": "I will remember\nyour name, warrior!",
+   "ru": "Я запомню твоё имя,\nвоин!"
+  },
+  {
+   "id": 20,
+   "en": "Tricky!",
+   "ru": "Хитро!"
+  },
+  {
+   "id": 21,
+   "en": "From behind?",
+   "ru": "Сзади?"
+  },
+  {
+   "id": 22,
+   "en": "That was laughable!",
+   "ru": "Смехотворно!"
+  },
+  {
+   "id": 23,
+   "en": "Why don't I just kill\nyou now?",
+   "ru": "А не убить ли тебя\nпрямо сейчас?"
+  },
+  {
+   "id": 24,
+   "en": "Did you feel a gust of\nwind? I did!",
+   "ru": "Ты почуял ветерок?\nЯ вот почуял!"
+  },
+  {
+   "id": 25,
+   "en": "Ha, ha, ha!",
+   "ru": "Ха-ха-ха!"
+  },
+  {
+   "id": 26,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 27,
+   "en": "Whoa!",
+   "ru": "Ого!"
+  },
+  {
+   "id": 28,
+   "en": "Impressive!",
+   "ru": "Впечатляет!"
+  },
+  {
+   "id": 29,
+   "en": "I'm getting slow in\nmy old age!",
+   "ru": "Старею, медленный\nстал!"
+  },
+  {
+   "id": 30,
+   "en": "Is that your best?",
+   "ru": "Это лучшее, что ты\nможешь?"
+  },
+  {
+   "id": 31,
+   "en": "Grrrr!!",
+   "ru": "Р-р-р!!"
+  },
+  {
+   "id": 32,
+   "en": "Let's not get carried\naway, warrior!",
+   "ru": "Не увлекайся, воин!"
+  },
+  {
+   "id": 33,
+   "en": "Hmmph!",
+   "ru": "Хм!"
+  },
+  {
+   "id": 34,
+   "en": "Too easy!",
+   "ru": "Слишком просто!"
+  },
+  {
+   "id": 35,
+   "en": "Too slow!",
+   "ru": "Слишком медленно!"
+  },
+  {
+   "id": 36,
+   "en": "Haaah!!",
+   "ru": "Ха-а!!"
+  },
+  {
+   "id": 37,
+   "en": "I am stronger than\nyou! Indeed I am!!",
+   "ru": "Я сильнее тебя!\nИменно так!!"
+  },
+  {
+   "id": 38,
+   "en": "You won't hit me\nthat way, warrior!",
+   "ru": "Так меня не достать,\nвоин!"
+  },
+  {
+   "id": 39,
+   "en": "What?!?",
+   "ru": "Что?!?"
+  },
+  {
+   "id": 40,
+   "en": "You needed much more\nexperience!",
+   "ru": "Опыта тебе не\nхватило!"
+  },
+  {
+   "id": 41,
+   "en": "Don't be ashamed!\nIt was a good fight!",
+   "ru": "Не стыдись! Это был\nславный бой!"
+  },
+  {
+   "id": 42,
+   "en": "Who is the next to\nchallenge me?",
+   "ru": "Кто следующий\nбросит мне вызов?"
+  },
+  {
+   "id": 43,
+   "en": "You were strong, but\nI was stronger!",
+   "ru": "Ты был силён, но я\nсильнее!"
+  },
+  {
+   "id": 44,
+   "en": "Hmmph!",
+   "ru": "Хм!"
+  },
+  {
+   "id": 45,
+   "en": "Rraaahhh!",
+   "ru": "Р-ра-а-а!"
+  },
+  {
+   "id": 46,
+   "en": "Grrrrr!",
+   "ru": "Р-р-р!"
+  },
+  {
+   "id": 47,
+   "en": "Arrgghh!",
+   "ru": "Аргх!"
+  },
+  {
+   "id": 48,
+   "en": "I guarantee you felt\nthat blow!",
+   "ru": "Уж этот удар ты\nпочувствовал!"
+  },
+  {
+   "id": 49,
+   "en": "I will end this fight\nvery soon!",
+   "ru": "Скоро я закончу этот\nбой!"
+  },
+  {
+   "id": 50,
+   "en": "Can you take this?!",
+   "ru": "Выдержишь такое?!"
+  },
+  {
+   "id": 51,
+   "en": "Try my sword on! It's\njust your size!",
+   "ru": "Примерь мой меч!\nКак раз по тебе!"
+  },
+  {
+   "id": 52,
+   "en": "This is the sword of\nthe Crimson!",
+   "ru": "Вот меч Багрового!"
+  },
+  {
+   "id": 53,
+   "en": "You're becoming a\npain in my rear!",
+   "ru": "Ты меня уже достал!"
+  },
+  {
+   "id": 54,
+   "en": "Feel the fangs of the\nCrimson!",
+   "ru": "Отведай клыков\nБагрового!"
+  },
+  {
+   "id": 55,
+   "en": "What?! No!",
+   "ru": "Что?! Нет!"
+  },
+  {
+   "id": 56,
+   "en": "Raging flame!\nSevering blade!",
+   "ru": "Яростное пламя!\nРазящий клинок!"
+  },
+  {
+   "id": 57,
+   "en": "Out of my way!",
+   "ru": "С дороги!"
+  },
+  {
+   "id": 58,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 59,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 60,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 61,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 62,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 63,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 64,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 65,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 66,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 67,
+   "en": "",
+   "ru": ""
+  }
+ ]
+}

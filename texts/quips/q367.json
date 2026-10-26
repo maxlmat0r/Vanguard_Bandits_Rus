@@ -1,0 +1,346 @@
+{
+ "file": 367,
+ "kind": "quip",
+ "lines": [
+  {
+   "id": 0,
+   "en": "Left!",
+   "ru": "Слева!"
+  },
+  {
+   "id": 1,
+   "en": "There!",
+   "ru": "Вот!"
+  },
+  {
+   "id": 2,
+   "en": "Right!",
+   "ru": "Справа!"
+  },
+  {
+   "id": 3,
+   "en": "There!!",
+   "ru": "Вот!!"
+  },
+  {
+   "id": 4,
+   "en": "Feeble.",
+   "ru": "Слабо."
+  },
+  {
+   "id": 5,
+   "en": "Just a scratch.",
+   "ru": "Всего лишь\nцарапина."
+  },
+  {
+   "id": 6,
+   "en": "You dishonor both of\nus on this day.",
+   "ru": "Ты позоришь\nсегодня нас обоих."
+  },
+  {
+   "id": 7,
+   "en": "That was a poor\nchoice of attack.",
+   "ru": "Неудачный выбор\nатаки."
+  },
+  {
+   "id": 8,
+   "en": "Aargh!",
+   "ru": "Аргх!"
+  },
+  {
+   "id": 9,
+   "en": "Your body is strong--\nyour mind is weak!",
+   "ru": "Тело твоё крепко, а\nдух слаб!"
+  },
+  {
+   "id": 10,
+   "en": "You possess a great\ndeal of power.",
+   "ru": "В тебе немалая сила."
+  },
+  {
+   "id": 11,
+   "en": "You're more skilled\nthan I thought!",
+   "ru": "Ты искуснее, чем я\nдумал!"
+  },
+  {
+   "id": 12,
+   "en": "Such potent strength\nyou wield.",
+   "ru": "Какая мощь в твоих\nруках."
+  },
+  {
+   "id": 13,
+   "en": "AAARRGGHH!",
+   "ru": "А-А-А-РГХ!"
+  },
+  {
+   "id": 14,
+   "en": "I will not lose to you!",
+   "ru": "Я тебе не проиграю!"
+  },
+  {
+   "id": 15,
+   "en": "You have caused me\ngreat pain!",
+   "ru": "Ты причинил мне\nсильную боль!"
+  },
+  {
+   "id": 16,
+   "en": "It is over.",
+   "ru": "Всё кончено."
+  },
+  {
+   "id": 17,
+   "en": "I fought poorly, and\nwithout honor.",
+   "ru": "Я бился плохо и\nбесчестно."
+  },
+  {
+   "id": 18,
+   "en": "Aaahhhhhhhh!!",
+   "ru": "А-а-а-а-а!!"
+  },
+  {
+   "id": 19,
+   "en": "I have become weak\nand decrepit with age.",
+   "ru": "С годами я стал слаб\nи дряхл."
+  },
+  {
+   "id": 20,
+   "en": "What? From behind?!",
+   "ru": "Что? Сзади?!"
+  },
+  {
+   "id": 21,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 22,
+   "en": "You are not ready to\nfight me.",
+   "ru": "Ты не готов со мной\nсражаться."
+  },
+  {
+   "id": 23,
+   "en": "Your moves are much\ntoo predictable.",
+   "ru": "Ты слишком\nпредсказуем."
+  },
+  {
+   "id": 24,
+   "en": "You won't hit me\nthat way, fool!",
+   "ru": "Так меня не достать,\nглупец!"
+  },
+  {
+   "id": 25,
+   "en": "I saw that before you\ndid it.",
+   "ru": "Я это видел ещё до\nудара."
+  },
+  {
+   "id": 26,
+   "en": "No!",
+   "ru": "Нет!"
+  },
+  {
+   "id": 27,
+   "en": "I am impressed with\nyour speed!",
+   "ru": "Твоя скорость\nвпечатляет!"
+  },
+  {
+   "id": 28,
+   "en": "Not bad for an\nunkempt enemy!",
+   "ru": "Неплохо для такого\nнеряхи!"
+  },
+  {
+   "id": 29,
+   "en": "Aaaugh!!",
+   "ru": "А-а-ах!!"
+  },
+  {
+   "id": 30,
+   "en": "Hai!!",
+   "ru": "Хай!!"
+  },
+  {
+   "id": 31,
+   "en": "Your technique is\nlacking.",
+   "ru": "Техники тебе\nнедостаёт."
+  },
+  {
+   "id": 32,
+   "en": "I can withstand all\nof your attacks.",
+   "ru": "Я выдержу все твои\nудары."
+  },
+  {
+   "id": 33,
+   "en": "Do you really think\nyou can win?!",
+   "ru": "Думаешь, сможешь\nпобедить?!"
+  },
+  {
+   "id": 34,
+   "en": "There you are!",
+   "ru": "Вот ты где!"
+  },
+  {
+   "id": 35,
+   "en": "Quite simple.",
+   "ru": "Проще простого."
+  },
+  {
+   "id": 36,
+   "en": "Raaahhh!",
+   "ru": "Р-ра-а-а!"
+  },
+  {
+   "id": 37,
+   "en": "You impress me\nwith your skill.",
+   "ru": "Твоё мастерство\nвпечатляет."
+  },
+  {
+   "id": 38,
+   "en": "Fool!",
+   "ru": "Глупец!"
+  },
+  {
+   "id": 39,
+   "en": "That won't happen\nagain!",
+   "ru": "Больше такого не\nповторится!"
+  },
+  {
+   "id": 40,
+   "en": "You should have\ntrained harder.",
+   "ru": "Надо было больше\nтренироваться."
+  },
+  {
+   "id": 41,
+   "en": "I'm afraid I never\nlearned how to lose.",
+   "ru": "Боюсь, проигрывать\nя так и не научился."
+  },
+  {
+   "id": 42,
+   "en": "You lost without\nhonor!",
+   "ru": "Ты проиграл без\nчести!"
+  },
+  {
+   "id": 43,
+   "en": "A new age is upon us.",
+   "ru": "Грядёт новая эпоха."
+  },
+  {
+   "id": 44,
+   "en": "Hmmph!!",
+   "ru": "Хм!!"
+  },
+  {
+   "id": 45,
+   "en": "Grrrr!!",
+   "ru": "Р-р-р!!"
+  },
+  {
+   "id": 46,
+   "en": "Hmmph.",
+   "ru": "Хм."
+  },
+  {
+   "id": 47,
+   "en": "Prove yourself\nworthy of battle!",
+   "ru": "Докажи, что достоин\nбоя!"
+  },
+  {
+   "id": 48,
+   "en": "You won't fulfill\nyour evil desires!",
+   "ru": "Злу твоему не\nбывать!"
+  },
+  {
+   "id": 49,
+   "en": "Haaaaaahh!!",
+   "ru": "Ха-а-а-а!!"
+  },
+  {
+   "id": 50,
+   "en": "No mercy for the\nweak!",
+   "ru": "Слабым пощады нет!"
+  },
+  {
+   "id": 51,
+   "en": "I have you now!",
+   "ru": "Попался!"
+  },
+  {
+   "id": 52,
+   "en": "Come my way and I'll\ncleave you in two!",
+   "ru": "Сунься — разрублю\nнадвое!"
+  },
+  {
+   "id": 53,
+   "en": "How about--this!",
+   "ru": "А как насчёт... этого!"
+  },
+  {
+   "id": 54,
+   "en": "Prepare yourself for\ndeath, Faulkner!",
+   "ru": "Готовься к смерти,\nФолкнер!"
+  },
+  {
+   "id": 55,
+   "en": "A futile effort!",
+   "ru": "Тщетные усилия!"
+  },
+  {
+   "id": 56,
+   "en": "HAAAAH!!",
+   "ru": "ХА-А-А-А!!"
+  },
+  {
+   "id": 57,
+   "en": "Damn you!",
+   "ru": "Чтоб тебя!"
+  },
+  {
+   "id": 58,
+   "en": "Your life has come to\nan end, Faulkner!",
+   "ru": "Твоей жизни пришёл\nконец, Фолкнер!"
+  },
+  {
+   "id": 59,
+   "en": "Die!!",
+   "ru": "Умри!!"
+  },
+  {
+   "id": 60,
+   "en": "OOOOOF!!",
+   "ru": "У-У-УХ!!"
+  },
+  {
+   "id": 61,
+   "en": "I shall destroy your\nevil soul!",
+   "ru": "Я уничтожу твою\nзлую душу!"
+  },
+  {
+   "id": 62,
+   "en": "And I will savor your\npainful death!",
+   "ru": "И полюбуюсь твоей\nгибелью!"
+  },
+  {
+   "id": 63,
+   "en": "Bastion!!",
+   "ru": "Бастион!!"
+  },
+  {
+   "id": 64,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 65,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 66,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 67,
+   "en": "",
+   "ru": ""
+  }
+ ]
+}

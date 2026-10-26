@@ -1,0 +1,346 @@
+{
+ "file": 382,
+ "kind": "quip",
+ "lines": [
+  {
+   "id": 0,
+   "en": "From the left?",
+   "ru": "Слева?"
+  },
+  {
+   "id": 1,
+   "en": "There!",
+   "ru": "Вот!"
+  },
+  {
+   "id": 2,
+   "en": "From the right?",
+   "ru": "Справа?"
+  },
+  {
+   "id": 3,
+   "en": "There!!",
+   "ru": "Вот!!"
+  },
+  {
+   "id": 4,
+   "en": "Attacks like that\nwill not harm me.",
+   "ru": "Такие удары мне не\nстрашны."
+  },
+  {
+   "id": 5,
+   "en": "Do you expect me to\nfear such futility?!",
+   "ru": "Думаешь, я\nиспугаюсь этого?!"
+  },
+  {
+   "id": 6,
+   "en": "That was weak.\nI am strong!",
+   "ru": "Слабо. А я силён!"
+  },
+  {
+   "id": 7,
+   "en": "I shall give you the\nthrashing you crave!",
+   "ru": "Хочешь трёпки?\nПолучишь!"
+  },
+  {
+   "id": 8,
+   "en": "You haven't caused\nme harm, fool!",
+   "ru": "Ты меня не ранил,\nглупец!"
+  },
+  {
+   "id": 9,
+   "en": "Kyaaah!",
+   "ru": "Кья-а!"
+  },
+  {
+   "id": 10,
+   "en": "You are a most\ncapable opponent!",
+   "ru": "Достойный\nпротивник!"
+  },
+  {
+   "id": 11,
+   "en": "Unnngh!",
+   "ru": "Н-н-нгх!"
+  },
+  {
+   "id": 12,
+   "en": "Waaugh!",
+   "ru": "Ва-а-ах!"
+  },
+  {
+   "id": 13,
+   "en": "I still have the will\nto defeat you!",
+   "ru": "У меня ещё есть воля\nк победе!"
+  },
+  {
+   "id": 14,
+   "en": "You possess such\nremarkable power!",
+   "ru": "Какая удивительная\nсила!"
+  },
+  {
+   "id": 15,
+   "en": "Damn you!",
+   "ru": "Чтоб тебя!"
+  },
+  {
+   "id": 16,
+   "en": "NOOOO!!",
+   "ru": "НЕ-Е-ЕТ!!"
+  },
+  {
+   "id": 17,
+   "en": "This is a tragic day.",
+   "ru": "Трагический день."
+  },
+  {
+   "id": 18,
+   "en": "Forgive me for this\nfailure, Lord Alden!",
+   "ru": "Простите мой\nпровал, лорд Олден!"
+  },
+  {
+   "id": 19,
+   "en": "I have reached the\nlimits of my ability.",
+   "ru": "Я достиг предела\nсвоих сил."
+  },
+  {
+   "id": 20,
+   "en": "From behind?!",
+   "ru": "Сзади?!"
+  },
+  {
+   "id": 21,
+   "en": "I knew you would\nfight like a coward!",
+   "ru": "Знал, что\nбудешь трусить!"
+  },
+  {
+   "id": 22,
+   "en": "Do you think this is\nmy first battle?!",
+   "ru": "Думаешь, это мой\nпервый бой?!"
+  },
+  {
+   "id": 23,
+   "en": "What an utterly\nfoolish attack!",
+   "ru": "До чего глупая\nатака!"
+  },
+  {
+   "id": 24,
+   "en": "Oh, what a shame!",
+   "ru": "Ой, как жаль!"
+  },
+  {
+   "id": 25,
+   "en": "You can't hit me!",
+   "ru": "Тебе меня не задеть!"
+  },
+  {
+   "id": 26,
+   "en": "Damn!",
+   "ru": "Проклятье!"
+  },
+  {
+   "id": 27,
+   "en": "How did you predict\nmy attack?!",
+   "ru": "Как ты предугадал\nмою атаку?!"
+  },
+  {
+   "id": 28,
+   "en": "That was luck,\nfool, not skill!",
+   "ru": "Это удача, глупец, а\nне умение!"
+  },
+  {
+   "id": 29,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 30,
+   "en": "I will defeat you\nsomehow!",
+   "ru": "Я всё равно тебя\nодолею!"
+  },
+  {
+   "id": 31,
+   "en": "Enjoy your last few\nmoments of combat!",
+   "ru": "Наслаждайся\nпоследним мигом!"
+  },
+  {
+   "id": 32,
+   "en": "AAAAHH!!",
+   "ru": "А-А-А-А!!"
+  },
+  {
+   "id": 33,
+   "en": "You are nothing to\nme, fool! Nothing!",
+   "ru": "Ты для меня никто,\nглупец! Никто!"
+  },
+  {
+   "id": 34,
+   "en": "There you are!",
+   "ru": "Вот ты где!"
+  },
+  {
+   "id": 35,
+   "en": "I won't let you!",
+   "ru": "Не позволю!"
+  },
+  {
+   "id": 36,
+   "en": "Haaaah!!",
+   "ru": "Ха-а-а!!"
+  },
+  {
+   "id": 37,
+   "en": "Kyaaah!!",
+   "ru": "Кья-а-а!!"
+  },
+  {
+   "id": 38,
+   "en": "You insult me!",
+   "ru": "Ты меня\nоскорбляешь!"
+  },
+  {
+   "id": 39,
+   "en": "I was too slow!",
+   "ru": "Я был слишком\nмедлителен!"
+  },
+  {
+   "id": 40,
+   "en": "I can't help but savor\nthis victory!",
+   "ru": "Как сладка\nэта победа!"
+  },
+  {
+   "id": 41,
+   "en": "You were a brave foe,\nbut rather unskilled.",
+   "ru": "Ты был храбр, но\nнеумел."
+  },
+  {
+   "id": 42,
+   "en": "Go now.",
+   "ru": "Ступай."
+  },
+  {
+   "id": 43,
+   "en": "I dedicate my victory\nto Lord Alden!",
+   "ru": "Посвящаю победу\nлорду Олдену!"
+  },
+  {
+   "id": 44,
+   "en": "Haaah!",
+   "ru": "Ха-а!"
+  },
+  {
+   "id": 45,
+   "en": "Noooo!",
+   "ru": "Не-е-ет!"
+  },
+  {
+   "id": 46,
+   "en": "Here I come!",
+   "ru": "Иду!"
+  },
+  {
+   "id": 47,
+   "en": "Don't put up a fight!\nSurrender now!",
+   "ru": "Не сопротивляйся!\nСдавайся!"
+  },
+  {
+   "id": 48,
+   "en": "Prepare yourself!",
+   "ru": "Приготовься!"
+  },
+  {
+   "id": 49,
+   "en": "Get out of my way!",
+   "ru": "С дороги!"
+  },
+  {
+   "id": 50,
+   "en": "HAAAH!",
+   "ru": "ХА-А-А!"
+  },
+  {
+   "id": 51,
+   "en": "Take this!",
+   "ru": "Получай!"
+  },
+  {
+   "id": 52,
+   "en": "Fool!",
+   "ru": "Глупец!"
+  },
+  {
+   "id": 53,
+   "en": "There!",
+   "ru": "Вот!"
+  },
+  {
+   "id": 54,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 55,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 56,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 57,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 58,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 59,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 60,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 61,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 62,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 63,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 64,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 65,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 66,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 67,
+   "en": "",
+   "ru": ""
+  }
+ ]
+}

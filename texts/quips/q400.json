@@ -1,0 +1,346 @@
+{
+ "file": 400,
+ "kind": "quip",
+ "lines": [
+  {
+   "id": 0,
+   "en": "From the left!",
+   "ru": "Слева!"
+  },
+  {
+   "id": 1,
+   "en": "There you are!",
+   "ru": "Вот ты где!"
+  },
+  {
+   "id": 2,
+   "en": "From the right!",
+   "ru": "Справа!"
+  },
+  {
+   "id": 3,
+   "en": "There you are!",
+   "ru": "Вот ты где!"
+  },
+  {
+   "id": 4,
+   "en": "Uhhh!",
+   "ru": "У-у-ух!"
+  },
+  {
+   "id": 5,
+   "en": "Ooof!",
+   "ru": "Уф!"
+  },
+  {
+   "id": 6,
+   "en": "That attack was weak\nand worthless!",
+   "ru": "Слабая, никчёмная\nатака!"
+  },
+  {
+   "id": 7,
+   "en": "How dare you insult\nme with that attack!",
+   "ru": "Оскорблять меня\nтаким ударом!"
+  },
+  {
+   "id": 8,
+   "en": "UHHHH!",
+   "ru": "У-У-УХ!"
+  },
+  {
+   "id": 9,
+   "en": "You've sealed your\nignoble fate!",
+   "ru": "Ты решил свою\nжалкую участь!"
+  },
+  {
+   "id": 10,
+   "en": "Damn!",
+   "ru": "Проклятье!"
+  },
+  {
+   "id": 11,
+   "en": "Urrrk!",
+   "ru": "Кха!"
+  },
+  {
+   "id": 12,
+   "en": "URRGGHHH!!",
+   "ru": "У-Р-Р-ГХ!!"
+  },
+  {
+   "id": 13,
+   "en": "What was that?!",
+   "ru": "Это что было?!"
+  },
+  {
+   "id": 14,
+   "en": "You are DOOMED!",
+   "ru": "Ты ОБРЕЧЁН!"
+  },
+  {
+   "id": 15,
+   "en": "Gwwaaah!!",
+   "ru": "Гва-а-ах!!"
+  },
+  {
+   "id": 16,
+   "en": "NOOOO!!",
+   "ru": "НЕ-Е-ЕТ!!"
+  },
+  {
+   "id": 17,
+   "en": "DAMN YOU!!",
+   "ru": "БУДЬ ТЫ ПРОКЛЯТ!!"
+  },
+  {
+   "id": 18,
+   "en": "CURSE YOU!!",
+   "ru": "ПРОКЛИНАЮ!!"
+  },
+  {
+   "id": 19,
+   "en": "I SPIT ON YOU!!",
+   "ru": "ПЛЕВАЛ Я НА ТЕБЯ!!"
+  },
+  {
+   "id": 20,
+   "en": "From behind?!",
+   "ru": "Сзади?!"
+  },
+  {
+   "id": 21,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 22,
+   "en": "That was sad.",
+   "ru": "Жалко."
+  },
+  {
+   "id": 23,
+   "en": "You really thought\nthat would hit me?",
+   "ru": "Ты правда думал,\nчто попадёшь?"
+  },
+  {
+   "id": 24,
+   "en": "A wasted effort!",
+   "ru": "Напрасные старания!"
+  },
+  {
+   "id": 25,
+   "en": "Do you yet realize\nyou're going to lose?",
+   "ru": "Ты уже понял, что\nпроиграешь?"
+  },
+  {
+   "id": 26,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 27,
+   "en": "This can't be!",
+   "ru": "Не может быть!"
+  },
+  {
+   "id": 28,
+   "en": "You dodged?!",
+   "ru": "Увернулся?!"
+  },
+  {
+   "id": 29,
+   "en": "What happened?!",
+   "ru": "Что случилось?!"
+  },
+  {
+   "id": 30,
+   "en": "Bastard!",
+   "ru": "Мерзавец!"
+  },
+  {
+   "id": 31,
+   "en": "You're not going to\nbeat me!",
+   "ru": "Тебе меня не\nпобедить!"
+  },
+  {
+   "id": 32,
+   "en": "Uhhhh!",
+   "ru": "У-у-ух!"
+  },
+  {
+   "id": 33,
+   "en": "Kuuuh!",
+   "ru": "Кху-у!"
+  },
+  {
+   "id": 34,
+   "en": "You should learn how\nto protect yourself!",
+   "ru": "Научись сперва\nзащищаться!"
+  },
+  {
+   "id": 35,
+   "en": "What foolishness!",
+   "ru": "Что за глупость!"
+  },
+  {
+   "id": 36,
+   "en": "RRRRAHHH!!",
+   "ru": "Р-Р-Р-РА-А!!"
+  },
+  {
+   "id": 37,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 38,
+   "en": "You need to disguise\nyour attacks!",
+   "ru": "Маскируй свои\nатаки!"
+  },
+  {
+   "id": 39,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 40,
+   "en": "This great victory\nwas my destiny!",
+   "ru": "Эта великая победа\n— моя судьба!"
+  },
+  {
+   "id": 41,
+   "en": "I enjoyed hurting you!",
+   "ru": "Мне понравилось\nделать тебе больно!"
+  },
+  {
+   "id": 42,
+   "en": "The Junaris Empire\nis your master!",
+   "ru": "Империя Джунарис\n— твой господин!"
+  },
+  {
+   "id": 43,
+   "en": "You should not\nhave defied us.",
+   "ru": "Не стоило нам\nперечить."
+  },
+  {
+   "id": 44,
+   "en": "Hah!!",
+   "ru": "Ха!!"
+  },
+  {
+   "id": 45,
+   "en": "Huh?!",
+   "ru": "А?!"
+  },
+  {
+   "id": 46,
+   "en": "Watch and learn!",
+   "ru": "Смотри и учись!"
+  },
+  {
+   "id": 47,
+   "en": "Savor my flavor!",
+   "ru": "Отведай моего вкуса!"
+  },
+  {
+   "id": 48,
+   "en": "You dare to defy\nthe Royal Guard?",
+   "ru": "Перечить\nгвардии?!"
+  },
+  {
+   "id": 49,
+   "en": "Bow down before me!",
+   "ru": "Склонись предо\nмной!"
+  },
+  {
+   "id": 50,
+   "en": "Witness the power\nof the Royal Guard!",
+   "ru": "Узри мощь\nгвардии короля!"
+  },
+  {
+   "id": 51,
+   "en": "For the glory of\nthe Emperor!",
+   "ru": "Во славу императора!"
+  },
+  {
+   "id": 52,
+   "en": "Pharastia will soon\nbe destroyed!",
+   "ru": "Фарастия скоро\nпадёт!"
+  },
+  {
+   "id": 53,
+   "en": "Can't we all just\nget along?",
+   "ru": "Может, жить\nдружно?"
+  },
+  {
+   "id": 54,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 55,
+   "en": "It can't be!",
+   "ru": "Не может быть!"
+  },
+  {
+   "id": 56,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 57,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 58,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 59,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 60,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 61,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 62,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 63,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 64,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 65,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 66,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 67,
+   "en": "",
+   "ru": ""
+  }
+ ]
+}

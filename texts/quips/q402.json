@@ -1,0 +1,346 @@
+{
+ "file": 402,
+ "kind": "quip",
+ "lines": [
+  {
+   "id": 0,
+   "en": "Left?!",
+   "ru": "Слева?!"
+  },
+  {
+   "id": 1,
+   "en": "You imbecile!",
+   "ru": "Тупица!"
+  },
+  {
+   "id": 2,
+   "en": "Right?!",
+   "ru": "Справа?!"
+  },
+  {
+   "id": 3,
+   "en": "You fool!",
+   "ru": "Глупец!"
+  },
+  {
+   "id": 4,
+   "en": "Your efforts are\nfutile!",
+   "ru": "Твои старания\nтщетны!"
+  },
+  {
+   "id": 5,
+   "en": "That was feeble!",
+   "ru": "Слабо!"
+  },
+  {
+   "id": 6,
+   "en": "That barely registered\nas a hit!",
+   "ru": "Это едва ли можно\nназвать ударом!"
+  },
+  {
+   "id": 7,
+   "en": "I've been spanked\nharder than that!",
+   "ru": "Меня и сильнее\nшлёпали!"
+  },
+  {
+   "id": 8,
+   "en": "Aauugh!",
+   "ru": "А-а-ах!"
+  },
+  {
+   "id": 9,
+   "en": "Owwwww!",
+   "ru": "А-а-ай!"
+  },
+  {
+   "id": 10,
+   "en": "Waaugh!",
+   "ru": "Ва-а-ах!"
+  },
+  {
+   "id": 11,
+   "en": "Gwaaah!",
+   "ru": "Гва-а-ах!"
+  },
+  {
+   "id": 12,
+   "en": "UNNNGH!!",
+   "ru": "Н-Н-НГХ!!"
+  },
+  {
+   "id": 13,
+   "en": "Damn you!!",
+   "ru": "Будь ты проклят!!"
+  },
+  {
+   "id": 14,
+   "en": "Such strength!!",
+   "ru": "Какая сила!!"
+  },
+  {
+   "id": 15,
+   "en": "What power!!",
+   "ru": "Какая сила!!"
+  },
+  {
+   "id": 16,
+   "en": "Yaaaahhhh!!",
+   "ru": "Йа-а-а-ах!!"
+  },
+  {
+   "id": 17,
+   "en": "I've failed!!",
+   "ru": "Я провалился!!"
+  },
+  {
+   "id": 18,
+   "en": "I've lost, but the\nKingdom will win!",
+   "ru": "Я проиграл, но\nКоролевство победит!"
+  },
+  {
+   "id": 19,
+   "en": "Gwaaaaaah!!",
+   "ru": "Гва-а-а-ах!!"
+  },
+  {
+   "id": 20,
+   "en": "From behind?",
+   "ru": "Со спины?"
+  },
+  {
+   "id": 21,
+   "en": "Wh-what?!",
+   "ru": "Ч-что?!"
+  },
+  {
+   "id": 22,
+   "en": "That attack was\nrather misguided!",
+   "ru": "Довольно\nбестолковая атака!"
+  },
+  {
+   "id": 23,
+   "en": "You're out of your\nleague, fool!",
+   "ru": "Ты мне не ровня,\nглупец!"
+  },
+  {
+   "id": 24,
+   "en": "You missed! How sad!",
+   "ru": "Мимо! Как жаль!"
+  },
+  {
+   "id": 25,
+   "en": "Don't you realize\nyou're outmatched?",
+   "ru": "Не понимаешь, что\nты слабее?"
+  },
+  {
+   "id": 26,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 27,
+   "en": "That's unfair!",
+   "ru": "Нечестно!"
+  },
+  {
+   "id": 28,
+   "en": "You can't do that!",
+   "ru": "Так нельзя!"
+  },
+  {
+   "id": 29,
+   "en": "No! Damn!",
+   "ru": "Нет! Чёрт!"
+  },
+  {
+   "id": 30,
+   "en": "I laugh at your\npuny assault!",
+   "ru": "Смеюсь над твоим\nжалким натиском!"
+  },
+  {
+   "id": 31,
+   "en": "I won't lose!",
+   "ru": "Я не проиграю!"
+  },
+  {
+   "id": 32,
+   "en": "Uhhhh!",
+   "ru": "У-у-ух!"
+  },
+  {
+   "id": 33,
+   "en": "Kuuuh!",
+   "ru": "Кху-у!"
+  },
+  {
+   "id": 34,
+   "en": "There you are!",
+   "ru": "Вот ты где!"
+  },
+  {
+   "id": 35,
+   "en": "Much too easy!",
+   "ru": "Слишком просто!"
+  },
+  {
+   "id": 36,
+   "en": "I won't let you\nstrike me, fool!",
+   "ru": "Не дам себя ударить,\nглупец!"
+  },
+  {
+   "id": 37,
+   "en": "How DARE you!",
+   "ru": "Да как ты СМЕЕШЬ!"
+  },
+  {
+   "id": 38,
+   "en": "That was weak!",
+   "ru": "Слабо!"
+  },
+  {
+   "id": 39,
+   "en": "That was cruel!",
+   "ru": "Это было жестоко!"
+  },
+  {
+   "id": 40,
+   "en": "The Junaris Empire\nis sure to fall!",
+   "ru": "Империя Джунарис\nобречена!"
+  },
+  {
+   "id": 41,
+   "en": "Who shall be my\nnext opponent?",
+   "ru": "Кто станет моим\nследующим врагом?"
+  },
+  {
+   "id": 42,
+   "en": "The Kingdom will be\nrestored to glory!",
+   "ru": "Королевство вернёт\nсебе славу!"
+  },
+  {
+   "id": 43,
+   "en": "The Kingdom Army\nalways triumphs!",
+   "ru": "Армия Королевства\nвсегда побеждает!"
+  },
+  {
+   "id": 44,
+   "en": "Hi-yaaah!",
+   "ru": "Хи-йа-а!"
+  },
+  {
+   "id": 45,
+   "en": "Ooooooof!",
+   "ru": "У-у-у-уф!"
+  },
+  {
+   "id": 46,
+   "en": "I will stand firm,\nand you will fall!",
+   "ru": "Я выстою, а ты\nпадёшь!"
+  },
+  {
+   "id": 47,
+   "en": "Go away!",
+   "ru": "Прочь!"
+  },
+  {
+   "id": 48,
+   "en": "Unnngh!",
+   "ru": "Н-н-нгх!"
+  },
+  {
+   "id": 49,
+   "en": "You're mine now!",
+   "ru": "Теперь ты мой!"
+  },
+  {
+   "id": 50,
+   "en": "Begone with you!",
+   "ru": "Прочь!"
+  },
+  {
+   "id": 51,
+   "en": "Pharastia will\nnever be enslaved!",
+   "ru": "Фарастия никогда не\nстанет рабой!"
+  },
+  {
+   "id": 52,
+   "en": "The Empire will never\nconquer the Kingdom!",
+   "ru": "Империи не покорить\nКоролевство!"
+  },
+  {
+   "id": 53,
+   "en": "Haaaaaa!!",
+   "ru": "Ха-а-а-а!!"
+  },
+  {
+   "id": 54,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 55,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 56,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 57,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 58,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 59,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 60,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 61,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 62,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 63,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 64,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 65,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 66,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 67,
+   "en": "",
+   "ru": ""
+  }
+ ]
+}

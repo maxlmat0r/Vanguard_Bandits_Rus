@@ -1,0 +1,21 @@
+{
+ "file": 640,
+ "kind": "story",
+ "lines": [
+  {
+   "id": 0,
+   "en": "Bastion, I know we should return to\nAraba and report what's happened...\nbut we're almost at the lake, man!",
+   "ru": "Бастион, знаю, надо вернуться в\nАрабу с докладом... но мы почти у\nозера, дружище!"
+  },
+  {
+   "id": 1,
+   "en": "He's right, Bastion. We can see the\nlake and repair our ATACs before\nwe return to Avalon.",
+   "ru": "Он прав, Бастион. Посмотрим\nозеро и починим АТАКи, а потом\nвернёмся в Авалон."
+  },
+  {
+   "id": 2,
+   "en": "And here we are!",
+   "ru": "Вот мы и на месте!"
+  }
+ ]
+}

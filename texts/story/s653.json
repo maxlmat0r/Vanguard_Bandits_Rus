@@ -1,0 +1,21 @@
+{
+ "file": 653,
+ "kind": "story",
+ "lines": [
+  {
+   "id": 0,
+   "en": "Your Highness, you must be on guard\nat all times! Who knows what Radcot\nmight attempt?",
+   "ru": "Ваше Высочество, будьте всё\nвремя начеку! Кто знает, что\nзадумал Радкот?"
+  },
+  {
+   "id": 1,
+   "en": "Caution, Your Highness! Caution!",
+   "ru": "Осторожнее, Ваше Высочество!\nОсторожнее!"
+  },
+  {
+   "id": 2,
+   "en": "You worry too much...",
+   "ru": "Ты слишком волнуешься..."
+  }
+ ]
+}

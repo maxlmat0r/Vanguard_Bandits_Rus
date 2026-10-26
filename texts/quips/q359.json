@@ -1,0 +1,346 @@
+{
+ "file": 359,
+ "kind": "quip",
+ "lines": [
+  {
+   "id": 0,
+   "en": "You think yourself\nclever, twit?",
+   "ru": "Возомнил себя\nумником, болван?"
+  },
+  {
+   "id": 1,
+   "en": "Your stealth needs\nsome improvement!",
+   "ru": "Скрытности тебе не\nхватает!"
+  },
+  {
+   "id": 2,
+   "en": "You cannot surprise\nme, dimwit!",
+   "ru": "Меня не застать\nврасплох, тупица!"
+  },
+  {
+   "id": 3,
+   "en": "Hmmph.",
+   "ru": "Хм."
+  },
+  {
+   "id": 4,
+   "en": "You are well and\ntruly pathetic.",
+   "ru": "Ты поистине жалок."
+  },
+  {
+   "id": 5,
+   "en": "Is that all you have to\noffer me? Hah!",
+   "ru": "И это всё, что ты\nможешь? Ха!"
+  },
+  {
+   "id": 6,
+   "en": "You annoy me.",
+   "ru": "Ты меня\nраздражаешь."
+  },
+  {
+   "id": 7,
+   "en": "Why don't you learn\nto fight?",
+   "ru": "Научился бы сперва\nдраться."
+  },
+  {
+   "id": 8,
+   "en": "Aargh!",
+   "ru": "Аргх!"
+  },
+  {
+   "id": 9,
+   "en": "I'm not afraid of you,\ninfidel. Not at all.",
+   "ru": "Я не боюсь тебя,\nневерный. Ничуть."
+  },
+  {
+   "id": 10,
+   "en": "I relish the pain.",
+   "ru": "Я наслаждаюсь\nболью."
+  },
+  {
+   "id": 11,
+   "en": "Hit me harder, fool!\nI demand it!",
+   "ru": "Бей сильнее, глупец!\nЯ требую!"
+  },
+  {
+   "id": 12,
+   "en": "You are strong.",
+   "ru": "Ты силён."
+  },
+  {
+   "id": 13,
+   "en": "I will never be\ndefeated. NEVER!",
+   "ru": "Меня не победить.\nНИКОГДА!"
+  },
+  {
+   "id": 14,
+   "en": "I shall finish you,\nthen rejoice!",
+   "ru": "Я прикончу тебя и\nвозликую!"
+  },
+  {
+   "id": 15,
+   "en": "I will crush you like\na bug, cretin!",
+   "ru": "Раздавлю тебя, как\nбукашку, кретин!"
+  },
+  {
+   "id": 16,
+   "en": "Impossible!",
+   "ru": "Невозможно!"
+  },
+  {
+   "id": 17,
+   "en": "I have lost. I embrace\nthe humiliation!",
+   "ru": "Я проиграл. Я\nпринимаю унижение!"
+  },
+  {
+   "id": 18,
+   "en": "We will finish this in\nthe next world.",
+   "ru": "Закончим это на том\nсвете."
+  },
+  {
+   "id": 19,
+   "en": "I embrace my\nbitter defeat!",
+   "ru": "Я принимаю горечь\nпоражения!"
+  },
+  {
+   "id": 20,
+   "en": "From behind?",
+   "ru": "Со спины?"
+  },
+  {
+   "id": 21,
+   "en": "Coward!",
+   "ru": "Трус!"
+  },
+  {
+   "id": 22,
+   "en": "All too easy.",
+   "ru": "Слишком просто."
+  },
+  {
+   "id": 23,
+   "en": "Much too slow.",
+   "ru": "Слишком медленно."
+  },
+  {
+   "id": 24,
+   "en": "So very feeble.",
+   "ru": "Как же слабо."
+  },
+  {
+   "id": 25,
+   "en": "How very weak.",
+   "ru": "Как же немощно."
+  },
+  {
+   "id": 26,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 27,
+   "en": "You dodged my\nattack?!",
+   "ru": "Ты увернулся?!"
+  },
+  {
+   "id": 28,
+   "en": "Hmmph!!",
+   "ru": "Хм!!"
+  },
+  {
+   "id": 29,
+   "en": "I admire your speed,\nlittle one.",
+   "ru": "Восхищаюсь твоей\nпрытью, малыш."
+  },
+  {
+   "id": 30,
+   "en": "Aaugh!",
+   "ru": "А-ах!"
+  },
+  {
+   "id": 31,
+   "en": "Gwahh!",
+   "ru": "Гва-а!"
+  },
+  {
+   "id": 32,
+   "en": "You dare strike me,\nmaggot?!",
+   "ru": "Ты смеешь бить\nменя, червь?!"
+  },
+  {
+   "id": 33,
+   "en": "Oooof!",
+   "ru": "Ух!"
+  },
+  {
+   "id": 34,
+   "en": "Your defense is quite\nlacking.",
+   "ru": "Защита у тебя\nникудышная."
+  },
+  {
+   "id": 35,
+   "en": "You know, I rather\nenjoy hurting you.",
+   "ru": "Мне нравится делать\nтебе больно."
+  },
+  {
+   "id": 36,
+   "en": "I think not.",
+   "ru": "Не думаю."
+  },
+  {
+   "id": 37,
+   "en": "Infidel!",
+   "ru": "Неверный!"
+  },
+  {
+   "id": 38,
+   "en": "What's wrong?",
+   "ru": "Что такое?"
+  },
+  {
+   "id": 39,
+   "en": "What's this?!",
+   "ru": "Это ещё что?!"
+  },
+  {
+   "id": 40,
+   "en": "I feel no pity, infidel.",
+   "ru": "Жалости не жди,\nневерный."
+  },
+  {
+   "id": 41,
+   "en": "Attacking me was\nyour last mistake.",
+   "ru": "Напасть на меня\nбыло ошибкой."
+  },
+  {
+   "id": 42,
+   "en": "I had no choice but to\nwin.",
+   "ru": "Выбора не было:\nтолько победа."
+  },
+  {
+   "id": 43,
+   "en": "You could never have\nbeaten me.",
+   "ru": "Тебе меня никогда не\nодолеть."
+  },
+  {
+   "id": 44,
+   "en": "Heh.",
+   "ru": "Хе."
+  },
+  {
+   "id": 45,
+   "en": "Haaah!",
+   "ru": "Ха-а!"
+  },
+  {
+   "id": 46,
+   "en": "There you are, infidel!",
+   "ru": "Вот ты где,\nневерный!"
+  },
+  {
+   "id": 47,
+   "en": "Hwwahh!",
+   "ru": "Хва-а!"
+  },
+  {
+   "id": 48,
+   "en": "Die!",
+   "ru": "Умри!"
+  },
+  {
+   "id": 49,
+   "en": "What a pathetic fool\nyou are.",
+   "ru": "Какой же ты жалкий\nглупец."
+  },
+  {
+   "id": 50,
+   "en": "I shall revel in your\ndestruction.",
+   "ru": "Я упьюсь твоей\nгибелью."
+  },
+  {
+   "id": 51,
+   "en": "Your miserable life\nends today.",
+   "ru": "Сегодня твоя жалкая\nжизнь оборвётся."
+  },
+  {
+   "id": 52,
+   "en": "Hmmph!!!",
+   "ru": "Хм!!!"
+  },
+  {
+   "id": 53,
+   "en": "Your blood will\nflow freely!",
+   "ru": "Твоя кровь польётся\nрекой!"
+  },
+  {
+   "id": 54,
+   "en": "Heh, heh, heh.",
+   "ru": "Хе-хе-хе."
+  },
+  {
+   "id": 55,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 56,
+   "en": "You don't intimidate\nme, old man.",
+   "ru": "Ты меня не пугаешь,\nстарик."
+  },
+  {
+   "id": 57,
+   "en": "See how you like THIS!",
+   "ru": "А как тебе ЭТО?!"
+  },
+  {
+   "id": 58,
+   "en": "It's not over yet!",
+   "ru": "Это ещё не конец!"
+  },
+  {
+   "id": 59,
+   "en": "Your body is frail\nand weak, old man!",
+   "ru": "Тело твоё дряхло и\nслабо, старик!"
+  },
+  {
+   "id": 60,
+   "en": "You amuse me, Alugard.",
+   "ru": "Ты меня забавляешь,\nАлугард."
+  },
+  {
+   "id": 61,
+   "en": "But not enough to\nspare your sorry life.",
+   "ru": "Но не настолько,\nчтобы пощадить."
+  },
+  {
+   "id": 62,
+   "en": "Farewell, old man. I'll\nsee you in Hell.",
+   "ru": "Прощай, старик.\nУвидимся в аду."
+  },
+  {
+   "id": 63,
+   "en": "Your head shall make a\nfine trophy!",
+   "ru": "Твоя голова станет\nславным трофеем!"
+  },
+  {
+   "id": 64,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 65,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 66,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 67,
+   "en": "",
+   "ru": ""
+  }
+ ]
+}

@@ -1,0 +1,346 @@
+{
+ "file": 378,
+ "kind": "quip",
+ "lines": [
+  {
+   "id": 0,
+   "en": "Attacking from the\nleft?",
+   "ru": "Атака слева?"
+  },
+  {
+   "id": 1,
+   "en": "There you are!",
+   "ru": "Вот ты где!"
+  },
+  {
+   "id": 2,
+   "en": "Attacking from the\nright?",
+   "ru": "Атака справа?"
+  },
+  {
+   "id": 3,
+   "en": "I see you now!",
+   "ru": "Теперь я тебя вижу!"
+  },
+  {
+   "id": 4,
+   "en": "Don't hold back on my\naccount, alright?",
+   "ru": "Не сдерживайся\nиз-за меня, ладно?"
+  },
+  {
+   "id": 5,
+   "en": "Be honest with me--\nare you really trying?",
+   "ru": "Честно: ты правда\nстараешься?"
+  },
+  {
+   "id": 6,
+   "en": "Oh. I've been hit.",
+   "ru": "О. Меня задели."
+  },
+  {
+   "id": 7,
+   "en": "That will cause\nminimal damage.",
+   "ru": "Урон будет\nминимальным."
+  },
+  {
+   "id": 8,
+   "en": "You're doing well!",
+   "ru": "Неплохо держишься!"
+  },
+  {
+   "id": 9,
+   "en": "Urrgghh!",
+   "ru": "У-у-ргх!"
+  },
+  {
+   "id": 10,
+   "en": "I can see this will\nbe a good fight!",
+   "ru": "Вижу, бой будет\nславным!"
+  },
+  {
+   "id": 11,
+   "en": "Your strength is\nquite deceptive!",
+   "ru": "Твоя сила\nобманчива!"
+  },
+  {
+   "id": 12,
+   "en": "I sense much anger\ninside you.",
+   "ru": "Чувствую в тебе\nмного гнева."
+  },
+  {
+   "id": 13,
+   "en": "That will be your\nfinal strike!",
+   "ru": "Это был твой\nпоследний удар!"
+  },
+  {
+   "id": 14,
+   "en": "Aaarrggh!!",
+   "ru": "А-а-аргх!!"
+  },
+  {
+   "id": 15,
+   "en": "I can see your ego\ninflating.",
+   "ru": "Твоё эго\nраздувается."
+  },
+  {
+   "id": 16,
+   "en": "I'm afraid I was\ndestined to lose.",
+   "ru": "Боюсь, мне суждено\nбыло проиграть."
+  },
+  {
+   "id": 17,
+   "en": "The agony of defeat!",
+   "ru": "Горечь поражения!"
+  },
+  {
+   "id": 18,
+   "en": "How could I have\nlet this happen?",
+   "ru": "Как я мог такое\nдопустить?"
+  },
+  {
+   "id": 19,
+   "en": "I knew I should have\nfought harder!",
+   "ru": "Знал же, надо было\nбиться лучше!"
+  },
+  {
+   "id": 20,
+   "en": "Are you behind me?\nIndeed!",
+   "ru": "Ты за моей спиной?\nИ правда!"
+  },
+  {
+   "id": 21,
+   "en": "You got me good!",
+   "ru": "Хорошо ты меня\nприложил!"
+  },
+  {
+   "id": 22,
+   "en": "You won't hit me\nlike that!",
+   "ru": "Так ты в меня не\nпопадёшь!"
+  },
+  {
+   "id": 23,
+   "en": "What a shame.",
+   "ru": "Какая жалость."
+  },
+  {
+   "id": 24,
+   "en": "You must be very\nembarrassed.",
+   "ru": "Тебе, должно быть,\nочень стыдно."
+  },
+  {
+   "id": 25,
+   "en": "Have you considered\nrunning away?",
+   "ru": "Не думал сбежать?"
+  },
+  {
+   "id": 26,
+   "en": "I'll be faster with my\nnext attack!",
+   "ru": "Следующая атака\nбудет быстрее!"
+  },
+  {
+   "id": 27,
+   "en": "That should have\nstruck you!",
+   "ru": "Это должно было\nпопасть!"
+  },
+  {
+   "id": 28,
+   "en": "How did you know I\nwould try that?",
+   "ru": "Как ты догадался?"
+  },
+  {
+   "id": 29,
+   "en": "My inexperience is\nshowing.",
+   "ru": "Сказывается моя\nнеопытность."
+  },
+  {
+   "id": 30,
+   "en": "You can't hurt me!",
+   "ru": "Тебе меня не ранить!"
+  },
+  {
+   "id": 31,
+   "en": "I can block your\nfeeble blows!",
+   "ru": "Твои жалкие удары я\nотобью!"
+  },
+  {
+   "id": 32,
+   "en": "I will never be\ndefeated by you.",
+   "ru": "Тебе меня никогда не\nпобедить."
+  },
+  {
+   "id": 33,
+   "en": "Urrggghhh!!",
+   "ru": "У-у-ургх!!"
+  },
+  {
+   "id": 34,
+   "en": "You fight very poorly.\nKeep it up!",
+   "ru": "Ты очень плохо\nбьёшься. Продолжай!"
+  },
+  {
+   "id": 35,
+   "en": "Impressive.",
+   "ru": "Впечатляет."
+  },
+  {
+   "id": 36,
+   "en": "I can reject that attack\nevery time!",
+   "ru": "Я отобью эту атаку\nвсегда!"
+  },
+  {
+   "id": 37,
+   "en": "I can't help but\nbe impressed.",
+   "ru": "Не могу не\nвосхищаться."
+  },
+  {
+   "id": 38,
+   "en": "Think again.",
+   "ru": "Подумай ещё раз."
+  },
+  {
+   "id": 39,
+   "en": "Oops! That was sloppy!",
+   "ru": "Ой! Небрежно вышло!"
+  },
+  {
+   "id": 40,
+   "en": "I win.",
+   "ru": "Я победил."
+  },
+  {
+   "id": 41,
+   "en": "Victory!",
+   "ru": "Победа!"
+  },
+  {
+   "id": 42,
+   "en": "I should have\nbeaten you faster.",
+   "ru": "Надо было победить\nбыстрее."
+  },
+  {
+   "id": 43,
+   "en": "Well, then, who wants\nto fight me next?",
+   "ru": "Ну, кто следующий\nсразится со мной?"
+  },
+  {
+   "id": 44,
+   "en": "Haah!",
+   "ru": "Ха!"
+  },
+  {
+   "id": 45,
+   "en": "Ooof!",
+   "ru": "Уф!"
+  },
+  {
+   "id": 46,
+   "en": "Here I come.",
+   "ru": "Иду."
+  },
+  {
+   "id": 47,
+   "en": "There you are.",
+   "ru": "Вот ты где."
+  },
+  {
+   "id": 48,
+   "en": "I got you.",
+   "ru": "Попался."
+  },
+  {
+   "id": 49,
+   "en": "This will be your\nfinal battle.",
+   "ru": "Это будет твой\nпоследний бой."
+  },
+  {
+   "id": 50,
+   "en": "Taste my bitter\ndispleasure!",
+   "ru": "Вкуси моё горькое\nнедовольство!"
+  },
+  {
+   "id": 51,
+   "en": "Get out of my way!",
+   "ru": "С дороги!"
+  },
+  {
+   "id": 52,
+   "en": "Please don't cry when\nI defeat you!",
+   "ru": "Только не плачь,\nкогда проиграешь!"
+  },
+  {
+   "id": 53,
+   "en": "Now you've made me\nangry!",
+   "ru": "Ну всё, ты меня\nразозлил!"
+  },
+  {
+   "id": 54,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 55,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 56,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 57,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 58,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 59,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 60,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 61,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 62,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 63,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 64,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 65,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 66,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 67,
+   "en": "",
+   "ru": ""
+  }
+ ]
+}

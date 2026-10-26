@@ -1,0 +1,136 @@
+{
+ "file": 149,
+ "kind": "battle",
+ "lines": [
+  {
+   "id": 0,
+   "en": "What kind of tactics are Zakov's men\nusing?! They're scattered all over the\nbattlefield!",
+   "ru": "Что за тактика у людей Закова?!\nОни раскиданы по всему полю\nбоя!"
+  },
+  {
+   "id": 1,
+   "en": "Their remains will be scattered\nacross the battlefield if we do not\nintercede quickly, Your Highness!",
+   "ru": "Их останки раскидает по всему\nполю, если мы быстро не\nвмешаемся, Ваше Высочество!"
+  },
+  {
+   "id": 2,
+   "en": "Dhe reinforcements have arrived!\nVhat took you so long?! Ve are on dhe\nwerge of defeat!",
+   "ru": "Подкрепление прибыло! Почему\nтак толго?! Мы на грани\nпораженья!"
+  },
+  {
+   "id": 3,
+   "en": "Attack dhe Kingdom ATACs before\ndhey come after me!",
+   "ru": "Атакуйте АТАКи Королефстфа,\nпока они не тобрались то меня!"
+  },
+  {
+   "id": 4,
+   "en": "Have you forgotten yourself, Zakov?!\nI do not take orders from you or any\nother Imperial soldier!",
+   "ru": "Вы забылись, Заков?! Я не\nподчиняюсь ни вам, ни любому\nдругому имперскому солдату!"
+  },
+  {
+   "id": 5,
+   "en": "Princess Sadira!",
+   "ru": "Принцесса Садира!"
+  },
+  {
+   "id": 6,
+   "en": "Did I fail to mention how beautiful\nyour ATAC looks today? I can only\nimagine how lovely YOU look--",
+   "ru": "Я не сказал, как прекрасен\nсегодня фаш АТАК? А как\nпрекрасны, наферное, ФЫ--"
+  },
+  {
+   "id": 7,
+   "en": "Still your tongue and cease your\ngroveling, Zakov! It's embarrassing\nthe both of us!",
+   "ru": "Придержите язык и прекратите\nпресмыкаться, Заков! Это\nпозорит нас обоих!"
+  },
+  {
+   "id": 8,
+   "en": "So now you fight for the Kingdom\nArmy you once planned to betray?\nYou are beneath contempt.",
+   "ru": "Теперь ты воюешь за\nКоролевство, которое собирался\nпредать? Ты ниже презрения."
+  },
+  {
+   "id": 9,
+   "en": "But you are not beneath receiving a\nhumiliating defeat at my hands!",
+   "ru": "Но не ниже унизительного\nпоражения от моей руки!"
+  },
+  {
+   "id": 10,
+   "en": "Shut up, boy! You speak of things you\ndo not, ah, understand!",
+   "ru": "Замолчи, мальчишка! Ты\nговоришь о том, чего, кхм, не\nпонимаешь!"
+  },
+  {
+   "id": 11,
+   "en": "What is there to understand?! You are\na traitor and a coward!",
+   "ru": "А что тут понимать?! Ты\nпредатель и трус!"
+  },
+  {
+   "id": 12,
+   "en": "(The tide of this battle has turned\nagainst me! My ATAC has taken too\nmuch damage. I must, ah, retreat!)",
+   "ru": "(Удача отвернулась от меня!\nАТАК слишком повреждён. Надо,\nкхм, отступать!)"
+  },
+  {
+   "id": 13,
+   "en": "The Kingdom will yet annihilate\nthe heathens of the Empire!",
+   "ru": "Королевство ещё уничтожит\nязычников Империи!"
+  },
+  {
+   "id": 14,
+   "en": "(Once again, the 'son' of Alugard has\ninterfered with my plans! Damn him\nand his, uh, royal blood!)",
+   "ru": "(Снова \"сын\" Алугарда сорвал\nмои планы! Будь проклят он и\nего, э-э, королевская кровь!)"
+  },
+  {
+   "id": 15,
+   "en": "The Kingdom will yet claim the lands\nof the Empire as its own! Our victory\nis destined!",
+   "ru": "Королевство ещё сделает земли\nИмперии своими! Наша победа\nпредрешена!"
+  },
+  {
+   "id": 16,
+   "en": "Vhy didn't anyone help me?! Vhy do I\nhaff to lose?! Vhy did I choose to be a\nsoldier in dhe first place?!",
+   "ru": "Почему никто мне не помог?!\nПочему я толшен проиграть?!\nЗачем я фообще стал солдатом?!"
+  },
+  {
+   "id": 17,
+   "en": "Frau Farbissina alvays said I vas a\nbetter lover dhan a fighter...",
+   "ru": "Фрау Фарбиссина фсегда\nгофорила, что любовник я лучше,\nчем поец..."
+  },
+  {
+   "id": 18,
+   "en": "Zakov has fallen! We've lost!",
+   "ru": "Заков пал! Мы проиграли!"
+  },
+  {
+   "id": 19,
+   "en": "We've won, no thanks to Zakov!",
+   "ru": "Мы победили, и Заков тут ни при\nчём!"
+  },
+  {
+   "id": 20,
+   "en": "Aren't you going to show us a little\ngratitude for saving you, old man?",
+   "ru": "Не хочешь поблагодарить нас за\nспасение, старик?"
+  },
+  {
+   "id": 21,
+   "en": "Old man?! I still possess dhe strength\nto slap you arount like a ret-heatet\nstepchilt!",
+   "ru": "Старик?! У меня ещё хфатит сил\nотшлёпать тепя, как рышего\nпасынка!"
+  },
+  {
+   "id": 22,
+   "en": "And ve vould not haff needed to fight\ndhis battle at all if not for you! Haff\nyou forgotten dhat?!",
+   "ru": "Та и пой этот не понадобился\nбы, если бы не ты! Ты это\nсапыл?!"
+  },
+  {
+   "id": 23,
+   "en": "Why do I have the feeling that you're\nstill somewhat bitter?",
+   "ru": "Почему мне кажется, что ты всё\nещё немного обижен?"
+  },
+  {
+   "id": 24,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 25,
+   "en": "\n\n\n",
+   "ru": ""
+  }
+ ]
+}

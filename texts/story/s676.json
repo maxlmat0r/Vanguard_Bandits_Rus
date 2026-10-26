@@ -1,0 +1,26 @@
+{
+ "file": 676,
+ "kind": "story",
+ "lines": [
+  {
+   "id": 0,
+   "en": "A single blow from Duke Logan's\nCrimson can disable an ATAC,\nso watch out for him!",
+   "ru": "Один удар Кримсона герцога\nЛогана может вывести АТАК из\nстроя, так что берегитесь его!"
+  },
+  {
+   "id": 1,
+   "en": "How would you know that, Cecilia?\nYou haven't fought him in the past,\nhave you?",
+   "ru": "Откуда ты знаешь, Сесилия? Ты\nведь с ним раньше не сражалась?"
+  },
+  {
+   "id": 2,
+   "en": "Of course not, Princess! I just know a\nlot about the ATACs of the Continent!\nKnowledge is part of my job!",
+   "ru": "Конечно, нет, принцесса! Я просто\nмного знаю об АТАКах! Это часть\nмоей работы!"
+  },
+  {
+   "id": 3,
+   "en": "If you know anything else about our\nopponents, Cecilia, don't be afraid to\ntell us, alright?",
+   "ru": "Если знаешь ещё что-то о\nпротивниках, Сесилия, не\nстесняйся рассказать, ладно?"
+  }
+ ]
+}

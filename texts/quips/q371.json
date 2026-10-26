@@ -1,0 +1,346 @@
+{
+ "file": 371,
+ "kind": "quip",
+ "lines": [
+  {
+   "id": 0,
+   "en": "From the left, huh?",
+   "ru": "Слева, значит?"
+  },
+  {
+   "id": 1,
+   "en": "There you are!",
+   "ru": "Вот ты где!"
+  },
+  {
+   "id": 2,
+   "en": "From the right, eh?",
+   "ru": "Справа, значит?"
+  },
+  {
+   "id": 3,
+   "en": "And there you are!",
+   "ru": "А вот и ты!"
+  },
+  {
+   "id": 4,
+   "en": "I won't be defeated by\na silly serf!",
+   "ru": "Меня не одолеть\nглупому холопу!"
+  },
+  {
+   "id": 5,
+   "en": "What's wrong, fool?\nGetting scared?",
+   "ru": "Что, дурень?\nСтрусил?"
+  },
+  {
+   "id": 6,
+   "en": "Hit me with your best\nshot! Fire away!",
+   "ru": "Бей со всей силы!\nДавай!"
+  },
+  {
+   "id": 7,
+   "en": "You really don't have\nto hold back!",
+   "ru": "Можешь не\nсдерживаться!"
+  },
+  {
+   "id": 8,
+   "en": "Hey, that hurt me!\nYou filthy wretch!",
+   "ru": "Эй, больно же!\nМерзавец!"
+  },
+  {
+   "id": 9,
+   "en": "Gwwwaahh!",
+   "ru": "Гва-а-а!"
+  },
+  {
+   "id": 10,
+   "en": "Now don't get carried\naway, alright?!",
+   "ru": "Только не увлекайся,\nладно?!"
+  },
+  {
+   "id": 11,
+   "en": "Yeoowwch!",
+   "ru": "Уй-юй!"
+  },
+  {
+   "id": 12,
+   "en": "This--is--NOT--good!",
+   "ru": "Это... совсем... НЕ...\nхорошо!"
+  },
+  {
+   "id": 13,
+   "en": "AAAUUGGHH!!",
+   "ru": "А-А-А-А-ГХ!!"
+  },
+  {
+   "id": 14,
+   "en": "Why, you little--",
+   "ru": "Ах ты, мелкий..."
+  },
+  {
+   "id": 15,
+   "en": "Your great pain will\nbe my pleasure!",
+   "ru": "Твоя боль — моя\nрадость!"
+  },
+  {
+   "id": 16,
+   "en": "Damn it!!",
+   "ru": "Проклятье!!"
+  },
+  {
+   "id": 17,
+   "en": "I'll see you in the\nfiery pits of Hell!!",
+   "ru": "Увидимся в адском\nпламени!!"
+  },
+  {
+   "id": 18,
+   "en": "WAAAAHHHHHH!!",
+   "ru": "У-А-А-А-А!!"
+  },
+  {
+   "id": 19,
+   "en": "I curse your soul!",
+   "ru": "Проклинаю твою\nдушу!"
+  },
+  {
+   "id": 20,
+   "en": "From behind?!",
+   "ru": "Сзади?!"
+  },
+  {
+   "id": 21,
+   "en": "You coward!",
+   "ru": "Трус!"
+  },
+  {
+   "id": 22,
+   "en": "That was truly a\npathetic display!",
+   "ru": "Жалкое зрелище!"
+  },
+  {
+   "id": 23,
+   "en": "Ha, ha, ha!",
+   "ru": "Ха-ха-ха!"
+  },
+  {
+   "id": 24,
+   "en": "You simply aren't able\nto strike me!",
+   "ru": "Тебе просто меня не\nдостать!"
+  },
+  {
+   "id": 25,
+   "en": "Your parents must be\nSO proud of you!",
+   "ru": "Родители, небось,\nТАК тобой гордятся!"
+  },
+  {
+   "id": 26,
+   "en": "You dodged!",
+   "ru": "Увернулся!"
+  },
+  {
+   "id": 27,
+   "en": "You're not allowed to\ndodge me! Seriously!",
+   "ru": "Уворачиваться\nнельзя! Серьёзно!"
+  },
+  {
+   "id": 28,
+   "en": "You dirty rat!",
+   "ru": "Грязная крыса!"
+  },
+  {
+   "id": 29,
+   "en": "Stand and fight, you\ngutless coward!",
+   "ru": "Стой и дерись, трус!"
+  },
+  {
+   "id": 30,
+   "en": "I can take anything\nyou're giving!",
+   "ru": "Я выдержу что\nугодно!"
+  },
+  {
+   "id": 31,
+   "en": "Ooooofff!!",
+   "ru": "У-у-ух!!"
+  },
+  {
+   "id": 32,
+   "en": "My revenge will be\nyour death!",
+   "ru": "Моя месть — твоя\nсмерть!"
+  },
+  {
+   "id": 33,
+   "en": "This is just a minor\nsetback! Seriously!",
+   "ru": "Это мелкая неудача!\nСерьёзно!"
+  },
+  {
+   "id": 34,
+   "en": "Hello, hello!",
+   "ru": "Привет-привет!"
+  },
+  {
+   "id": 35,
+   "en": "Not a chance!",
+   "ru": "Не выйдет!"
+  },
+  {
+   "id": 36,
+   "en": "Go away, knave!",
+   "ru": "Прочь, холоп!"
+  },
+  {
+   "id": 37,
+   "en": "Accept your fate!",
+   "ru": "Смирись с судьбой!"
+  },
+  {
+   "id": 38,
+   "en": "Saw you coming!",
+   "ru": "Я тебя видел!"
+  },
+  {
+   "id": 39,
+   "en": "Impossible! I have to\nWIN this battle!",
+   "ru": "Невозможно! Я\nДОЛЖЕН победить!"
+  },
+  {
+   "id": 40,
+   "en": "Ha, ha, ha! It's yet\nanother kill for me!",
+   "ru": "Ха-ха-ха! Ещё один\nна мой счёт!"
+  },
+  {
+   "id": 41,
+   "en": "That was ALL me!",
+   "ru": "Это всё Я!"
+  },
+  {
+   "id": 42,
+   "en": "Did I win AGAIN?",
+   "ru": "Я что, СНОВА\nпобедил?"
+  },
+  {
+   "id": 43,
+   "en": "I make this armor\nlook GOOD!",
+   "ru": "В этих доспехах я\nКРАСАВЕЦ!"
+  },
+  {
+   "id": 44,
+   "en": "Haaaaaah!",
+   "ru": "Ха-а-а-а!"
+  },
+  {
+   "id": 45,
+   "en": "Waaaaaah!",
+   "ru": "Ва-а-а-а!"
+  },
+  {
+   "id": 46,
+   "en": "How about this?!",
+   "ru": "А как тебе это?!"
+  },
+  {
+   "id": 47,
+   "en": "Curse you!",
+   "ru": "Будь ты проклят!"
+  },
+  {
+   "id": 48,
+   "en": "Raaaaaah!",
+   "ru": "Р-ра-а-а-а!"
+  },
+  {
+   "id": 49,
+   "en": "You sack of dung!",
+   "ru": "Мешок навоза!"
+  },
+  {
+   "id": 50,
+   "en": "Prepare yourself for\npure pain!",
+   "ru": "Готовься к чистой\nболи!"
+  },
+  {
+   "id": 51,
+   "en": "Take a look at my\nawesome technique!",
+   "ru": "Зацени мою технику!"
+  },
+  {
+   "id": 52,
+   "en": "This will hurt you\nmuch more than me!",
+   "ru": "Тебе будет больнее,\nчем мне!"
+  },
+  {
+   "id": 53,
+   "en": "I'll knock you flat on\nyour sorry arse!",
+   "ru": "Сейчас шлёпнешься\nна свою задницу!"
+  },
+  {
+   "id": 54,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 55,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 56,
+   "en": "Ohmmmm. Ohmmmm!\nOraaahhh!!",
+   "ru": "Ом-м-м. Ом-м-м!\nОра-а-а!!"
+  },
+  {
+   "id": 57,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 58,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 59,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 60,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 61,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 62,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 63,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 64,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 65,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 66,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 67,
+   "en": "",
+   "ru": ""
+  }
+ ]
+}

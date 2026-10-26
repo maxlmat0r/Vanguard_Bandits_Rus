@@ -1,0 +1,146 @@
+{
+ "file": 556,
+ "kind": "story",
+ "lines": [
+  {
+   "id": 0,
+   "en": "Yours was a valiant effort, sweet\nSadira! You have earned my respect,\nand my cooperation!",
+   "ru": "Доблестная была попытка, милая\nСадира! Ты заслужила моё\nуважение и мою поддержку!"
+  },
+  {
+   "id": 1,
+   "en": "Thank you, Logan. I only wish we\nhad put up more of a...huh?",
+   "ru": "Спасибо, Логан. Жаль лишь, что\nмы не оказали большего... а?"
+  },
+  {
+   "id": 2,
+   "en": "I thought you said we had to defeat\nyou to earn an alliance with you!",
+   "ru": "Вы же сказали, что для союза мы\nдолжны вас победить!"
+  },
+  {
+   "id": 3,
+   "en": "Dad just wanted to, like, have a good\nfight, Sadira!",
+   "ru": "Папа просто, типа, хотел\nхорошенько подраться, Садира!"
+  },
+  {
+   "id": 4,
+   "en": "The alliance thing was totally an\nexcuse to trick you into fighting him!\nAnd it SO worked on you!",
+   "ru": "Союз - это была реально\nотговорка, чтобы заманить тебя\nв бой! И ведь ТАК сработало!"
+  },
+  {
+   "id": 5,
+   "en": "Is this true, Duke Logan?!",
+   "ru": "Это правда, герцог Логан?!"
+  },
+  {
+   "id": 6,
+   "en": "Completely true, darling Sadira. I've\nbeen hungering for a good sparring\nmatch, and you gave me one!",
+   "ru": "Чистая правда, дорогая Садира.\nЯ истосковался по хорошему\nпоединку, и ты мне его дала!"
+  },
+  {
+   "id": 7,
+   "en": "See? I told you!",
+   "ru": "Видишь? Я же говорила!"
+  },
+  {
+   "id": 8,
+   "en": "I do understand why you tricked us.\nI doubt I would have agreed to battle\nyou simply for sport.",
+   "ru": "Я понимаю, зачем вы нас\nобманули. Вряд ли я согласилась\nбы драться просто так."
+  },
+  {
+   "id": 9,
+   "en": "But I do hope that you won't trick me\nagain, now that we're allies!",
+   "ru": "Но надеюсь, теперь, когда мы\nсоюзники, вы не будете меня\nобманывать!"
+  },
+  {
+   "id": 10,
+   "en": "(Perhaps I should write that clause\ninto the treaty, just to be sure.)",
+   "ru": "(Пожалуй, стоит вписать это в\nдоговор, на всякий случай.)"
+  },
+  {
+   "id": 11,
+   "en": "I would love to stay and speak more\nwith you, Duke Logan, but I'm afraid\nwe're in somewhat of a rush.",
+   "ru": "Я бы охотно поговорила ещё,\nгерцог Логан, но, боюсь, мы\nспешим."
+  },
+  {
+   "id": 12,
+   "en": "You're in a hurry?",
+   "ru": "Вы спешите?"
+  },
+  {
+   "id": 13,
+   "en": "Then I totally have to go and get all\nmy stuff ready!",
+   "ru": "Тогда мне реально надо пойти\nсобрать вещи!"
+  },
+  {
+   "id": 14,
+   "en": "What? And why are YOU in a hurry,\nRedhead-in-a-Bottle?",
+   "ru": "Что? А ТЫ-то куда спешишь,\nкрашеная рыжая?"
+  },
+  {
+   "id": 15,
+   "en": "Like, DUH! Because I'm totally going\nwith you, of course! Are you getting\nexcited or what?!",
+   "ru": "Типа, АЛЁ! Я же реально еду с\nвами! Ну что, рада или как?!"
+  },
+  {
+   "id": 16,
+   "en": "Oh, Claire, I'm so excited, I'm about\nto scream...at your father for coming\nup with this awful idea!",
+   "ru": "Ох, Клэр, я так рада, что сейчас\nзакричу... на твоего отца за эту\nужасную идею!"
+  },
+  {
+   "id": 17,
+   "en": "You wanted us to be your allies,\nright? Coming with you is totally\nthe best alliance of all!",
+   "ru": "Вы же хотели союзников? Поехать\nс вами - реально лучший союз из\nвсех!"
+  },
+  {
+   "id": 18,
+   "en": "Miss Claire, the preparations on your\nATAC are complete. I supervised the\nwork from beginning to end.",
+   "ru": "Госпожа Клэр, ваш АТАК готов. Я\nлично руководил работами от\nначала до конца."
+  },
+  {
+   "id": 19,
+   "en": "You're SO sweet, Shion!",
+   "ru": "Ты ТАКОЙ милый, Шион!"
+  },
+  {
+   "id": 20,
+   "en": "Duke Logan, I strongly advise you to\nreconsider! I cannot guarantee your\ndaughter's safety!",
+   "ru": "Герцог Логан, советую\nпередумать! Я не могу ручаться\nза безопасность вашей дочери!"
+  },
+  {
+   "id": 21,
+   "en": "Sadira, you and your friends are\nskilled fighters. My sweet Claire will\nbe fine! I will miss you, darling...",
+   "ru": "Садира, вы умелые бойцы. Моя\nмилая Клэр не пропадёт! Я буду\nскучать, дорогая..."
+  },
+  {
+   "id": 22,
+   "en": "Like, I'll miss you too, Daddy! How\nabout a hug?",
+   "ru": "Типа, я тоже буду скучать, папа!\nОбнимемся?"
+  },
+  {
+   "id": 23,
+   "en": "Claire, you know how I feel about\npublic displays of affection.",
+   "ru": "Клэр, ты знаешь, как я отношусь\nк нежностям на людях."
+  },
+  {
+   "id": 24,
+   "en": "I can't believe that I'm forced to\ntravel with the girl who stole my\nboyfriend in military school!",
+   "ru": "Не верится, что придётся ехать с\nдевчонкой, которая увела моего\nпарня в военной школе!"
+  },
+  {
+   "id": 25,
+   "en": "What's wrong, Sadira? Afraid of a\nlittle competition for my affections?\nHeh, heh, heh.",
+   "ru": "Что такое, Садира? Боишься\nсоперничества за моё внимание?\nХе-хе-хе."
+  },
+  {
+   "id": 26,
+   "en": "You should be happy, Princess! Now\nwe have SIX party members!",
+   "ru": "Радуйтесь, принцесса! Теперь нас\nШЕСТЕРО!"
+  },
+  {
+   "id": 27,
+   "en": "Alright, already! Come along, Claire,\nbefore I come to my senses...",
+   "ru": "Ладно, ладно! Пошли, Клэр, пока\nя не опомнилась..."
+  }
+ ]
+}

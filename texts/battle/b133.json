@@ -1,0 +1,336 @@
+{
+ "file": 133,
+ "kind": "battle",
+ "lines": [
+  {
+   "id": 0,
+   "en": "All right! I have come! Show\nyourselves and lay your demands\nbefore me!",
+   "ru": "Я пришёл! Покажитесь и\nвыкладывайте свои требования!"
+  },
+  {
+   "id": 1,
+   "en": "Or are you too cowardly to show\nyour faces?",
+   "ru": "Или вы слишком трусливы,\nчтобы показать лица?"
+  },
+  {
+   "id": 2,
+   "en": "I have been waiting, Duke Zeira...\nfor too long...",
+   "ru": "Я ждал, герцог Зейра... слишком\nдолго..."
+  },
+  {
+   "id": 3,
+   "en": "Sergeant Kaidul?! YOU'RE the one\nleading this rebellion?",
+   "ru": "Сержант Кайдул?! ТЫ\nвозглавляешь этот мятеж?"
+  },
+  {
+   "id": 4,
+   "en": "Have you taken leave of your god-\ngiven senses, man?!",
+   "ru": "Ты в своём уме, приятель?!"
+  },
+  {
+   "id": 5,
+   "en": "Sergeant Kaidul is responsible for\nthis? Ione's own father is attempting\nto seize control of Avalon?!",
+   "ru": "За этим стоит сержант Кайдул?\nРодной отец Ионы пытается\nзахватить Авалон?!"
+  },
+  {
+   "id": 6,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 7,
+   "en": "I'm not insane, Zeira. Maybe you are\nthe one who's gone crazy...",
+   "ru": "Я не безумен, Зейра. Может, это\nты спятил..."
+  },
+  {
+   "id": 8,
+   "en": "What are you talking about?!",
+   "ru": "О чём ты?!"
+  },
+  {
+   "id": 9,
+   "en": "I have many questions for you, Duke\nZeira. It's hard for me to decide what\nto ask first.",
+   "ru": "У меня к вам много вопросов,\nгерцог Зейра. Трудно решить, с\nчего начать."
+  },
+  {
+   "id": 10,
+   "en": "Then I'll go first. If you just\nwished to talk, why did you take\nthis city hostage?!",
+   "ru": "Тогда начну я. Если ты хотел\nлишь поговорить, зачем взял\nгород в заложники?!"
+  },
+  {
+   "id": 11,
+   "en": "Because I needed your full and\nundivided attention, Zeira! And\nI certainly have it now!",
+   "ru": "Мне нужно было всё ваше\nвнимание, Зейра! И теперь оно у\nменя есть!"
+  },
+  {
+   "id": 12,
+   "en": "Forget the questions, Zeira. Let's get\nstraight to my demands.",
+   "ru": "Забудем вопросы, Зейра. Перейдём\nк моим требованиям."
+  },
+  {
+   "id": 13,
+   "en": "I want you to cease your alliance\nwith the Kingdom.",
+   "ru": "Я хочу, чтобы вы разорвали союз\nс Королевством."
+  },
+  {
+   "id": 14,
+   "en": "Why should I do something so very\nfoolhardy?",
+   "ru": "С чего бы мне делать такую\nглупость?"
+  },
+  {
+   "id": 15,
+   "en": "Avalon has already been devastated\nby war, Duke Zeira.",
+   "ru": "Авалон и так разорён войной,\nгерцог Зейра."
+  },
+  {
+   "id": 16,
+   "en": "We can barely afford to fight our\nown wars, let alone get involved with\nthe battles of others.",
+   "ru": "Нам едва хватает сил на свои\nвойны, не то что ввязываться в\nчужие."
+  },
+  {
+   "id": 17,
+   "en": "We need to start worrying about our\nown people, Duke Zeira! The Kingdom\nriffraff don't matter.",
+   "ru": "Пора позаботиться о своём\nнароде, герцог Зейра! До сброда\nиз Королевства нам дела нет."
+  },
+  {
+   "id": 18,
+   "en": "You seem to have conveniently\nforgotten the many times our country\nhas been helped by the Kingdom!",
+   "ru": "Ты удобно забыл, сколько раз\nКоролевство помогало нашей\nстране!"
+  },
+  {
+   "id": 19,
+   "en": "Of course not, Zeira, but the Kingdom\nnow has Ultragunner, and the power\nto defeat the Empire.",
+   "ru": "Вовсе нет, Зейра, но у Королевства\nтеперь Ультраганнер и сила,\nчтобы победить Империю."
+  },
+  {
+   "id": 20,
+   "en": "They no longer have any need of the\nAvalon Corps.",
+   "ru": "Корпус Авалона им больше не\nнужен."
+  },
+  {
+   "id": 21,
+   "en": "One ATAC is not enough to win the\nwar, Kaidul, let alone enough to\nwage it.",
+   "ru": "Одного АТАКа мало, чтобы\nвыиграть войну, Кайдул, да и\nчтобы вести её."
+  },
+  {
+   "id": 22,
+   "en": "If the Imperial Army launched a\nmassive strike, there'd be no way\nfor the Kingdom Army to stop it.",
+   "ru": "Если имперская армия ударит\nвсей мощью, Королевству её не\nостановить."
+  },
+  {
+   "id": 23,
+   "en": "And if the Kingdom is crushed,\nAvalon is most certainly next.",
+   "ru": "А если Королевство раздавят,\nАвалон будет следующим."
+  },
+  {
+   "id": 24,
+   "en": "We should negotiate with the Empire\ninstead of fighting them, Zeira.",
+   "ru": "Нужно договариваться с\nИмперией, а не воевать с ней,\nЗейра."
+  },
+  {
+   "id": 25,
+   "en": "A treaty is the only way that we can\nassure the safety of Avalon! Why do\nyou fail to see that?",
+   "ru": "Только договор обеспечит\nбезопасность Авалона! Почему вы\nэтого не видите?"
+  },
+  {
+   "id": 26,
+   "en": "You haven't considered what a great\nthreat the Empire really poses!!",
+   "ru": "Ты не понимаешь, какую угрозу\nна самом деле несёт Империя!!"
+  },
+  {
+   "id": 27,
+   "en": "And you don't understand what kind\nof man Faulkner is! He'd sooner kill\nus all than sign a treaty!",
+   "ru": "И не понимаешь, что за человек\nФолкнер! Он скорее всех нас убьёт,\nчем подпишет договор!"
+  },
+  {
+   "id": 28,
+   "en": "Avalon Soldier 1:\nDon't move!",
+   "ru": "Авалонский солдат 1:\nНе двигаться!"
+  },
+  {
+   "id": 29,
+   "en": "What are you doing?!",
+   "ru": "Что вы делаете?!"
+  },
+  {
+   "id": 30,
+   "en": "Avalon Soldier 2:\nWe're going to slay Duke Zeira! What\ndoes it look like, fool?",
+   "ru": "Авалонский солдат 2:\nУбиваем герцога Зейру! А на что\nпохоже, дурень?"
+  },
+  {
+   "id": 31,
+   "en": "I didn't order THAT! Get back!",
+   "ru": "Я этого НЕ приказывал! Назад!"
+  },
+  {
+   "id": 32,
+   "en": "Didn't you hear me?! Get away from\nDuke Zeira immediately!!",
+   "ru": "Вы не слышали?! Немедленно\nотойдите от герцога Зейры!!"
+  },
+  {
+   "id": 33,
+   "en": "Avalon Soldier 1:\nKaidul, your way is not the best\ncourse. We have decided there is\na better way.",
+   "ru": "Авалонский солдат 1:\nТвой путь не лучший, Кайдул. Мы\nрешили, что есть путь получше."
+  },
+  {
+   "id": 34,
+   "en": "Avalon Soldier 2:\nWe are going to seek asylum within\nthe Empire in exchange for the head\nof Duke Zeira.",
+   "ru": "Авалонский солдат 2:\nМы попросим убежища в Империи\nв обмен на голову герцога Зейры."
+  },
+  {
+   "id": 35,
+   "en": "This is outrageous!",
+   "ru": "Это возмутительно!"
+  },
+  {
+   "id": 36,
+   "en": "You promised that you would harm\nneither Duke Zeira nor the people of\nAvalon!",
+   "ru": "Вы обещали не причинять вреда\nни герцогу Зейре, ни жителям\nАвалона!"
+  },
+  {
+   "id": 37,
+   "en": "Avalon Soldier 1:\nWe did. And we lied.",
+   "ru": "Авалонский солдат 1:\nОбещали. И солгали."
+  },
+  {
+   "id": 38,
+   "en": "You're of no use to us anymore, so\nwhy don't you leave before we claim\nyour head as well?",
+   "ru": "Ты нам больше не нужен, так что\nубирайся, пока мы и твою голову\nне забрали."
+  },
+  {
+   "id": 39,
+   "en": "I will kill you all for this betrayal!",
+   "ru": "Я убью вас всех за это\nпредательство!"
+  },
+  {
+   "id": 40,
+   "en": "Avalon Soldier 1:\nIf you attack us, Kaidul, you assure\nthe painful deaths of all the hostages\nwe have taken.",
+   "ru": "Авалонский солдат 1:\nНападёшь на нас, Кайдул, - и все\nзаложники умрут мучительной\nсмертью."
+  },
+  {
+   "id": 41,
+   "en": "Is that what you want?",
+   "ru": "Ты этого хочешь?"
+  },
+  {
+   "id": 42,
+   "en": "Damn you! All of you!",
+   "ru": "Будьте вы прокляты! Все!"
+  },
+  {
+   "id": 43,
+   "en": "Duke Zeira, I was a fool! This is\nall my fault!",
+   "ru": "Герцог Зейра, я был глупцом! Это\nвсё моя вина!"
+  },
+  {
+   "id": 44,
+   "en": "I deserve to die for my stupidity, and\nI pray you will be able to forgive me\nin time.",
+   "ru": "Я заслужил смерть за свою\nглупость и молю, чтобы со\nвременем вы меня простили."
+  },
+  {
+   "id": 45,
+   "en": "I would do anything to take all of\nthis back...anything at all...",
+   "ru": "Я бы отдал что угодно, чтобы\nвсё вернуть... что угодно..."
+  },
+  {
+   "id": 46,
+   "en": "Avalon Soldier 1:\nNow then, Duke Zeira. We hope you\nwill die more honorably.",
+   "ru": "Авалонский солдат 1:\nНу что ж, герцог Зейра. Надеемся,\nвы умрёте достойнее."
+  },
+  {
+   "id": 47,
+   "en": "Avalon Soldier 2:\nDon't forget his companions!",
+   "ru": "Авалонский солдат 2:\nНе забудьте его спутников!"
+  },
+  {
+   "id": 48,
+   "en": "Duke Zeira!",
+   "ru": "Герцог Зейра!"
+  },
+  {
+   "id": 49,
+   "en": "They have me surrounded, Bastion!\nAll hope is lost!",
+   "ru": "Меня окружили, Бастион! Всё\nкончено!"
+  },
+  {
+   "id": 50,
+   "en": "There must be something we can do\nto help Zeira!",
+   "ru": "Должен быть способ помочь\nЗейре!"
+  },
+  {
+   "id": 51,
+   "en": "Zeira! I won't let them do this to you!",
+   "ru": "Зейра! Я не позволю им это\nсделать!"
+  },
+  {
+   "id": 52,
+   "en": "Don't worry about me, Bastion!\nSave yourself! Flee!",
+   "ru": "Не думай обо мне, Бастион!\nСпасайся! Беги!"
+  },
+  {
+   "id": 53,
+   "en": "You mustn't stay to see what they\ndo to me. I'm pleading with you! GO!!!",
+   "ru": "Не смотри, что они со мной\nсделают. Умоляю тебя! УХОДИ!!!"
+  },
+  {
+   "id": 54,
+   "en": "Duke Zeira! I'm sorry that it took me\nso long to find you!",
+   "ru": "Герцог Зейра! Простите, что я\nтак долго вас искала!"
+  },
+  {
+   "id": 55,
+   "en": "I've managed to rescue all the people\nwho were taken hostage!",
+   "ru": "Мне удалось спасти всех\nзаложников!"
+  },
+  {
+   "id": 56,
+   "en": "It is the countenance of an angel\nI behold! Superb timing, Ione.",
+   "ru": "Я вижу лик ангела! Превосходно\nвовремя, Иона."
+  },
+  {
+   "id": 57,
+   "en": "You heard what she said, Bastion!\nThese scum have no hostages to\nnegotiate with anymore.",
+   "ru": "Слышал, Бастион? Заложников у\nэтих мерзавцев больше нет."
+  },
+  {
+   "id": 58,
+   "en": "Now they shall enjoy a taste\nof their own medicine.",
+   "ru": "Пусть теперь отведают\nсобственного лекарства."
+  },
+  {
+   "id": 59,
+   "en": "Your words are music to my ears!",
+   "ru": "Твои слова - музыка для моих\nушей!"
+  },
+  {
+   "id": 60,
+   "en": "Bastion! I'm sorry that it took me so\nlong to find you!",
+   "ru": "Бастион! Прости, что так долго\nтебя искала!"
+  },
+  {
+   "id": 61,
+   "en": "I've managed to rescue all the people\nwho were being held hostage!",
+   "ru": "Мне удалось спасти всех, кого\nдержали в заложниках!"
+  },
+  {
+   "id": 62,
+   "en": "That's wonderful news, Ione!",
+   "ru": "Чудесная новость, Иона!"
+  },
+  {
+   "id": 63,
+   "en": "It's time to pay them back for what\nthey did to Zeira!",
+   "ru": "Пора отплатить им за то, что\nони сделали с Зейрой!"
+  },
+  {
+   "id": 64,
+   "en": "I believe it's...over.",
+   "ru": "Кажется... всё кончено."
+  },
+  {
+   "id": 65,
+   "en": "Ione's father...a traitor?",
+   "ru": "Отец Ионы... предатель?"
+  }
+ ]
+}

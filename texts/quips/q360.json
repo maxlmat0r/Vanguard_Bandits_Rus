@@ -1,0 +1,346 @@
+{
+ "file": 360,
+ "kind": "quip",
+ "lines": [
+  {
+   "id": 0,
+   "en": "From the left?",
+   "ru": "Слева?"
+  },
+  {
+   "id": 1,
+   "en": "Idiot!",
+   "ru": "Идиот!"
+  },
+  {
+   "id": 2,
+   "en": "From the right?",
+   "ru": "Справа?"
+  },
+  {
+   "id": 3,
+   "en": "Fool!",
+   "ru": "Глупец!"
+  },
+  {
+   "id": 4,
+   "en": "Hmmph! Is that all?",
+   "ru": "Хм! И это всё?"
+  },
+  {
+   "id": 5,
+   "en": "You're an annoying\nlittle insect!",
+   "ru": "Ты назойливое\nнасекомое!"
+  },
+  {
+   "id": 6,
+   "en": "You dare strike me?!",
+   "ru": "Ты смеешь бить\nменя?!"
+  },
+  {
+   "id": 7,
+   "en": "That's not very\nfriendly!",
+   "ru": "Как-то это\nнедружелюбно!"
+  },
+  {
+   "id": 8,
+   "en": "How dare you do this\nto me?!",
+   "ru": "Как ты смеешь так\nсо мной?!"
+  },
+  {
+   "id": 9,
+   "en": "Aargh!",
+   "ru": "Аргх!"
+  },
+  {
+   "id": 10,
+   "en": "You lowly scum!",
+   "ru": "Ничтожная мразь!"
+  },
+  {
+   "id": 11,
+   "en": "Revenge will be mine!",
+   "ru": "Я отомщу!"
+  },
+  {
+   "id": 12,
+   "en": "ARRGGHHH!!",
+   "ru": "А-А-РГХ!!"
+  },
+  {
+   "id": 13,
+   "en": "What are you trying\nto do, kill me?!",
+   "ru": "Ты что, убить меня\nхочешь?!"
+  },
+  {
+   "id": 14,
+   "en": "How dare you strike\nroyalty!",
+   "ru": "Как ты смеешь бить\nкоролевскую особу!"
+  },
+  {
+   "id": 15,
+   "en": "I don't approve of\nyour attitude!",
+   "ru": "Мне не нравится твоё\nповедение!"
+  },
+  {
+   "id": 16,
+   "en": "This cannot be!",
+   "ru": "Этого не может\nбыть!"
+  },
+  {
+   "id": 17,
+   "en": "That I would lose to\na fool like you!",
+   "ru": "Проиграть такому\nглупцу, как ты!"
+  },
+  {
+   "id": 18,
+   "en": "AHHHHHH!!",
+   "ru": "А-А-А-А!!"
+  },
+  {
+   "id": 19,
+   "en": "This is definitely NOT\nalright!",
+   "ru": "Так дело точно НЕ\nпойдёт!"
+  },
+  {
+   "id": 20,
+   "en": "You bloody coward!",
+   "ru": "Подлый трус!"
+  },
+  {
+   "id": 21,
+   "en": "You strike me\nfrom behind?!",
+   "ru": "Удар в спину?!"
+  },
+  {
+   "id": 22,
+   "en": "I deflected that with\nmy breath!",
+   "ru": "Я отразил это одним\nдыханием!"
+  },
+  {
+   "id": 23,
+   "en": "Ha, ha, ha, ha, ha!\nYou crack me up!",
+   "ru": "Ха-ха-ха-ха! Ну ты\nменя насмешил!"
+  },
+  {
+   "id": 24,
+   "en": "Ha! Too bad for you!",
+   "ru": "Ха! Не повезло тебе!"
+  },
+  {
+   "id": 25,
+   "en": "That puny attack\nwon't hit me!",
+   "ru": "Этот жалкий удар\nменя не заденет!"
+  },
+  {
+   "id": 26,
+   "en": "You think you're\nbetter than me?!",
+   "ru": "Думаешь, ты лучше\nменя?!"
+  },
+  {
+   "id": 27,
+   "en": "You dodged?!",
+   "ru": "Увернулся?!"
+  },
+  {
+   "id": 28,
+   "en": "What was that?!",
+   "ru": "Это что было?!"
+  },
+  {
+   "id": 29,
+   "en": "You will pay dearly\nfor that!",
+   "ru": "Ты дорого за это\nзаплатишь!"
+  },
+  {
+   "id": 30,
+   "en": "Crap on a Krispy\nKreme!",
+   "ru": "Ёшкин кот с\nпончиком!"
+  },
+  {
+   "id": 31,
+   "en": "The pain you feel\nwill be much worse!",
+   "ru": "Твоя боль будет куда\nсильнее!"
+  },
+  {
+   "id": 32,
+   "en": "Is--is that all you can\ndo?!",
+   "ru": "И-и это всё, на что\nты способен?!"
+  },
+  {
+   "id": 33,
+   "en": "How dare you!",
+   "ru": "Да как ты смеешь!"
+  },
+  {
+   "id": 34,
+   "en": "Got you back!",
+   "ru": "Получи сдачи!"
+  },
+  {
+   "id": 35,
+   "en": "Your attacks are\nmuch too obvious!",
+   "ru": "Твои атаки слишком\nпредсказуемы!"
+  },
+  {
+   "id": 36,
+   "en": "I will spit on your\nshallow grave!",
+   "ru": "Я плюну на твою\nбезымянную могилу!"
+  },
+  {
+   "id": 37,
+   "en": "That's not fair!",
+   "ru": "Так нечестно!"
+  },
+  {
+   "id": 38,
+   "en": "Get away from me!",
+   "ru": "Отстань от меня!"
+  },
+  {
+   "id": 39,
+   "en": "A temporary setback!",
+   "ru": "Временная неудача!"
+  },
+  {
+   "id": 40,
+   "en": "I win and you lose. Just\nas it should be!",
+   "ru": "Я выиграл, ты\nпроиграл. Всё верно!"
+  },
+  {
+   "id": 41,
+   "en": "How pleasant it is to\nwatch you lose!",
+   "ru": "Как приятно видеть\nтвоё поражение!"
+  },
+  {
+   "id": 42,
+   "en": "You thought you\ncould beat me?",
+   "ru": "Думал, сможешь меня\nодолеть?"
+  },
+  {
+   "id": 43,
+   "en": "Ha, ha, ha, ha, ha!\nVictory is mine!",
+   "ru": "Ха-ха-ха-ха! Победа\nза мной!"
+  },
+  {
+   "id": 44,
+   "en": "Aargh!!",
+   "ru": "Аргх!!"
+  },
+  {
+   "id": 45,
+   "en": "I hate you!",
+   "ru": "Ненавижу тебя!"
+  },
+  {
+   "id": 46,
+   "en": "You're mine now!",
+   "ru": "Теперь ты мой!"
+  },
+  {
+   "id": 47,
+   "en": "Eat this!",
+   "ru": "Жри!"
+  },
+  {
+   "id": 48,
+   "en": "Ahhhhhhh!",
+   "ru": "А-а-а-а-а!"
+  },
+  {
+   "id": 49,
+   "en": "How about this?!",
+   "ru": "А как тебе это?!"
+  },
+  {
+   "id": 50,
+   "en": "I'll destroy you!",
+   "ru": "Я тебя уничтожу!"
+  },
+  {
+   "id": 51,
+   "en": "You disturb me!\nGo away!",
+   "ru": "Ты мне мешаешь!\nПрочь!"
+  },
+  {
+   "id": 52,
+   "en": "Don't get in my way,\nyou fool!",
+   "ru": "Не стой у меня на\nпути, глупец!"
+  },
+  {
+   "id": 53,
+   "en": "Get out of my way,\nyou idiot!",
+   "ru": "С дороги, идиот!"
+  },
+  {
+   "id": 54,
+   "en": "Witness the power\nthat I possess!",
+   "ru": "Узри мою мощь!"
+  },
+  {
+   "id": 55,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 56,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 57,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 58,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 59,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 60,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 61,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 62,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 63,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 64,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 65,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 66,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 67,
+   "en": "",
+   "ru": ""
+  }
+ ]
+}

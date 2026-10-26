@@ -1,0 +1,5 @@
+*.xdelta binary
+*.tim binary
+*.png binary
+texts/**/*.json text eol=lf
+assets/*.bin binary

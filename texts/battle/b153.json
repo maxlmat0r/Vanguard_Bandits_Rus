@@ -1,0 +1,306 @@
+{
+ "file": 153,
+ "kind": "battle",
+ "lines": [
+  {
+   "id": 0,
+   "en": "Hey, guys! I'm glad you made it!",
+   "ru": "Привет, ребята! Рад, что\nдобрались!"
+  },
+  {
+   "id": 1,
+   "en": "(Him?!)",
+   "ru": "(Он?!)"
+  },
+  {
+   "id": 2,
+   "en": "Okay, now are any of you confused\nabout the purpose of this ambush?",
+   "ru": "Ну что, кому-нибудь непонятно,\nзачем эта засада?"
+  },
+  {
+   "id": 3,
+   "en": "Sir, we are traveling to Dionne-Lehve\nto speak with the Marquis. I am--",
+   "ru": "Сударь, мы едем в Дионн-Леве к\nмаркизу. Я--"
+  },
+  {
+   "id": 4,
+   "en": "You don't have to say a word, miss.\nIn fact, the only word I like to hear\nfrom a woman is 'yes.'",
+   "ru": "Можешь не говорить, барышня.\nОт женщины я люблю слышать\nлишь одно слово: \"да\"."
+  },
+  {
+   "id": 5,
+   "en": "You're Sadira, the Imperial Princess,\nbeing escorted by the unlikely duo of\nFranco and Halak.",
+   "ru": "Ты Садира, имперская принцесса,\nпод охраной странной парочки -\nФранко и Халак."
+  },
+  {
+   "id": 6,
+   "en": "The two other lovely ladies in your\nparty are Duke Logan's daughter,\nClaire, and Cecilia the mercenary.",
+   "ru": "Две другие милашки в отряде -\nдочь герцога Логана Клэр и\nнаёмница Сесилия."
+  },
+  {
+   "id": 7,
+   "en": "And last, but certainly not least...",
+   "ru": "И последний, но не по значению..."
+  },
+  {
+   "id": 8,
+   "en": "His Royal Highness, Prince Bastion,\nheir to the throne of the Pharastia\nKingdom.",
+   "ru": "Его Королевское Высочество,\nпринц Бастион, наследник трона\nКоролевства Фарастия."
+  },
+  {
+   "id": 9,
+   "en": "How...?!",
+   "ru": "Как...?!"
+  },
+  {
+   "id": 10,
+   "en": "What...?!",
+   "ru": "Что...?!"
+  },
+  {
+   "id": 11,
+   "en": "How do you know all that? My\nlineage is not common knowledge!",
+   "ru": "Откуда ты всё это знаешь? О\nмоём происхождении мало кто\nзнает!"
+  },
+  {
+   "id": 12,
+   "en": "Aw, buddy, don't say that you've\nalready forgotten about me! That\nreally hurts, man!",
+   "ru": "Ой, дружище, неужели ты меня\nуже забыл? Вот это обидно!"
+  },
+  {
+   "id": 13,
+   "en": "Then again, we didn't get to hang out\nfor long, so I can forgive your forget-\nfulness--this time.",
+   "ru": "Впрочем, мы недолго тусовались,\nтак что прощаю тебе\nзабывчивость - на этот раз."
+  },
+  {
+   "id": 14,
+   "en": "That voice...that manner of speech...",
+   "ru": "Этот голос... эта манера\nговорить..."
+  },
+  {
+   "id": 15,
+   "en": "It's all coming back to you, isn't it?\nNo one forgets the first time they laid\neyes on the Andrew-nator!",
+   "ru": "Вспоминаешь, да? Никто не\nзабывает, как впервые увидел\nЭндрю-натора!"
+  },
+  {
+   "id": 16,
+   "en": "And even then, you knew who I was?\nWho I really was?",
+   "ru": "И уже тогда ты знал, кто я? Кто\nя на самом деле?"
+  },
+  {
+   "id": 17,
+   "en": "Indeedy I did, buddy. Hey, after all,\nknowledge is power!",
+   "ru": "Ещё как знал, дружище. Знание -\nсила!"
+  },
+  {
+   "id": 18,
+   "en": "This is excellent news, Andrew-nator!\nSince you know of Bastion's lineage,\nyou'll understand why we're here!",
+   "ru": "Отлично, Эндрю-натор! Раз ты\nзнаешь, кто Бастион, ты\nпоймёшь, зачем мы здесь!"
+  },
+  {
+   "id": 19,
+   "en": "We're going to ask Marquis Dionne for\nthe sealing stone, Gratia, with which\nBastion can revive Ultragunner!",
+   "ru": "Мы попросим у маркиза Дионна\nкамень-печать Гратию, чтобы\nБастион пробудил Ультраганнер!"
+  },
+  {
+   "id": 20,
+   "en": "Dionne has Gratia? Man, I thought I\nknew all his secrets! Oh, and by the\nway, it's just 'Andrew,' little miss!",
+   "ru": "Гратия у Дионна? Надо же, а я\nдумал, что знаю все его секреты!\nИ просто \"Эндрю\", малышка!"
+  },
+  {
+   "id": 21,
+   "en": "You work for Dionne, Andrew? That's\nexcellent! Perhaps you could\nescort us to Dionne's castle?",
+   "ru": "Ты работаешь на Дионна,\nЭндрю? Отлично! Может,\nпроводишь нас к замку Дионна?"
+  },
+  {
+   "id": 22,
+   "en": "No can do, little lady.",
+   "ru": "Никак нельзя, малышка."
+  },
+  {
+   "id": 23,
+   "en": "Why not?!",
+   "ru": "Почему?!"
+  },
+  {
+   "id": 24,
+   "en": "Because you have to pass a pop quiz\nof strength and bravery. And guess\nwho your teacher is?",
+   "ru": "Вам предстоит экзамен на силу и\nхрабрость. Угадайте, кто\nэкзаменатор?"
+  },
+  {
+   "id": 25,
+   "en": "Attack!!",
+   "ru": "В атаку!!"
+  },
+  {
+   "id": 26,
+   "en": "You must've been surprised to learn\nthe truth about your father, Bastion.\nSorry I couldn't tell you myself.",
+   "ru": "Ты, наверное, удивился, узнав\nправду об отце, Бастион. Прости,\nчто не смог рассказать сам."
+  },
+  {
+   "id": 27,
+   "en": "I was indeed surprised, Andrew--but\nnot as surprised as you're going to be\nwhen I pass your test!",
+   "ru": "Удивился, Эндрю, но не так\nсильно, как удивишься ты, когда\nя пройду твоё испытание!"
+  },
+  {
+   "id": 28,
+   "en": "I will revive the Ultragunner, and I\nwill bring peace to the Continent!",
+   "ru": "Я пробужу Ультраганнер и\nпринесу Континенту мир!"
+  },
+  {
+   "id": 29,
+   "en": "I like the confidence, buddy, but\nlet's see if you can back up your\nmouth with some muscle!",
+   "ru": "Люблю уверенность, дружище, но\nпосмотрим, подкрепишь ли ты\nслова мускулами!"
+  },
+  {
+   "id": 30,
+   "en": "It's been a long time, Cecilia.\nHow have you been? Are you still\nas gorgeous as ever?",
+   "ru": "Давно не виделись, Сесилия. Как\nты? Всё так же великолепна?"
+  },
+  {
+   "id": 31,
+   "en": "No comment.",
+   "ru": "Без комментариев."
+  },
+  {
+   "id": 32,
+   "en": "I hear you're quite a tomboy, Sadira.\nDo you like to play rough?",
+   "ru": "Слышал, ты та ещё сорвиголова,\nСадира. Любишь пожёстче?"
+  },
+  {
+   "id": 33,
+   "en": "That's right, Andrew! I like it when\nit's rough and dirty!",
+   "ru": "Верно, Эндрю! Люблю, когда\nгрубо и грязно!"
+  },
+  {
+   "id": 34,
+   "en": "If you weren't dangerously underage,\nI would propose right here and now.",
+   "ru": "Не будь ты опасно\nнесовершеннолетней, я бы сделал\nпредложение прямо сейчас."
+  },
+  {
+   "id": 35,
+   "en": "What?! You pervert! I was talking\nabout the beating I'm going to give\nyou--oh, forget it!!",
+   "ru": "Что?! Извращенец! Я говорила\nпро трёпку, которую тебе задам...\nа, забудь!!"
+  },
+  {
+   "id": 36,
+   "en": "I have heard much about you, Claire.\nQuite a flirt in the military academy,\nfrom what I was told.",
+   "ru": "Много о тебе слышал, Клэр.\nГоворят, в военной академии ты\nбыла та ещё кокетка."
+  },
+  {
+   "id": 37,
+   "en": "Yeah, so what?!",
+   "ru": "Ага, и что?!"
+  },
+  {
+   "id": 38,
+   "en": "Whoa! Calm down, girly! I was just\ntrying to engage you in a little pre-\ncombat conversation, that's all!",
+   "ru": "Ого! Спокойно, девочка! Я просто\nхотел немного поболтать перед\nбоем!"
+  },
+  {
+   "id": 39,
+   "en": "I like to take my time, you see. I never\nrush through anything, if you know\nwhat I mean, and I think you do.",
+   "ru": "Видишь ли, я не люблю спешить.\nНичего не делаю наспех, если\nпонимаешь, о чём я."
+  },
+  {
+   "id": 40,
+   "en": "Then again, there ARE those times\nwhen I'm in the mood for a quick\nclash, if you know what I mean.",
+   "ru": "Хотя бывает, что я в настроении\nдля быстрой схватки, если\nпонимаешь, о чём я."
+  },
+  {
+   "id": 41,
+   "en": "You are, like, SO gross!",
+   "ru": "Ты, типа, ТАКОЙ мерзкий!"
+  },
+  {
+   "id": 42,
+   "en": "I don't know about you, but I'm\nreally starting to feel a connection\nbetween us, Claire. Really.",
+   "ru": "Не знаю, как ты, а я начинаю\nчувствовать между нами связь,\nКлэр. Правда."
+  },
+  {
+   "id": 43,
+   "en": "Why don't we just let the others fight\nand go have a nice conversation over\na pitcher of sun tea?",
+   "ru": "Может, пусть остальные дерутся,\nа мы с тобой мило поболтаем за\nкувшином холодного чая?"
+  },
+  {
+   "id": 44,
+   "en": "Like, WHY am I letting you talk...",
+   "ru": "Типа, ЗАЧЕМ я даю тебе\nболтать..."
+  },
+  {
+   "id": 45,
+   "en": "...when I can totally shut you up?!",
+   "ru": "...если могу реально заткнуть?!"
+  },
+  {
+   "id": 46,
+   "en": "Hit me with everything you've got,\nmy crimson-haired chickie-girl.",
+   "ru": "Давай, бей всем, что есть, моя\nрыженькая цыпочка."
+  },
+  {
+   "id": 47,
+   "en": "AARGH!!",
+   "ru": "АРГХ!!"
+  },
+  {
+   "id": 48,
+   "en": "It is a rare pleasure to engage in\ncombat with a creature as lovely\nas you, dear Halak.",
+   "ru": "Редкое удовольствие - сражаться\nсо столь прелестным созданием,\nдорогая Халак."
+  },
+  {
+   "id": 49,
+   "en": "You make me blush, young one!\nI am very flattered!",
+   "ru": "Вгоняешь в краску меня ты,\nюноша! Очень польщена я!"
+  },
+  {
+   "id": 50,
+   "en": "Perhaps we should consider marriage,\nMmmmmm? Yes.",
+   "ru": "Может, о браке подумать нам,\nммм? Да."
+  },
+  {
+   "id": 51,
+   "en": "Uh, sorry, Halak, but I've already\ndeclared myself a lifelong bachelor!",
+   "ru": "Э-э, прости, Халак, но я дал обет\nвечного холостяцтва!"
+  },
+  {
+   "id": 52,
+   "en": "You're good. Very good!",
+   "ru": "Хороша. Очень хороша!"
+  },
+  {
+   "id": 53,
+   "en": "See you at Dionne's castle!",
+   "ru": "Увидимся в замке Дионна!"
+  },
+  {
+   "id": 54,
+   "en": "I wasn't expecting you to do quite\nthat well, and I hate it when I'm\ncaught off guard.",
+   "ru": "Не ожидал, что вы так хорошо\nсправитесь, а терпеть не могу,\nкогда меня застают врасплох."
+  },
+  {
+   "id": 55,
+   "en": "I'll see you at Dionne's castle.",
+   "ru": "Увидимся в замке Дионна."
+  },
+  {
+   "id": 56,
+   "en": "We did it! We passed the test!",
+   "ru": "У нас получилось! Мы прошли\nиспытание!"
+  },
+  {
+   "id": 57,
+   "en": "Gratia will soon be ours, and then\nthe Ultragunner!",
+   "ru": "Скоро Гратия будет нашей, а за\nней и Ультраганнер!"
+  },
+  {
+   "id": 58,
+   "en": "...   ...   ...",
+   "ru": ""
+  },
+  {
+   "id": 59,
+   "en": "\n\n\n",
+   "ru": ""
+  }
+ ]
+}

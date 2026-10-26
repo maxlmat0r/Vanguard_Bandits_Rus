@@ -1,0 +1,346 @@
+{
+ "file": 380,
+ "kind": "quip",
+ "lines": [
+  {
+   "id": 0,
+   "en": "Ah, there you are.",
+   "ru": "А, вот ты где."
+  },
+  {
+   "id": 1,
+   "en": "Can I see some more\nenthusiasm, please?",
+   "ru": "Можно побольше\nэнтузиазма?"
+  },
+  {
+   "id": 2,
+   "en": "Hello, hello.",
+   "ru": "Приветик-приветик."
+  },
+  {
+   "id": 3,
+   "en": "Can't you attack any\nfaster than that?!",
+   "ru": "А побыстрее нельзя?!"
+  },
+  {
+   "id": 4,
+   "en": "I just felt a very mild\ntingling sensation.",
+   "ru": "Ощутил лёгкое\nпокалывание."
+  },
+  {
+   "id": 5,
+   "en": "Congratulations!\nYou actually hit me!",
+   "ru": "Поздравляю! Ты\nпопал!"
+  },
+  {
+   "id": 6,
+   "en": "I'm here to fight.\nYou're here to lose.",
+   "ru": "Я пришёл драться.\nТы — проиграть."
+  },
+  {
+   "id": 7,
+   "en": "You do realize we're\nnot play-fighting?",
+   "ru": "Мы тут не\nпонарошку, а?"
+  },
+  {
+   "id": 8,
+   "en": "Ouch! How about we\nkiss and make up?",
+   "ru": "Ой! Мир?\nПоцелуемся?"
+  },
+  {
+   "id": 9,
+   "en": "You're better than I\nexpected, dammit.",
+   "ru": "Ты лучше, чем я\nдумал, чёрт."
+  },
+  {
+   "id": 10,
+   "en": "Whoof! That was an\nexcellent attack!",
+   "ru": "Уф! Отличная атака!"
+  },
+  {
+   "id": 11,
+   "en": "Enough practice.\nLet's fight for real!",
+   "ru": "Хватит разминки.\nДеремся всерьёз!"
+  },
+  {
+   "id": 12,
+   "en": "Hey, now! There's no\nneed to show off!",
+   "ru": "Эй, полегче! Не\nвыпендривайся!"
+  },
+  {
+   "id": 13,
+   "en": "I think I just felt my\nkidneys pop!",
+   "ru": "Кажется, у меня\nпочки лопнули!"
+  },
+  {
+   "id": 14,
+   "en": "Are you trying to\nmake me cry?!",
+   "ru": "Хочешь меня\nдо слёз довести?!"
+  },
+  {
+   "id": 15,
+   "en": "I just realized that I\nreally don't like you!",
+   "ru": "Я понял, что ты мне\nне нравишься!"
+  },
+  {
+   "id": 16,
+   "en": "Utter humiliation for\nthe Andrew-nator!",
+   "ru": "Полный позор для\nЭндрюнатора!"
+  },
+  {
+   "id": 17,
+   "en": "So when did I start\nto suck so hard?!",
+   "ru": "С каких пор я стал\nтаким отстоем?!"
+  },
+  {
+   "id": 18,
+   "en": "Oh, the burning! The\nitching! The swelling!",
+   "ru": "Ой, жжёт! Чешется!\nОпухает!"
+  },
+  {
+   "id": 19,
+   "en": "I'm asleep, and this is\nmy worst nightmare!",
+   "ru": "Это сон, мой худший\nкошмар!"
+  },
+  {
+   "id": 20,
+   "en": "You're not allowed\nto hit me there!",
+   "ru": "Туда бить нельзя!"
+  },
+  {
+   "id": 21,
+   "en": "I knew you liked it\nfrom the rear!",
+   "ru": "Я знал, что ты\nлюбишь сзади!"
+  },
+  {
+   "id": 22,
+   "en": "You couldn't hit the\nbroadside of a castle!",
+   "ru": "Ты и в стену замка\nне попадёшь!"
+  },
+  {
+   "id": 23,
+   "en": "You are just SO bad\nat this combat thing!",
+   "ru": "Ты ТАК плохо\nдерёшься!"
+  },
+  {
+   "id": 24,
+   "en": "Were you expecting a\nretarded opponent?",
+   "ru": "Ждал\nпротивника-тупицу?"
+  },
+  {
+   "id": 25,
+   "en": "You are quite sucky\nat this combat thing.",
+   "ru": "Боец из тебя так\nсебе."
+  },
+  {
+   "id": 26,
+   "en": "Oh, poop.",
+   "ru": "Ой, какашки."
+  },
+  {
+   "id": 27,
+   "en": "Now why did you go\nand dodge that, huh?!",
+   "ru": "Ну зачем ты\nувернулся, а?!"
+  },
+  {
+   "id": 28,
+   "en": "What?! You dodged\nmy attack?! HOW?!",
+   "ru": "Что?! Увернулся?!\nКАК?!"
+  },
+  {
+   "id": 29,
+   "en": "I still intend to lay\nthe smack down!",
+   "ru": "Я всё равно тебе\nнаваляю!"
+  },
+  {
+   "id": 30,
+   "en": "Whoa!",
+   "ru": "Ого!"
+  },
+  {
+   "id": 31,
+   "en": "Owww!",
+   "ru": "Ай-ай!"
+  },
+  {
+   "id": 32,
+   "en": "Jerk!",
+   "ru": "Козёл!"
+  },
+  {
+   "id": 33,
+   "en": "Now you've gone and\npissed me off, pal!",
+   "ru": "Ну всё, ты меня\nдостал, приятель!"
+  },
+  {
+   "id": 34,
+   "en": "Hey, now!",
+   "ru": "Эй, ну-ну!"
+  },
+  {
+   "id": 35,
+   "en": "Sweeter than sugar!",
+   "ru": "Слаще сахара!"
+  },
+  {
+   "id": 36,
+   "en": "Oh, YEAH!!",
+   "ru": "О, ДА!!"
+  },
+  {
+   "id": 37,
+   "en": "I don't like it when\nyou do that!",
+   "ru": "Не делай так,\nмне не нравится!"
+  },
+  {
+   "id": 38,
+   "en": "There we go!",
+   "ru": "Вот так!"
+  },
+  {
+   "id": 39,
+   "en": "Oh, my.",
+   "ru": "Ой-ёй."
+  },
+  {
+   "id": 40,
+   "en": "I should've charged\nyou to see me fight!",
+   "ru": "Надо было брать\nплату за просмотр!"
+  },
+  {
+   "id": 41,
+   "en": "Another victory for\nthe Andrew-nator!",
+   "ru": "Ещё одна победа\nЭндрюнатора!"
+  },
+  {
+   "id": 42,
+   "en": "I came, I saw, and I\nwhooped your butt.",
+   "ru": "Пришёл, увидел,\nнадрал тебе зад."
+  },
+  {
+   "id": 43,
+   "en": "Here I come--what?\nI won already? Geez.",
+   "ru": "Иду... что? Уже\nпобедил? Ну и ну."
+  },
+  {
+   "id": 44,
+   "en": "Well, THAT sucked.",
+   "ru": "Ну, ЭТО был отстой."
+  },
+  {
+   "id": 45,
+   "en": "Hey!!",
+   "ru": "Эй!!"
+  },
+  {
+   "id": 46,
+   "en": "Hi-KEEBA!",
+   "ru": "Хи-КИ-ба!"
+  },
+  {
+   "id": 47,
+   "en": "I'm gonna give you\nsome serious hurt!",
+   "ru": "Сейчас будет\nсерьёзно больно!"
+  },
+  {
+   "id": 48,
+   "en": "Are you gonna gimme\na good fight or what?",
+   "ru": "Ну что, нормально\nподерёмся?"
+  },
+  {
+   "id": 49,
+   "en": "I'm so good at this,\nI even amaze myself!",
+   "ru": "Я так хорош, что сам\nв шоке!"
+  },
+  {
+   "id": 50,
+   "en": "I'm here to make your\ndeath wish come true!",
+   "ru": "Исполню твоё\nжелание умереть!"
+  },
+  {
+   "id": 51,
+   "en": "Did I tell you to waste\nmy time? Well, did I?!",
+   "ru": "Я разве просил\nтратить моё время?!"
+  },
+  {
+   "id": 52,
+   "en": "And you've sucked at\ncombat for HOW long?",
+   "ru": "И давно ты так\nотстойно дерёшься?"
+  },
+  {
+   "id": 53,
+   "en": "Isn't it funny how\nmuch better I am?",
+   "ru": "Забавно, насколько я\nлучше, а?"
+  },
+  {
+   "id": 54,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 55,
+   "en": "Dag-nabit!",
+   "ru": "Тьфу ты!"
+  },
+  {
+   "id": 56,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 57,
+   "en": "Oh, yeah! It's time\nfor the Somersault!",
+   "ru": "О да! Пора для\nСальто!"
+  },
+  {
+   "id": 58,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 59,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 60,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 61,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 62,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 63,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 64,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 65,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 66,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 67,
+   "en": "",
+   "ru": ""
+  }
+ ]
+}

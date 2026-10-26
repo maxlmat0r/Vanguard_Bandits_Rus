@@ -1,0 +1,256 @@
+{
+ "file": 583,
+ "kind": "story",
+ "lines": [
+  {
+   "id": 0,
+   "en": "I have so many questions to ask you,\nMilea...but first, you have to explain\nhow you ended up in Hibernia.",
+   "ru": "У меня к тебе столько вопросов,\nМилея... но сначала объясни, как\nты оказалась в Хибернии."
+  },
+  {
+   "id": 1,
+   "en": "Well, after Faulkner released me, I\nwas so upset with myself that I ran\nblindly away from the battle.",
+   "ru": "Когда Фолкнер меня отпустил, я\nтак злилась на себя, что бежала\nкуда глаза глядят."
+  },
+  {
+   "id": 2,
+   "en": "There were so many tears in my eyes\nthat the world in front of me was a\nblur of brown and green.",
+   "ru": "Слёзы застилали глаза, и всё\nпередо мной расплывалось\nбурыми и зелёными пятнами."
+  },
+  {
+   "id": 3,
+   "en": "I never saw the cliff, Bastion. I only\nfelt myself fall through the air and\nsmash into the ground.",
+   "ru": "Я не заметила обрыва, Бастион.\nТолько почувствовала, как падаю\nи ударяюсь о землю."
+  },
+  {
+   "id": 4,
+   "en": "Were you injured?!",
+   "ru": "Ты ранилась?!"
+  },
+  {
+   "id": 5,
+   "en": "Most definitely, but I was found by\nLord Alden and Melior as they were\nreturning to Hibernia.",
+   "ru": "Ещё как, но меня нашли лорд\nОлден и Мелиор, возвращавшиеся\nв Хибернию."
+  },
+  {
+   "id": 6,
+   "en": "They tended to my injuries...and I\nasked them for asylum, because I\nwas too distraught to face you.",
+   "ru": "Они вылечили меня... и я\nпопросила убежища: мне было\nстыдно возвращаться к тебе."
+  },
+  {
+   "id": 7,
+   "en": "They agreed, and brought me here\nto recuperate.",
+   "ru": "Они согласились и привезли меня\nсюда поправляться."
+  },
+  {
+   "id": 8,
+   "en": "That was extremely kind of Alden.\nThe man saved your life.",
+   "ru": "Очень благородно со стороны\nОлдена. Он спас тебе жизнь."
+  },
+  {
+   "id": 9,
+   "en": "And now for the question we all\nwant to ask you, Milea: how did\nyou end up in Alden's ATAC?",
+   "ru": "А теперь вопрос, который все\nхотят задать, Милея: как ты\nоказалась в АТАКе Олдена?"
+  },
+  {
+   "id": 10,
+   "en": "Well, Reyna, that's a long story.",
+   "ru": "Ну, Рейна, это долгая история."
+  },
+  {
+   "id": 11,
+   "en": "Heh, heh, heh.",
+   "ru": "Хе-хе-хе."
+  },
+  {
+   "id": 12,
+   "en": "Milea!",
+   "ru": "Милея!"
+  },
+  {
+   "id": 13,
+   "en": "You didn't steal his ATAC, did you?!",
+   "ru": "Ты же не украла его АТАК?!"
+  },
+  {
+   "id": 14,
+   "en": "No, Bastion! I won it from him, fair\nand square!",
+   "ru": "Нет, Бастион! Я выиграла его\nчестно!"
+  },
+  {
+   "id": 15,
+   "en": "You WON this ATAC from Alden?!\nNow I'm more confused than ever!",
+   "ru": "Ты ВЫИГРАЛА этот АТАК у\nОлдена?! Теперь я ещё больше\nзапутался!"
+  },
+  {
+   "id": 16,
+   "en": "Because it was my fault that the\nUltragunner was stolen, I wanted\nto find a substitute for you.",
+   "ru": "Из-за меня украли Ультраганнер,\nи я хотела найти тебе замену."
+  },
+  {
+   "id": 17,
+   "en": "And I realized that Alden's ATAC\nwas a perfect choice. The Altagrave\nis one of the excavated ATACs!",
+   "ru": "И поняла, что АТАК Олдена -\nидеальный выбор. Альтагрейв -\nодин из древних АТАКов!"
+  },
+  {
+   "id": 18,
+   "en": "After I recuperated from my injuries,\nI asked Alden what it would take for\nhim to let me borrow his ATAC.",
+   "ru": "Поправившись, я спросила\nОлдена, что нужно, чтобы он\nодолжил мне свой АТАК."
+  },
+  {
+   "id": 19,
+   "en": "He laughed at first, but eventually\nrealized that I was serious, and so\nmade me an offer.",
+   "ru": "Сперва он рассмеялся, но потом\nпонял, что я серьёзно, и сделал\nмне предложение."
+  },
+  {
+   "id": 20,
+   "en": "Alden said that if I could defeat him\nat chess, I could use the Altagrave for\na period of one week.",
+   "ru": "Олден сказал, что если я обыграю\nего в шахматы, то смогу взять\nАльтагрейв на неделю."
+  },
+  {
+   "id": 21,
+   "en": "Chess?! You've never played that\ngame in your life, Milea!",
+   "ru": "В шахматы?! Ты же никогда в\nжизни в них не играла, Милея!"
+  },
+  {
+   "id": 22,
+   "en": "That's true, but he explained the\nrules very patiently to me, and it\ndidn't take me long to catch on.",
+   "ru": "Верно, но он очень терпеливо\nобъяснил правила, и я быстро\nразобралась."
+  },
+  {
+   "id": 23,
+   "en": "So what you're saying is that...",
+   "ru": "То есть ты хочешь сказать..."
+  },
+  {
+   "id": 24,
+   "en": "I beat him in our second game. It\nshould've been the first game, but I\nforgot how to move the horsies.",
+   "ru": "Я выиграла вторую партию.\nМогла бы и первую, но забыла,\nкак ходят лошадки."
+  },
+  {
+   "id": 25,
+   "en": "You mean the knights.",
+   "ru": "Ты имеешь в виду коней."
+  },
+  {
+   "id": 26,
+   "en": "Please don't be offended by this\nquestion, Milea, but is Lord Alden\nreally that awful at chess?",
+   "ru": "Не обижайся, Милея, но лорд\nОлден правда так плохо играет в\nшахматы?"
+  },
+  {
+   "id": 27,
+   "en": "Not at all, buddy. He's considered the\nbest player on the Continent by many.",
+   "ru": "Вовсе нет, дружище. Многие\nсчитают его лучшим игроком на\nКонтиненте."
+  },
+  {
+   "id": 28,
+   "en": "The gods know I've watched Dionne\nlose to Alden more than a few times.",
+   "ru": "Боги свидетели, я не раз видел,\nкак Олден обыгрывает Дионна."
+  },
+  {
+   "id": 29,
+   "en": "You're serious.",
+   "ru": "Ты серьёзно."
+  },
+  {
+   "id": 30,
+   "en": "About as serious as I am physically\ncapable of. He's undefeated at chess.\nAt least, he WAS.",
+   "ru": "Настолько, насколько я вообще\nспособен. В шахматах он\nнепобедим. По крайней мере, БЫЛ."
+  },
+  {
+   "id": 31,
+   "en": "So what you're telling me is that\nMilea is a chessmaster?!",
+   "ru": "То есть ты хочешь сказать, что\nМилея - гроссмейстер?!"
+  },
+  {
+   "id": 32,
+   "en": "Did you have any idea of Alden's\nskill level, Milea?",
+   "ru": "Ты знала, насколько силён Олден,\nМилея?"
+  },
+  {
+   "id": 33,
+   "en": "Not really, Bastion, although he DID\nseem a little surprised when I won.",
+   "ru": "Не очень, Бастион, хотя он\nДЕЙСТВИТЕЛЬНО немного\nудивился, когда я выиграла."
+  },
+  {
+   "id": 34,
+   "en": "I always told you Milea was smart,\nBastion! NOW do you believe me?!",
+   "ru": "Я же всегда говорил, что Милея\nумная, Бастион! ТЕПЕРЬ веришь?!"
+  },
+  {
+   "id": 35,
+   "en": "I don't know if I'd say that, Puck.\nAfter all, it was only a game.",
+   "ru": "Не знаю, Пак. В конце концов, это\nвсего лишь игра."
+  },
+  {
+   "id": 36,
+   "en": "You don't understand, Milea! Alden\nhas been playing chess since he was a\nchild, and yet you defeated him!",
+   "ru": "Ты не понимаешь, Милея! Олден\nиграет в шахматы с детства, а\nты его победила!"
+  },
+  {
+   "id": 37,
+   "en": "In any case, once I won the use of the\nATAC, I left the castle and headed for\nAvalon to find you, Bastion.",
+   "ru": "Выиграв АТАК, я покинула замок\nи отправилась в Авалон искать\nтебя, Бастион."
+  },
+  {
+   "id": 38,
+   "en": "Yes, I've been wondering about that.\nHow did you learn to drive an ATAC?!",
+   "ru": "Да, мне тоже интересно. Как ты\nнаучилась водить АТАК?!"
+  },
+  {
+   "id": 39,
+   "en": "Not that I'm jealous. Uh, not at all.\nMerely curious.",
+   "ru": "Не то чтобы я завидовал. Э-э,\nвовсе нет. Просто любопытно."
+  },
+  {
+   "id": 40,
+   "en": "Well, I had to learn how to control\nthe ATAC to bring it to you, Bastion!\nAlden and Melior taught me.",
+   "ru": "Мне надо было научиться водить\nАТАК, чтобы пригнать его тебе!\nУчили Олден и Мелиор."
+  },
+  {
+   "id": 41,
+   "en": "Who ARE you?!",
+   "ru": "Да КТО ты такая?!"
+  },
+  {
+   "id": 42,
+   "en": "Do you know how long it took me to\nmove an ATAC without smashing into\nevery tree within a mile's radius?",
+   "ru": "Знаешь, сколько я учился водить\nАТАК, не врезаясь во все деревья\nна милю вокруг?"
+  },
+  {
+   "id": 43,
+   "en": "Oh, Bastion, you were just a child\nwhen Kamorge started teaching you.\nOf course it took you a while!",
+   "ru": "Ох, Бастион, ты был ребёнком,\nкогда Каморж начал тебя учить.\nКонечно, это заняло время!"
+  },
+  {
+   "id": 44,
+   "en": "I appreciate your words, Milea, but\nI'm not drawing comfort from them.",
+   "ru": "Спасибо на добром слове, Милея,\nно утешения я в нём не нахожу."
+  },
+  {
+   "id": 45,
+   "en": "I don't mean to be rude, but someone\nis about to crash our little party!",
+   "ru": "Не хочу показаться грубым, но\nкто-то сейчас испортит нам\nвечеринку!"
+  },
+  {
+   "id": 46,
+   "en": "He's right! There's an ATAC headed\nstraight for us!",
+   "ru": "Он прав! Прямо к нам идёт АТАК!"
+  },
+  {
+   "id": 47,
+   "en": "Does anyone recognize it?",
+   "ru": "Кто-нибудь его узнаёт?"
+  },
+  {
+   "id": 48,
+   "en": "From the color and the sound of the\nhoverjets, it's Sylpheed, the ATAC of\nthe Imperial Princess!",
+   "ru": "По цвету и звуку двигателей это\nСильфид, АТАК имперской\nпринцессы!"
+  },
+  {
+   "id": 49,
+   "en": "How did she find us, and what does\nshe want?",
+   "ru": "Как она нас нашла и чего хочет?"
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "file": 618,
+ "kind": "story",
+ "lines": [
+  {
+   "id": 0,
+   "en": "Your Highness, we've received reports\nof a camp of renegade Imperials on\nthe western border of the Empire.",
+   "ru": "Ваше Высочество, сообщают о\nлагере имперских отступников на\nзападной границе Империи."
+  },
+  {
+   "id": 1,
+   "en": "Cecilia has already traveled there,\nand is monitoring the situation.",
+   "ru": "Сесилия уже там и следит за\nобстановкой."
+  },
+  {
+   "id": 2,
+   "en": "Excellent. We shall depart at once!",
+   "ru": "Отлично. Немедленно выступаем!"
+  },
+  {
+   "id": 3,
+   "en": "Bastion, I look forward to fighting\nat your side once more.",
+   "ru": "Бастион, я рада снова сражаться\nрядом с тобой."
+  },
+  {
+   "id": 4,
+   "en": "I only hope I don't disappoint you,\nPrincess. Or dishonor the memory of\nmy father...",
+   "ru": "Надеюсь лишь не разочаровать\nвас, принцесса. И не опозорить\nпамять отца..."
+  },
+  {
+   "id": 5,
+   "en": "Hello, Princess! Hello, everybody else!\nI'm glad you arrived so quickly!",
+   "ru": "Привет, принцесса! Привет всем\nостальным! Рада, что вы так\nбыстро добрались!"
+  },
+  {
+   "id": 6,
+   "en": "See that cave in the middle of the\ncliff wall? That's their hideout!",
+   "ru": "Видите пещеру посреди скалы?\nЭто их логово!"
+  },
+  {
+   "id": 7,
+   "en": "How fitting that these roaches\nhave chosen to inhabit a cold, dark\nhole. Let us exterminate them!",
+   "ru": "Как символично, что эти\nтараканы засели в холодной\nтёмной дыре. Истребим их!"
+  }
+ ]
+}

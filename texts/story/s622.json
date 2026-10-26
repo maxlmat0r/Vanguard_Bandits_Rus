@@ -1,0 +1,16 @@
+{
+ "file": 622,
+ "kind": "story",
+ "lines": [
+  {
+   "id": 0,
+   "en": "Greetings. I am Princess Sadira of the\nJunaris Empire. I have come to speak\nwith your leader.",
+   "ru": "Приветствую. Я принцесса Садира\nиз Империи Джунарис. Я хочу\nговорить с вашим правителем."
+  },
+  {
+   "id": 1,
+   "en": "Nordilain Soldier:\nI welcome you to Nordilain, Princess\nSadira. Duke Logan is waiting.",
+   "ru": "Нордилейнский солдат:\nДобро пожаловать в Нордилейн,\nпринцесса Садира. Герцог Логан\nждёт."
+  }
+ ]
+}

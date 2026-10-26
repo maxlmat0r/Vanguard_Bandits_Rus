@@ -1,0 +1,381 @@
+{
+ "file": 502,
+ "kind": "story",
+ "lines": [
+  {
+   "id": 0,
+   "en": "It's impossible! YOU are the Prince of\nthe Pharastia Kingdom?!",
+   "ru": "Не может быть! ТЫ - принц\nКоролевства Фарастия?!"
+  },
+  {
+   "id": 1,
+   "en": "I appreciate your coming this far\njust to mock me, Sadira!",
+   "ru": "Ценю, что ты проделала такой\nпуть, лишь бы посмеяться надо\nмной, Садира!"
+  },
+  {
+   "id": 2,
+   "en": "You don't take teasing very well, do\nyou, Bastion? Besides, I am here for\na very important reason!",
+   "ru": "Ты плохо переносишь шутки,\nБастион? К тому же я здесь по\nочень важной причине!"
+  },
+  {
+   "id": 3,
+   "en": "You're here because you heard word\nof the Ultragunner.",
+   "ru": "Ты здесь, потому что услышала\nоб Ультраганнере."
+  },
+  {
+   "id": 4,
+   "en": "That's right. I'm here to find out\nwhat Bastion intends to do with it.",
+   "ru": "Верно. Я хочу узнать, что\nБастион собирается с ним делать."
+  },
+  {
+   "id": 5,
+   "en": "And if his answer is the wrong one,\nI will do whatever I must to prevent\nhim from awakening it!",
+   "ru": "И если ответ будет неверным, я\nсделаю всё, чтобы не дать ему\nпробудить Ультраганнер!"
+  },
+  {
+   "id": 6,
+   "en": "What?! You, of all people, should\nunderstand exactly why His Highness\nrequires the Ultragunner!",
+   "ru": "Что?! Уж вы-то должны\nпонимать, зачем Его Высочеству\nнужен Ультраганнер!"
+  },
+  {
+   "id": 7,
+   "en": "His Highness can end the war which\nhas devastated both of our nations,\nand unite the Continent!",
+   "ru": "Его Высочество закончит войну,\nразорившую наши страны, и\nобъединит Континент!"
+  },
+  {
+   "id": 8,
+   "en": "Calm down, Galvas. I believe it\nwould be best to hear what\nBastion wishes to do.",
+   "ru": "Успокойся, Гальвас. Думаю, лучше\nвыслушать, чего хочет Бастион."
+  },
+  {
+   "id": 9,
+   "en": "(Gasp!) I apologize, Your Highness.\nI become excited rather easily.",
+   "ru": "(Ах!) Простите, Ваше Высочество.\nЯ легко увлекаюсь."
+  },
+  {
+   "id": 10,
+   "en": "It's alright, Galvas...",
+   "ru": "Ничего, Гальвас..."
+  },
+  {
+   "id": 11,
+   "en": "Answer the question, Bastion! What\nare your intentions?",
+   "ru": "Отвечай на вопрос, Бастион!\nКаковы твои намерения?"
+  },
+  {
+   "id": 12,
+   "en": "{02}I intend to end the war.{00}{00}I will conquer the Continent!{00}",
+   "ru": "{02}Я хочу закончить войну.{00}{00}Я завоюю Континент!{00}"
+  },
+  {
+   "id": 13,
+   "en": "I don't want Ultragunner because of\nthe power and privilege with which\nit will grant me.",
+   "ru": "Мне нужен Ультраганнер не ради\nвласти и привилегий, которые он\nдаст."
+  },
+  {
+   "id": 14,
+   "en": "I just want to end the war and stop \nthe senseless deaths. The Ultragunner\nwill allow me to do that.",
+   "ru": "Я хочу остановить войну и\nбессмысленные смерти. В этом\nмне поможет Ультраганнер."
+  },
+  {
+   "id": 15,
+   "en": "When peace has been restored, I will\ngladly give you the Ultragunner and\ncontrol of the Kingdom.",
+   "ru": "Когда настанет мир, я охотно\nотдам тебе Ультраганнер и\nвласть над Королевством."
+  },
+  {
+   "id": 16,
+   "en": "Is that so?",
+   "ru": "Вот как?"
+  },
+  {
+   "id": 17,
+   "en": "...   ...   ...",
+   "ru": ""
+  },
+  {
+   "id": 18,
+   "en": "(He is either an extraordinary liar or\nan extraordinary young man...)",
+   "ru": "(Он либо невероятный лжец, либо\nневероятный юноша...)"
+  },
+  {
+   "id": 19,
+   "en": "Your Highness! You cannot give away\nyour rightful place on the throne to a\nPrincess of the Empire!",
+   "ru": "Ваше Высочество! Нельзя\nотдавать своё законное место на\nтроне принцессе Империи!"
+  },
+  {
+   "id": 20,
+   "en": "Alright, Bastion. I thank you for your\nanswer.",
+   "ru": "Хорошо, Бастион. Спасибо за\nответ."
+  },
+  {
+   "id": 21,
+   "en": "Does that mean you're not going to\ninterfere with us?",
+   "ru": "Значит, ты не будешь нам\nмешать?"
+  },
+  {
+   "id": 22,
+   "en": "Just because you claim that your\nintentions are pure doesn't mean\nyou'll keep your word, Bastion!",
+   "ru": "Назвать свои намерения\nчистыми - не значит сдержать\nслово, Бастион!"
+  },
+  {
+   "id": 23,
+   "en": "Your lineage does not give you the\nright to be rude, Princess Sadira!",
+   "ru": "Ваше происхождение не даёт вам\nправа на грубость, принцесса\nСадира!"
+  },
+  {
+   "id": 24,
+   "en": "I realize that I must prove my intent\nwith my actions as well as my word,\nSadira. And I will.",
+   "ru": "Понимаю, что должен доказать\nсвои намерения не только словом,\nно и делом, Садира. И докажу."
+  },
+  {
+   "id": 25,
+   "en": "(There is such sincerity in his voice,\nand in his eyes.)",
+   "ru": "(Сколько искренности в его голосе\nи в его глазах.)"
+  },
+  {
+   "id": 26,
+   "en": "It appears that this has been a\nmutually beneficial conversation,\nwouldn't you say, Franco?",
+   "ru": "Похоже, разговор пошёл на\nпользу обеим сторонам, не так\nли, Франко?"
+  },
+  {
+   "id": 27,
+   "en": "Indeed it has, Duke Zeira.",
+   "ru": "Именно так, герцог Зейра."
+  },
+  {
+   "id": 28,
+   "en": "It was good to see you both. The\ntime has come for us to part\ncompany, Bastion.",
+   "ru": "Рада была видеть вас обоих.\nПришло время прощаться,\nБастион."
+  },
+  {
+   "id": 29,
+   "en": "Take care, Franco, and take care,\nSadira. I'm sure we'll meet again\nsoon.",
+   "ru": "Берегите себя, Франко и Садира.\nУверен, мы скоро встретимся\nвновь."
+  },
+  {
+   "id": 30,
+   "en": "What do you think, Franco?",
+   "ru": "Что ты думаешь, Франко?"
+  },
+  {
+   "id": 31,
+   "en": "What do YOU think, Princess?",
+   "ru": "А что думаете ВЫ, принцесса?"
+  },
+  {
+   "id": 32,
+   "en": "I asked you first.",
+   "ru": "Я первая спросила."
+  },
+  {
+   "id": 33,
+   "en": "I believe our thoughts are the same.",
+   "ru": "Полагаю, мы думаем одно и то\nже."
+  },
+  {
+   "id": 34,
+   "en": "...   ...   ...",
+   "ru": ""
+  },
+  {
+   "id": 35,
+   "en": "He was telling the truth. You could\nhear it, and you could see it. He only\nwants peace in this world.",
+   "ru": "Он говорил правду. Это было\nслышно и видно. Он хочет лишь\nмира."
+  },
+  {
+   "id": 36,
+   "en": "Yes.",
+   "ru": "Да."
+  },
+  {
+   "id": 37,
+   "en": "What should I do? I trust Bastion,\nbut I cannot abandon the interests\nof my own country, or myself.",
+   "ru": "Что мне делать? Я верю\nБастиону, но не могу забыть об\nинтересах своей страны."
+  },
+  {
+   "id": 38,
+   "en": "I feel such conflict and confusion at\nthis moment, Franco. It is making my\nhead spin...",
+   "ru": "Я в таком смятении, Франко. У\nменя голова кругом идёт..."
+  },
+  {
+   "id": 39,
+   "en": "Princess.",
+   "ru": "Принцесса."
+  },
+  {
+   "id": 40,
+   "en": "Yes, Franco?",
+   "ru": "Да, Франко?"
+  },
+  {
+   "id": 41,
+   "en": "Your eyes are as honest as Bastion's,\nas are your intentions.",
+   "ru": "Ваши глаза так же честны, как у\nБастиона, и намерения тоже."
+  },
+  {
+   "id": 42,
+   "en": "Oh...",
+   "ru": "Ох..."
+  },
+  {
+   "id": 43,
+   "en": "Ha, ha, ha! I understand what you're\nsaying, Franco! I have to focus on my\nown goals, as he does on his!",
+   "ru": "Ха-ха-ха! Я поняла, Франко! Мне\nнужно сосредоточиться на своих\nцелях, как ему - на своих!"
+  },
+  {
+   "id": 44,
+   "en": "That is why we are here, Princess.",
+   "ru": "Для этого мы здесь, принцесса."
+  },
+  {
+   "id": 45,
+   "en": "Thank you for your wisdom, Franco.",
+   "ru": "Спасибо тебе за мудрость,\nФранко."
+  },
+  {
+   "id": 46,
+   "en": "I am glad to share it. Let us depart.",
+   "ru": "Рад поделиться. Едем."
+  },
+  {
+   "id": 47,
+   "en": "Are you serious, Bastion?!",
+   "ru": "Ты серьёзно, Бастион?!"
+  },
+  {
+   "id": 48,
+   "en": "{02}I intend to end the war.{00}{00}I will conquer the Continent!{00}",
+   "ru": "{02}Я хочу закончить войну.{00}{00}Я завоюю Континент!{00}"
+  },
+  {
+   "id": 49,
+   "en": "It is as Galvas says. With the power\nof the Ultragunner, I will unite the\nnations of the Continent.",
+   "ru": "Гальвас прав. Силой\nУльтраганнера я объединю\nстраны Континента."
+  },
+  {
+   "id": 50,
+   "en": "Bastion!",
+   "ru": "Бастион!"
+  },
+  {
+   "id": 51,
+   "en": "Don't you understand? When the\nContinent is under my control, the\nwars will finally end!",
+   "ru": "Разве ты не понимаешь? Когда\nКонтинент будет в моей власти,\nвойны наконец закончатся!"
+  },
+  {
+   "id": 52,
+   "en": "So you intend to rule the nations of\nthe Continent with the politics of fear\nand the threat of violence?",
+   "ru": "Значит, ты собираешься править\nКонтинентом страхом и угрозой\nнасилия?"
+  },
+  {
+   "id": 53,
+   "en": "You'll be nothing but a dictator and\na tyrant!",
+   "ru": "Ты станешь обычным\nдиктатором и тираном!"
+  },
+  {
+   "id": 54,
+   "en": "I demand that you do not speak with\nsuch rudeness to His Highness!",
+   "ru": "Я требую не говорить с Его\nВысочеством так грубо!"
+  },
+  {
+   "id": 55,
+   "en": "You probably think that would never\nhappen to you, Bastion, but it will!",
+   "ru": "Ты, наверное, думаешь, что с\nтобой такого не случится,\nБастион, но случится!"
+  },
+  {
+   "id": 56,
+   "en": "You will become addicted to the\npower you wield. You will become\njaded, and corrupted, and evil!",
+   "ru": "Власть станет для тебя\nнаркотиком. Ты очерствеешь,\nразвратишься и станешь злом!"
+  },
+  {
+   "id": 57,
+   "en": "That WON'T happen to me, Sadira!\nI would never dishonor myself or my\nfather with such behavior!",
+   "ru": "Со мной такого НЕ будет, Садира!\nЯ никогда не опозорю себя и\nотца подобным!"
+  },
+  {
+   "id": 58,
+   "en": "All your words mean nothing if your\nactions belie them!",
+   "ru": "Все твои слова ничего не значат,\nесли поступки им противоречат!"
+  },
+  {
+   "id": 59,
+   "en": "It's not fair for you to compare me\nwith anyone else! I am unique in this\nworld, Sadira, just as you are!",
+   "ru": "Нечестно сравнивать меня с\nдругими! Я единственный в своём\nроде, Садира, как и ты!"
+  },
+  {
+   "id": 60,
+   "en": "I want to believe you, Bastion, but\nyou must understand why I cannot\nplace my faith in you.",
+   "ru": "Я хочу верить тебе, Бастион, но\nпойми, почему я не могу."
+  },
+  {
+   "id": 61,
+   "en": "Yes, I understand...because you are\ntoo bitter to have faith in anything!",
+   "ru": "Да, понимаю... потому что ты\nслишком озлоблена, чтобы во\nчто-то верить!"
+  },
+  {
+   "id": 62,
+   "en": "How dare you make such an\nassumption, Bastion!",
+   "ru": "Как ты смеешь так думать,\nБастион!"
+  },
+  {
+   "id": 63,
+   "en": "You made assumptions about me\nfirst, Sadira!",
+   "ru": "Ты первая начала судить обо\nмне, Садира!"
+  },
+  {
+   "id": 64,
+   "en": "Princess, perhaps we should leave\nuntil you have calmed down.",
+   "ru": "Принцесса, может, нам лучше\nуйти, пока вы не успокоитесь."
+  },
+  {
+   "id": 65,
+   "en": "Calm down, Bastion. I see no need\nto lose your temper at the girl.",
+   "ru": "Остынь, Бастион. Не стоит так\nсрываться на девушку."
+  },
+  {
+   "id": 66,
+   "en": "Go ahead, Bastion! Try to follow\nthrough on your plans!",
+   "ru": "Давай, Бастион! Попробуй\nосуществить свои планы!"
+  },
+  {
+   "id": 67,
+   "en": "I guarantee that you will fail!",
+   "ru": "Даю слово, ты проиграешь!"
+  },
+  {
+   "id": 68,
+   "en": "And I guarantee I will succeed,\nsimply to spite you!",
+   "ru": "А я даю слово, что добьюсь\nсвоего - хотя бы назло тебе!"
+  },
+  {
+   "id": 69,
+   "en": "Let us depart, Franco!",
+   "ru": "Едем, Франко!"
+  },
+  {
+   "id": 70,
+   "en": "Yes, Princess.",
+   "ru": "Да, принцесса."
+  },
+  {
+   "id": 71,
+   "en": "Take care, Prince Bastion.",
+   "ru": "Берегите себя, принц Бастион."
+  },
+  {
+   "id": 72,
+   "en": "Never mind her, Your Highness! She\nmerely senses that the evil Empire is\nabout to kneel before you!",
+   "ru": "Не слушайте её, Ваше Высочество!\nОна просто чует, что Империя\nскоро склонится перед вами!"
+  },
+  {
+   "id": 73,
+   "en": "I will show her that I can achieve\npower without corruption!",
+   "ru": "Я покажу ей, что можно обрести\nвласть и не развратиться!"
+  },
+  {
+   "id": 74,
+   "en": "(I've never seen Bastion this\nresolved before...)",
+   "ru": "(Бастион ещё никогда не был так\nрешителен...)"
+  }
+ ]
+}

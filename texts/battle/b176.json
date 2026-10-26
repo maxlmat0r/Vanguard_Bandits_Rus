@@ -1,0 +1,396 @@
+{
+ "file": 176,
+ "kind": "battle",
+ "lines": [
+  {
+   "id": 0,
+   "en": "Be careful, everyone. Faulkner could\nbe lurking anywhere...",
+   "ru": "Осторожнее все. Фолкнер может\nскрываться где угодно..."
+  },
+  {
+   "id": 1,
+   "en": "Hah, hah, hah!",
+   "ru": "Ха-ха-ха!"
+  },
+  {
+   "id": 2,
+   "en": "How rude of you to make an old man\nwait so long for your arrival. I don't\nhave time to waste!",
+   "ru": "Как невежливо заставлять\nстарика так долго ждать. У меня\nнет времени!"
+  },
+  {
+   "id": 3,
+   "en": "Madoc! For you to disobey my orders\nand unleash the Sharking is entirely\nunforgivable!",
+   "ru": "Мэдок! Ослушаться моих\nприказов и выпустить Шаркинг\n- совершенно непростительно!"
+  },
+  {
+   "id": 4,
+   "en": "And what is THAT ATAC?!",
+   "ru": "А это что за АТАК?!"
+  },
+  {
+   "id": 5,
+   "en": "I'm so very glad you asked, Sadira.\nThis is my sixty-ninth ATAC design.\nHence, I call it...ATAC sixty-nine.",
+   "ru": "Рад, что спросили, Садира. Это\nмоя 69-я модель. Потому я зову\nеё... АТАК 69."
+  },
+  {
+   "id": 6,
+   "en": "It is my masterpiece.",
+   "ru": "Это мой шедевр."
+  },
+  {
+   "id": 7,
+   "en": "It is your destruction!",
+   "ru": "Это ваша погибель!"
+  },
+  {
+   "id": 8,
+   "en": "Madoc, are you sure that you can't\nrepair my Sarbelas?! This ATAC is\nan embarrassment!",
+   "ru": "Мэдок, ты точно не можешь\nпочинить мой Сарбелас?! Этот\nАТАК - позор!"
+  },
+  {
+   "id": 9,
+   "en": "I'll beg you if I have to!",
+   "ru": "Я умолять буду, если надо!"
+  },
+  {
+   "id": 10,
+   "en": "No.",
+   "ru": "Нет."
+  },
+  {
+   "id": 11,
+   "en": "You will simply have to be utterly\nhumiliated along with the rest of\nus, Prince Duyere.",
+   "ru": "Придётся вам просто опозориться\nвместе со всеми нами, принц\nДюйер."
+  },
+  {
+   "id": 12,
+   "en": "There is nothing humiliating about\nNumber 69, Faulkner! You and\nDuyere should be proud!",
+   "ru": "В Номере 69 нет ничего\nпозорного, Фолкнер! Вы с\nДюйером должны гордиться!"
+  },
+  {
+   "id": 13,
+   "en": "There are men across the Continent\nwho would kill for the opportunity\nto try 69 for themselves!",
+   "ru": "По всему Континенту есть\nмужчины, что убили бы за\nвозможность попробовать 69!"
+  },
+  {
+   "id": 14,
+   "en": "Now cease your complaints!",
+   "ru": "Хватит жаловаться!"
+  },
+  {
+   "id": 15,
+   "en": "Dhis ATAC is vonderful!",
+   "ru": "Этот АТАК чутесен!"
+  },
+  {
+   "id": 16,
+   "en": "Never haff I been so owervhelmed by\nyour genius, Madoc!",
+   "ru": "Никогда ещё ваш гений так меня\nне потрясал, Мэдок!"
+  },
+  {
+   "id": 17,
+   "en": "I vill glatly sing dhe praises of 69 to\nanyone who vill listen!",
+   "ru": "Я с ратостью путу фосхфалять 69\nфсякому, кто стал пы слушать!"
+  },
+  {
+   "id": 18,
+   "en": "You always were the most sensible\nman in the Imperial Army, Zakov.",
+   "ru": "Вы всегда были самым разумным\nчеловеком в имперской армии,\nЗаков."
+  },
+  {
+   "id": 19,
+   "en": "All of dhese fools vill succumb to\ndhe power of 69!",
+   "ru": "Фсе эти тураки патут перед\nсилой 69!"
+  },
+  {
+   "id": 20,
+   "en": "I can already envision a new term\nbeing coined in the aftermath of our\nvictory today.",
+   "ru": "Я уже представляю, какое новое\nвыражение родится после нашей\nсегодняшней победы."
+  },
+  {
+   "id": 21,
+   "en": "When a foe is defeated in battle, the\nvictor will cry out, 'And how did it\nfeel to be 69ed?!'",
+   "ru": "Победитель будет кричать\nповерженному врагу: \"Ну как тебе\n69?!\""
+  },
+  {
+   "id": 22,
+   "en": "Is there ANYONE in the Empire who\nhas the slightest grasp of sanity?",
+   "ru": "Есть ли в Империи ХОТЬ кто-то\nхоть немного в своём уме?"
+  },
+  {
+   "id": 23,
+   "en": "I believe we would have already met\nthem by now, Bastion.",
+   "ru": "Думаю, мы бы его уже встретили,\nБастион."
+  },
+  {
+   "id": 24,
+   "en": "What about me, Milea? I'm normal!",
+   "ru": "А как же я, Милея? Я нормальная!"
+  },
+  {
+   "id": 25,
+   "en": "Your definition of the word must\ndiffer wildly from mine, Sadira.",
+   "ru": "Видимо, ты понимаешь это слово\nсовсем не так, как я, Садира."
+  },
+  {
+   "id": 26,
+   "en": "Huh?",
+   "ru": "А?"
+  },
+  {
+   "id": 27,
+   "en": "Never mind.",
+   "ru": "Неважно."
+  },
+  {
+   "id": 28,
+   "en": "Attack!",
+   "ru": "В атаку!"
+  },
+  {
+   "id": 29,
+   "en": "Faulkner, it's time to sett...",
+   "ru": "Фолкнер, пора свести сч..."
+  },
+  {
+   "id": 30,
+   "en": "Heh, heh!",
+   "ru": "Хе-хе!"
+  },
+  {
+   "id": 31,
+   "en": "What the hell are you laughing\nabout, boy?!",
+   "ru": "Чего ты, чёрт возьми, смеёшься,\nмальчишка?!"
+  },
+  {
+   "id": 32,
+   "en": "Am I a clown? Do I amuse you?",
+   "ru": "Я что, клоун? Я тебя забавляю?"
+  },
+  {
+   "id": 33,
+   "en": "It's just...that ATAC...heh, heh, heh!",
+   "ru": "Просто... этот АТАК... хе-хе-хе!"
+  },
+  {
+   "id": 34,
+   "en": "Damn it!",
+   "ru": "Проклятье!"
+  },
+  {
+   "id": 35,
+   "en": "Someone as handsome and stylish\nas I am deserves an ATAC to match,\nnot this...this...THING!",
+   "ru": "Такой красивый и стильный, как\nя, достоин подходящего АТАКа, а\nне этой... этой... ШТУКИ!"
+  },
+  {
+   "id": 36,
+   "en": "Couldn't Madoc at least have asked if\nI thought the design was cool?!",
+   "ru": "Мэдок мог хотя бы спросить,\nсчитаю ли я этот дизайн\nкрутым?!"
+  },
+  {
+   "id": 37,
+   "en": "I've never seen your ATAC before.\nWhere is it from?",
+   "ru": "Никогда не видел твоего АТАКа.\nОткуда он?"
+  },
+  {
+   "id": 38,
+   "en": "This is the TICTAC, built by Puck!",
+   "ru": "Это ТИКТАК, его построил Пак!"
+  },
+  {
+   "id": 39,
+   "en": "Excellent! I look forward to seeing\nwhich of our designs is stronger!",
+   "ru": "Превосходно! Посмотрим, чья\nконструкция сильнее!"
+  },
+  {
+   "id": 40,
+   "en": "Madoc, why is it that each of your\nATACs is more bizarre than the last?",
+   "ru": "Мэдок, почему каждый ваш АТАК\nпричудливее предыдущего?"
+  },
+  {
+   "id": 41,
+   "en": "Are they merely a reflection of your\ngrowing insanity?",
+   "ru": "Это просто отражение вашего\nрастущего безумия?"
+  },
+  {
+   "id": 42,
+   "en": "It is a pity that my genius cannot be\nunderstood by ordinary people such\nas yourself, Sadira.",
+   "ru": "Жаль, что обычным людям вроде\nвас мой гений не понять, Садира."
+  },
+  {
+   "id": 43,
+   "en": "Of course, your lower-than-average\nintelligence does not help, either.",
+   "ru": "Ваш ниже среднего интеллект,\nконечно, тоже не помогает."
+  },
+  {
+   "id": 44,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 45,
+   "en": "Duyere, you idiot! What are you doing\ninside that ridiculous ATAC?!",
+   "ru": "Дюйер, идиот! Что ты делаешь в\nэтом нелепом АТАКе?!"
+  },
+  {
+   "id": 46,
+   "en": "I didn't have a choice! My Sarbelas\nwas broken! You don't think I LIKE\nthis ATAC, do you?!",
+   "ru": "У меня не было выбора! Мой\nСарбелас сломан! Думаешь, мне\nНРАВИТСЯ этот АТАК?!"
+  },
+  {
+   "id": 47,
+   "en": "You are the shame of the Imperial\nfamily, Duyere. I mean, look at you.",
+   "ru": "Ты позор императорской семьи,\nДюйер. Нет, ты только посмотри\nна себя."
+  },
+  {
+   "id": 48,
+   "en": "I'm shameful?! You're the one who's\njoined with the Kingdom!",
+   "ru": "Я позор?! Это ты переметнулась к\nКоролевству!"
+  },
+  {
+   "id": 49,
+   "en": "But at least I'm not riding inside a\nATAC that looks so...poofy.",
+   "ru": "Зато я не сижу в АТАКе, который\nвыглядит таким... пышненьким."
+  },
+  {
+   "id": 50,
+   "en": "I hate you, Madoc!!",
+   "ru": "Ненавижу тебя, Мэдок!!"
+  },
+  {
+   "id": 51,
+   "en": "Bastion!",
+   "ru": "Бастион!"
+  },
+  {
+   "id": 52,
+   "en": "Puck?!",
+   "ru": "Пак?!"
+  },
+  {
+   "id": 53,
+   "en": "Is that another one of your ATACs?",
+   "ru": "Это ещё один твой АТАК?"
+  },
+  {
+   "id": 54,
+   "en": "Nope! This is called the Zulwarn!\nI found it while I was wandering\naround these ruins!",
+   "ru": "Не-а! Это Зулварн! Я нашёл его,\nкогда бродил по этим руинам!"
+  },
+  {
+   "id": 55,
+   "en": "The Zulwarn? The Shadow ATAC?\nAnd you were able to revive it?",
+   "ru": "Зулварн? АТАК Тени? И тебе\nудалось его пробудить?"
+  },
+  {
+   "id": 56,
+   "en": "Yeah! Is it okay if I help you guys?",
+   "ru": "Ага! Можно я вам помогу?"
+  },
+  {
+   "id": 57,
+   "en": "Of course, Puck! Just promise me\nthat you'll be careful!",
+   "ru": "Конечно, Пак! Только обещай\nбыть осторожным!"
+  },
+  {
+   "id": 58,
+   "en": "I promise!",
+   "ru": "Обещаю!"
+  },
+  {
+   "id": 59,
+   "en": "The Zulwarn Armor?! Impossible!\nHow was it revived?",
+   "ru": "Броня Зулварн?! Невозможно! Как\nеё пробудили?"
+  },
+  {
+   "id": 60,
+   "en": "How did you awaken the Zulwarn?!",
+   "ru": "Как ты пробудил Зулварн?!"
+  },
+  {
+   "id": 61,
+   "en": "...   ...   ...",
+   "ru": ""
+  },
+  {
+   "id": 62,
+   "en": "Answer me!!",
+   "ru": "Отвечай!!"
+  },
+  {
+   "id": 63,
+   "en": "It's a secret.",
+   "ru": "Секрет."
+  },
+  {
+   "id": 64,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 65,
+   "en": "Of course! Why didn't I think of\nreviving the Zulwarn?!",
+   "ru": "Ну конечно! Как я сам не\nдодумался пробудить Зулварн?!"
+  },
+  {
+   "id": 66,
+   "en": "Because you're dumb.",
+   "ru": "Потому что ты тупой."
+  },
+  {
+   "id": 67,
+   "en": "Aargh!!",
+   "ru": "Аргх!!"
+  },
+  {
+   "id": 68,
+   "en": "No more 69ing for me!",
+   "ru": "Больше никакого 69!"
+  },
+  {
+   "id": 69,
+   "en": "I cannot believe it! I fought in this\nidiotic ATAC, and I still lost!!",
+   "ru": "Не может быть! Я сражался в\nэтом дурацком АТАКе и всё равно\nпроиграл!!"
+  },
+  {
+   "id": 70,
+   "en": "I swallowed my pride to enter the\nbattle within this absurd ATAC, and\nyet I was defeated?!",
+   "ru": "Я поступился гордостью, пошёл в\nбой в этом нелепом АТАКе, и всё\nравно разбит?!"
+  },
+  {
+   "id": 71,
+   "en": "I am completely humiliated. I will\nnever show my face in public again.\nI am now an outcast!",
+   "ru": "Я полностью опозорен. Никогда\nбольше не покажусь на людях.\nТеперь я изгой!"
+  },
+  {
+   "id": 72,
+   "en": "Goodbye, cruel world!",
+   "ru": "Прощай, жестокий мир!"
+  },
+  {
+   "id": 73,
+   "en": "My glorious technology was beaten?!\nMy magnificent ATAC destroyed?!",
+   "ru": "Мою великолепную технику\nпобедили?! Мой чудесный АТАК\nуничтожен?!"
+  },
+  {
+   "id": 74,
+   "en": "I refuse to believe it! I will never\naccept this defeat!",
+   "ru": "Не верю! Я никогда не признаю\nэтого поражения!"
+  },
+  {
+   "id": 75,
+   "en": "This is a bad dream--!",
+   "ru": "Это дурной сон--!"
+  },
+  {
+   "id": 76,
+   "en": "It's over...at long last.",
+   "ru": "Всё кончено... наконец-то."
+  },
+  {
+   "id": 77,
+   "en": "\n\n\n",
+   "ru": ""
+  }
+ ]
+}

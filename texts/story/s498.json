@@ -1,0 +1,416 @@
+{
+ "file": 498,
+ "kind": "story",
+ "lines": [
+  {
+   "id": 0,
+   "en": "Nordilain has not officially declared\nwar upon the Kingdom, but they have\nmade their allegiances known.",
+   "ru": "Нордилейн официально не\nобъявлял войну Королевству, но\nдал понять, на чьей он стороне."
+  },
+  {
+   "id": 1,
+   "en": "I have ordered our spies to find out\nwhatever they can of the relationship\nbetween Nordilain and the Empire.",
+   "ru": "Я велел нашим шпионам\nразузнать всё о связях\nНордилейна с Империей."
+  },
+  {
+   "id": 2,
+   "en": "I also have some happier news...we\nhave completely destroyed the cave\nthose bandits were using.",
+   "ru": "Есть и хорошие новости... мы\nполностью уничтожили пещеру,\nгде прятались те бандиты."
+  },
+  {
+   "id": 3,
+   "en": "We, ah, have repaired the damage to\nthe castle, so, uh, there should be no\nproblem defending it now.",
+   "ru": "Мы, э-э, починили замок, так\nчто, кхм, оборонять его теперь не\nсоставит труда."
+  },
+  {
+   "id": 4,
+   "en": "Ah, but I imagine that the Empire\nbelieved the same thing before we\ncame and took it from them.",
+   "ru": "Ах, но то же самое, наверное,\nдумала Империя, пока мы не\nпришли и не отбили его."
+  },
+  {
+   "id": 5,
+   "en": "We must remain vigilant. It's\nimpossible to know precisely\nwhen the next attack will come.",
+   "ru": "Нужно быть начеку. Невозможно\nзнать, когда последует новая\nатака."
+  },
+  {
+   "id": 6,
+   "en": "Ah, yes, of course.",
+   "ru": "А, да, конечно."
+  },
+  {
+   "id": 7,
+   "en": "Do you bring news, soldier?",
+   "ru": "С какими вестями, солдат?"
+  },
+  {
+   "id": 8,
+   "en": "Kingdom Soldier:\nIndeed. We have received a visitor to\nAraba--a messenger from the Muspel\nNation, asking to see His Highness.",
+   "ru": "Солдат Королевства:\nВ Арабу прибыл посланник из\nМуспельского государства. Просит\nвстречи с Его Высочеством."
+  },
+  {
+   "id": 9,
+   "en": "The Muspel Nation?!",
+   "ru": "Из Муспеля?!"
+  },
+  {
+   "id": 10,
+   "en": "I must say that I'm apprehensive\nto learn what harebrained scheme\nRadcot's come up with now.",
+   "ru": "Признаться, мне страшно узнать,\nкакую сумасбродную затею\nпридумал теперь Радкот."
+  },
+  {
+   "id": 11,
+   "en": "This IS extremely suspicious, Your\nHighness, both in the timing and the\nmotivation.",
+   "ru": "Это ОЧЕНЬ подозрительно, Ваше\nВысочество, и время выбрано\nстранно, и цель неясна."
+  },
+  {
+   "id": 12,
+   "en": "I might agree with you if I knew who\nRadcot WAS...",
+   "ru": "Может, я бы и согласился, если\nбы знал, кто ТАКОЙ Радкот..."
+  },
+  {
+   "id": 13,
+   "en": "He's the ruler of the Muspel Nation,\na nefarious man who is constantly\nscheming to expand his influence.",
+   "ru": "Правитель Муспеля, коварный\nчеловек, вечно строящий козни,\nчтобы расширить своё влияние."
+  },
+  {
+   "id": 14,
+   "en": "Muspel has engaged Avalon in\nwarfare for many years. Occasional\nhit-and-run strikes on our border.",
+   "ru": "Муспель уже много лет воюет с\nАвалоном. Наносит внезапные\nудары на нашей границе."
+  },
+  {
+   "id": 15,
+   "en": "Radcot's guerrilla tactics are the\nreason that Avalon cannot send more\nsoldiers to fight the Empire.",
+   "ru": "Из-за вылазок Радкота Авалон\nне может послать больше солдат\nпротив Империи."
+  },
+  {
+   "id": 16,
+   "en": "We have long suspected a connection\nbetween Radcot and the Empire, but\nproof has eluded us for years.",
+   "ru": "Мы давно подозреваем связь\nРадкота с Империей, но\nдоказательств так и не нашли."
+  },
+  {
+   "id": 17,
+   "en": "What would you have us do with the\nmessenger?",
+   "ru": "Что прикажете делать с\nпосланником?"
+  },
+  {
+   "id": 18,
+   "en": "Send the snake back into the\ndesert!",
+   "ru": "Отправьте эту змею обратно в\nпустыню!"
+  },
+  {
+   "id": 19,
+   "en": "With pleasure, Duke Zeira.",
+   "ru": "С удовольствием, герцог Зейра."
+  },
+  {
+   "id": 20,
+   "en": "{02}Actually, Zeira, I'll meet with him.{00}{00}...   ...   ...{00}",
+   "ru": "{02}Вообще-то, Зейра, я его приму.{00}{00}...   ...   ...{00}"
+  },
+  {
+   "id": 21,
+   "en": "Actually, Zeira, I'll meet with him.\nWhat's the worst that could happen?",
+   "ru": "Вообще-то, Зейра, я его приму.\nЧто может случиться в худшем\nслучае?"
+  },
+  {
+   "id": 22,
+   "en": "I very strongly advise against this,\nYour Highness! Radcot is not to be\ntrusted under any circumstances!",
+   "ru": "Настоятельно не советую, Ваше\nВысочество! Радкоту нельзя\nверить ни при каких условиях!"
+  },
+  {
+   "id": 23,
+   "en": "That may well be true, Galvas, but I\nshall hear what he has to say before\nI decide not to trust it!",
+   "ru": "Может, и так, Гальвас, но я\nвыслушаю его, прежде чем решу,\nчто ему не верить!"
+  },
+  {
+   "id": 24,
+   "en": "Please bring the messenger here.",
+   "ru": "Приведите посланника."
+  },
+  {
+   "id": 25,
+   "en": "Yes, Your Highness!",
+   "ru": "Слушаюсь, Ваше Высочество!"
+  },
+  {
+   "id": 26,
+   "en": "(This is a mistake, Your Highness. A\ngrave mistake which shall result in\ngrave consequences...)",
+   "ru": "(Это ошибка, Ваше Высочество.\nГрубая ошибка, за которой\nпоследуют тяжкие последствия...)"
+  },
+  {
+   "id": 27,
+   "en": "I present to you the messenger of the\nMuspel Nation.",
+   "ru": "Представляю вам посланника\nМуспельского государства."
+  },
+  {
+   "id": 28,
+   "en": "Messenger:\nI have come on behalf of Duke Radcot.\nHe wishes to enter into allegiance\nwith you, Prince Bastion.",
+   "ru": "Посланник:\nЯ прибыл от имени герцога\nРадкота. Он желает заключить с\nвами союз, принц Бастион."
+  },
+  {
+   "id": 29,
+   "en": "Currently, the Duke is at war with\nthe Southern Alliance, and requests\nyour help in securing victory.",
+   "ru": "Сейчас герцог воюет с Южным\nсоюзом и просит вашей помощи,\nчтобы одержать победу."
+  },
+  {
+   "id": 30,
+   "en": "Duke Radcot asks you to travel to the\nMuspel Nation, where you and he can\ndiscuss these matters personally.",
+   "ru": "Герцог Радкот приглашает вас в\nМуспель, чтобы обсудить всё\nлично."
+  },
+  {
+   "id": 31,
+   "en": "I can scarcely believe what I'm \nhearing!",
+   "ru": "Ушам своим не верю!"
+  },
+  {
+   "id": 32,
+   "en": "If Radcot wishes to enlist our aid,\nwhy didn't he come and ask us\npersonally?",
+   "ru": "Если Радкоту нужна наша\nпомощь, почему он не явился\nпросить лично?"
+  },
+  {
+   "id": 33,
+   "en": "Duke Radcot wished to travel here in\nperson, but was detained by news\nof the Ultragunner.",
+   "ru": "Герцог хотел приехать сам, но его\nзадержали вести об\nУльтраганнере."
+  },
+  {
+   "id": 34,
+   "en": "Yeah, sure he...what?!",
+   "ru": "Ну да, конечно... что?!"
+  },
+  {
+   "id": 35,
+   "en": "What does Duke Radcot know of the\nUltragunner?!",
+   "ru": "Что герцог Радкот знает об\nУльтраганнере?!"
+  },
+  {
+   "id": 36,
+   "en": "I was not told any of the rumors, sir.\nOnly that the Duke has found them to\nbe quite interesting.",
+   "ru": "Мне не сообщили подробностей,\nсударь. Лишь то, что слухи эти\nгерцогу весьма интересны."
+  },
+  {
+   "id": 37,
+   "en": "Do you accept Duke Radcot's offer to\nvisit us in Muspel, Prince Bastion?",
+   "ru": "Принимаете ли вы приглашение\nгерцога Радкота посетить\nМуспель, принц Бастион?"
+  },
+  {
+   "id": 38,
+   "en": "{02}Yes. Tell him I will depart soon.{00}{00}I'm afraid not.{00}",
+   "ru": "{02}Да. Передай, что я скоро буду.{00}{00}Боюсь, что нет.{00}"
+  },
+  {
+   "id": 39,
+   "en": "Yes. Tell him I will depart soon.",
+   "ru": "Да. Передай, что я скоро буду."
+  },
+  {
+   "id": 40,
+   "en": "Highness!",
+   "ru": "Ваше Высочество!"
+  },
+  {
+   "id": 41,
+   "en": "I implore you to reconsider, Bastion!\nThis cannot be anything but some\nkind of trap!",
+   "ru": "Умоляю, передумай, Бастион! Это\nне может быть ничем иным, как\nловушкой!"
+  },
+  {
+   "id": 42,
+   "en": "Inform the Duke that I intend to\nbring an entourage with me, of\ncourse.",
+   "ru": "Разумеется, сообщите герцогу,\nчто я приеду со свитой."
+  },
+  {
+   "id": 43,
+   "en": "I shall return to Muspel at once and\ninform the Duke of your impending\narrival, Prince Bastion.",
+   "ru": "Я немедленно вернусь в Муспель и\nсообщу герцогу о вашем скором\nприбытии, принц Бастион."
+  },
+  {
+   "id": 44,
+   "en": "Thank you for your hospitality and\ngraciousness. Good day to you.",
+   "ru": "Благодарю за гостеприимство и\nлюбезность. Всего доброго."
+  },
+  {
+   "id": 45,
+   "en": "Bastion, you know I hold you in the\nhighest regard, but what in THE hell\nis going on in your head?",
+   "ru": "Бастион, ты знаешь, как я тебя\nуважаю, но что, ЧЁРТ возьми,\nтворится у тебя в голове?"
+  },
+  {
+   "id": 46,
+   "en": "I don't want the war with the Empire\nto drag on any longer than necessary,\nZeira. It must end quickly.",
+   "ru": "Я не хочу, чтобы война с\nИмперией затянулась, Зейра. Её\nнужно закончить быстро."
+  },
+  {
+   "id": 47,
+   "en": "And to do that, I need two things: a\nmassive army, and the Ultragunner\nATAC.",
+   "ru": "А для этого мне нужны две вещи:\nогромная армия и АТАК\nУльтраганнер."
+  },
+  {
+   "id": 48,
+   "en": "If I meet with Duke Radcot, perhaps I\ncan acquire both.",
+   "ru": "Встретившись с герцогом\nРадкотом, я, может быть, получу\nи то, и другое."
+  },
+  {
+   "id": 49,
+   "en": "I fear that all you shall acquire\nfrom associating with Radcot is a\ndagger in your back...",
+   "ru": "Боюсь, от союза с Радкотом ты\nполучишь лишь нож в спину..."
+  },
+  {
+   "id": 50,
+   "en": "Perhaps so, Zeira...but isn't it worth\ntaking the risk at this point?",
+   "ru": "Может быть, Зейра... но разве\nсейчас не стоит рискнуть?"
+  },
+  {
+   "id": 51,
+   "en": "If you were at peace with Muspel,\nyou could devote more of your forces\nto defeating the Empire.",
+   "ru": "Будь у тебя мир с Муспелем, ты\nмог бы бросить больше сил\nпротив Империи."
+  },
+  {
+   "id": 52,
+   "en": "Perhaps true, but...",
+   "ru": "Возможно, но..."
+  },
+  {
+   "id": 53,
+   "en": "No \"buts,\" Zeira. You promised that\nyou would support my decisions,\nand I ask you to support this one.",
+   "ru": "Никаких \"но\", Зейра. Ты обещал\nподдерживать мои решения.\nПоддержи и это."
+  },
+  {
+   "id": 54,
+   "en": "Your other decisions were the right\nones, Bastion! It's much harder to\nfollow the wrong ones!",
+   "ru": "Прочие твои решения были\nверными, Бастион! А следовать\nневерным куда труднее!"
+  },
+  {
+   "id": 55,
+   "en": "Zeira...",
+   "ru": "Зейра..."
+  },
+  {
+   "id": 56,
+   "en": "You're a born leader, Bastion. That's\nfor certain.  I'll accompany you,\ndespite my reservations.",
+   "ru": "Ты прирождённый вождь,\nБастион, это точно. Я поеду с\nтобой, несмотря на сомнения."
+  },
+  {
+   "id": 57,
+   "en": "...but I shall reserve the right\nto say \"I told you so!\"",
+   "ru": "...но оставляю за собой право\nсказать \"Я же говорил!\""
+  },
+  {
+   "id": 58,
+   "en": "As you wish, Zeira. Enough time\nhas been wasted. Let's prepare for\nthe journey...",
+   "ru": "Как пожелаешь, Зейра. Хватит\nтерять время. Готовимся в путь..."
+  },
+  {
+   "id": 59,
+   "en": "I'm afraid not.",
+   "ru": "Боюсь, что нет."
+  },
+  {
+   "id": 60,
+   "en": "If Radcot wants us to become allies,\nthen it only seems reasonable for him\nto come here personally.",
+   "ru": "Если Радкот хочет союза,\nразумно, чтобы он приехал сюда\nлично."
+  },
+  {
+   "id": 61,
+   "en": "Tell him that I guarantee his safety,\nshould he choose to accept my offer.",
+   "ru": "Передай, что я гарантирую ему\nбезопасность, если он примет моё\nпредложение."
+  },
+  {
+   "id": 62,
+   "en": "I will return to Muspel at once and\ninform the Duke of your invitation,\nPrince Bastion.",
+   "ru": "Я немедленно вернусь в Муспель и\nпередам герцогу ваше\nприглашение, принц Бастион."
+  },
+  {
+   "id": 63,
+   "en": "Thank you for your hospitality and\ngraciousness. Good day to you.",
+   "ru": "Благодарю за гостеприимство и\nлюбезность. Всего доброго."
+  },
+  {
+   "id": 64,
+   "en": "You made the right decision, Bastion.\nRadcot can't be trusted. He'd betray\nhis mother if it'd benefit him.",
+   "ru": "Ты принял верное решение,\nБастион. Радкоту верить нельзя.\nОн и мать предаст, если выгодно."
+  },
+  {
+   "id": 65,
+   "en": "I think the best course of action is to\ncontinue with our original plan to\nmeet with Marquis Dionne.",
+   "ru": "Думаю, лучше держаться\nпрежнего плана и встретиться с\nмаркизом Дионном."
+  },
+  {
+   "id": 66,
+   "en": "Let's prepare for the journey...",
+   "ru": "Готовимся в путь..."
+  },
+  {
+   "id": 67,
+   "en": "...   ...   ...",
+   "ru": ""
+  },
+  {
+   "id": 68,
+   "en": "We now have a third foe to concern\nourselves with, Your Highness. He is\nplanning something, no doubt.",
+   "ru": "Теперь у нас третий враг, Ваше\nВысочество. Он, без сомнения,\nчто-то замышляет."
+  },
+  {
+   "id": 69,
+   "en": "Have we heard any word from our\nspies in the Muspel Nation, yet?",
+   "ru": "Есть вести от наших шпионов в\nМуспеле?"
+  },
+  {
+   "id": 70,
+   "en": "Unfortunately not. I'm beginning to\nwonder if they have been caught...",
+   "ru": "К сожалению, нет. Я начинаю\nопасаться, что их поймали..."
+  },
+  {
+   "id": 71,
+   "en": "I share all your concerns, but we\nhave to focus on our original plan\nof meeting with Marquis Dionne.",
+   "ru": "Разделяю опасения, но нам нужно\nдержаться плана и встретиться с\nмаркизом Дионном."
+  },
+  {
+   "id": 72,
+   "en": "You're right, Bastion. Nothing can be\nsolved by worrying about things that\nlie beyond our control.",
+   "ru": "Ты прав, Бастион. Тревогой о\nтом, что нам неподвластно,\nничего не решить."
+  },
+  {
+   "id": 73,
+   "en": "Ione, I believe it would be prudent\nto send a few more spies into Muspel.\nWe must learn what Radcot's up to.",
+   "ru": "Иона, думаю, разумно послать в\nМуспель ещё шпионов. Надо\nузнать, что задумал Радкот."
+  },
+  {
+   "id": 74,
+   "en": "I'll send them at once, Duke Zeira.",
+   "ru": "Немедленно отправлю, герцог\nЗейра."
+  },
+  {
+   "id": 75,
+   "en": "Your Highness, we should begin\npreparations for our journey to\nDionne-Lehve...",
+   "ru": "Ваше Высочество, нам пора\nготовиться к путешествию в\nДионн-Леве..."
+  },
+  {
+   "id": 76,
+   "en": "Ione, have you noticed that Ganlon's\nbeen acting a little...strange\nlately?",
+   "ru": "Иона, ты не заметила, что\nГанлон в последнее время ведёт\nсебя... странно?"
+  },
+  {
+   "id": 77,
+   "en": "And doesn't it seem strange that\nthe Empire captured Araba so\neasily?",
+   "ru": "И не странно ли, что Империя\nтак легко захватила Арабу?"
+  },
+  {
+   "id": 78,
+   "en": "Are you implying what I think you\nare, Duke Zeira?",
+   "ru": "Вы намекаете на то, о чём я\nдумаю, герцог Зейра?"
+  },
+  {
+   "id": 79,
+   "en": "I am only noting that caution may\nbe the best course where Ganlon\nis concerned.",
+   "ru": "Я лишь замечаю, что с Ганлоном\nстоит быть осторожнее."
+  },
+  {
+   "id": 80,
+   "en": "I shall stay here and keep watch\non him. He's up to something...and\nI intend to find out what.",
+   "ru": "Я останусь здесь и присмотрю за\nним. Он что-то замышляет... и я\nнамерен узнать что."
+  },
+  {
+   "id": 81,
+   "en": "I pray you're wrong, for all our\nsakes, Zeira.",
+   "ru": "Хоть бы вы ошибались, Зейра.\nРади всех нас."
+  }
+ ]
+}

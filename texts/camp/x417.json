@@ -1,0 +1,330 @@
+{
+ "file": 417,
+ "kind": "strtab",
+ "section": 0,
+ "ctrl": 1,
+ "max_px": 245,
+ "max_lines": 4,
+ "lines": [
+  {
+   "id": 0,
+   "en": "Puck:\nHi, Bastion! What do you want to do?",
+   "ru": "Пак:\nПривет, Бастион! Что будем\nделать?"
+  },
+  {
+   "id": 1,
+   "en": "This lets you look at the statistics,\nequipment, and special abilities of\neveryone in your party.",
+   "ru": "Здесь можно посмотреть\nхарактеристики, снаряжение и\nособые способности всех в отряде."
+  },
+  {
+   "id": 2,
+   "en": "This lets you change your equipment:\nweapons, stones, and amulets.",
+   "ru": "Здесь можно сменить снаряжение:\nоружие, камни и амулеты."
+  },
+  {
+   "id": 3,
+   "en": "This lets you transfer people in your\nparty to different ATACs.",
+   "ru": "Здесь можно пересадить людей из\nотряда на другие АТАКи."
+  },
+  {
+   "id": 4,
+   "en": "Okay! Now choose someone.",
+   "ru": "Ладно! Теперь выбери\nкого-нибудь."
+  },
+  {
+   "id": 5,
+   "en": "Here's a list of the different attacks\nthis person can use.",
+   "ru": "Вот список атак, которые может\nприменять этот боец."
+  },
+  {
+   "id": 6,
+   "en": "Here's a list of the special abilities\nthis person can use.",
+   "ru": "Вот список особых способностей,\nкоторыми владеет этот боец."
+  },
+  {
+   "id": 7,
+   "en": "These are the special abilities this\nperson will automatically use.",
+   "ru": "Эти особые способности боец\nприменяет автоматически."
+  },
+  {
+   "id": 8,
+   "en": "Select this to change your weapon.",
+   "ru": "Выбери, чтобы сменить оружие."
+  },
+  {
+   "id": 9,
+   "en": "Select this to change your stone.",
+   "ru": "Выбери, чтобы сменить камень."
+  },
+  {
+   "id": 10,
+   "en": "Select this to change your amulet.",
+   "ru": "Выбери, чтобы сменить амулет."
+  },
+  {
+   "id": 11,
+   "en": "Are you already done, Bastion?",
+   "ru": "Уже закончил, Бастион?"
+  },
+  {
+   "id": 12,
+   "en": "Okay, Bastion, seeya later!",
+   "ru": "Ладно, Бастион, ещё увидимся!"
+  },
+  {
+   "id": 13,
+   "en": "What else would you like to do?",
+   "ru": "Что ещё хочешь сделать?"
+  },
+  {
+   "id": 14,
+   "en": "Press UP and DOWN on the D-Pad to\nlook at the different special abilities.",
+   "ru": "Нажимай ВВЕРХ и ВНИЗ на\nкрестовине, чтобы посмотреть\nразные способности."
+  },
+  {
+   "id": 15,
+   "en": "Which ATAC are you going to assign\nthis person to?",
+   "ru": "На какой АТАК посадим этого\nбойца?"
+  },
+  {
+   "id": 16,
+   "en": "This person can't use another ATAC.\nThat's why their name is in red!",
+   "ru": "Этот боец не может управлять\nдругим АТАКом. Поэтому его имя\nкрасное!"
+  },
+  {
+   "id": 17,
+   "en": "Do you want to look at someone else?",
+   "ru": "Хочешь посмотреть кого-нибудь\nещё?"
+  },
+  {
+   "id": 18,
+   "en": "Wow, Bastion, you're really excited!\nThat makes me really happy!",
+   "ru": "Ух ты, Бастион, как ты разошёлся!\nЯ так рад!"
+  },
+  {
+   "id": 19,
+   "en": "Ah, never mind. Where were we?",
+   "ru": "А, ладно, неважно. На чём мы\nостановились?"
+  },
+  {
+   "id": 20,
+   "en": "Now does anyone else want to change\ntheir equipment?",
+   "ru": "Кто-нибудь ещё хочет сменить\nснаряжение?"
+  },
+  {
+   "id": 21,
+   "en": "Is anyone else changing ATACs?",
+   "ru": "Кто-нибудь ещё пересаживается\nна другой АТАК?"
+  },
+  {
+   "id": 22,
+   "en": "Okay, now choose the equipment you\nwant to use.",
+   "ru": "Ладно, теперь выбери снаряжение."
+  },
+  {
+   "id": 23,
+   "en": "Is there any other equipment that you\nwant to change?",
+   "ru": "Хочешь сменить ещё что-нибудь\nиз снаряжения?"
+  },
+  {
+   "id": 24,
+   "en": "Bastion, we don't have any more of\nthat piece of equipment!",
+   "ru": "Бастион, такого снаряжения у нас\nбольше нет!"
+  },
+  {
+   "id": 25,
+   "en": "Um, you can't equip that.",
+   "ru": "Э-э, это надеть нельзя."
+  },
+  {
+   "id": 26,
+   "en": "You can't change that...",
+   "ru": "Это нельзя сменить..."
+  },
+  {
+   "id": 27,
+   "en": "Sorry, but we don't have that type of\nequipment! Maybe you can buy it the\nnext time you go shopping, okay?",
+   "ru": "Прости, но такого снаряжения у\nнас нет! Может, купишь его, когда\nв следующий раз пойдёшь за\nпокупками?"
+  },
+  {
+   "id": 28,
+   "en": "This person can't use that type of\nATAC! Sorry!",
+   "ru": "Этот боец не может управлять\nтаким АТАКом! Прости!"
+  },
+  {
+   "id": 29,
+   "en": "Press UP and DOWN on the D-Pad to\nselect the equipment to change.",
+   "ru": "Нажимай ВВЕРХ и ВНИЗ на\nкрестовине, чтобы выбрать, что\nсменить."
+  },
+  {
+   "id": 30,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 31,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 32,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 33,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 34,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 35,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 36,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 37,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 38,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 39,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 40,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 41,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 42,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 43,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 44,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 45,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 46,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 47,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 48,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 49,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 50,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 51,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 52,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 53,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 54,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 55,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 56,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 57,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 58,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 59,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 60,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 61,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 62,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 63,
+   "en": "\n\n\n",
+   "ru": ""
+  }
+ ]
+}

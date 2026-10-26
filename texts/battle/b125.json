@@ -1,0 +1,326 @@
+{
+ "file": 125,
+ "kind": "battle",
+ "lines": [
+  {
+   "id": 0,
+   "en": "I imagine these bandits were\ncowering inside that cave. There's no\nway we could've seen them sooner.",
+   "ru": "Видно, эти бандиты прятались в\nтой пещере. Заметить их раньше\nмы никак не могли."
+  },
+  {
+   "id": 1,
+   "en": "I had received reports of a group of\nrogue Imperials based in this area,\nbut discounted them as rumors...",
+   "ru": "До меня доходили слухи о шайке\nимперских отступников в этих\nкраях, но я им не поверил..."
+  },
+  {
+   "id": 2,
+   "en": "These bandits think they're going to\nend our lives and steal our ATACs?\nBoy, will they be surprised!",
+   "ru": "Эти бандиты думают, что убьют\nнас и заберут наши АТАКи? Ну,\nих ждёт сюрприз!"
+  },
+  {
+   "id": 3,
+   "en": "Bandit Chief:\nWell, well. These are some impressive\nATACs. They'll fetch a mighty price\non the black market.",
+   "ru": "Главарь бандитов:\nТак-так. Впечатляющие АТАКи.\nНа чёрном рынке за них дадут\nхорошую цену."
+  },
+  {
+   "id": 4,
+   "en": "I know those people from Nordilain\npaid us to report any strange ATACs,\nand to stay out of sight...",
+   "ru": "Знаю, нордилейнцы платили\nнам, чтобы мы доносили о чужих\nАТАКах и не высовывались..."
+  },
+  {
+   "id": 5,
+   "en": "But we'll make ten times as much\nmoney after we sell these ATACs!\nBegin the attack!",
+   "ru": "Но, продав эти АТАКи, мы\nполучим вдесятеро больше! В\nатаку!"
+  },
+  {
+   "id": 6,
+   "en": "Should we dismantle these thieves\none ATAC at a time, or all at once?",
+   "ru": "Разобрать этих воров по одному\nАТАКу или всех сразу?"
+  },
+  {
+   "id": 7,
+   "en": "That red ATAC belongs to Claire, the\ndaughter of Duke Logan, and the heir\nto the Nordilain Forest!",
+   "ru": "Этот красный АТАК принадлежит\nКлэр, дочери герцога Логана и\nнаследнице Нордилейнского леса!"
+  },
+  {
+   "id": 8,
+   "en": "I knew Nordilain was involved with\nthe Empire, but I certainly didn't\nexpect them to attack us!",
+   "ru": "Я знал, что Нордилейн связан с\nИмперией, но никак не ожидал,\nчто они нападут на нас!"
+  },
+  {
+   "id": 9,
+   "en": "Hey, I totally recognize those ATACs!\nThey belong to Zeira and Galvas!",
+   "ru": "Эй, я реально узнаю эти АТАКи!\nЭто же Зейра и Гальвас!"
+  },
+  {
+   "id": 10,
+   "en": "This is going to be, like, a better fight\nthan I expected, you know?",
+   "ru": "Это, типа, будет круче, чем я\nдумала, прикинь?"
+  },
+  {
+   "id": 11,
+   "en": "And my dad will be SO happy when\nI give him their swords for his trophy\nwall! Like, seriously!",
+   "ru": "А папа будет ТАК рад, когда я\nподарю ему их мечи для стены\nтрофеев! Реально!"
+  },
+  {
+   "id": 12,
+   "en": "You have an impressive ATAC for an\nImperial soldier...let's see how long it\ntakes for me to destroy it!",
+   "ru": "Неплохой АТАК для имперского\nсолдата... посмотрим, как быстро\nя его уничтожу!"
+  },
+  {
+   "id": 13,
+   "en": "Imperial agent?! Like, are you\nretarded or something?! I'm the\ndaughter of Duke Logan, duhr boy!",
+   "ru": "Имперский агент?! Ты что, типа,\nтупой?! Я дочь герцога Логана,\nбалда!"
+  },
+  {
+   "id": 14,
+   "en": "Like, no offense, Galvas, but I hear\nyou're totally ancient.",
+   "ru": "Типа, без обид, Гальвас, но\nговорят, ты реально древний."
+  },
+  {
+   "id": 15,
+   "en": "So I won't feel guilty about killing\nyou, since you're totally on the verge\nof croaking anyway.",
+   "ru": "Так что мне не будет стыдно\nтебя убить, ты ведь и так, типа,\nвот-вот помрёшь."
+  },
+  {
+   "id": 16,
+   "en": "It appears I need to beat some respect\ninto you, little girl!",
+   "ru": "Похоже, придётся вбить в тебя\nнемного уважения, девочка!"
+  },
+  {
+   "id": 17,
+   "en": "Duke Zeira! So, like, are you ready to\nrumble or what?",
+   "ru": "Герцог Зейра! Ну что, типа, готов\nк драке?"
+  },
+  {
+   "id": 18,
+   "en": "Duke Logan's daughter calling me\nto arms? THAT certainly doesn't\nhappen every day!",
+   "ru": "Дочь герцога Логана вызывает\nменя на бой? ТАКОЕ не каждый\nдень случается!"
+  },
+  {
+   "id": 19,
+   "en": "Like, you guys are good!",
+   "ru": "Типа, а вы крутые!"
+  },
+  {
+   "id": 20,
+   "en": "I can totally see why Faulkner got\nspanked at Araba Castle.",
+   "ru": "Теперь я реально понимаю,\nпочему Фолкнеру надавали у\nзамка Араба."
+  },
+  {
+   "id": 21,
+   "en": "I must leave for now, but, like, let's\nhave a rematch soon, okay?",
+   "ru": "Мне пока надо уйти, но, типа,\nдавайте скоро реванш, ладно?"
+  },
+  {
+   "id": 22,
+   "en": "Miss Claire, your ATAC is perilously\nclose to destruction!",
+   "ru": "Госпожа Клэр, ваш АТАК вот-вот\nбудет уничтожен!"
+  },
+  {
+   "id": 23,
+   "en": "Oh, come on, Shion! I can totally keep\nfighting! You, like, worry too much!",
+   "ru": "Ой, да ладно, Шион! Я реально\nмогу драться дальше! Ты, типа,\nслишком волнуешься!"
+  },
+  {
+   "id": 24,
+   "en": "Miss Claire, I am sworn by a blood\noath to worry about you! I must\ninsist you leave this battle!",
+   "ru": "Госпожа Клэр, я клялся на крови\nоберегать вас! Я настаиваю,\nчтобы вы покинули бой!"
+  },
+  {
+   "id": 25,
+   "en": "Okay, okay. At least we totally know\nthat Faulkner didn't lose by accident!",
+   "ru": "Ладно, ладно. Зато теперь мы\nреально знаем, что Фолкнер\nпроиграл не случайно!"
+  },
+  {
+   "id": 26,
+   "en": "Like, see you back at the castle, okay?",
+   "ru": "Типа, увидимся в замке, ладно?"
+  },
+  {
+   "id": 27,
+   "en": "Miss Claire!!",
+   "ru": "Госпожа Клэр!!"
+  },
+  {
+   "id": 28,
+   "en": "Collect her from her ATAC and\nretreat immediately!",
+   "ru": "Вытащите её из АТАКа и\nнемедленно отступайте!"
+  },
+  {
+   "id": 29,
+   "en": "Nordilain Soldier:\nRetreat!!",
+   "ru": "Нордилейнский солдат:\nОтступаем!!"
+  },
+  {
+   "id": 30,
+   "en": "It's over?",
+   "ru": "Всё кончено?"
+  },
+  {
+   "id": 31,
+   "en": "It seems to be...",
+   "ru": "Похоже на то..."
+  },
+  {
+   "id": 32,
+   "en": "We sure haven't made any friends\nin Nordilain. That may pose a\nproblem later on.",
+   "ru": "Друзей в Нордилейне мы точно не\nнажили. Потом это может стать\nпроблемой."
+  },
+  {
+   "id": 33,
+   "en": "The best course of action would be\nto return to Araba and decide our\nnext move, Bastion.",
+   "ru": "Лучше всего вернуться в Арабу и\nрешить, что делать дальше,\nБастион."
+  },
+  {
+   "id": 34,
+   "en": "It's over.",
+   "ru": "Всё кончено."
+  },
+  {
+   "id": 35,
+   "en": "Come on, everyone. Let's return to\nAraba Castle and regroup!",
+   "ru": "Идёмте все. Вернёмся в замок\nАраба и соберёмся с силами!"
+  },
+  {
+   "id": 36,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 37,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 38,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 39,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 40,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 41,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 42,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 43,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 44,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 45,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 46,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 47,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 48,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 49,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 50,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 51,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 52,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 53,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 54,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 55,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 56,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 57,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 58,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 59,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 60,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 61,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 62,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 63,
+   "en": "\n\n\n",
+   "ru": ""
+  }
+ ]
+}

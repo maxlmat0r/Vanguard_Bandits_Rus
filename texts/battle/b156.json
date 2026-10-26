@@ -1,0 +1,546 @@
+{
+ "file": 156,
+ "kind": "battle",
+ "lines": [
+  {
+   "id": 0,
+   "en": "Sorry to keep you all waiting! Well,\nhere it is! The Ultragunner!",
+   "ru": "Простите, что заставил ждать!\nНу вот он! Ультраганнер!"
+  },
+  {
+   "id": 1,
+   "en": "It's very impressive, Bastion--and\nvery, very white!",
+   "ru": "Он очень впечатляет, Бастион... и\nочень-очень белый!"
+  },
+  {
+   "id": 2,
+   "en": "Indeed it is, Sadira. I'm not looking\nforward to keeping it clean between\nbattles.",
+   "ru": "Это точно, Садира. Не жду ничего\nхорошего от того, чтобы держать\nего в чистоте между боями."
+  },
+  {
+   "id": 3,
+   "en": "What concerns me more is that I\ndon't sense anything especially...\npowerful about it.",
+   "ru": "Меня больше тревожит, что я не\nчувствую в нём ничего особенно...\nмощного."
+  },
+  {
+   "id": 4,
+   "en": "I'm totally surprised you were able\nto find it so quickly, Bastion! Wasn't\nit hidden or something?",
+   "ru": "Я реально удивлена, что ты так\nбыстро его нашёл, Бастион! Он\nразве не был спрятан?"
+  },
+  {
+   "id": 5,
+   "en": "Who cares, Claire? What's important\nis that we found it, and that Bastion\ncan operate it!",
+   "ru": "Какая разница, Клэр? Главное,\nчто мы его нашли и Бастион\nможет им управлять!"
+  },
+  {
+   "id": 6,
+   "en": "Let's head for Norze Castle, Bastion.\nWe can rest for a while, then decide\nwhat to do next.",
+   "ru": "Отправимся в замок Норзе,\nБастион. Отдохнём немного, а\nпотом решим, что дальше."
+  },
+  {
+   "id": 7,
+   "en": "I have a better idea. Why don't you\ngive me Ultragunner before I decide\nto kill you all?",
+   "ru": "У меня идея получше. Почему бы\nвам не отдать мне Ультраганнер,\nпока я не решил убить вас всех?"
+  },
+  {
+   "id": 8,
+   "en": "Like, whatEVER!",
+   "ru": "Да ЛАДНО!"
+  },
+  {
+   "id": 9,
+   "en": "Faulkner!",
+   "ru": "Фолкнер!"
+  },
+  {
+   "id": 10,
+   "en": "And my brother, Duyere?!",
+   "ru": "И мой брат, Дюйер?!"
+  },
+  {
+   "id": 11,
+   "en": "Sadira...our father is dead.",
+   "ru": "Садира... наш отец мёртв."
+  },
+  {
+   "id": 12,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 13,
+   "en": "Emperor Degalle was certainly not\nyoung, but also not in poor health!\nWas it an accident, Duyere?",
+   "ru": "Император Дегаль был не молод,\nно и не болен! Это был\nнесчастный случай, Дюйер?"
+  },
+  {
+   "id": 14,
+   "en": "No, Franco, it was an assassination.\nSomeone crept into his bedchamber\nand stabbed him to death.",
+   "ru": "Нет, Франко, это было убийство.\nКто-то прокрался в его\nопочивальню и заколол его."
+  },
+  {
+   "id": 15,
+   "en": "How horrible! Who would do such a\nthing to Father?",
+   "ru": "Какой ужас! Кто мог сделать\nтакое с отцом?"
+  },
+  {
+   "id": 16,
+   "en": "I was hoping you might be able to\nanswer that question, Sadira.",
+   "ru": "Я надеялся, что на этот вопрос\nответишь ты, Садира."
+  },
+  {
+   "id": 17,
+   "en": "What?",
+   "ru": "Что?"
+  },
+  {
+   "id": 18,
+   "en": "I don't understand, Duyere.",
+   "ru": "Я не понимаю, Дюйер."
+  },
+  {
+   "id": 19,
+   "en": "I see. You are feigning ignorance, just\nas Faulkner predicted you would. Let\nme make it clear for you, then.",
+   "ru": "Вот как. Изображаешь неведение,\nкак и предсказывал Фолкнер. Что\nж, объясню."
+  },
+  {
+   "id": 20,
+   "en": "You are the one who orchestrated\nour father's murder, Sadira. You\nconspired to kill him.",
+   "ru": "Это ты подстроила убийство\nнашего отца, Садира. Ты\nсговорилась убить его."
+  },
+  {
+   "id": 21,
+   "en": "Brother!!",
+   "ru": "Брат!!"
+  },
+  {
+   "id": 22,
+   "en": "You are obviously overcome with\ngrief, or you would realize what\na ridiculous accusation that is!",
+   "ru": "Ты явно убит горем, иначе понял\nбы, как нелепо это обвинение!"
+  },
+  {
+   "id": 23,
+   "en": "Really, Sadira? You deny your intent\nto kill Father and me, then claim the\nthrone of the Empire?",
+   "ru": "Правда, Садира? Отрицаешь, что\nхотела убить отца и меня, а\nпотом занять трон Империи?"
+  },
+  {
+   "id": 24,
+   "en": "I don't want the throne, brother, and\nI've told you that many times! Don't\nyou remember?",
+   "ru": "Мне не нужен трон, брат, я\nговорила это много раз! Ты не\nпомнишь?"
+  },
+  {
+   "id": 25,
+   "en": "We captured the assassin, Sadira,\nand he told us everything! Spare me\nyour litany of lies!",
+   "ru": "Мы поймали убийцу, Садира, и он\nвсё рассказал! Избавь меня от\nсвоей лжи!"
+  },
+  {
+   "id": 26,
+   "en": "You are under arrest for mutiny and\nmurder, Sadira! Come with us now,\nor we will take you by force!",
+   "ru": "Ты арестована за мятеж и\nубийство, Садира! Иди с нами,\nили мы возьмём тебя силой!"
+  },
+  {
+   "id": 27,
+   "en": "You're making an enormous mistake!\nThe assassin was lying to you!\nI am entirely innocent!",
+   "ru": "Ты совершаешь огромную ошибку!\nУбийца тебе солгал! Я совершенно\nневиновна!"
+  },
+  {
+   "id": 28,
+   "en": "Is that so, Sadira? Then why did you\nrescue the Prince of the Kingdom, and\nhelp him find the Ultragunner?",
+   "ru": "Неужели? Тогда зачем ты спасла\nпринца Королевства и помогла\nнайти Ультраганнер?"
+  },
+  {
+   "id": 29,
+   "en": "Because you and he have schemed to\nconquer the Continent under the flag\nof the Pharastia Kingdom!",
+   "ru": "Затем, что вы с ним задумали\nзавоевать Континент под\nзнаменем Королевства Фарастия!"
+  },
+  {
+   "id": 30,
+   "en": "You stupid freak! Don't you\nunderstand?",
+   "ru": "Тупой урод! Неужели ты не\nпонимаешь?"
+  },
+  {
+   "id": 31,
+   "en": "Bastion and I want to end the war,\nnot to wage one!",
+   "ru": "Мы с Бастионом хотим закончить\nвойну, а не развязать новую!"
+  },
+  {
+   "id": 32,
+   "en": "Sadira, there is only one way to\nconvince me of your innocence.",
+   "ru": "Садира, есть лишь один способ\nубедить меня в твоей\nневиновности."
+  },
+  {
+   "id": 33,
+   "en": "Allow us to arrest Bastion and take\nthe Ultragunner from him!",
+   "ru": "Позволь арестовать Бастиона и\nзабрать у него Ультраганнер!"
+  },
+  {
+   "id": 34,
+   "en": "You know I cannot do that.",
+   "ru": "Ты знаешь, что я не могу."
+  },
+  {
+   "id": 35,
+   "en": "Let them take me, Sadira.",
+   "ru": "Пусть меня заберут, Садира."
+  },
+  {
+   "id": 36,
+   "en": "Bastion! No!",
+   "ru": "Бастион! Нет!"
+  },
+  {
+   "id": 37,
+   "en": "Sadira's right, Bastion! You'd be\ntotally stupid to let them take the\nUltragunner!",
+   "ru": "Садира права, Бастион! Было бы\nреально глупо отдать им\nУльтраганнер!"
+  },
+  {
+   "id": 38,
+   "en": "Especially 'cause they want to use it!",
+   "ru": "Особенно раз они хотят им\nвоспользоваться!"
+  },
+  {
+   "id": 39,
+   "en": "What do you mean?",
+   "ru": "О чём вы?"
+  },
+  {
+   "id": 40,
+   "en": "Claire is correct. Prince Duyere\nis being manipulated by someone\nwho wants the Ultragunner.",
+   "ru": "Клэр права. Принцем Дюйером\nманипулирует тот, кому нужен\nУльтраганнер."
+  },
+  {
+   "id": 41,
+   "en": "Someone who could arrange for the\nEmperor to be killed. Someone who\ncould fill Duyere's head with lies.",
+   "ru": "Тот, кто мог устроить убийство\nимператора. Тот, кто мог забить\nголову Дюйера ложью."
+  },
+  {
+   "id": 42,
+   "en": "And who would have that kind of\ninfluence, Franco?",
+   "ru": "И у кого такое влияние, Франко?"
+  },
+  {
+   "id": 43,
+   "en": "Faulkner.",
+   "ru": "У Фолкнера."
+  },
+  {
+   "id": 44,
+   "en": "Of course!",
+   "ru": "Ну конечно!"
+  },
+  {
+   "id": 45,
+   "en": "If we surrender, Princess, we will\nbe thrown into prison and executed\nshortly thereafter.",
+   "ru": "Если сдадимся, принцесса, нас\nбросят в тюрьму и вскоре казнят."
+  },
+  {
+   "id": 46,
+   "en": "And if we fight Faulkner and Duyere,\nwe will be charged with additional\ncrimes against the Empire.",
+   "ru": "А если будем драться с Фолкнером\nи Дюйером, нам припишут новые\nпреступления против Империи."
+  },
+  {
+   "id": 47,
+   "en": "It is a no-win situation.",
+   "ru": "Безвыходное положение."
+  },
+  {
+   "id": 48,
+   "en": "What should we do now?!",
+   "ru": "Что же нам делать?!"
+  },
+  {
+   "id": 49,
+   "en": "I say we fight, Sadira. We'll break\nthrough these troops and find a way\nto prove Faulkner's guilt.",
+   "ru": "Я за то, чтобы драться, Садира.\nПрорвёмся через войска и найдём\nспособ доказать вину Фолкнера."
+  },
+  {
+   "id": 50,
+   "en": "I will never surrender, Sadira. It is\nwithout honor.",
+   "ru": "Я никогда не сдамся, Садира. Это\nбесчестно."
+  },
+  {
+   "id": 51,
+   "en": "Bastion...",
+   "ru": "Бастион..."
+  },
+  {
+   "id": 52,
+   "en": "I'm with Bastion. Let's fight!",
+   "ru": "Я с Бастионом. Будем драться!"
+  },
+  {
+   "id": 53,
+   "en": "I agree. We must fight, Princess.",
+   "ru": "Согласен. Мы должны сражаться,\nпринцесса."
+  },
+  {
+   "id": 54,
+   "en": "There is no try, only do.",
+   "ru": "Не \"попытаться\". Только\n\"сделать\"."
+  },
+  {
+   "id": 55,
+   "en": "I hate the thought, and the\nphrasing's a little queer, but the\ntruth of that statement is clear.",
+   "ru": "Мысль мне не мила, и фраза\nкрива, но правда в ней явно\nжива."
+  },
+  {
+   "id": 56,
+   "en": "Alright. We will fight.",
+   "ru": "Хорошо. Будем сражаться."
+  },
+  {
+   "id": 57,
+   "en": "What's the matter, Sadira? Are you\nafraid to admit that everything I've\nsaid about you is correct?",
+   "ru": "Что такое, Садира? Боишься\nпризнать, что всё сказанное\nмной о тебе - правда?"
+  },
+  {
+   "id": 58,
+   "en": "No, brother! You're still wrong!",
+   "ru": "Нет, брат! Ты всё равно неправ!"
+  },
+  {
+   "id": 59,
+   "en": "But you won't listen to me. Faulkner\nhas clouded your mind with his lies.",
+   "ru": "Но ты меня не слушаешь. Фолкнер\nзатуманил твой разум ложью."
+  },
+  {
+   "id": 60,
+   "en": "I'm going to prove my innocence to\nyou, my brother, but I must remain\nfree for that to happen.",
+   "ru": "Я докажу тебе свою\nневиновность, брат, но для этого\nмне нужно остаться на свободе."
+  },
+  {
+   "id": 61,
+   "en": "You're going to fight us, Sadira?\nYou're ready to cross swords with\nyour own soldiers?!",
+   "ru": "Ты будешь сражаться с нами,\nСадира? Готова скрестить мечи с\nсобственными солдатами?!"
+  },
+  {
+   "id": 62,
+   "en": "This is a tragic day, Prince Duyere.\nYou must be grieving over the awful\nchoice you are forced to make.",
+   "ru": "Трагический день, принц Дюйер.\nВы, должно быть, скорбите о\nвынужденном выборе."
+  },
+  {
+   "id": 63,
+   "en": "Indeed, Faulkner. The citizens of the\nEmpire would consider me weak if I\ndo not kill them here and now.",
+   "ru": "Да, Фолкнер. Подданные Империи\nсочтут меня слабым, если я не\nубью их здесь и сейчас."
+  },
+  {
+   "id": 64,
+   "en": "As the new Emperor, I must show\nstrength and courage in the face of\nthis enormous tragedy.",
+   "ru": "Как новый император, я должен\nпроявить силу и мужество перед\nлицом этой огромной трагедии."
+  },
+  {
+   "id": 65,
+   "en": "It is a courageous decision indeed,\nPrince Duyere. I applaud you.",
+   "ru": "Поистине мужественное решение,\nпринц Дюйер. Аплодирую вам."
+  },
+  {
+   "id": 66,
+   "en": "Capture the traitors, my soldiers!\nKill them if they resist!",
+   "ru": "Схватить предателей, солдаты!\nЕсли будут сопротивляться -\nубить!"
+  },
+  {
+   "id": 67,
+   "en": "I think the conversation is over.",
+   "ru": "Кажется, разговор окончен."
+  },
+  {
+   "id": 68,
+   "en": "Here they come!",
+   "ru": "Идут!"
+  },
+  {
+   "id": 69,
+   "en": "Duyere! Why won't you realize that\nFaulkner is manipulating you?!",
+   "ru": "Дюйер! Почему ты не видишь,\nчто Фолкнер тобой\nманипулирует?!"
+  },
+  {
+   "id": 70,
+   "en": "Sadira, why won't you surrender?\nYou're just making this harder for\nboth of us!",
+   "ru": "Садира, почему ты не сдаёшься?\nТы только всё усложняешь для\nнас обоих!"
+  },
+  {
+   "id": 71,
+   "en": "Besides, it's YOU who's being used!\nBastion has shamelessly exploited\nyour affection for him!",
+   "ru": "К тому же это ТЕБЯ используют!\nБастион бессовестно пользуется\nтвоей привязанностью!"
+  },
+  {
+   "id": 72,
+   "en": "My feelings for Bastion have nothing\nto do with ANY of this, Duyere!",
+   "ru": "Мои чувства к Бастиону тут\nсовершенно НИ при чём, Дюйер!"
+  },
+  {
+   "id": 73,
+   "en": "Faulkner!",
+   "ru": "Фолкнер!"
+  },
+  {
+   "id": 74,
+   "en": "Tell me, boy, how is the Ultragunner\nperforming? That temple wasn't an\nideal storage facility.",
+   "ru": "Скажи, мальчик, как работает\nУльтраганнер? Храм был не\nлучшим хранилищем."
+  },
+  {
+   "id": 75,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 76,
+   "en": "You knew Ultragunner's location?!",
+   "ru": "Ты знал, где Ультраганнер?!"
+  },
+  {
+   "id": 77,
+   "en": "Of course, Bastion. I know everything.",
+   "ru": "Конечно, Бастион. Я знаю всё."
+  },
+  {
+   "id": 78,
+   "en": "Then know this, Faulkner--I will\nhave revenge for my father!",
+   "ru": "Тогда знай и это, Фолкнер: я\nотомщу за отца!"
+  },
+  {
+   "id": 79,
+   "en": "I will tear your heart of stone from\nyour chest and use it to shatter your\nskull!",
+   "ru": "Я вырву твоё каменное сердце из\nгруди и размозжу им твой череп!"
+  },
+  {
+   "id": 80,
+   "en": "Goodness, Bastion. You have grown\nin confidence since I saw you last.",
+   "ru": "Боже, Бастион. Ты стал увереннее\nс нашей последней встречи."
+  },
+  {
+   "id": 81,
+   "en": "Claiming your life might bring me\nmore satisfaction than I felt when I\nclaimed Alugard's!",
+   "ru": "Твоя жизнь, пожалуй, принесёт\nмне больше удовольствия, чем\nжизнь Алугарда!"
+  },
+  {
+   "id": 82,
+   "en": "You're going to pay with your life\nfor corrupting my sister with your\ntwisted schemes, Bastion!",
+   "ru": "Ты заплатишь жизнью за то,\nчто развратил мою сестру своими\nкознями, Бастион!"
+  },
+  {
+   "id": 83,
+   "en": "How can you be so stupid, Duyere?!\nFaulkner is using you to obtain the\nUltragunner for himself!",
+   "ru": "Как можно быть таким тупым,\nДюйер?! Фолкнер использует тебя,\nчтобы добыть Ультраганнер себе!"
+  },
+  {
+   "id": 84,
+   "en": "Shut up!!",
+   "ru": "Заткнись!!"
+  },
+  {
+   "id": 85,
+   "en": "Damn it! They're putting up more of\na fight than I expected!",
+   "ru": "Проклятье! Они сопротивляются\nсильнее, чем я ожидал!"
+  },
+  {
+   "id": 86,
+   "en": "We should leave here, Prince Duyere.",
+   "ru": "Нам пора уходить, принц Дюйер."
+  },
+  {
+   "id": 87,
+   "en": "But I don't want to leave until we\nfinish them off!",
+   "ru": "Но я не хочу уходить, пока мы их\nне добьём!"
+  },
+  {
+   "id": 88,
+   "en": "Your Highness, we must attend the\nascension ceremony in the capital if\nyou are to claim the throne!",
+   "ru": "Высочество, вы должны успеть на\nцеремонию в столице, если хотите\nзанять трон!"
+  },
+  {
+   "id": 89,
+   "en": "It would be unwise to suffer a defeat\nhere and miss the ceremony. Agreed?",
+   "ru": "Неразумно потерпеть здесь\nпоражение и пропустить\nцеремонию. Согласны?"
+  },
+  {
+   "id": 90,
+   "en": "Agreed. Let us retreat to the capital.",
+   "ru": "Согласен. Отступаем в столицу."
+  },
+  {
+   "id": 91,
+   "en": "Thank you, Prince Duyere.",
+   "ru": "Благодарю, принц Дюйер."
+  },
+  {
+   "id": 92,
+   "en": "(Damn it! Bastion has very quickly\nlearned to exploit the power of the\nUltragunner.)",
+   "ru": "(Проклятье! Бастион очень\nбыстро научился пользоваться\nсилой Ультраганнера.)"
+  },
+  {
+   "id": 93,
+   "en": "I am very sorry, Your Highness, but\nmy ATAC has suffered a great deal\nof damage. I must retreat.",
+   "ru": "Прошу прощения, Ваше\nВысочество, но мой АТАК сильно\nповреждён. Я должен отступить."
+  },
+  {
+   "id": 94,
+   "en": "Are you alright, Faulkner?",
+   "ru": "Ты в порядке, Фолкнер?"
+  },
+  {
+   "id": 95,
+   "en": "Yes, Prince Duyere. Only my ATAC has\nbeen damaged.",
+   "ru": "Да, принц Дюйер. Пострадал\nлишь мой АТАК."
+  },
+  {
+   "id": 96,
+   "en": "I will retreat with you, Faulkner.",
+   "ru": "Я отступлю с тобой, Фолкнер."
+  },
+  {
+   "id": 97,
+   "en": "I would be lost without your wisdom\nand guidance!",
+   "ru": "Без твоей мудрости и советов я\nбы пропал!"
+  },
+  {
+   "id": 98,
+   "en": "(Indeed you would...)",
+   "ru": "(Это уж точно...)"
+  },
+  {
+   "id": 99,
+   "en": "Aargh! NO!!",
+   "ru": "Аргх! НЕТ!!"
+  },
+  {
+   "id": 100,
+   "en": "Your Highness!",
+   "ru": "Ваше Высочество!"
+  },
+  {
+   "id": 101,
+   "en": "(Duyere, you fool! Now I have to\nrescue you and retreat!)",
+   "ru": "(Дюйер, глупец! Теперь мне\nпридётся спасать тебя и\nотступать!)"
+  },
+  {
+   "id": 102,
+   "en": "I've been defeated?! Damn it all!",
+   "ru": "Я побеждён?! Будь всё проклято!"
+  },
+  {
+   "id": 103,
+   "en": "Faulkner!!",
+   "ru": "Фолкнер!!"
+  },
+  {
+   "id": 104,
+   "en": "(I can't keep fighting without him!\nI have to retreat!)",
+   "ru": "(Без него мне не продержаться!\nНадо отступать!)"
+  },
+  {
+   "id": 105,
+   "en": "They're gone...for now.",
+   "ru": "Ушли... пока."
+  },
+  {
+   "id": 106,
+   "en": "(Sadira must be torn apart inside.\nWhat a horrible situation!)",
+   "ru": "(Садира, должно быть,\nразрывается на части. Какое\nужасное положение!)"
+  },
+  {
+   "id": 107,
+   "en": "\n\n\n",
+   "ru": ""
+  }
+ ]
+}

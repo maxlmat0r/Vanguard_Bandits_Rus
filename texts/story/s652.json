@@ -1,0 +1,21 @@
+{
+ "file": 652,
+ "kind": "story",
+ "lines": [
+  {
+   "id": 0,
+   "en": "I wonder why we didn't detect all\nthese ATACs earlier?",
+   "ru": "Почему мы не засекли все эти\nАТАКи раньше?"
+  },
+  {
+   "id": 1,
+   "en": "Maybe we can capture one of these\nfilthy bandits and torture him until\nhe explains how they hid from us!",
+   "ru": "Поймаем одного из этих\nбандитов и будем пытать, пока\nне скажет, как они прятались!"
+  },
+  {
+   "id": 2,
+   "en": "I like your way of thinking, Reyna!",
+   "ru": "Мне нравится ход твоих мыслей,\nРейна!"
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "file": 672,
+ "kind": "story",
+ "lines": [
+  {
+   "id": 0,
+   "en": "I'm not sure how many ATACs are in\ntheir group, but it's definitely more\nthan one! Let's be careful!",
+   "ru": "Не знаю, сколько у них АТАКов,\nно точно больше одного!\nОсторожнее!"
+  },
+  {
+   "id": 1,
+   "en": "If these soldiers were trained by\nFaulkner, I doubt that we'll have\nanything to worry about.",
+   "ru": "Если этих солдат учил Фолкнер,\nбеспокоиться нам, думаю, не о\nчем."
+  },
+  {
+   "id": 2,
+   "en": "Don't be so arrogant, Bastion!\nRegardless of his personal faults,\nFaulkner is a brilliant tactician.",
+   "ru": "Не зазнавайся, Бастион! При всех\nсвоих пороках Фолкнер -\nблестящий тактик."
+  },
+  {
+   "id": 3,
+   "en": "Begin the attack!",
+   "ru": "В атаку!"
+  }
+ ]
+}

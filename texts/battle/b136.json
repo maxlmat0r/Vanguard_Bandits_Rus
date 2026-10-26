@@ -1,0 +1,76 @@
+{
+ "file": 136,
+ "kind": "battle",
+ "lines": [
+  {
+   "id": 0,
+   "en": "Tomorrow morning, the flag of the\nKingdom will once more wave\nproudly above Norze Castle!",
+   "ru": "Завтра утром над замком Норзе\nснова гордо взовьётся флаг\nКоролевства!"
+  },
+  {
+   "id": 1,
+   "en": "Well, here goes nothing!",
+   "ru": "Ну, была не была!"
+  },
+  {
+   "id": 2,
+   "en": "Imperial Soldier:\nWe're under attack!",
+   "ru": "Имперский солдат:\nНа нас напали!"
+  },
+  {
+   "id": 3,
+   "en": "General, it's the Kingdom Army!",
+   "ru": "Генерал, это армия Королевства!"
+  },
+  {
+   "id": 4,
+   "en": "Imperial General:\nDispatch the defense force!",
+   "ru": "Имперский генерал:\nВыслать силы обороны!"
+  },
+  {
+   "id": 5,
+   "en": "Fight with all your strength, men!\nThe Kingdom must be repulsed!",
+   "ru": "Бейтесь изо всех сил, солдаты!\nКоролевство нужно отбросить!"
+  },
+  {
+   "id": 6,
+   "en": "This is a considerably larger group\nthan I'd expected...",
+   "ru": "Отряд куда больше, чем я\nожидал..."
+  },
+  {
+   "id": 7,
+   "en": "No time for doubt. Go!!",
+   "ru": "Некогда сомневаться. Вперёд!!"
+  },
+  {
+   "id": 8,
+   "en": "Imperial General:\nThese invaders aren't being repelled\nquickly enough!",
+   "ru": "Имперский генерал:\nЗахватчиков отбрасывают\nслишком медленно!"
+  },
+  {
+   "id": 9,
+   "en": "I'm joining the battle!",
+   "ru": "Я вступаю в бой!"
+  },
+  {
+   "id": 10,
+   "en": "As always, if you want it done right,\nyou have to do it yourself!",
+   "ru": "Как всегда: хочешь, чтобы было\nсделано хорошо, - сделай сам!"
+  },
+  {
+   "id": 11,
+   "en": "Victory is ours!",
+   "ru": "Победа за нами!"
+  },
+  {
+   "id": 12,
+   "en": "(The terrain favored the Imperial\ntroops, and we were outnumbered...\nbut we still emerged victorious!)",
+   "ru": "(Местность была на руку\nимперцам, и их было больше... но\nмы всё равно победили!)"
+  },
+  {
+   "id": 13,
+   "en": "(You trained me well, Father.\nI only wish you were here to see the\nfruit of your labor.)",
+   "ru": "(Ты хорошо меня выучил, отец.\nЖаль лишь, что ты не видишь\nплодов своих трудов.)"
+  }
+ ]
+}

@@ -1,0 +1,326 @@
+{
+ "file": 127,
+ "kind": "battle",
+ "lines": [
+  {
+   "id": 0,
+   "en": "I recognize these ATACs...",
+   "ru": "Я узнаю эти АТАКи..."
+  },
+  {
+   "id": 1,
+   "en": "They're from the Muspel Nation!",
+   "ru": "Они из Муспельского государства!"
+  },
+  {
+   "id": 2,
+   "en": "You're serious?!",
+   "ru": "Ты серьёзно?!"
+  },
+  {
+   "id": 3,
+   "en": "Absolutely, Your Highness! Radcot's\ninvitation was obviously meant to be\na trap!",
+   "ru": "Абсолютно, Ваше Высочество!\nПриглашение Радкота явно было\nловушкой!"
+  },
+  {
+   "id": 4,
+   "en": "Muspel Soldier:\nPrince Bastion, we have journeyed far\nto meet you.",
+   "ru": "Муспельский солдат:\nПринц Бастион, мы проделали\nдолгий путь, чтобы встретиться\nс вами."
+  },
+  {
+   "id": 5,
+   "en": "We would prefer that you accompany\nus back to Muspel of your own\naccord.",
+   "ru": "Мы бы предпочли, чтобы вы\nдобровольно отправились с нами\nв Муспель."
+  },
+  {
+   "id": 6,
+   "en": "Your threat is veiled very thinly.\nRadcot's stench is carried with you.",
+   "ru": "Угроза завуалирована очень\nтонко. От вас разит Радкотом."
+  },
+  {
+   "id": 7,
+   "en": "I spit on the grave of the filthy wench\nwhose rotten womb spat that vile\nman into this world!",
+   "ru": "Плюю на могилу мерзкой девки,\nчьё гнилое чрево произвело на\nсвет этого гнусного человека!"
+  },
+  {
+   "id": 8,
+   "en": "Even with luck, there's no way we\nwill prevail with these odds.",
+   "ru": "Даже с удачей при таком перевесе\nнам не победить."
+  },
+  {
+   "id": 9,
+   "en": "And we were so close to crossing the\nborder into Dionne-Lehve...",
+   "ru": "А ведь мы были так близко к\nгранице Дионн-Леве..."
+  },
+  {
+   "id": 10,
+   "en": "Our chief concern now should be\nsurvival, Reyna. I must admit, the\noutlook is not good at this moment.",
+   "ru": "Сейчас главное - выжить, Рейна.\nПризнаю, положение у нас\nнезавидное."
+  },
+  {
+   "id": 11,
+   "en": "No, Zeira. Reyna has the answer!",
+   "ru": "Нет, Зейра. Рейна знает ответ!"
+  },
+  {
+   "id": 12,
+   "en": "Of course! Radcot can't attack in\nDionne-Lehve because it would be\nseen as an act of aggression.",
+   "ru": "Конечно! Радкот не может\nнапасть в Дионн-Леве - это\nсочтут актом агрессии."
+  },
+  {
+   "id": 13,
+   "en": "Marquis Dionne would declare war\non Muspel, and Radcot doesn't need\nmore enemies than he already has.",
+   "ru": "Маркиз Дионн объявит Муспелю\nвойну, а Радкоту новые враги ни\nк чему."
+  },
+  {
+   "id": 14,
+   "en": "Radcot being the coward that he is,\nself-preservation is his highest\npriority.",
+   "ru": "Радкот - трус, и для него важнее\nвсего спасти собственную шкуру."
+  },
+  {
+   "id": 15,
+   "en": "Well, we have to find a way to cross\nthe border. Hmmm...how about this?",
+   "ru": "Что ж, надо как-то пересечь\nграницу. Хм... как насчёт такого?"
+  },
+  {
+   "id": 16,
+   "en": "We'll fight these Muspel soldiers\nwhile Bastion makes a run for the\nborder of Dionne-Lehve.",
+   "ru": "Мы сразимся с муспельцами, а\nБастион прорвётся к границе\nДионн-Леве."
+  },
+  {
+   "id": 17,
+   "en": "But what about all of you?",
+   "ru": "А как же вы все?"
+  },
+  {
+   "id": 18,
+   "en": "It's not your responsibility to worry\nabout us, Your Highness!",
+   "ru": "Не вам о нас беспокоиться, Ваше\nВысочество!"
+  },
+  {
+   "id": 19,
+   "en": "It is our responsibility to protect you\nfrom harm!",
+   "ru": "Наш долг - защищать вас!"
+  },
+  {
+   "id": 20,
+   "en": "If we must sacrifice our lives so that\nyou can defeat the Empire...so be it.",
+   "ru": "Если придётся пожертвовать\nжизнью, чтобы вы победили\nИмперию... так тому и быть."
+  },
+  {
+   "id": 21,
+   "en": "No! I will not allow any of you to\nsacrifice yourselves for ANY reason!",
+   "ru": "Нет! Я не позволю никому из вас\nжертвовать собой - ни по какой\nпричине!"
+  },
+  {
+   "id": 22,
+   "en": "Whether we live or die, we will do it\ntogether!",
+   "ru": "Живы мы останемся или\nпогибнем, мы будем вместе!"
+  },
+  {
+   "id": 23,
+   "en": "I'm confident we can smash through\nthis siege and reach Dionne-Lehve!\nAll of us!",
+   "ru": "Уверен, мы прорвём окружение и\nдоберёмся до Дионн-Леве! Все\nвместе!"
+  },
+  {
+   "id": 24,
+   "en": "Your Highness, please listen to me!",
+   "ru": "Ваше Высочество, прошу,\nвыслушайте меня!"
+  },
+  {
+   "id": 25,
+   "en": "Sorry, Galvas, but I must side with\nBastion on this one. We fight together.",
+   "ru": "Прости, Гальвас, но тут я на\nстороне Бастиона. Сражаемся\nвместе."
+  },
+  {
+   "id": 26,
+   "en": "Duke Zeira!",
+   "ru": "Герцог Зейра!"
+  },
+  {
+   "id": 27,
+   "en": "Bastion's way may be unconventional,\nbut so far it's working. I don't intend\nto rock the boat.",
+   "ru": "Способ Бастиона необычен, но\nпока он работает. Я не собираюсь\nраскачивать лодку."
+  },
+  {
+   "id": 28,
+   "en": "There have already been too many\nsacrifices in my name, Galvas. Too\nmuch tragedy. Too much death.",
+   "ru": "Слишком много жертв уже\nпринесено ради меня, Гальвас.\nСлишком много горя и смертей."
+  },
+  {
+   "id": 29,
+   "en": "Besides, if I were to run away in a\nsituation like this, I can't very well\ndefeat the Empire, can I?",
+   "ru": "К тому же, сбегая в такой\nситуации, Империю не победишь,\nверно?"
+  },
+  {
+   "id": 30,
+   "en": "I know it won't be easy, but I know\nwe can do this together!",
+   "ru": "Знаю, будет нелегко, но вместе\nмы справимся!"
+  },
+  {
+   "id": 31,
+   "en": "Come on, Galvas. Certainly you can\nsee the wisdom of his way!",
+   "ru": "Ну же, Гальвас. Ты ведь видишь\nмудрость его пути!"
+  },
+  {
+   "id": 32,
+   "en": "I am a professional. I obey the\nwill of His Highness, regardless\nof my feelings.",
+   "ru": "Я профессионал. Я подчиняюсь\nволе Его Высочества, что бы я ни\nчувствовал."
+  },
+  {
+   "id": 33,
+   "en": "I am prepared to die at your side,\nYour Highness. I am prepared to die\nwith honor.",
+   "ru": "Я готов умереть рядом с вами,\nВаше Высочество. Готов умереть с\nчестью."
+  },
+  {
+   "id": 34,
+   "en": "(Damn you, Alugard. Damn you for\ninstilling your iron will in the boy...\nand damn you for dying.)",
+   "ru": "(Будь ты проклят, Алугард, за\nто, что дал мальчику свою волю...\nи за то, что умер.)"
+  },
+  {
+   "id": 35,
+   "en": "(No. I don't mean that, brother. I only\nwish you were here to watch Bastion\nfulfill his destiny.)",
+   "ru": "(Нет, брат, я не то хотел сказать.\nЖаль, ты не видишь, как\nБастион вершит судьбу.)"
+  },
+  {
+   "id": 36,
+   "en": "Attack us if you will, Muspel dogs!\nCome and heel at our feet!",
+   "ru": "Нападайте, если хотите,\nмуспельские псы! К ноге!"
+  },
+  {
+   "id": 37,
+   "en": "Muspel Soldier:\nThe Prince has been captured!",
+   "ru": "Муспельский солдат:\nПринц схвачен!"
+  },
+  {
+   "id": 38,
+   "en": "Return to Muspel at once!",
+   "ru": "Немедленно возвращаемся в\nМуспель!"
+  },
+  {
+   "id": 39,
+   "en": "You see? We fought together, and we\nbeat them!",
+   "ru": "Видите? Мы сражались вместе и\nпобедили!"
+  },
+  {
+   "id": 40,
+   "en": "Let's get across the border into\nDionne-Lehve before Radcot sends\nanyone else, Bastion!",
+   "ru": "Перейдём границу Дионн-Леве,\nпока Радкот не прислал\nкого-нибудь ещё, Бастион!"
+  },
+  {
+   "id": 41,
+   "en": "Let's get across the border into\nDionne-Lehve before Radcot sends\nanyone else!",
+   "ru": "Перейдём границу Дионн-Леве,\nпока Радкот не прислал\nкого-нибудь ещё!"
+  },
+  {
+   "id": 42,
+   "en": "(My ATAC is out of energy! Damn it!)\n\n\n",
+   "ru": "(У моего АТАКа кончилась\nэнергия! Проклятье!)"
+  },
+  {
+   "id": 43,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 44,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 45,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 46,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 47,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 48,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 49,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 50,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 51,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 52,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 53,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 54,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 55,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 56,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 57,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 58,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 59,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 60,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 61,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 62,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 63,
+   "en": "\n\n\n",
+   "ru": ""
+  }
+ ]
+}

@@ -1,0 +1,311 @@
+{
+ "file": 525,
+ "kind": "story",
+ "lines": [
+  {
+   "id": 0,
+   "en": "At last, Your Highness...",
+   "ru": "Наконец-то, Ваше Высочество..."
+  },
+  {
+   "id": 1,
+   "en": "At long last!",
+   "ru": "Наконец-то!"
+  },
+  {
+   "id": 2,
+   "en": "This glorious capital once again\nbelongs to the Pharastia Kingdom! ",
+   "ru": "Эта славная столица вновь\nпринадлежит Королевству\nФарастия!"
+  },
+  {
+   "id": 3,
+   "en": "It was fifteen years ago that we\nwere driven from this haven by\nthe Empire.",
+   "ru": "Пятнадцать лет назад Империя\nизгнала нас из этого приюта."
+  },
+  {
+   "id": 4,
+   "en": "So many lives were needlessly lost on\nthat dark day. His Majesty, the King...\nmany of my soldiers...my friends.",
+   "ru": "Сколько жизней напрасно\nоборвалось в тот день. Король...\nмои солдаты... друзья."
+  },
+  {
+   "id": 5,
+   "en": "I believed that I would die without\nthe chance to avenge them, Your\nHighness, but now I have.",
+   "ru": "Я думал, что умру, так и не\nотомстив за них, Ваше\nВысочество, но теперь отомстил."
+  },
+  {
+   "id": 6,
+   "en": "Their tortured souls can finally rest,\nas can mine.",
+   "ru": "Их измученные души наконец\nобретут покой. Как и моя."
+  },
+  {
+   "id": 7,
+   "en": "Galvas, there is no shame in tears.",
+   "ru": "Гальвас, в слезах нет стыда."
+  },
+  {
+   "id": 8,
+   "en": "I have never cried until this moment,\nYour Highness...but these tears must\nbe shed.",
+   "ru": "Я ни разу не плакал до этой\nминуты, Ваше Высочество... но\nэтим слезам суждено пролиться."
+  },
+  {
+   "id": 9,
+   "en": "The burden of His Majesty's death\nhas finally been lifted. The heart of\nthe Kingdom has been restored.",
+   "ru": "Бремя гибели Его Величества\nнаконец снято. Сердце\nКоролевства возвращено."
+  },
+  {
+   "id": 10,
+   "en": "These are tears of joy.",
+   "ru": "Это слёзы радости."
+  },
+  {
+   "id": 11,
+   "en": "I share your joy, Galvas.",
+   "ru": "Я разделяю твою радость,\nГальвас."
+  },
+  {
+   "id": 12,
+   "en": "But you realize we are nowhere\nnear finishing off the Empire yet.\nSerious work lies ahead.",
+   "ru": "Но, как понимаете, до конца\nИмперии ещё далеко. Впереди\nсерьёзная работа."
+  },
+  {
+   "id": 13,
+   "en": "Quite true, Duke Zeira.",
+   "ru": "Совершенно верно, герцог Зейра."
+  },
+  {
+   "id": 14,
+   "en": "Now that we've taken the capital,\nwe've got the chance to storm the\nrest of the Empire and end this war.",
+   "ru": "Взяв столицу, мы можем ударить\nпо остальной Империи и\nзакончить войну."
+  },
+  {
+   "id": 15,
+   "en": "But there's one thing we've yet to\ntake care of.",
+   "ru": "Но одно дело мы ещё не уладили."
+  },
+  {
+   "id": 16,
+   "en": "And that thing would be the country\nof Hibernia, eh, Zeira?",
+   "ru": "И это дело - Хиберния, да, Зейра?"
+  },
+  {
+   "id": 17,
+   "en": "Correct. If we leave them untended,\nthey could strike when we march on\nthe rest of the Empire.",
+   "ru": "Верно. Оставим их без внимания\n- они могут ударить, когда мы\nдвинемся на Империю."
+  },
+  {
+   "id": 18,
+   "en": "However, if they can be persuaded\nto join us, we can hit the Empire\non two fronts!",
+   "ru": "Но если уговорить их\nприсоединиться, мы ударим по\nИмперии с двух сторон!"
+  },
+  {
+   "id": 19,
+   "en": "I'd gladly volunteer to sweet-talk\nLord Alden for you, Bastion. If he\nwas a hot chick, of course.",
+   "ru": "Я бы с радостью уломал лорда\nОлдена за тебя, Бастион. Будь он\nкрасоткой, конечно."
+  },
+  {
+   "id": 20,
+   "en": "So I take it we'll be escorting you\ninto Hibernia for a personal chit-\nchat with Alden, right?",
+   "ru": "Так я понимаю, мы сопровождаем\nтебя в Хибернию поболтать с\nОлденом лично?"
+  },
+  {
+   "id": 21,
+   "en": "Actually, that's exactly what I had in\nmind, Andrew. How did you know?",
+   "ru": "Вообще-то, именно это я и\nзадумал, Эндрю. Как ты\nдогадался?"
+  },
+  {
+   "id": 22,
+   "en": "Because you're a hands-on kind of\nguy, Bastion. I like that, and I'm sure\nthe ladies do, too. But I digress.",
+   "ru": "Ты любишь всё делать сам,\nБастион. Мне это нравится, и\nдамам тоже. Но я отвлёкся."
+  },
+  {
+   "id": 23,
+   "en": "Indeed, you do. When shall we\ndepart?",
+   "ru": "Это точно. Когда выступаем?"
+  },
+  {
+   "id": 24,
+   "en": "At once, Your Highness. The sooner\nwe obtain an alliance with Alden,\nthe sooner we crush the Empire.",
+   "ru": "Немедленно, Ваше Высочество. Чем\nскорее заключим союз с Олденом,\nтем скорее сокрушим Империю."
+  },
+  {
+   "id": 25,
+   "en": "Galvas...",
+   "ru": "Гальвас..."
+  },
+  {
+   "id": 26,
+   "en": "Yes, Your Highness?",
+   "ru": "Да, Ваше Высочество?"
+  },
+  {
+   "id": 27,
+   "en": "Galvas, I want you to stay here.",
+   "ru": "Гальвас, я хочу, чтобы ты\nостался здесь."
+  },
+  {
+   "id": 28,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 29,
+   "en": "I would have you protect the royal\ncapital, inform Marquis Dionne of\nthe latest developments...",
+   "ru": "Защищай королевскую столицу,\nсообщи маркизу Дионну о\nпоследних событиях..."
+  },
+  {
+   "id": 30,
+   "en": "And attack the Empire's southern\nfront while I lead the assault on\ntheir northern front.",
+   "ru": "И ударь по южному фронту\nИмперии, пока я веду\nнаступление на северный."
+  },
+  {
+   "id": 31,
+   "en": "You are the only one capable of all\nthese tasks, Galvas. You are the only\none I trust to complete them.",
+   "ru": "Только ты справишься со всем\nэтим, Гальвас. Только тебе я это\nдоверяю."
+  },
+  {
+   "id": 32,
+   "en": "But, Your Highness!",
+   "ru": "Но, Ваше Высочество!"
+  },
+  {
+   "id": 33,
+   "en": "I will be in the company of Zeira,\nAndrew, Reyna, and the others. You\nhave no need to fear for my safety.",
+   "ru": "Со мной будут Зейра, Эндрю,\nРейна и остальные. Не бойся за\nмою безопасность."
+  },
+  {
+   "id": 34,
+   "en": "They are my friends, Galvas, just as\nyou are. And if I trust them with my\nlife, so shall you.",
+   "ru": "Они мои друзья, Гальвас, как и\nты. Раз я доверяю им свою\nжизнь, доверься и ты."
+  },
+  {
+   "id": 35,
+   "en": "Your Highness...",
+   "ru": "Ваше Высочество..."
+  },
+  {
+   "id": 36,
+   "en": "I shall carry out your instructions\nwith great care.",
+   "ru": "Я исполню ваши указания со всем\nтщанием."
+  },
+  {
+   "id": 37,
+   "en": "And when I have completed my tasks\nand hardened the foundation of the\nKingdom, perhaps I can rejoin you.",
+   "ru": "А когда закончу и укреплю\nосновы Королевства, возможно,\nснова присоединюсь к вам."
+  },
+  {
+   "id": 38,
+   "en": "I thank you for bestowing this honor\nupon me, Your Highness. I swear that\nI shall not fail you.",
+   "ru": "Благодарю за оказанную честь,\nВаше Высочество. Клянусь, я не\nподведу вас."
+  },
+  {
+   "id": 39,
+   "en": "I know you won't, Galvas.",
+   "ru": "Знаю, что не подведёшь, Гальвас."
+  },
+  {
+   "id": 40,
+   "en": "Well, then, perhaps we should begin\npreparations for the trip.",
+   "ru": "Что ж, пожалуй, пора готовиться\nв дорогу."
+  },
+  {
+   "id": 41,
+   "en": "Underoo!",
+   "ru": "Андрюшка!"
+  },
+  {
+   "id": 42,
+   "en": "The name is Andrew, old man, but\nI'm in a forgiving mood today. What\ndo you want?",
+   "ru": "Меня зовут Эндрю, старик, но\nсегодня я добрый. Чего тебе?"
+  },
+  {
+   "id": 43,
+   "en": "Take care of His Highness for me.",
+   "ru": "Позаботься о Его Высочестве за\nменя."
+  },
+  {
+   "id": 44,
+   "en": "Heh...",
+   "ru": "Хех..."
+  },
+  {
+   "id": 45,
+   "en": "You got it, old man.",
+   "ru": "Будет сделано, старик."
+  },
+  {
+   "id": 46,
+   "en": "When we first met, I judged you to be\nboth unreliable and irresponsible...",
+   "ru": "При первой встрече я счёл тебя\nненадёжным и\nбезответственным..."
+  },
+  {
+   "id": 47,
+   "en": "But now I realize that beneath your\nlecherous exterior, you are a man of\ngreat honor.",
+   "ru": "Но теперь понимаю, что под\nличиной распутника скрывается\nчеловек великой чести."
+  },
+  {
+   "id": 48,
+   "en": "I am proud to call you my friend.",
+   "ru": "Я горжусь, что могу назвать\nтебя другом."
+  },
+  {
+   "id": 49,
+   "en": "Don't get too emotional on me, old\nman. I'm not used to it.",
+   "ru": "Не раскисай при мне, старик. Я к\nтакому не привык."
+  },
+  {
+   "id": 50,
+   "en": "Take care of yourself...my friend.",
+   "ru": "Береги себя... друг мой."
+  },
+  {
+   "id": 51,
+   "en": "I shall.",
+   "ru": "Постараюсь."
+  },
+  {
+   "id": 52,
+   "en": "(I remember the shock I felt at His\nHighness traveling with a group of\nwomen, children, and scoundrels.)",
+   "ru": "(Помню, как меня потрясло, что\nпринц странствует с женщинами,\nдетьми и проходимцами.)"
+  },
+  {
+   "id": 53,
+   "en": "(And now I feel the shock of realizing\nthat I have grown to care for them as\nHis Highness does.)",
+   "ru": "(А теперь я потрясён тем, что\nпривязался к ним так же, как\nЕго Высочество.)"
+  },
+  {
+   "id": 54,
+   "en": "(It has been an honor to watch His\nHighness develop into a great leader\nbefore my eyes...)",
+   "ru": "(Было честью видеть, как Его\nВысочество становится великим\nвождём...)"
+  },
+  {
+   "id": 55,
+   "en": "(And to see the same traits I admired\nso much in His Majesty, the King.)",
+   "ru": "(И замечать в нём те же черты,\nчто я так ценил в Его Величестве\nкороле.)"
+  },
+  {
+   "id": 56,
+   "en": "(How much more will he have grown\nbefore I see him next?)",
+   "ru": "(Насколько ещё он вырастет к\nнашей следующей встрече?)"
+  },
+  {
+   "id": 57,
+   "en": "(Alugard, my brother, I can feel the\nwarm smile of your soul. You must\nbe so proud of your...of your son.)",
+   "ru": "(Алугард, брат, я чувствую\nтёплую улыбку твоей души. Ты,\nверно, гордишься сыном.)"
+  },
+  {
+   "id": 58,
+   "en": "(Ah, well. I have no more time for\nthese rambling thoughts.)",
+   "ru": "(Ну что ж. Некогда мне\nпредаваться раздумьям.)"
+  },
+  {
+   "id": 59,
+   "en": "(I have a great many tasks to achieve\nfor His Highness...)",
+   "ru": "(Мне предстоит много дел для\nЕго Высочества...)"
+  },
+  {
+   "id": 60,
+   "en": "(And I cannot fail him! I cannot lose\nall that His Highness has achieved!)",
+   "ru": "(И я не могу его подвести! Я не\nпозволю потерять всё, чего\nдобился Его Высочество!)"
+  }
+ ]
+}

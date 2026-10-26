@@ -1,0 +1,266 @@
+{
+ "file": 157,
+ "kind": "battle",
+ "lines": [
+  {
+   "id": 0,
+   "en": "What?! It's not the Imperial Army,\nit's the Kingdom Army!",
+   "ru": "Что?! Это не имперская армия, а\nармия Королевства!"
+  },
+  {
+   "id": 1,
+   "en": "Has the Kingdom formed an alliance\nwith your father, Claire?",
+   "ru": "Королевство заключило союз с\nтвоим отцом, Клэр?"
+  },
+  {
+   "id": 2,
+   "en": "Kingdom Soldier 1:\nCommander Galvas, the criminals\nhave arrived, just as the report said\nthey would!",
+   "ru": "Солдат Королевства 1:\nКомандир Гальвас, преступники\nприбыли, как и сообщалось!"
+  },
+  {
+   "id": 3,
+   "en": "Arrest them!",
+   "ru": "Арестовать их!"
+  },
+  {
+   "id": 4,
+   "en": "The Imperial Princess, and the boy\nwho claims to be the Prince!",
+   "ru": "Имперская принцесса и\nмальчишка, что называет себя\nпринцем!"
+  },
+  {
+   "id": 5,
+   "en": "Isn't that Commander Galvas?",
+   "ru": "Это ведь командир Гальвас?"
+  },
+  {
+   "id": 6,
+   "en": "I swore I would find you, and now...",
+   "ru": "Я клялся, что найду тебя, и\nтеперь..."
+  },
+  {
+   "id": 7,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 8,
+   "en": "That white ATAC...",
+   "ru": "Этот белый АТАК..."
+  },
+  {
+   "id": 9,
+   "en": "It is the Ultragunner! Impossible!",
+   "ru": "Это Ультраганнер! Невозможно!"
+  },
+  {
+   "id": 10,
+   "en": "Ultragunner can only be controlled\nby a special person of royal blood.",
+   "ru": "Управлять Ультраганнером\nможет лишь особый человек\nкоролевской крови."
+  },
+  {
+   "id": 11,
+   "en": "Is the boy truly the Prince?!",
+   "ru": "Неужели мальчишка и правда\nпринц?!"
+  },
+  {
+   "id": 12,
+   "en": "Don't, uh, be fooled, Galvas!",
+   "ru": "Не дайте, кхм, себя обмануть,\nГальвас!"
+  },
+  {
+   "id": 13,
+   "en": "They must be using, ah, some new\ntype of Imperial technology to, ah,\noperate the Ultragunner!",
+   "ru": "Они, кхм, наверняка водят\nУльтраганнер с помощью новой\nимперской техники!"
+  },
+  {
+   "id": 14,
+   "en": "That's impossible, Ganlon!",
+   "ru": "Невозможно, Ганлон!"
+  },
+  {
+   "id": 15,
+   "en": "Now, ah, listen to me, Galvas! This is\nall part of the, um, Imperial plan!",
+   "ru": "Послушайте, кхм, Гальвас! Это всё\nчасть, э-э, имперского плана!"
+  },
+  {
+   "id": 16,
+   "en": "If you let them, ah, trick you into\nthinking otherwise, then the, um,\nKingdom is doomed!",
+   "ru": "Если вы, кхм, поддадитесь\nобману, Королевство, э-э,\nобречено!"
+  },
+  {
+   "id": 17,
+   "en": "(What technology could be advanced\nenough to circumvent Ultragunner's\nsecurity systems?)",
+   "ru": "(Какая технология может обойти\nзащиту Ультраганнера?)"
+  },
+  {
+   "id": 18,
+   "en": "Do you want a fight, Imperial Army?\nWell, now you, ah, have one!",
+   "ru": "Хотите драки, имперцы? Что ж,\nвы её, кхм, получили!"
+  },
+  {
+   "id": 19,
+   "en": "How dare you claim to be the Prince\nof the Kingdom, you insolent brat!",
+   "ru": "Как ты смеешь называть себя\nпринцем Королевства, наглый\nщенок!"
+  },
+  {
+   "id": 20,
+   "en": "How dare you pretend to be allied\nwith the Kingdom, you traitorous\npig!",
+   "ru": "Как ты смеешь притворяться\nсоюзником Королевства,\nпредательская свинья!"
+  },
+  {
+   "id": 21,
+   "en": "I don't understand!",
+   "ru": "Не понимаю!"
+  },
+  {
+   "id": 22,
+   "en": "Who in the world are you?!",
+   "ru": "Кто ты такой?!"
+  },
+  {
+   "id": 23,
+   "en": "I was told fifteen years ago that the\nPrince was killed.",
+   "ru": "Пятнадцать лет назад мне\nсказали, что принц погиб."
+  },
+  {
+   "id": 24,
+   "en": "But did you...did he...survive?",
+   "ru": "Но неужели ты... он... выжил?"
+  },
+  {
+   "id": 25,
+   "en": "I am the Prince, alive, well, and\ncontrolling the Ultragunner!",
+   "ru": "Я принц, живой и здоровый, и\nуправляю Ультраганнером!"
+  },
+  {
+   "id": 26,
+   "en": "I'm not using any trickery to make it\nwork! It moves because I was the one\nborn to move it!",
+   "ru": "Я не пользуюсь никакими\nуловками! Он движется, потому\nчто я рождён им управлять!"
+  },
+  {
+   "id": 27,
+   "en": "Then why are you with the Empire?",
+   "ru": "Тогда почему ты с Империей?"
+  },
+  {
+   "id": 28,
+   "en": "If you are the real Prince, you will\nreturn to the Kingdom, the place of\nyour birth!",
+   "ru": "Если ты настоящий принц,\nвернись в Королевство, на свою\nродину!"
+  },
+  {
+   "id": 29,
+   "en": "I don't want to be constrained by the\narchaic structure of a government!",
+   "ru": "Я не хочу быть скованным\nустаревшим государственным\nустройством!"
+  },
+  {
+   "id": 30,
+   "en": "What are you saying?! The Kingdom\nis good, and the Empire is evil! It has\nalways been this way!",
+   "ru": "Что ты говоришь?! Королевство -\nдобро, а Империя - зло! Так было\nвсегда!"
+  },
+  {
+   "id": 31,
+   "en": "Soldiers of the Kingdom are just as\ncapable of evil as Imperial ones! You\nsimply haven't seen it!",
+   "ru": "Солдаты Королевства способны\nна зло не меньше имперских! Ты\nпросто этого не видел!"
+  },
+  {
+   "id": 32,
+   "en": "You insult the Kingdom! You cannot\nbe forgiven for your insolent tongue!",
+   "ru": "Ты оскорбляешь Королевство!\nТвоему дерзкому языку нет\nпрощения!"
+  },
+  {
+   "id": 33,
+   "en": "I'm amazed that you have managed\nto maintain the charade of loyalty\nthis long, Ganlon!",
+   "ru": "Поражаюсь, что ты так долго\nсохранял видимость верности,\nГанлон!"
+  },
+  {
+   "id": 34,
+   "en": "Shut up, boy!",
+   "ru": "Заткнись, мальчишка!"
+  },
+  {
+   "id": 35,
+   "en": "I am the Prince, Ganlon! Can you\nnot see the Ultragunner with which\nI fight you?!",
+   "ru": "Я принц, Ганлон! Разве ты не\nвидишь Ультраганнер, на\nкотором я с тобой сражаюсь?!"
+  },
+  {
+   "id": 36,
+   "en": "Of course I see it, fool!",
+   "ru": "Конечно, вижу, глупец!"
+  },
+  {
+   "id": 37,
+   "en": "What's this? Are you experiencing a\nrare moment of honesty?",
+   "ru": "Что это? Редкий миг честности?"
+  },
+  {
+   "id": 38,
+   "en": "Now that I've lost contact with the\nEmpire, I have no choice but to make\nmy home in the, ah, Kingdom!",
+   "ru": "Связь с Империей потеряна, и\nмне остаётся лишь обосноваться\nв, кхм, Королевстве!"
+  },
+  {
+   "id": 39,
+   "en": "If you are revealed to be the Prince,\nI will be convicted for my mutinous\nbehavior...",
+   "ru": "Если откроется, что ты принц,\nменя осудят за мятежное\nповедение..."
+  },
+  {
+   "id": 40,
+   "en": "And, uh, I can't have that!",
+   "ru": "А этого я, э-э, допустить не\nмогу!"
+  },
+  {
+   "id": 41,
+   "en": "So you are a traitor AND a coward!\nCould you be any more worthless as\na human being, Ganlon?",
+   "ru": "Так ты и предатель, И трус!\nМожно ли быть никчёмнее,\nГанлон?"
+  },
+  {
+   "id": 42,
+   "en": "I know that my life is more valuable\nthan, ah, yours, boy!",
+   "ru": "Я знаю, что моя жизнь ценнее,\nкхм, твоей, мальчишка!"
+  },
+  {
+   "id": 43,
+   "en": "(I am extremely confused by what has\ntaken place here today.)",
+   "ru": "(Я крайне озадачен тем, что\nздесь сегодня произошло.)"
+  },
+  {
+   "id": 44,
+   "en": "(Ganlon told me that the boy was a\nfraud, yet he controls Ultragunner.\nHow is that possible?)",
+   "ru": "(Ганлон сказал, что мальчишка -\nсамозванец, но он водит\nУльтраганнер. Как так?)"
+  },
+  {
+   "id": 45,
+   "en": "(I hope he survives until I am able to\ndetermine the truth!)",
+   "ru": "(Надеюсь, он доживёт до того,\nкак я узнаю правду!)"
+  },
+  {
+   "id": 46,
+   "en": "This is not the last of me! I will not\nrest until I have defeated you!!",
+   "ru": "Это ещё не конец! Я не успокоюсь,\nпока тебя не одолею!!"
+  },
+  {
+   "id": 47,
+   "en": "It's over.",
+   "ru": "Всё кончено."
+  },
+  {
+   "id": 48,
+   "en": "(Commander Galvas seemed to sense\nthat I was telling the truth.)",
+   "ru": "(Командир Гальвас, кажется,\nпочувствовал, что я говорю\nправду.)"
+  },
+  {
+   "id": 49,
+   "en": "(But how can I convince him of my\nroyal lineage?)",
+   "ru": "(Но как убедить его в моём\nкоролевском происхождении?)"
+  },
+  {
+   "id": 50,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 51,
+   "en": "\n\n\n",
+   "ru": ""
+  }
+ ]
+}

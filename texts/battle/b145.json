@@ -1,0 +1,166 @@
+{
+ "file": 145,
+ "kind": "battle",
+ "lines": [
+  {
+   "id": 0,
+   "en": "Turn around, murderer, and look\nupon the face of your executioner!",
+   "ru": "Обернись, убийца, и взгляни в\nлицо своему палачу!"
+  },
+  {
+   "id": 1,
+   "en": "Hmmm? A familiar insult, but an\nunfamiliar voice.",
+   "ru": "Хм? Знакомое оскорбление, но\nнезнакомый голос."
+  },
+  {
+   "id": 2,
+   "en": "Your sarcasm will ring hollow once\nI've run you through, bastard!",
+   "ru": "Твой сарказм прозвучит глухо,\nкогда я тебя проткну, мерзавец!"
+  },
+  {
+   "id": 3,
+   "en": "I will have revenge for my father!\nRight here and right now!",
+   "ru": "Я отомщу за отца! Здесь и\nсейчас!"
+  },
+  {
+   "id": 4,
+   "en": "...   ...   ...",
+   "ru": ""
+  },
+  {
+   "id": 5,
+   "en": "This is wonderful! How kind of you\nto spare me the trouble of continuing\nto search for you!",
+   "ru": "Чудесно! Как любезно, что\nизбавил меня от хлопот искать\nтебя дальше!"
+  },
+  {
+   "id": 6,
+   "en": "While your threats are amusing, I\nsincerely hope you are not so unwise\nas to attack me.",
+   "ru": "Твои угрозы забавны, но\nискренне надеюсь, у тебя хватит\nума не нападать на меня."
+  },
+  {
+   "id": 7,
+   "en": "Unless, of course, you wish to suffer\na more painful and dishonorable\ndeath than your dear 'father.'",
+   "ru": "Если, конечно, не хочешь умереть\nещё мучительнее и бесславнее,\nчем твой дорогой \"отец\"."
+  },
+  {
+   "id": 8,
+   "en": "Silence! SILENCE! I will slay you\nwhere you stand!",
+   "ru": "Молчать! МОЛЧАТЬ! Я убью тебя\nна месте!"
+  },
+  {
+   "id": 9,
+   "en": "Of course. I wrongly assumed that\nyou would fight honorably for once.",
+   "ru": "Конечно. Я напрасно полагал, что\nхоть раз ты будешь драться\nчестно."
+  },
+  {
+   "id": 10,
+   "en": "Seize him.",
+   "ru": "Схватить его."
+  },
+  {
+   "id": 11,
+   "en": "Not bad, boy. Not bad at all. It is an\nuncommon warrior indeed who can\ndefeat six soldiers by himself.",
+   "ru": "Неплохо, мальчик. Совсем неплохо.\nРедкий воин в одиночку одолеет\nшестерых."
+  },
+  {
+   "id": 12,
+   "en": "The old man taught you well. If I\nhadn't made a corpse of him, I'm\ncertain he would be beaming.",
+   "ru": "Старик хорошо тебя выучил. Не\nсделай я из него труп, он бы,\nуверен, сиял от гордости."
+  },
+  {
+   "id": 13,
+   "en": "You wish to engage me, do you, boy?\nRise, then! Show me your skills!",
+   "ru": "Хочешь сразиться со мной,\nмальчик? Тогда вставай!\nПокажи, на что способен!"
+  },
+  {
+   "id": 14,
+   "en": "It's just you and me now.",
+   "ru": "Теперь только ты и я."
+  },
+  {
+   "id": 15,
+   "en": "Don't bother begging for mercy. I\nhave no mercy to share with a\nparasite such as yourself.",
+   "ru": "Не трудись молить о пощаде. Для\nтакого паразита, как ты, у меня\nпощады нет."
+  },
+  {
+   "id": 16,
+   "en": "Your words fail to intimidate me,\nboy, nor does your decrepit ATAC.\nAllow me to demonstrate.",
+   "ru": "Твои слова меня не пугают,\nмальчик, как и твой дряхлый\nАТАК. Смотри."
+  },
+  {
+   "id": 17,
+   "en": "(He's stronger than I thought...)",
+   "ru": "(Он сильнее, чем я думал...)"
+  },
+  {
+   "id": 18,
+   "en": "(What? Oh, no!)",
+   "ru": "(Что? О нет!)"
+  },
+  {
+   "id": 19,
+   "en": "(My ATAC is running out of power!\nPrimary systems are shutting down!\nSecondary systems are failing!)",
+   "ru": "(У АТАКа кончается энергия!\nОсновные системы отключаются!\nРезервные отказывают!)"
+  },
+  {
+   "id": 20,
+   "en": "Damn it! Damn it all!",
+   "ru": "Проклятье! Будь всё проклято!"
+  },
+  {
+   "id": 21,
+   "en": "Mmmmm. What a pity. I was looking\nforward to giving you the beating\nof a lifetime.",
+   "ru": "Ммм. Какая жалость. А я\nпредвкушал, как задам тебе\nтрёпку на всю жизнь."
+  },
+  {
+   "id": 22,
+   "en": "You are fortunate, boy. I will spare\nyour life until such time as I am able\nto make use of you.",
+   "ru": "Тебе повезло, мальчик. Я пощажу\nтебя, пока не найду тебе\nприменение."
+  },
+  {
+   "id": 23,
+   "en": "Faulkner?! What are you doing here?\nI thought you were assigned to defend\nthe Imperial capital!",
+   "ru": "Фолкнер?! Что вы здесь делаете?\nЯ думала, вам поручено\nзащищать имперскую столицу!"
+  },
+  {
+   "id": 24,
+   "en": "(That blue ATAC looks familiar.)",
+   "ru": "(Этот синий АТАК мне знаком.)"
+  },
+  {
+   "id": 25,
+   "en": "(Wait! It's the boy who helped me to\ndefeat those bandits, and yelled at me\nwhen he learned who I was.)",
+   "ru": "(Постой! Это тот мальчик, что\nпомог мне одолеть бандитов и\nнакричал на меня, узнав, кто я.)"
+  },
+  {
+   "id": 26,
+   "en": "You! The Imperial Princess!",
+   "ru": "Ты! Имперская принцесса!"
+  },
+  {
+   "id": 27,
+   "en": "What's this, Sadira? Have you taken\nto sullying the Empire with Kingdom\nentanglements?",
+   "ru": "Что это, Садира? Вы взялись\nпятнать Империю связями с\nКоролевством?"
+  },
+  {
+   "id": 28,
+   "en": "He's not a member of the Kingdom,\nnor is he an Imperial ally. He and his\nfamily are nomads, not soldiers!",
+   "ru": "Он не из Королевства и не\nсоюзник Империи. Он и его семья\n- кочевники, а не солдаты!"
+  },
+  {
+   "id": 29,
+   "en": "(She knows a great deal more about\nthis boy than I expected. Perhaps they\nhave a relationship I can exploit...)",
+   "ru": "(Она знает о мальчишке больше,\nчем я думал. Может, этим можно\nвоспользоваться...)"
+  },
+  {
+   "id": 30,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 31,
+   "en": "\n\n\n",
+   "ru": ""
+  }
+ ]
+}

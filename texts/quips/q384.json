@@ -1,0 +1,346 @@
+{
+ "file": 384,
+ "kind": "quip",
+ "lines": [
+  {
+   "id": 0,
+   "en": "There's an enemy\nATAC to my left!",
+   "ru": "Слева вражеский\nАТАК!"
+  },
+  {
+   "id": 1,
+   "en": "This isn't as fun as\nI thought it'd be!",
+   "ru": "Это не так весело,\nкак я думал!"
+  },
+  {
+   "id": 2,
+   "en": "There's a bad guy on\nmy right!",
+   "ru": "Справа злодей!"
+  },
+  {
+   "id": 3,
+   "en": "My name is Puck!\nWhat's yours?",
+   "ru": "Меня зовут Пак! А\nтебя?"
+  },
+  {
+   "id": 4,
+   "en": "Gee, you're the worst\nfighter I've ever seen!",
+   "ru": "Ну и ну, хуже бойца я\nне видел!"
+  },
+  {
+   "id": 5,
+   "en": "My armor is stronger\nthan THAT, silly!",
+   "ru": "Моя броня крепче,\nглупыш!"
+  },
+  {
+   "id": 6,
+   "en": "Is this your first\ntime in combat, too?",
+   "ru": "У тебя это тоже\nпервый бой?"
+  },
+  {
+   "id": 7,
+   "en": "You sure didn't hit\nme very hard!",
+   "ru": "Ты меня даже\nнесильно ударил!"
+  },
+  {
+   "id": 8,
+   "en": "Ouch! You're not\nmessing around!",
+   "ru": "Ай! Ты не шутишь!"
+  },
+  {
+   "id": 9,
+   "en": "You hurt me pretty\ngood with that one!",
+   "ru": "Вот это было больно!"
+  },
+  {
+   "id": 10,
+   "en": "You hit me pretty\nhard that time!",
+   "ru": "Ну ты и вдарил!"
+  },
+  {
+   "id": 11,
+   "en": "You're strong!",
+   "ru": "Ты сильный!"
+  },
+  {
+   "id": 12,
+   "en": "OWWWW!!",
+   "ru": "А-А-А-АЙ!!"
+  },
+  {
+   "id": 13,
+   "en": "AAAAH!!",
+   "ru": "А-А-А-А!!"
+  },
+  {
+   "id": 14,
+   "en": "Bastion, I really need\nyour help!",
+   "ru": "Бастион, помоги мне!"
+  },
+  {
+   "id": 15,
+   "en": "Stop HITTING me!!",
+   "ru": "Хватит меня БИТЬ!!"
+  },
+  {
+   "id": 16,
+   "en": "My ATAC is out of\npower! I--I've lost!",
+   "ru": "Мой АТАК обесточен!\nЯ... проиграл!"
+  },
+  {
+   "id": 17,
+   "en": "Bastion! HEEEELP!",
+   "ru": "Бастион!\nПОМОГИ-И-И!"
+  },
+  {
+   "id": 18,
+   "en": "Oh, man!",
+   "ru": "Ну блин!"
+  },
+  {
+   "id": 19,
+   "en": "You only beat me\n'cause I'm a kid!",
+   "ru": "Ты победил, потому\nчто я ребёнок!"
+  },
+  {
+   "id": 20,
+   "en": "From behind?!",
+   "ru": "Сзади?!"
+  },
+  {
+   "id": 21,
+   "en": "Hey, that's not fair!",
+   "ru": "Эй, так нечестно!"
+  },
+  {
+   "id": 22,
+   "en": "Neat! I dodged!",
+   "ru": "Класс! Увернулся!"
+  },
+  {
+   "id": 23,
+   "en": "Too bad for you.",
+   "ru": "Не повезло тебе."
+  },
+  {
+   "id": 24,
+   "en": "I knew you were\ngonna try that!",
+   "ru": "Я знал, что ты так\nсделаешь!"
+  },
+  {
+   "id": 25,
+   "en": "Gee, that attack was\nREALLY slow!",
+   "ru": "Ну и медленная\nатака!"
+  },
+  {
+   "id": 26,
+   "en": "Hey! Don't do that!",
+   "ru": "Эй! Не делай так!"
+  },
+  {
+   "id": 27,
+   "en": "Why did you dodge?",
+   "ru": "Зачем ты увернулся?"
+  },
+  {
+   "id": 28,
+   "en": "You big meanie!",
+   "ru": "Злюка!"
+  },
+  {
+   "id": 29,
+   "en": "It's no fun if you\ndodge my attacks!",
+   "ru": "Неинтересно, когда\nты уворачиваешься!"
+  },
+  {
+   "id": 30,
+   "en": "My ATAC is still\noperational!",
+   "ru": "Мой АТАК ещё в\nстрою!"
+  },
+  {
+   "id": 31,
+   "en": "I'm okay!",
+   "ru": "Я в порядке!"
+  },
+  {
+   "id": 32,
+   "en": "That attack wasn't\nso bad after all!",
+   "ru": "Не так уж и больно!"
+  },
+  {
+   "id": 33,
+   "en": "STOP IT!",
+   "ru": "ПРЕКРАТИ!"
+  },
+  {
+   "id": 34,
+   "en": "Hey!",
+   "ru": "Эй!"
+  },
+  {
+   "id": 35,
+   "en": "Ha! I see you!",
+   "ru": "Ха! Я тебя вижу!"
+  },
+  {
+   "id": 36,
+   "en": "Shove off!",
+   "ru": "Отвали!"
+  },
+  {
+   "id": 37,
+   "en": "Oh, no!",
+   "ru": "О нет!"
+  },
+  {
+   "id": 38,
+   "en": "No, you don't!",
+   "ru": "Нет уж!"
+  },
+  {
+   "id": 39,
+   "en": "You're kidding!",
+   "ru": "Шутишь!"
+  },
+  {
+   "id": 40,
+   "en": "This isn't so hard\nafter all!",
+   "ru": "Не так уж это и\nсложно!"
+  },
+  {
+   "id": 41,
+   "en": "How did I do that?",
+   "ru": "Как это у меня\nвышло?"
+  },
+  {
+   "id": 42,
+   "en": "Easy win!",
+   "ru": "Лёгкая победа!"
+  },
+  {
+   "id": 43,
+   "en": "I hope I didn't hurt\nthe pilot too badly.",
+   "ru": "Надеюсь, пилот не\nсильно ушибся."
+  },
+  {
+   "id": 44,
+   "en": "Whoof!",
+   "ru": "Уф!"
+  },
+  {
+   "id": 45,
+   "en": "Yaaah!",
+   "ru": "Йа-а-а!"
+  },
+  {
+   "id": 46,
+   "en": "Here I come!",
+   "ru": "Иду!"
+  },
+  {
+   "id": 47,
+   "en": "There you are!",
+   "ru": "Вот ты где!"
+  },
+  {
+   "id": 48,
+   "en": "Ready, set, GO!",
+   "ru": "На старт, внимание,\nМАРШ!"
+  },
+  {
+   "id": 49,
+   "en": "HEY!",
+   "ru": "ЭЙ!"
+  },
+  {
+   "id": 50,
+   "en": "YAAAAH!",
+   "ru": "ЙА-А-А-А!"
+  },
+  {
+   "id": 51,
+   "en": "WAAUGH!",
+   "ru": "ВА-А-А-ГХ!"
+  },
+  {
+   "id": 52,
+   "en": "You're in my way.",
+   "ru": "Ты мне мешаешь."
+  },
+  {
+   "id": 53,
+   "en": "Sorry!",
+   "ru": "Извини!"
+  },
+  {
+   "id": 54,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 55,
+   "en": "What the heck?!",
+   "ru": "Что за дела?!"
+  },
+  {
+   "id": 56,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 57,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 58,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 59,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 60,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 61,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 62,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 63,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 64,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 65,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 66,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 67,
+   "en": "",
+   "ru": ""
+  }
+ ]
+}

@@ -1,0 +1,346 @@
+{
+ "file": 389,
+ "kind": "quip",
+ "lines": [
+  {
+   "id": 0,
+   "en": "To the left!",
+   "ru": "Слева!"
+  },
+  {
+   "id": 1,
+   "en": "There you are!",
+   "ru": "Вот ты где!"
+  },
+  {
+   "id": 2,
+   "en": "To the right!",
+   "ru": "Справа!"
+  },
+  {
+   "id": 3,
+   "en": "There you are!",
+   "ru": "Вот ты где!"
+  },
+  {
+   "id": 4,
+   "en": "I applaud your\nfeeble efforts.",
+   "ru": "Аплодирую твоим\nжалким потугам."
+  },
+  {
+   "id": 5,
+   "en": "What brainless fool\ndesigned your ATAC?",
+   "ru": "Какой дурак\nсобрал твой АТАК?"
+  },
+  {
+   "id": 6,
+   "en": "Was that an attack?\nIf so, I pity you.{03}Is that the best\nyou can do?",
+   "ru": "Это атака?\nЖаль тебя.{03}Это всё?"
+  },
+  {
+   "id": 7,
+   "en": "Is that the best\nyou can do?",
+   "ru": "И это всё, на что ты\nспособен?"
+  },
+  {
+   "id": 8,
+   "en": "How dare you harm\nmy invention?!",
+   "ru": "Как смеешь портить\nмоё изобретение?!"
+  },
+  {
+   "id": 9,
+   "en": "Auuuggghhh!",
+   "ru": "А-а-ах!"
+  },
+  {
+   "id": 10,
+   "en": "Don't push your luck,\nyou--you--jackhole!",
+   "ru": "Не испытывай удачу,\nты... ты... олух!"
+  },
+  {
+   "id": 11,
+   "en": "You're starting to\nfray on my nerves!",
+   "ru": "Ты действуешь\nмне на нервы!"
+  },
+  {
+   "id": 12,
+   "en": "My wonderful ATAC\nis in danger!!",
+   "ru": "Мой чудесный АТАК\nв опасности!!"
+  },
+  {
+   "id": 13,
+   "en": "Ow ow ow ow OWWWW!",
+   "ru": "Ой, ой, ой, ой, ОЙ!"
+  },
+  {
+   "id": 14,
+   "en": "Perhaps this ATAC\nneeds a redesign!",
+   "ru": "Похоже, АТАК надо\nпеределать!"
+  },
+  {
+   "id": 15,
+   "en": "What are you doing\nto an old man?!",
+   "ru": "Что ты творишь со\nстариком?!"
+  },
+  {
+   "id": 16,
+   "en": "My hemorrhoids are\nflaring up! AHHH!!",
+   "ru": "Мой геморрой\nразыгрался! А-А-А!!"
+  },
+  {
+   "id": 17,
+   "en": "My precious ATAC! Not\nmy ATAC! NOOO!!",
+   "ru": "Мой драгоценный\nАТАК! НЕ-Е-ЕТ!!"
+  },
+  {
+   "id": 18,
+   "en": "This is impossible!",
+   "ru": "Это невозможно!"
+  },
+  {
+   "id": 19,
+   "en": "Stop! Wait! NOOO!!",
+   "ru": "Стой! Подожди!\nНЕ-Е-ЕТ!!"
+  },
+  {
+   "id": 20,
+   "en": "Attacking from behind\nis cowardly!",
+   "ru": "Нападать сзади\nтрусливо!"
+  },
+  {
+   "id": 21,
+   "en": "To attack an old\nman from behind!",
+   "ru": "Напасть на старика\nсзади!"
+  },
+  {
+   "id": 22,
+   "en": "An attack like that\nwon't hit me!",
+   "ru": "Такая атака в меня\nне попадёт!"
+  },
+  {
+   "id": 23,
+   "en": "Were you trying to\nhit me?",
+   "ru": "Ты пытался в меня\nпопасть?"
+  },
+  {
+   "id": 24,
+   "en": "Your ineptitude\nis hilarious!",
+   "ru": "Твоя бездарность\nуморительна!"
+  },
+  {
+   "id": 25,
+   "en": "I just dislocated\nmy hip!",
+   "ru": "Я вывихнул бедро!"
+  },
+  {
+   "id": 26,
+   "en": "You avoided my\nattack?!",
+   "ru": "Ты увернулся от моей\nатаки?!"
+  },
+  {
+   "id": 27,
+   "en": "Why did you dodge?!",
+   "ru": "Зачем ты увернулся?!"
+  },
+  {
+   "id": 28,
+   "en": "What an irritating\nperson you are!",
+   "ru": "Какой же ты\nраздражающий!"
+  },
+  {
+   "id": 29,
+   "en": "Don't dodge me!!",
+   "ru": "Не уворачивайся!!"
+  },
+  {
+   "id": 30,
+   "en": "This is nothing!",
+   "ru": "Пустяки!"
+  },
+  {
+   "id": 31,
+   "en": "I didn't realize I\ncould be so angry!",
+   "ru": "Не знал, что могу\nтак злиться!"
+  },
+  {
+   "id": 32,
+   "en": "You will pay dearly\nfor that attack!",
+   "ru": "За эту атаку\nдорого заплатишь!"
+  },
+  {
+   "id": 33,
+   "en": "How dare you!!",
+   "ru": "Да как ты смеешь!!"
+  },
+  {
+   "id": 34,
+   "en": "There you are!!",
+   "ru": "Вот ты где!!"
+  },
+  {
+   "id": 35,
+   "en": "How's that?! Heh!",
+   "ru": "Ну как?! Хе!"
+  },
+  {
+   "id": 36,
+   "en": "Feeble!",
+   "ru": "Слабо!"
+  },
+  {
+   "id": 37,
+   "en": "Feeble!",
+   "ru": "Слабо!"
+  },
+  {
+   "id": 38,
+   "en": "Hah!",
+   "ru": "Ха!"
+  },
+  {
+   "id": 39,
+   "en": "Huh?!",
+   "ru": "А?!"
+  },
+  {
+   "id": 40,
+   "en": "Now you understand\nthe power of science!",
+   "ru": "Теперь ты понял\nсилу науки!"
+  },
+  {
+   "id": 41,
+   "en": "Brains defeat brawn\nevery time!",
+   "ru": "Мозги всегда\nпобеждают мускулы!"
+  },
+  {
+   "id": 42,
+   "en": "This ATAC is the\nultimate invention!",
+   "ru": "Этот АТАК — высшее\nизобретение!"
+  },
+  {
+   "id": 43,
+   "en": "You've learned to\nrespect your elders!",
+   "ru": "Теперь ты научился\nуважать старших!"
+  },
+  {
+   "id": 44,
+   "en": "Huh!",
+   "ru": "Ха!"
+  },
+  {
+   "id": 45,
+   "en": "Muh!",
+   "ru": "Хм!"
+  },
+  {
+   "id": 46,
+   "en": "You can't begin to\nfathom my power!",
+   "ru": "Тебе не постичь моей\nмощи!"
+  },
+  {
+   "id": 47,
+   "en": "Gaze upon my\nlovely invention!",
+   "ru": "Узри моё прелестное\nизобретение!"
+  },
+  {
+   "id": 48,
+   "en": "Apologize and I\nmight forgive you!",
+   "ru": "Извинись, и, может,\nя прощу!"
+  },
+  {
+   "id": 49,
+   "en": "Don't underestimate\nthe elderly!",
+   "ru": "Стариков не\nнедооценивай!"
+  },
+  {
+   "id": 50,
+   "en": "Challenging me\nwas a fatal error!",
+   "ru": "Вызвать меня было\nроковой ошибкой!"
+  },
+  {
+   "id": 51,
+   "en": "Let me teach you\nthe art of war!",
+   "ru": "Я научу тебя\nискусству войны!"
+  },
+  {
+   "id": 52,
+   "en": "You're not an enemy!\nYou're an annoyance!",
+   "ru": "Ты не враг! Ты\nнедоразумение!"
+  },
+  {
+   "id": 53,
+   "en": "Heh, heh, heh! You're\ntruly pathetic!",
+   "ru": "Хе-хе-хе! Ты\nпоистине жалок!"
+  },
+  {
+   "id": 54,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 55,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 56,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 57,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 58,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 59,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 60,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 61,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 62,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 63,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 64,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 65,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 66,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 67,
+   "en": "",
+   "ru": ""
+  }
+ ]
+}

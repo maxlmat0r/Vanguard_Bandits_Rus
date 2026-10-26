@@ -1,0 +1,146 @@
+{
+ "file": 501,
+ "kind": "story",
+ "lines": [
+  {
+   "id": 0,
+   "en": "(This room is far too high for me to\njump to the ground. I'd be killed in\nthe fall. And I don't have a rope...)",
+   "ru": "(Слишком высоко, чтобы\nпрыгать. Разобьюсь насмерть. И\nверёвки у меня нет...)"
+  },
+  {
+   "id": 1,
+   "en": "(But I suppose I should be thankful\nthat I'm being held prisoner in here\ninstead of a dungeon.)",
+   "ru": "(Но, наверное, стоит радоваться,\nчто меня держат здесь, а не в\nтемнице.)"
+  },
+  {
+   "id": 2,
+   "en": "(I wonder what happened to everyone\nafter I was captured. Did they flee?\nWere they taken hostage as well?)",
+   "ru": "(Что стало с остальными после\nтого, как меня схватили? Они\nбежали? Их тоже взяли в плен?)"
+  },
+  {
+   "id": 3,
+   "en": "(I should have listened to Galvas. I\nshould have known this was a trap.\nI feel so stupid...)",
+   "ru": "(Надо было слушать Гальваса.\nНадо было понять, что это\nловушка. Какой же я глупец...)"
+  },
+  {
+   "id": 4,
+   "en": "Kyu-Kyu:\nKyu!",
+   "ru": "Кю-Кю:\nКю!"
+  },
+  {
+   "id": 5,
+   "en": "What in the name of all that is holy\nare YOU?!",
+   "ru": "Святые небеса, а ТЫ ещё что\nтакое?!"
+  },
+  {
+   "id": 6,
+   "en": "... ... ...!",
+   "ru": ""
+  },
+  {
+   "id": 7,
+   "en": "Girl:\nKyu-Kyu! Don't widdle under the\ncouch like you did last time! Come\nhere, silly!",
+   "ru": "Девочка:\nКю-Кю! Не писай опять под\nдиваном, как в прошлый раз!\nИди сюда, глупыш!"
+  },
+  {
+   "id": 8,
+   "en": "You're the boy from another country,\naren't you? Everyone in the palace is\ntalking about you!",
+   "ru": "Ты ведь мальчик из другой\nстраны, да? Весь дворец о тебе\nговорит!"
+  },
+  {
+   "id": 9,
+   "en": "I've never been to another country!\nWill you tell me what it's like?",
+   "ru": "Я никогда не была в другой\nстране! Расскажешь, какая она?"
+  },
+  {
+   "id": 10,
+   "en": "Perhaps after you tell me who you\nare, little girl.",
+   "ru": "Может, сначала скажешь, кто ты,\nдевочка?"
+  },
+  {
+   "id": 11,
+   "en": "I'm Nana, and this is Kyu-Kyu! Say\nhi, Kyu-Kyu!",
+   "ru": "Я Нана, а это Кю-Кю!\nПоздоровайся, Кю-Кю!"
+  },
+  {
+   "id": 12,
+   "en": "Kyu!",
+   "ru": "Кю!"
+  },
+  {
+   "id": 13,
+   "en": "I've never seen a creature quite like\nKyu-Kyu before. Are you certain that\nit won't, uh, bite me?",
+   "ru": "Никогда не видел таких существ,\nкак Кю-Кю. Ты уверена, что он,\nэ-э, не укусит?"
+  },
+  {
+   "id": 14,
+   "en": "Of course not, silly! Kyu-Kyu is my\nbest friend in the whole wide world!\nHe won't hurt you!",
+   "ru": "Конечно, нет, глупый! Кю-Кю мой\nсамый лучший друг на всём\nбелом свете! Он тебя не обидит!"
+  },
+  {
+   "id": 15,
+   "en": "Now tell me about the country you're\nfrom! Do they have an ocean there? I\nwant to see the ocean someday!",
+   "ru": "А теперь расскажи про свою\nстрану! Там есть океан? Я хочу\nкогда-нибудь увидеть океан!"
+  },
+  {
+   "id": 16,
+   "en": "(I suppose it wouldn't hurt to tell my\nstory to this girl. Besides, I have a lot\nof time to kill.)",
+   "ru": "(Пожалуй, не будет вреда\nрассказать ей мою историю.\nВремени у меня хоть отбавляй.)"
+  },
+  {
+   "id": 17,
+   "en": "What a neat story, Bastion! Kyu-Kyu\nthinks so, too!",
+   "ru": "Какая классная история, Бастион!\nКю-Кю тоже так думает!"
+  },
+  {
+   "id": 18,
+   "en": "I wish I could come and see other\ncountries with you...",
+   "ru": "Вот бы мне тоже повидать с\nтобой другие страны..."
+  },
+  {
+   "id": 19,
+   "en": "Hey, Bastion! If I show you something\nneat, will you promise to take me on\nyour adventures?",
+   "ru": "Эй, Бастион! Если я покажу тебе\nкое-что классное, возьмёшь меня\nв свои приключения?"
+  },
+  {
+   "id": 20,
+   "en": "It's a secret passage that will take\nyou outside the palace!",
+   "ru": "Это тайный ход, по которому\nможно выбраться из дворца!"
+  },
+  {
+   "id": 21,
+   "en": "I know my dad wouldn't worry if I\nwas traveling with someone big and\nstrong like you, Bastion!",
+   "ru": "Папа не будет волноваться, если\nя пойду с кем-то большим и\nсильным, как ты, Бастион!"
+  },
+  {
+   "id": 22,
+   "en": "Please, Bastion! I'll cry if you won't\ntake me!!",
+   "ru": "Ну пожалуйста, Бастион! Я\nзаплачу, если ты меня не\nвозьмёшь!!"
+  },
+  {
+   "id": 23,
+   "en": "So are we going?",
+   "ru": "Ну что, идём?"
+  },
+  {
+   "id": 24,
+   "en": "Well, I really would like to use that\nsecret passage...",
+   "ru": "Что ж, тайным ходом я бы и\nправда воспользовался..."
+  },
+  {
+   "id": 25,
+   "en": "YAY! This is going to be so much fun,\nBastion! Let's go!",
+   "ru": "УРА! Будет так весело, Бастион!\nИдём!"
+  },
+  {
+   "id": 26,
+   "en": "Uh, Bastion, a brief question. What\nthe hell is that thing on the table?",
+   "ru": "Э-э, Бастион, короткий вопрос.\nЧто это, чёрт возьми, за штука\nна столе?"
+  },
+  {
+   "id": 27,
+   "en": "Nana:\n...   ...   ...",
+   "ru": "Нана:\n... ... ..."
+  }
+ ]
+}

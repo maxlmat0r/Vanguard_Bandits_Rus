@@ -1,0 +1,206 @@
+{
+ "file": 137,
+ "kind": "battle",
+ "lines": [
+  {
+   "id": 0,
+   "en": "Well, well, the Kingdom Army at last!\nYou've kept me waiting, fools, and I\ndon't like that at all!",
+   "ru": "Наконец-то армия Королевства!\nВы заставили меня ждать,\nглупцы, а я этого не терплю!"
+  },
+  {
+   "id": 1,
+   "en": "I shall drink a toast to the dawn of\nmy reign as the Emperor with a glass\nof your lifeblood!",
+   "ru": "Я подниму тост за рассвет моего\nцарствования бокалом вашей\nкрови!"
+  },
+  {
+   "id": 2,
+   "en": "All units! Attack!",
+   "ru": "Все отряды! В атаку!"
+  },
+  {
+   "id": 3,
+   "en": "Let us reclaim the royal capital,\nYour Highness!",
+   "ru": "Вернём королевскую столицу,\nВаше Высочество!"
+  },
+  {
+   "id": 4,
+   "en": "Where are the reinforcement ATACs\nfrom the palace?",
+   "ru": "Где подкрепление из дворца?"
+  },
+  {
+   "id": 5,
+   "en": "Imperial Chief of Security:\nNot here yet, Emperor Duyere.",
+   "ru": "Начальник имперской охраны:\nЕщё не прибыло, император\nДюйер."
+  },
+  {
+   "id": 6,
+   "en": "If the time on their departure report\nwas correct, they would have already\narrived by now.",
+   "ru": "Если время отправки в донесении\nверно, они уже должны были\nбыть здесь."
+  },
+  {
+   "id": 7,
+   "en": "If they are nothing more than tardy,\npunishment shall be severe.",
+   "ru": "Если они просто опаздывают,\nнаказание будет суровым."
+  },
+  {
+   "id": 8,
+   "en": "This is ridiculous! We can't wait any\nlonger for reinforcements to arrive!",
+   "ru": "Это нелепо! Больше ждать\nподкрепления нельзя!"
+  },
+  {
+   "id": 9,
+   "en": "Bodyguards, join me outside!",
+   "ru": "Телохранители, за мной!"
+  },
+  {
+   "id": 10,
+   "en": "Your precious Ultragunner will do\nyou no good against the might of the\nImperial Army!",
+   "ru": "Твой драгоценный Ультраганнер\nне поможет тебе против мощи\nимперской армии!"
+  },
+  {
+   "id": 11,
+   "en": "I will personally dismantle your\nroyal armor, Prince Bastion!",
+   "ru": "Я лично разберу твои королевские\nдоспехи, принц Бастион!"
+  },
+  {
+   "id": 12,
+   "en": "Look! Duyere has personally entered\nthe battle!",
+   "ru": "Смотрите! Дюйер сам вступил в\nбой!"
+  },
+  {
+   "id": 13,
+   "en": "Imperial Chief of Security:\nEmperor Duyere!",
+   "ru": "Начальник имперской охраны:\nИмператор Дюйер!"
+  },
+  {
+   "id": 14,
+   "en": "Without our reinforcements, this\nbattle has become too dangerous!",
+   "ru": "Без подкрепления бой стал\nслишком опасен!"
+  },
+  {
+   "id": 15,
+   "en": "We must retreat immediately!",
+   "ru": "Нужно немедленно отступать!"
+  },
+  {
+   "id": 16,
+   "en": "I cannot flee from my first battle as\nthe new Emperor! That would set a\nvery poor example indeed!",
+   "ru": "Я не могу бежать из первого боя\nв роли императора! Какой это\nбудет пример!"
+  },
+  {
+   "id": 17,
+   "en": "Emperor, you don't understand!\nThere must be a connection between\nthe missing reinforcements...",
+   "ru": "Император, вы не понимаете!\nПропавшее подкрепление\nнаверняка связано..."
+  },
+  {
+   "id": 18,
+   "en": "And the assassination of your father!\nIf we leave now, you can determine\nwhat that connection is!",
+   "ru": "С убийством вашего отца! Если\nуйдём сейчас, вы сможете\nвыяснить, как именно!"
+  },
+  {
+   "id": 19,
+   "en": "Of course! I was just thinking that.",
+   "ru": "Ну конечно! Я как раз об этом\nподумал."
+  },
+  {
+   "id": 20,
+   "en": "I will neither forget nor forgive this\nday, Kingdom Army! Ultimate victory\nwill belong to the Junaris Empire!",
+   "ru": "Я не забуду и не прощу этот\nдень, Королевство! Победа будет\nза Империей Джунарис!"
+  },
+  {
+   "id": 21,
+   "en": "The Continent shall be OURS!",
+   "ru": "Континент будет НАШИМ!"
+  },
+  {
+   "id": 22,
+   "en": "Bodyguard:\nYour Majesty, rest assured we will\ndefeat these vagrants of the Kingdom!",
+   "ru": "Телохранитель:\nВаше Величество, будьте уверены,\nмы разобьём этих бродяг из\nКоролевства!"
+  },
+  {
+   "id": 23,
+   "en": "Rest assured I shall be very put out\nif you do not!",
+   "ru": "Будьте уверены, я очень огорчусь,\nесли не разобьёте!"
+  },
+  {
+   "id": 24,
+   "en": "I am retreating.",
+   "ru": "Я отступаю."
+  },
+  {
+   "id": 25,
+   "en": "Imperial Head of Security:\nYour Majesty!",
+   "ru": "Начальник имперской стражи:\nВаше Величество!"
+  },
+  {
+   "id": 26,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 27,
+   "en": "We have to retreat, don't we? Damn!",
+   "ru": "Придётся отступить, да?\nПроклятье!"
+  },
+  {
+   "id": 28,
+   "en": "I will neither forget nor forgive this\nday, Kingdom Army! Ultimate victory\nwill belong to the Empire!",
+   "ru": "Я не забуду и не прощу этот\nдень, Королевство! Победа будет\nза Империей!"
+  },
+  {
+   "id": 29,
+   "en": "The Continent will be MINE!",
+   "ru": "Континент будет МОИМ!"
+  },
+  {
+   "id": 30,
+   "en": "Damn! My first battle as Emperor\nhas ended in humiliation! My father\nwould be ashamed!",
+   "ru": "Проклятье! Мой первый бой\nимператором - и такое унижение!\nОтцу было бы стыдно!"
+  },
+  {
+   "id": 31,
+   "en": "Imperial Chief of Security:\nYour Majesty!",
+   "ru": "Начальник имперской охраны:\nВаше Величество!"
+  },
+  {
+   "id": 32,
+   "en": "I must escort His Majesty from the\nbattlefield, lest he perish!",
+   "ru": "Я должен увести Его Величество с\nполя боя, иначе он погибнет!"
+  },
+  {
+   "id": 33,
+   "en": "Finish off these infidels in the name\nof Emperor Duyere!",
+   "ru": "Добейте этих неверных во имя\nимператора Дюйера!"
+  },
+  {
+   "id": 34,
+   "en": "I shall never forget this act of\ntreachery, worms of the Kingdom!",
+   "ru": "Я никогда не забуду это\nвероломство, черви из\nКоролевства!"
+  },
+  {
+   "id": 35,
+   "en": "I shall visit great pain upon you in\nour next encounter!",
+   "ru": "При следующей встрече я\nпричиню вам великую боль!"
+  },
+  {
+   "id": 36,
+   "en": "Duyere escaped!",
+   "ru": "Дюйер сбежал!"
+  },
+  {
+   "id": 37,
+   "en": "Now is our chance to storm the city!",
+   "ru": "Вот наш шанс штурмовать город!"
+  },
+  {
+   "id": 38,
+   "en": "Follow me!",
+   "ru": "За мной!"
+  },
+  {
+   "id": 39,
+   "en": "\n\n\n",
+   "ru": ""
+  }
+ ]
+}

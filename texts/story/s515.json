@@ -1,0 +1,481 @@
+{
+ "file": 515,
+ "kind": "story",
+ "lines": [
+  {
+   "id": 0,
+   "en": "What happened in Aylin is a most\nunfortunate thing, Your Highness.\nMy news is equally unfortunate...",
+   "ru": "Случившееся в Айлине весьма\nприскорбно, Ваше Высочество. Мои\nвести не менее печальны..."
+  },
+  {
+   "id": 1,
+   "en": "You were unable to find Milea.",
+   "ru": "Вы не нашли Милею."
+  },
+  {
+   "id": 2,
+   "en": "I am sorry, Your Highness, but we\nfound nothing. I will send another\nsearch party if you command it.",
+   "ru": "Простите, Ваше Высочество, мы\nничего не нашли. Прикажете -\nотправлю ещё отряд."
+  },
+  {
+   "id": 3,
+   "en": "No, Galvas. I know that with your\nenormous efforts, she surely would\nhave been discovered by now.",
+   "ru": "Нет, Гальвас. Я знаю, после таких\nусилий её бы уже нашли."
+  },
+  {
+   "id": 4,
+   "en": "I am grateful for what you did.",
+   "ru": "Я благодарен за всё, что вы\nсделали."
+  },
+  {
+   "id": 5,
+   "en": "Thank you, Your Highness.",
+   "ru": "Благодарю, Ваше Высочество."
+  },
+  {
+   "id": 6,
+   "en": "I have more encouraging news for\nYour Highness, as well.",
+   "ru": "У меня есть для вас и более\nобнадёживающие вести."
+  },
+  {
+   "id": 7,
+   "en": "I think we'd ALL like to hear it.",
+   "ru": "Думаю, их ВСЕ хотят услышать."
+  },
+  {
+   "id": 8,
+   "en": "Stories of Ultragunner's appearance\nin Aylin are making their way across\nthe Continent.",
+   "ru": "Слухи о появлении\nУльтраганнера в Айлине\nрасходятся по всему Континенту."
+  },
+  {
+   "id": 9,
+   "en": "More and more people are learning\nthat it is not a legend, but a reality...",
+   "ru": "Всё больше людей узнаёт, что это\nне легенда, а явь..."
+  },
+  {
+   "id": 10,
+   "en": "Which has, in turn, sparked a wave\nof new optimism that the Empire is\non the verge of collapse.",
+   "ru": "А это, в свою очередь, вселило в\nлюдей надежду, что Империя\nвот-вот рухнет."
+  },
+  {
+   "id": 11,
+   "en": "Excellent! You've got the unwashed\nmasses on your side, Bastion!",
+   "ru": "Отлично! Простой люд на твоей\nстороне, Бастион!"
+  },
+  {
+   "id": 12,
+   "en": "I'm certain Faulkner didn't expect\nthat reaction to Ultragunner, emm?",
+   "ru": "Уверен, Фолкнер не ожидал, что\nнарод так встретит\nУльтраганнер, а?"
+  },
+  {
+   "id": 13,
+   "en": "I also received news regarding a\nsquad of the Kingdom Army which is\ntrapped within Imperial territory.",
+   "ru": "Ещё пришли вести об отряде\nармии Королевства, запертом на\nземлях Империи."
+  },
+  {
+   "id": 14,
+   "en": "The squad is being led by one General\nThomson, who refused to retreat even\nas the Empire surrounded him.",
+   "ru": "Отрядом командует генерал\nТомсон. Он отказался отступать,\nдаже когда его окружили."
+  },
+  {
+   "id": 15,
+   "en": "Has Thomson's squad been defeated?",
+   "ru": "Отряд Томсона разбит?"
+  },
+  {
+   "id": 16,
+   "en": "No. Thomson and his men have\nsomehow managed to hold out\nagainst overwhelming numbers.",
+   "ru": "Нет. Томсон и его люди каким-то\nчудом держатся против\nогромного численного перевеса."
+  },
+  {
+   "id": 17,
+   "en": "He doesn't have adequate manpower\nto launch offensive strikes, but he is\nin an ideal defensive position.",
+   "ru": "Сил для наступления у него мало,\nно позиция для обороны\nидеальная."
+  },
+  {
+   "id": 18,
+   "en": "We have long wanted to launch a\nrescue mission, but the Imperial\nresistance was always too great.",
+   "ru": "Мы давно хотели отправить им\nпомощь, но имперцы всегда были\nслишком сильны."
+  },
+  {
+   "id": 19,
+   "en": "Thomson somehow learned that the\nUltragunner was revived, and was\ninspired to attack the Empire.",
+   "ru": "Томсон как-то узнал, что\nУльтраганнер пробуждён, и\nрешил ударить по Империи."
+  },
+  {
+   "id": 20,
+   "en": "This is the perfect time to join with\nThomson and swarm the Imperial\nforces with superior numbers.",
+   "ru": "Сейчас лучшее время соединиться\nс Томсоном и задавить имперцев\nчислом."
+  },
+  {
+   "id": 21,
+   "en": "Agreed. Regardless of their bravery,\nThomson's group won't have enough\nstrength to win without us.",
+   "ru": "Согласен. Как ни храбры люди\nТомсона, без нас им не победить."
+  },
+  {
+   "id": 22,
+   "en": "This is a chance to deal the Empire\na crushing defeat and increase our\nmanpower at the same time.",
+   "ru": "Это шанс нанести Империи\nсокрушительное поражение и\nзаодно пополнить наши ряды."
+  },
+  {
+   "id": 23,
+   "en": "To battle, then!",
+   "ru": "Тогда - в бой!"
+  },
+  {
+   "id": 24,
+   "en": "Kingdom Soldier 1:\nI bring urgent news, Commander\nGalvas!",
+   "ru": "Солдат Королевства 1:\nСрочные вести, командир\nГальвас!"
+  },
+  {
+   "id": 25,
+   "en": "What is it, soldier?",
+   "ru": "Что такое, солдат?"
+  },
+  {
+   "id": 26,
+   "en": "Our scouts have sighted the ATAC of\nDuke Radcot of the Muspel Nation! It\nis headed directly for Araba!",
+   "ru": "Разведчики заметили АТАК\nгерцога Радкота из Муспеля! Он\nдвижется прямо к Арабе!"
+  },
+  {
+   "id": 27,
+   "en": "Radcot again?! Will that fool never\ngrow tired of being defeated?!",
+   "ru": "Опять Радкот?! Неужели этому\nглупцу не надоело проигрывать?!"
+  },
+  {
+   "id": 28,
+   "en": "But why does he attack us alone?\nRadcot may be slow, but he isn't\nTHAT incompetent!",
+   "ru": "Но почему он нападает один?\nРадкот туповат, но не НАСТОЛЬКО\nже!"
+  },
+  {
+   "id": 29,
+   "en": "Who knows what scheme Radcot has\nconjured up? I only know that I will\nmake him pay for his crimes!",
+   "ru": "Кто знает, что задумал Радкот?\nЗнаю одно: он заплатит за свои\nпреступления!"
+  },
+  {
+   "id": 30,
+   "en": "Prepare our ATACs for battle!",
+   "ru": "Готовьте АТАКи к бою!"
+  },
+  {
+   "id": 31,
+   "en": "Kingdom Soldier 2:\nI bring urgent news!",
+   "ru": "Солдат Королевства 2:\nСрочные вести!"
+  },
+  {
+   "id": 32,
+   "en": "And what is more urgent than the\napproach of Duke Radcot, soldier?!",
+   "ru": "И что может быть срочнее\nприближения герцога Радкота,\nсолдат?!"
+  },
+  {
+   "id": 33,
+   "en": "Commander Galvas, Radcot's ATAC\nhas come to a halt...and a young girl\nexited the cockpit.",
+   "ru": "Командир Гальвас, АТАК Радкота\nостановился... и из кабины\nвышла девочка."
+  },
+  {
+   "id": 34,
+   "en": "She demanded to see Prince Bastion,\nand her cries were very persuasive.",
+   "ru": "Она требует принца Бастиона, и\nплачет очень убедительно."
+  },
+  {
+   "id": 35,
+   "en": "Oh, Bastion!",
+   "ru": "Ох, Бастион!"
+  },
+  {
+   "id": 36,
+   "en": "Nana?! Why has your father brought\nyou here?",
+   "ru": "Нана?! Зачем отец привёз тебя\nсюда?"
+  },
+  {
+   "id": 37,
+   "en": "Daddy didn't bring me, Bastion...",
+   "ru": "Папа меня не привозил, Бастион..."
+  },
+  {
+   "id": 38,
+   "en": "Where is he, Nana? What's going on?\nYou have to explain!",
+   "ru": "Где он, Нана? Что происходит?\nОбъясни!"
+  },
+  {
+   "id": 39,
+   "en": "Daddy is dead!",
+   "ru": "Папа умер!"
+  },
+  {
+   "id": 40,
+   "en": "No...",
+   "ru": "Нет..."
+  },
+  {
+   "id": 41,
+   "en": "Is your father in danger,\nNana?",
+   "ru": "Твой отец в опасности, Нана?"
+  },
+  {
+   "id": 42,
+   "en": "No, he was MURDERED by a\nman who said he was a friend\nof Faulkner's!",
+   "ru": "Нет, его УБИЛ человек, который\nсказал, что он друг Фолкнера!"
+  },
+  {
+   "id": 43,
+   "en": "Faulkner had Radcot killed?",
+   "ru": "Фолкнер приказал убить\nРадкота?"
+  },
+  {
+   "id": 44,
+   "en": "We have long suspected a connection\nbetween them. This confirms it.",
+   "ru": "Мы давно подозревали связь\nмежду ними. Вот и\nподтверждение."
+  },
+  {
+   "id": 45,
+   "en": "Faulkner was sure to be unhappy\nwhen Radcot wasn't able to capture\nBastion and Gratia.",
+   "ru": "Фолкнер, конечно, был недоволен,\nчто Радкот не смог добыть\nБастиона и Гратию."
+  },
+  {
+   "id": 46,
+   "en": "Faulkner works for the Empire,\ndoesn't he, Bastion?",
+   "ru": "Фолкнер ведь служит Империи,\nБастион?"
+  },
+  {
+   "id": 47,
+   "en": "I want to go and fight the Empire\nwith you!",
+   "ru": "Я хочу сражаться с Империей\nвместе с тобой!"
+  },
+  {
+   "id": 48,
+   "en": "Faulkner must die for what he\nhas done to my father!",
+   "ru": "Фолкнер должен умереть за то,\nчто сделал с моим папой!"
+  },
+  {
+   "id": 49,
+   "en": "I can't let you come with us, Nana!\nYou're just a child, not a soldier!",
+   "ru": "Я не могу взять тебя с собой,\nНана! Ты ребёнок, а не солдат!"
+  },
+  {
+   "id": 50,
+   "en": "We all risk our lives every time we\ntake our ATACs onto the battlefield.\nI won't let you risk yours!",
+   "ru": "Каждый раз, выходя на АТАКе в\nбой, мы рискуем жизнью. Я не\nдам тебе рисковать своей!"
+  },
+  {
+   "id": 51,
+   "en": "Daddy taught me how to use his\nATAC, Bastion, and I'm really good\nat it! Please let me fight with you!",
+   "ru": "Папа научил меня водить его\nАТАК, и у меня здорово выходит!\nВозьми меня, Бастион!"
+  },
+  {
+   "id": 52,
+   "en": "Absolutely not, Nana.",
+   "ru": "Ни в коем случае, Нана."
+  },
+  {
+   "id": 53,
+   "en": "Okay, Bastion.",
+   "ru": "Ладно, Бастион."
+  },
+  {
+   "id": 54,
+   "en": "I'll just go and fight by myself.",
+   "ru": "Тогда я пойду сражаться сама."
+  },
+  {
+   "id": 55,
+   "en": "You don't have to go alone, Nana. I'll\ntake you with us if Bastion won't.",
+   "ru": "Тебе не нужно идти одной, Нана.\nЕсли Бастион не возьмёт тебя,\nвозьму я."
+  },
+  {
+   "id": 56,
+   "en": "Reyna, are you insane?! Nana is just\na child! She has no place in this war!",
+   "ru": "Рейна, ты с ума сошла?! Нана ещё\nребёнок! Ей не место на этой\nвойне!"
+  },
+  {
+   "id": 57,
+   "en": "She's also a child who knows how to\noperate an ATAC, and is dead serious\nabout having her revenge!",
+   "ru": "А ещё она ребёнок, который умеет\nводить АТАК и всерьёз жаждет\nмести!"
+  },
+  {
+   "id": 58,
+   "en": "The desire for revenge is something I\nunderstand quite well, Reyna...",
+   "ru": "Жажду мести я понимаю очень\nхорошо, Рейна..."
+  },
+  {
+   "id": 59,
+   "en": "If she stays with us, Bastion, we can\nprotect her. We can train her.",
+   "ru": "Если она останется с нами,\nБастион, мы сможем её\nзащитить. И научить."
+  },
+  {
+   "id": 60,
+   "en": "And I will gladly take responsibility\nfor her if you will allow it.",
+   "ru": "Я охотно возьму за неё\nответственность, если ты\nпозволишь."
+  },
+  {
+   "id": 61,
+   "en": "This is madness, Reyna! We cannot\nexpose a child to the horrors of war!",
+   "ru": "Это безумие, Рейна! Нельзя\nподвергать ребёнка ужасам\nвойны!"
+  },
+  {
+   "id": 62,
+   "en": "We have already lost enough innocent\nchildren! We have no need to add this\ngirl to the list of casualties!",
+   "ru": "Мы и так потеряли слишком\nмного детей! Незачем вносить\nэту девочку в список жертв!"
+  },
+  {
+   "id": 63,
+   "en": "Reyna, I do believe you have taken\nleave of your senses.",
+   "ru": "Рейна, по-моему, ты лишилась\nрассудка."
+  },
+  {
+   "id": 64,
+   "en": "But...I suppose I'll support you\non this one.",
+   "ru": "Но... пожалуй, здесь я тебя\nподдержу."
+  },
+  {
+   "id": 65,
+   "en": "Bastion, I believe taking Nana\nwith us has some merit.",
+   "ru": "Бастион, думаю, в том, чтобы\nвзять Нану с собой, есть смысл."
+  },
+  {
+   "id": 66,
+   "en": "You're alright with it, Zeira?",
+   "ru": "Ты не против, Зейра?"
+  },
+  {
+   "id": 67,
+   "en": "Duke Zeira, I can't believe a man of\nyour considerable experience would\nsanction this foolishness!",
+   "ru": "Герцог Зейра, не верится, что\nчеловек вашего опыта одобряет\nтакую глупость!"
+  },
+  {
+   "id": 68,
+   "en": "You are willing to let Duke Radcot's\ndaughter fight alongside us?",
+   "ru": "Вы готовы позволить дочери\nгерцога Радкота сражаться\nрядом с нами?"
+  },
+  {
+   "id": 69,
+   "en": "I am, Galvas, because I know Reyna\nwill keep her out of harm's way.",
+   "ru": "Готов, Гальвас, потому что знаю:\nРейна убережёт её от беды."
+  },
+  {
+   "id": 70,
+   "en": "Nana, you know the battlefield is a\ndangerous place, don't you?",
+   "ru": "Нана, ты ведь понимаешь, что на\nполе боя опасно?"
+  },
+  {
+   "id": 71,
+   "en": "Yes, Bastion.",
+   "ru": "Да, Бастион."
+  },
+  {
+   "id": 72,
+   "en": "You could be injured if you came\nwith us, Nana. You might even die.",
+   "ru": "Если пойдёшь с нами, тебя могут\nранить, Нана. Ты даже можешь\nпогибнуть."
+  },
+  {
+   "id": 73,
+   "en": "I know, Bastion.",
+   "ru": "Я знаю, Бастион."
+  },
+  {
+   "id": 74,
+   "en": "And you still want to come with us?",
+   "ru": "И ты всё равно хочешь с нами?"
+  },
+  {
+   "id": 75,
+   "en": "Yes! Please!",
+   "ru": "Да! Пожалуйста!"
+  },
+  {
+   "id": 76,
+   "en": "(She wants revenge, just as I do...and\nshe can pilot an ATAC, just as I can...\nso how can I deny her the chance?)",
+   "ru": "(Она жаждет мести, как и я... и\nумеет водить АТАК, как и я... как\nже мне ей отказать?)"
+  },
+  {
+   "id": 77,
+   "en": "Alright, Nana. You're in Reyna's care\nfrom now on...and you're one of us.",
+   "ru": "Хорошо, Нана. С этого дня за\nтебя отвечает Рейна... и ты одна\nиз нас."
+  },
+  {
+   "id": 78,
+   "en": "Yay!!",
+   "ru": "Ура!!"
+  },
+  {
+   "id": 79,
+   "en": "Thanks, Bastion!",
+   "ru": "Спасибо, Бастион!"
+  },
+  {
+   "id": 80,
+   "en": "I'll fight hard for you!",
+   "ru": "Я буду стараться изо всех сил!"
+  },
+  {
+   "id": 81,
+   "en": "Thank you, too, Aunt Reyna!",
+   "ru": "И тебе спасибо, тётя Рейна!"
+  },
+  {
+   "id": 82,
+   "en": "Aunt?",
+   "ru": "Тётя?"
+  },
+  {
+   "id": 83,
+   "en": "It's going to be a while before I'm\nused to that...",
+   "ru": "К этому я ещё не скоро\nпривыкну..."
+  },
+  {
+   "id": 84,
+   "en": "Now that I'm your guardian, Nana,\nI need to start setting some rules.",
+   "ru": "Раз уж я твоя опекунша, Нана,\nпора установить кое-какие\nправила."
+  },
+  {
+   "id": 85,
+   "en": "Rule 1: You should always refer to\nme as \"Beautiful Aunt Reyna.\"",
+   "ru": "Правило 1: всегда называй меня\n\"Прекрасная тётя Рейна\"."
+  },
+  {
+   "id": 86,
+   "en": "Uh...okay...",
+   "ru": "Э-э... ладно..."
+  },
+  {
+   "id": 87,
+   "en": "Rule 2: Always stand up straight\nwhen I am addressing you! Posture\nis very important!",
+   "ru": "Правило 2: всегда стой прямо,\nкогда я с тобой говорю! Осанка\nочень важна!"
+  },
+  {
+   "id": 88,
+   "en": "Rule 3: You will give me at least\nfour footrubs per day!",
+   "ru": "Правило 3: ты будешь растирать\nмне ноги не меньше четырёх раз\nв день!"
+  },
+  {
+   "id": 89,
+   "en": "You're scaring me!",
+   "ru": "Ты меня пугаешь!"
+  },
+  {
+   "id": 90,
+   "en": "Hey! Come back here!!",
+   "ru": "Эй! Вернись!!"
+  },
+  {
+   "id": 91,
+   "en": "Is it too late for you to change your\nmind, Bastion?",
+   "ru": "Ещё не поздно передумать,\nБастион?"
+  },
+  {
+   "id": 92,
+   "en": "That's not amusing...",
+   "ru": "Не смешно..."
+  },
+  {
+   "id": 93,
+   "en": "Do you have any idea why Reyna has\ntaken such an interest in the girl?",
+   "ru": "Вы не знаете, почему Рейна так\nзаинтересовалась девочкой?"
+  },
+  {
+   "id": 94,
+   "en": "Perhaps it's because she can relate\nto Nana's situation, Galvas...but\nI'd better leave it at that.",
+   "ru": "Может, потому что ей знакомо то,\nчто чувствует Нана, Гальвас... но\nлучше я промолчу."
+  }
+ ]
+}

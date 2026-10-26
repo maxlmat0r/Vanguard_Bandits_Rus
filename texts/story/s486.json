@@ -1,0 +1,356 @@
+{
+ "file": 486,
+ "kind": "story",
+ "lines": [
+  {
+   "id": 0,
+   "en": "We searched everywhere, but...",
+   "ru": "Мы обыскали всё, но..."
+  },
+  {
+   "id": 1,
+   "en": "There were no other survivors of the\nattack. Nor did I expect there to be.",
+   "ru": "Больше никто не выжил. Впрочем,\nя этого и не ожидал."
+  },
+  {
+   "id": 2,
+   "en": "Never in any of my battles have I\nseen such senseless carnage.",
+   "ru": "Ни в одной из своих битв я не\nвидел такой бессмысленной\nбойни."
+  },
+  {
+   "id": 3,
+   "en": "Nor have I. Those sadistic freaks\ntook pleasure in killing these\npeople.",
+   "ru": "Как и я. Эти садисты убивали\nлюдей с удовольствием."
+  },
+  {
+   "id": 4,
+   "en": "We did not detect them until it was\ntoo late. My friends begged for\nmercy. I--I heard their screams...",
+   "ru": "Мы заметили их слишком поздно.\nМои друзья молили о пощаде. Я...\nя слышал их крики..."
+  },
+  {
+   "id": 5,
+   "en": "Barlow:\nI think I'm gonna be sick.",
+   "ru": "Барлоу:\nМеня, кажется, сейчас стошнит."
+  },
+  {
+   "id": 6,
+   "en": "This is truly a dark day in the\nhistory of the Junaris Empire.",
+   "ru": "Воистину это чёрный день в\nистории Империи Джунарис."
+  },
+  {
+   "id": 7,
+   "en": "And who are you to show such\nconcern for the Empire?",
+   "ru": "А тебе-то какое дело до Империи?"
+  },
+  {
+   "id": 8,
+   "en": "Are you not an Imperial citizen?\nSurely you recognize the face of\nyour Princess.",
+   "ru": "Разве вы не подданные Империи?\nУж лицо своей принцессы вы\nдолжны узнать."
+  },
+  {
+   "id": 9,
+   "en": "(The Imperial Princess...!)",
+   "ru": "(Имперская принцесса...!)"
+  },
+  {
+   "id": 10,
+   "en": "We have received many reports\nof soldiers using the power of\nthe Empire for criminal acts.",
+   "ru": "До нас доходило много вестей о\nсолдатах, творящих\nпреступления именем Империи."
+  },
+  {
+   "id": 11,
+   "en": "I journeyed here to investigate\nthe rumors...and I have now\nconfirmed them beyond any doubt.",
+   "ru": "Я прибыла проверить эти слухи...\nи теперь убедилась в них\nокончательно."
+  },
+  {
+   "id": 12,
+   "en": "How can you be so clinical after\nwitnessing this...this...travesty?!",
+   "ru": "Как можно быть такой\nбесстрастной, увидев это... это...\nнадругательство?!"
+  },
+  {
+   "id": 13,
+   "en": "Imperial soldiers cut down\ninnocent travelers and took glee\nin their deaths!",
+   "ru": "Имперские солдаты убивали\nмирных путников и радовались\nих смерти!"
+  },
+  {
+   "id": 14,
+   "en": "You shouldn't be ashamed at what\nhas taken place here, Princess--you\nshould be horrified!",
+   "ru": "Тут не стыдиться надо,\nпринцесса, а ужасаться!"
+  },
+  {
+   "id": 15,
+   "en": "Is THIS what your precious Empire\nstands for?",
+   "ru": "Вот ЗА ЭТО стоит ваша\nдрагоценная Империя?"
+  },
+  {
+   "id": 16,
+   "en": "The slaughter of the innocent and the\ndesecration of the dead?!",
+   "ru": "За резню невинных и глумление\nнад мёртвыми?!"
+  },
+  {
+   "id": 17,
+   "en": "Why do you not speak, Princess?\nHave my words chipped at the royal\nheart of ice?",
+   "ru": "Почему ты молчишь, принцесса?\nНеужели мои слова задели твоё\nледяное королевское сердце?"
+  },
+  {
+   "id": 18,
+   "en": "Answer me!!",
+   "ru": "Отвечай!!"
+  },
+  {
+   "id": 19,
+   "en": "I...I...",
+   "ru": "Я... я..."
+  },
+  {
+   "id": 20,
+   "en": "Lower your voice, Bastion. We all\nrecognize the tragedy which has\nunfolded here.",
+   "ru": "Не повышай голос, Бастион. Мы\nвсе понимаем, какая здесь\nслучилась трагедия."
+  },
+  {
+   "id": 21,
+   "en": "We thank you and your escorts for\naiding us in the battle, Princess.",
+   "ru": "Благодарим вас и вашу свиту за\nпомощь в бою, принцесса."
+  },
+  {
+   "id": 22,
+   "en": "(I can't believe that Father is being so\ncourteous to the child of the Emperor\nhimself!)",
+   "ru": "(Не верится, что отец так\nлюбезен с дочерью самого\nимператора!)"
+  },
+  {
+   "id": 23,
+   "en": "(She represents everything I've\nalways been taught to detest!)",
+   "ru": "(Она воплощает всё, что меня\nвсегда учили ненавидеть!)"
+  },
+  {
+   "id": 24,
+   "en": "Franco:\nIndeed. We are in your debt, good\nsir.",
+   "ru": "Франко:\nЭто правда. Мы у вас в долгу,\nсударь."
+  },
+  {
+   "id": 25,
+   "en": "Without your considerable strength,\nI doubt we could have prevented the\nrogues from prevailing here.",
+   "ru": "Без вашей немалой силы мы вряд\nли смогли бы одолеть здесь этих\nразбойников."
+  },
+  {
+   "id": 26,
+   "en": "In my humble opinion, there is no\nneed for us to quarrel when our\nintentions were the same.",
+   "ru": "По моему скромному мнению, нам\nнезачем ссориться, раз уж цели у\nнас были одни."
+  },
+  {
+   "id": 27,
+   "en": "Really? I always thought the\nEmpire's intent was to plunder\nfrom anyone and everyone.",
+   "ru": "Неужели? А я-то думал, цель\nИмперии - грабить всех и\nкаждого."
+  },
+  {
+   "id": 28,
+   "en": "You're probably upset that these\npeople won't be around to pay any\nmore travel tolls!",
+   "ru": "Ты, наверное, расстроена, что\nэти люди больше не заплатят\nдорожную пошлину!"
+  },
+  {
+   "id": 29,
+   "en": "I have had entirely enough of your\nmisguided anger, boy!",
+   "ru": "С меня довольно твоего слепого\nгнева, мальчишка!"
+  },
+  {
+   "id": 30,
+   "en": "I have come here to stop these bandits\nfrom committing these horrible acts.",
+   "ru": "Я пришла сюда, чтобы\nостановить этих бандитов и их\nужасные злодеяния."
+  },
+  {
+   "id": 31,
+   "en": "Sadira speaks the truth. It is the will\nof the Princess to halt the anarchy...\nand the bloodletting.",
+   "ru": "Садира говорит правду. Воля\nпринцессы - остановить\nбеззаконие... и кровопролитие."
+  },
+  {
+   "id": 32,
+   "en": "Why do you believe otherwise?",
+   "ru": "Почему ты считаешь иначе?"
+  },
+  {
+   "id": 33,
+   "en": "Why?! Look at the senseless death\nbefore you, sir, and perhaps you\nwill begin to understand!",
+   "ru": "Почему?! Взгляните на эту\nбессмысленную смерть, сударь, и,\nможет, начнёте понимать!"
+  },
+  {
+   "id": 34,
+   "en": "Hey, you! Self-righteous boy with\nthe big mouth!",
+   "ru": "Эй, ты! Самодовольный\nмальчишка с длинным языком!"
+  },
+  {
+   "id": 35,
+   "en": "You seem to think that it's only the\nEmpire which visits evil acts upon\nthe innocent.",
+   "ru": "Похоже, ты думаешь, что зло\nневинным причиняет только\nИмперия."
+  },
+  {
+   "id": 36,
+   "en": "I assure you the Pharastia Kingdom\nhas abused its power just as much,\nif not more.",
+   "ru": "Уверяю тебя, Королевство\nФарастия злоупотребляло своей\nсилой не меньше, если не больше."
+  },
+  {
+   "id": 37,
+   "en": "Impossible!",
+   "ru": "Не может быть!"
+  },
+  {
+   "id": 38,
+   "en": "Wrong. Very possible, and very real.\nHave you ever seen the terror these\narmies cause?",
+   "ru": "Ошибаешься. Очень даже может, и\nэто правда. Ты видел, какой ужас\nсеют эти армии?"
+  },
+  {
+   "id": 39,
+   "en": "Butchers are butchers, regardless\nof the crest under which they shed\ninnocent blood.",
+   "ru": "Мясник остаётся мясником, под\nкаким бы гербом он ни проливал\nневинную кровь."
+  },
+  {
+   "id": 40,
+   "en": "I admit that I have not seen the\nterror you have, sir.",
+   "ru": "Признаю, сударь, я не видел того\nужаса, что видели вы."
+  },
+  {
+   "id": 41,
+   "en": "But I have never seen the Kingdom's\narmies cause an atrocity like this!",
+   "ru": "Но я никогда не видел, чтобы\nармия Королевства творила\nподобное зверство!"
+  },
+  {
+   "id": 42,
+   "en": "Whereas I have seen them cause\nsimilar acts more times than I\ncould count.",
+   "ru": "А я видел такое больше раз, чем\nмогу сосчитать."
+  },
+  {
+   "id": 43,
+   "en": "The insanity of war drives the\nmost honorable of men to commit\nthe most unthinkable acts.",
+   "ru": "Безумие войны толкает самых\nблагородных людей на самые\nнемыслимые поступки."
+  },
+  {
+   "id": 44,
+   "en": "The Kingdom and the Empire wage\ntheir endless battles, and the people\nof the Continent endlessly suffer!",
+   "ru": "Королевство и Империя ведут\nбесконечные войны, а народ\nКонтинента бесконечно страдает!"
+  },
+  {
+   "id": 45,
+   "en": "Yes...",
+   "ru": "Да..."
+  },
+  {
+   "id": 46,
+   "en": "I want the suffering to end, sir.\nThat's why I'm here.",
+   "ru": "Я хочу, чтобы страдания\nзакончились, сударь. Потому я\nздесь."
+  },
+  {
+   "id": 47,
+   "en": "I'm going to stop the war. I'm going\nto restore peace to our land and our\npeople.",
+   "ru": "Я остановлю войну. Я верну мир\nнашей земле и нашему народу."
+  },
+  {
+   "id": 48,
+   "en": "I shall not forget this day. And I\nshall not fail!",
+   "ru": "Я не забуду этот день. И я не\nотступлю!"
+  },
+  {
+   "id": 49,
+   "en": "Franco, it is time to depart.",
+   "ru": "Франко, нам пора."
+  },
+  {
+   "id": 50,
+   "en": "Yes, Highness.",
+   "ru": "Да, Ваше Высочество."
+  },
+  {
+   "id": 51,
+   "en": "(I pray we shall not encounter\nanother such scene in our travels...)",
+   "ru": "(Молю, чтобы в пути нам больше\nне встретилось подобное...)"
+  },
+  {
+   "id": 52,
+   "en": "Had we met under a different set of\ncircumstances, good sir, I believe we\ncould have been friends.",
+   "ru": "Встреться мы при других\nобстоятельствах, сударь, думаю,\nмы могли бы стать друзьями."
+  },
+  {
+   "id": 53,
+   "en": "But you have my respect regardless\nof your feelings about the Empire.",
+   "ru": "Но я уважаю вас, что бы вы ни\nдумали об Империи."
+  },
+  {
+   "id": 54,
+   "en": "My respect follows you in kind,\nFranco.",
+   "ru": "Я отвечаю тебе тем же, Франко."
+  },
+  {
+   "id": 55,
+   "en": "You know my name, sir, but I know\nnot yours.",
+   "ru": "Вы знаете моё имя, сударь, а я\nваше - нет."
+  },
+  {
+   "id": 56,
+   "en": "I am Kamorge.",
+   "ru": "Меня зовут Каморж."
+  },
+  {
+   "id": 57,
+   "en": "Kamorge...and Bastion, I believe you\nsaid earlier.",
+   "ru": "Каморж... и Бастион, как вы\nсказали ранее."
+  },
+  {
+   "id": 58,
+   "en": "Take care in your journeys.",
+   "ru": "Берегите себя в пути."
+  },
+  {
+   "id": 59,
+   "en": "We should also make haste. Sharks\ncome quickly at the scent of blood.",
+   "ru": "Нам тоже стоит поспешить.\nАкулы быстро чуют кровь."
+  },
+  {
+   "id": 60,
+   "en": "Father...",
+   "ru": "Отец..."
+  },
+  {
+   "id": 61,
+   "en": "I suppose your long face means you\nbelieve we should invite these two\ntravelers to join our party.",
+   "ru": "Судя по твоему кислому лицу, ты\nхочешь взять этих двоих с собой."
+  },
+  {
+   "id": 62,
+   "en": "You already saved both our lives,\nand now you would help us again?\nYour kindness knows no bounds.",
+   "ru": "Вы уже спасли нам жизнь, а\nтеперь снова хотите помочь?\nВаша доброта не знает границ."
+  },
+  {
+   "id": 63,
+   "en": "Yeah, thanks a lot! I really don't\nwanna get beaten up again!",
+   "ru": "Ага, огромное спасибо! Мне\nправда больше не хочется, чтобы\nменя побили!"
+  },
+  {
+   "id": 64,
+   "en": "I'm Devlin, and this is my \"special\"\nfriend, Barlow. It's nice to meet you!",
+   "ru": "Я Девлин, а это мой \"особенный\"\nдруг Барлоу. Приятно\nпознакомиться!"
+  },
+  {
+   "id": 65,
+   "en": "Um, would you guys have any food?\nI have a glandular disorder. Makes\nme wanna eat a lot.",
+   "ru": "Э-э, а поесть у вас ничего не\nнайдётся? У меня расстройство\nгормонов, всё время есть хочется."
+  },
+  {
+   "id": 66,
+   "en": "Strange Voice:\nWell, hello, everybody!",
+   "ru": "Странный голос:\nНу, привет всем!"
+  },
+  {
+   "id": 67,
+   "en": "You weren't thinking of leaving\nwithout me, were you? 'Course not!",
+   "ru": "Вы же не собирались уехать без\nменя, а? Конечно, нет!"
+  },
+  {
+   "id": 68,
+   "en": "And who are you?!",
+   "ru": "А ты кто такой?!"
+  },
+  {
+   "id": 69,
+   "en": "You're alive! Ha! I knew those damn\nbandits could never have slain the\ninfamous Andrew!",
+   "ru": "Ты жив! Ха! Я знал, что этим\nчёртовым бандитам не убить\nзнаменитого Эндрю!"
+  }
+ ]
+}

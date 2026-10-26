@@ -1,0 +1,231 @@
+{
+ "file": 531,
+ "kind": "story",
+ "lines": [
+  {
+   "id": 0,
+   "en": "Is everyone alright?",
+   "ru": "Все целы?"
+  },
+  {
+   "id": 1,
+   "en": "Amazingly enough, we are.",
+   "ru": "Как ни удивительно, да."
+  },
+  {
+   "id": 2,
+   "en": "That battle was easy, Bastion! I could\nbeat Logan WITHOUT an ATAC!",
+   "ru": "Лёгкий был бой, Бастион! Я бы\nпобил Логана и БЕЗ АТАКа!"
+  },
+  {
+   "id": 3,
+   "en": "Looks like you'll have a chance to\ntest that theory, kid, because he's\nwalking this way.",
+   "ru": "Похоже, малыш, сейчас проверишь\nэту теорию: он идёт сюда."
+  },
+  {
+   "id": 4,
+   "en": "Uh-oh.",
+   "ru": "Ой-ой."
+  },
+  {
+   "id": 5,
+   "en": "Well met, Duke Logan.",
+   "ru": "Приветствую, герцог Логан."
+  },
+  {
+   "id": 6,
+   "en": "We don't want to fight you again!\nLeave us in peace!",
+   "ru": "Мы не хотим снова с вами\nдраться! Оставьте нас в покое!"
+  },
+  {
+   "id": 7,
+   "en": "Logan:\nYou have no need to worry.\nI haven't come here to fight you.",
+   "ru": "Логан:\nНе беспокойтесь. Я пришёл не\nсражаться."
+  },
+  {
+   "id": 8,
+   "en": "I just wish to speak with you.",
+   "ru": "Я лишь хочу с вами поговорить."
+  },
+  {
+   "id": 9,
+   "en": "Speak with us?! Do you think we've\nsuddenly forgotten that you tried to\nkill us not long ago?!",
+   "ru": "Поговорить?! Думаете, мы\nзабыли, что совсем недавно вы\nпытались нас убить?!"
+  },
+  {
+   "id": 10,
+   "en": "Calm down, Devlin. I really don't\nwant to see you and Logan get into\nthe world's shortest fistfight.",
+   "ru": "Успокойся, Девлин. Не хочу\nвидеть самую короткую драку в\nистории между тобой и Логаном."
+  },
+  {
+   "id": 11,
+   "en": "I was just making my point, Bastion,\nthat's all.",
+   "ru": "Я просто высказал своё мнение,\nБастион, только и всего."
+  },
+  {
+   "id": 12,
+   "en": "So you're Prince Bastion, mmm?",
+   "ru": "Так это вы принц Бастион, м?"
+  },
+  {
+   "id": 13,
+   "en": "Indeed, Duke Logan, I am.",
+   "ru": "Да, герцог Логан, это я."
+  },
+  {
+   "id": 14,
+   "en": "Well met, Bastion! You seem like a\nfriendly lad, and I already know of\nyour skills on the battlefield!",
+   "ru": "Рад встрече, Бастион! Вы, видно,\nславный малый, а о вашем\nмастерстве в бою я уже знаю!"
+  },
+  {
+   "id": 15,
+   "en": "It would have been an even greater\nbattle if not for the idiotic intrusion\nof those Imperial interlopers.",
+   "ru": "Битва была бы ещё славнее, если\nбы не дурацкое вмешательство\nэтих имперских выскочек."
+  },
+  {
+   "id": 16,
+   "en": "I agree, Logan. It was a wonderful\nbattle. You fight with honor, as did\nmy father.",
+   "ru": "Согласен, Логан. Это была\nпрекрасная битва. Вы сражаетесь\nс честью, как мой отец."
+  },
+  {
+   "id": 17,
+   "en": "What is your next course of action?",
+   "ru": "Что вы собираетесь делать\nдальше?"
+  },
+  {
+   "id": 18,
+   "en": "My relationship with the Empire is\nobviously at an end, and I have no\ndesire to enter this conflict again.",
+   "ru": "С Империей я, очевидно, порвал и\nбольше не желаю ввязываться в\nэту войну."
+  },
+  {
+   "id": 19,
+   "en": "Lord Alden, I declare a truce with\nNordilain until the conflict between\nthe Empire and Kingdom is over.",
+   "ru": "Лорд Олден, Нордилейн объявляет\nперемирие до конца войны\nИмперии и Королевства."
+  },
+  {
+   "id": 20,
+   "en": "Do you, Duke Logan? Not to offend,\nbut trust is something which I very\nrarely extend to anyone.",
+   "ru": "Вот как, герцог Логан? Без обид,\nно я очень редко кому-либо\nдоверяю."
+  },
+  {
+   "id": 21,
+   "en": "I give you my word, Lord Alden! And\nif that is not enough for you, I swear\nupon my honor as a warrior!",
+   "ru": "Даю вам слово, лорд Олден! А\nесли этого мало, клянусь своей\nчестью воина!"
+  },
+  {
+   "id": 22,
+   "en": "I can offer you no more than that!",
+   "ru": "Больше мне предложить нечего!"
+  },
+  {
+   "id": 23,
+   "en": "Very well, then. A truce.",
+   "ru": "Что ж, хорошо. Перемирие."
+  },
+  {
+   "id": 24,
+   "en": "Excellent! All that remains now is\nfor us to storm the Imperial capital\nand rid the Continent of Faulkner!",
+   "ru": "Отлично! Осталось взять\nимперскую столицу и избавить\nКонтинент от Фолкнера!"
+  },
+  {
+   "id": 25,
+   "en": "It was a pleasure to meet you, Prince\nBastion, and to fight against you.",
+   "ru": "Рад был встретиться с вами,\nпринц Бастион, и сразиться\nпротив вас."
+  },
+  {
+   "id": 26,
+   "en": "I would like to engage in combat\nwith you again someday. Just you\nand me. How does that sound?",
+   "ru": "Хотелось бы когда-нибудь снова\nсойтись с вами в бою. Только вы\nи я. Как вам?"
+  },
+  {
+   "id": 27,
+   "en": "I look forward to it, Duke Logan.",
+   "ru": "Буду ждать с нетерпением,\nгерцог Логан."
+  },
+  {
+   "id": 28,
+   "en": "Take care of yourselves, and fight\nwith honor!",
+   "ru": "Берегите себя и сражайтесь с\nчестью!"
+  },
+  {
+   "id": 29,
+   "en": "There's totally something else you\nshould know, Prince Bastion.",
+   "ru": "Есть ещё кое-что, что вам\nреально надо знать, принц\nБастион."
+  },
+  {
+   "id": 30,
+   "en": "General Faulkner has been acting\nweird and stuff lately. Our spies\ndon't know what's up at ALL.",
+   "ru": "Генерал Фолкнер, типа, странный\nв последнее время. Наши шпионы\nВООБЩЕ не в курсе, в чём дело."
+  },
+  {
+   "id": 31,
+   "en": "You better watch out, okay?",
+   "ru": "Так что будьте осторожны,\nладно?"
+  },
+  {
+   "id": 32,
+   "en": "Uh, thank you, ah...",
+   "ru": "Э-э, спасибо, э-э..."
+  },
+  {
+   "id": 33,
+   "en": "Claire is my name.",
+   "ru": "Меня зовут Клэр."
+  },
+  {
+   "id": 34,
+   "en": "And the only reason I'm helping you\nis because I want Daddy to beat you\nup, not that lame Faulkner!",
+   "ru": "И помогаю я вам только потому,\nчто хочу, чтобы вас побил папа,\nа не этот отстойный Фолкнер!"
+  },
+  {
+   "id": 35,
+   "en": "Later!",
+   "ru": "Пока!"
+  },
+  {
+   "id": 36,
+   "en": "I believe you may have bruised\nLogan's ego a bit, Bastion.",
+   "ru": "Кажется, ты слегка задел\nсамолюбие Логана, Бастион."
+  },
+  {
+   "id": 37,
+   "en": "Can we help it if we're the best?",
+   "ru": "Мы не виноваты, что мы лучшие."
+  },
+  {
+   "id": 38,
+   "en": "Unfortunately for Bastion, it was he\nwho was chosen for a rematch.",
+   "ru": "К несчастью для Бастиона,\nреванш он вызвал именно его."
+  },
+  {
+   "id": 39,
+   "en": "You do realize that Logan will never\nstop challenging you until he wins.",
+   "ru": "Ты ведь понимаешь, что Логан\nне отстанет, пока не победит."
+  },
+  {
+   "id": 40,
+   "en": "Oh, really? I was hoping he would\nforget that he issued his challenge\nat all.",
+   "ru": "Правда? А я надеялся, что он\nвообще забудет про свой вызов."
+  },
+  {
+   "id": 41,
+   "en": "I would be hoping the same thing,\nBastion! Heh, heh, heh!",
+   "ru": "Я бы тоже на это надеялся,\nБастион! Хе-хе-хе!"
+  },
+  {
+   "id": 42,
+   "en": "But don't we have more imminent\nbattles to worry about?",
+   "ru": "Но разве нас не ждут более\nсрочные битвы?"
+  },
+  {
+   "id": 43,
+   "en": "Indeed, Reyna...the battle which\nwill hopefully end this conflict\nonce and for all!",
+   "ru": "Именно, Рейна... битва, которая,\nнадеюсь, раз и навсегда положит\nконец этой войне!"
+  },
+  {
+   "id": 44,
+   "en": "The siege of the Imperial capital!",
+   "ru": "Осада имперской столицы!"
+  }
+ ]
+}

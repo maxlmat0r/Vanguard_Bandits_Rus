@@ -1,0 +1,216 @@
+{
+ "file": 512,
+ "kind": "story",
+ "lines": [
+  {
+   "id": 0,
+   "en": "None of us were able to find her,\nBastion. I'm so sorry.",
+   "ru": "Никто из нас не смог её найти,\nБастион. Мне так жаль."
+  },
+  {
+   "id": 1,
+   "en": "It's not your fault, Reyna. It's mine.",
+   "ru": "Ты не виновата, Рейна. Это моя\nвина."
+  },
+  {
+   "id": 2,
+   "en": "(I feel your pain, Bastion, even if\nyou'd never believe it. To lose one\nso close is to die to love.)",
+   "ru": "(Я понимаю твою боль, Бастион,\nхоть ты и не поверишь. Потерять\nблизкого - как умереть.)"
+  },
+  {
+   "id": 3,
+   "en": "Not to worry. I shall commission a\nsearch party this moment. If she's\nout there, we'll find her!",
+   "ru": "Не беспокойся. Я сейчас же\nотправлю поисковый отряд. Если\nона где-то там, мы её найдём!"
+  },
+  {
+   "id": 4,
+   "en": "A young girl of her delicate\ncomposition won't get far on foot\nin such a short time.",
+   "ru": "Хрупкая девушка не уйдёт далеко\nпешком за такое короткое время."
+  },
+  {
+   "id": 5,
+   "en": "Kingdom Soldier:\nDuke Zeira! I bring urgent news!",
+   "ru": "Солдат Королевства:\nГерцог Зейра! Срочные вести!"
+  },
+  {
+   "id": 6,
+   "en": "What say you?",
+   "ru": "Говори."
+  },
+  {
+   "id": 7,
+   "en": "I...I'm afraid to tell you, sir.",
+   "ru": "Я... я боюсь вам сказать,\nгосподин."
+  },
+  {
+   "id": 8,
+   "en": "Speak! We haven't time to waste in\nfoolish indecision, woman!",
+   "ru": "Говори! Нам некогда тратить\nвремя на глупые колебания,\nженщина!"
+  },
+  {
+   "id": 9,
+   "en": "Uh...yes...sir.",
+   "ru": "Э-э... да... господин."
+  },
+  {
+   "id": 10,
+   "en": "We have received word that a coup\nd'etat has taken place in Aylin, the\ncapital city of Avalon.",
+   "ru": "Сообщают, что в Айлине, столице\nАвалона, произошёл\nгосударственный переворот."
+  },
+  {
+   "id": 11,
+   "en": "I pray this is a terribly timed\njoke, because I find it to be not\nthe least bit amusing.",
+   "ru": "Надеюсь, это очень неудачная\nшутка, потому что мне совсем не\nсмешно."
+  },
+  {
+   "id": 12,
+   "en": "A revolt in Aylin?! Impossible!",
+   "ru": "Мятеж в Айлине?! Невозможно!"
+  },
+  {
+   "id": 13,
+   "en": "Anything is possible, Reyna. Anything\nat all.",
+   "ru": "Всё возможно, Рейна. Абсолютно\nвсё."
+  },
+  {
+   "id": 14,
+   "en": "The mutineers have taken civilian\nhostages throughout the city, Duke\nZeira.",
+   "ru": "Мятежники взяли в заложники\nгорожан по всей столице, герцог\nЗейра."
+  },
+  {
+   "id": 15,
+   "en": "And what are their demands?",
+   "ru": "И каковы их требования?"
+  },
+  {
+   "id": 16,
+   "en": "Only one, sir...",
+   "ru": "Требование лишь одно,\nгосподин..."
+  },
+  {
+   "id": 17,
+   "en": "They want you to come to Aylin at\nonce and speak with them directly.",
+   "ru": "Они хотят, чтобы вы немедленно\nприбыли в Айлин и говорили с\nними лично."
+  },
+  {
+   "id": 18,
+   "en": "Commander Ione has already gone to\nAylin, and is preparing an assault on\nthe renegades.",
+   "ru": "Командир Иона уже отправилась\nв Айлин и готовит штурм."
+  },
+  {
+   "id": 19,
+   "en": "Mmm. I've paid so much attention to\nBastion's trials that I've neglected\nmy duties at home.",
+   "ru": "Мм. Я так увлёкся испытаниями\nБастиона, что забросил свои\nобязанности дома."
+  },
+  {
+   "id": 20,
+   "en": "Ione is a skilled leader, Zeira. Surely\nshe can regain control of the capital!",
+   "ru": "Иона - умелый командир, Зейра.\nУж она-то вернёт контроль над\nстолицей!"
+  },
+  {
+   "id": 21,
+   "en": "Agreed. Ione shall be a general one\nday very soon. In fact, I would not\nbe surprised if she ruled Avalon!",
+   "ru": "Согласен. Скоро Иона станет\nгенералом. Не удивлюсь, если она\nбудет править Авалоном!"
+  },
+  {
+   "id": 22,
+   "en": "However, this is not a crisis to be\nleft at the door of another. It is\nmy responsibility to take care of.",
+   "ru": "Но такую беду нельзя\nперекладывать на других. Это\nмоя ответственность."
+  },
+  {
+   "id": 23,
+   "en": "Bastion, I must depart for Aylin at\nonce. I hope you understand.",
+   "ru": "Бастион, я должен немедленно\nехать в Айлин. Надеюсь, ты\nпоймёшь."
+  },
+  {
+   "id": 24,
+   "en": "Whoever has staged this revolt has\norchestrated the conditions of my\nreturn very carefully...",
+   "ru": "Кто бы ни устроил этот мятеж,\nусловия моего возвращения он\nпродумал очень тщательно..."
+  },
+  {
+   "id": 25,
+   "en": "Duke Zeira, you must be careful!\nPerhaps I should accompany you to\nwatch your back!",
+   "ru": "Герцог Зейра, будьте осторожны!\nМожет, мне поехать с вами и\nприкрыть вам спину?"
+  },
+  {
+   "id": 26,
+   "en": "No, Reyna. With two ATACs lost\nfrom his force, Bastion would be\ntoo vulnerable. You must stay.",
+   "ru": "Нет, Рейна. Без двух АТАКов\nотряд Бастиона станет слишком\nуязвим. Ты останешься."
+  },
+  {
+   "id": 27,
+   "en": "But...",
+   "ru": "Но..."
+  },
+  {
+   "id": 28,
+   "en": "If you think we would continue on\nour journey with your home in\ndanger, you're mad, Zeira.",
+   "ru": "Если думаешь, что мы\nпродолжим путь, когда твой дом\nв опасности, ты спятил, Зейра."
+  },
+  {
+   "id": 29,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 30,
+   "en": "I admire you, Bastion. I can't help\nbut respect any man who can make\na woman yelp like that.",
+   "ru": "Восхищаюсь тобой, Бастион.\nУважаю мужчин, от чьих слов\nженщины так визжат."
+  },
+  {
+   "id": 31,
+   "en": "Do you realize what you're saying,\nHighness?! If we leave now, we also\nleave behind Milea!",
+   "ru": "Вы понимаете, что говорите,\nВаше Высочество?! Уйдя сейчас,\nмы бросим Милею!"
+  },
+  {
+   "id": 32,
+   "en": "Exactly! I thought you cared about\nher, Bastion! We all did!",
+   "ru": "Вот именно! Я думал, она тебе\nдорога, Бастион! Она всем нам\nдорога!"
+  },
+  {
+   "id": 33,
+   "en": "I DO care about Milea! Of course I'm\nconcerned for her!",
+   "ru": "Милея мне ДОРОГА! Конечно, я за\nнеё волнуюсь!"
+  },
+  {
+   "id": 34,
+   "en": "But I can't always take the actions\nwhich benefit me. I need to act on\nbehalf of my friends, as well.",
+   "ru": "Но я не могу думать лишь о себе.\nЯ должен поступать и ради\nдрузей."
+  },
+  {
+   "id": 35,
+   "en": "I can't begin to repay Duke Zeira and\nReyna for all the ways in which they\nhave helped me until now...",
+   "ru": "Мне никогда не отплатить\nгерцогу Зейре и Рейне за всё, чем\nони мне помогли..."
+  },
+  {
+   "id": 36,
+   "en": "But helping them with the situation\nin Aylin is certainly a start.",
+   "ru": "Но помочь им с бедой в Айлине -\nхорошее начало."
+  },
+  {
+   "id": 37,
+   "en": "Bastion...",
+   "ru": "Бастион..."
+  },
+  {
+   "id": 38,
+   "en": "You're a noble man. Foolish...but\nnoble. And, I like that.",
+   "ru": "Ты благородный человек.\nГлупый... но благородный. И мне\nэто нравится."
+  },
+  {
+   "id": 39,
+   "en": "You're sure about this, Bastion?\nAbsolutely certain?",
+   "ru": "Ты уверен, Бастион? Абсолютно\nуверен?"
+  },
+  {
+   "id": 40,
+   "en": "Absolutely, Reyna. Now let's go!",
+   "ru": "Абсолютно, Рейна. Вперёд!"
+  },
+  {
+   "id": 41,
+   "en": "Thank you, Bastion.",
+   "ru": "Спасибо, Бастион."
+  }
+ ]
+}

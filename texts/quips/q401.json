@@ -1,0 +1,346 @@
+{
+ "file": 401,
+ "kind": "quip",
+ "lines": [
+  {
+   "id": 0,
+   "en": "From the left?!",
+   "ru": "Слева?!"
+  },
+  {
+   "id": 1,
+   "en": "There you are!",
+   "ru": "Вот ты где!"
+  },
+  {
+   "id": 2,
+   "en": "From the right?!",
+   "ru": "Справа?!"
+  },
+  {
+   "id": 3,
+   "en": "There you are!!",
+   "ru": "Вот ты где!!"
+  },
+  {
+   "id": 4,
+   "en": "Unngh!",
+   "ru": "Угх!"
+  },
+  {
+   "id": 5,
+   "en": "Auugh!",
+   "ru": "А-а-ах!"
+  },
+  {
+   "id": 6,
+   "en": "Ha! That was nothing!",
+   "ru": "Ха! Пустяки!"
+  },
+  {
+   "id": 7,
+   "en": "You won't beat me\nwith THAT!",
+   "ru": "ЭТИМ меня не\nпобедить!"
+  },
+  {
+   "id": 8,
+   "en": "Aargh!",
+   "ru": "Аргх!"
+  },
+  {
+   "id": 9,
+   "en": "The pain! The pain!",
+   "ru": "Боль! Какая боль!"
+  },
+  {
+   "id": 10,
+   "en": "Damn you to Hell!",
+   "ru": "Будь ты проклят!"
+  },
+  {
+   "id": 11,
+   "en": "Oh, you will hurt--\nand you will bleed!",
+   "ru": "О, будет больно... и\nкроваво!"
+  },
+  {
+   "id": 12,
+   "en": "AAAUGH!",
+   "ru": "А-А-АГХ!"
+  },
+  {
+   "id": 13,
+   "en": "I can't feel my legs!",
+   "ru": "Я не чувствую ног!"
+  },
+  {
+   "id": 14,
+   "en": "What a warrior!",
+   "ru": "Вот это воин!"
+  },
+  {
+   "id": 15,
+   "en": "I think I just wet\nmyself.",
+   "ru": "Кажется, я\nобмочился."
+  },
+  {
+   "id": 16,
+   "en": "WAAUUGGHHH!!",
+   "ru": "У-А-А-А-ГХ!!"
+  },
+  {
+   "id": 17,
+   "en": "It's all over!",
+   "ru": "Всё кончено!"
+  },
+  {
+   "id": 18,
+   "en": "Help me--!",
+   "ru": "Помогите...!"
+  },
+  {
+   "id": 19,
+   "en": "I submit to your\nsuperior skill!",
+   "ru": "Склоняюсь перед\nтвоим мастерством!"
+  },
+  {
+   "id": 20,
+   "en": "Back-stabber!",
+   "ru": "Предатель!"
+  },
+  {
+   "id": 21,
+   "en": "Hey! HEY!!",
+   "ru": "Эй! ЭЙ!!"
+  },
+  {
+   "id": 22,
+   "en": "You're pathetic!",
+   "ru": "Ты жалок!"
+  },
+  {
+   "id": 23,
+   "en": "You're no match for\nmy awesome speed!",
+   "ru": "Тебе не сравниться с\nмоей скоростью!"
+  },
+  {
+   "id": 24,
+   "en": "Awwww--too bad!",
+   "ru": "О-о-о, какая\nжалость!"
+  },
+  {
+   "id": 25,
+   "en": "My mother could\nbeat you down!",
+   "ru": "Моя мама и то тебя\nпобила бы!"
+  },
+  {
+   "id": 26,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 27,
+   "en": "You flea-infested\nmongrel!",
+   "ru": "Блохастая дворняга!"
+  },
+  {
+   "id": 28,
+   "en": "How DARE you?!",
+   "ru": "Да как ты СМЕЕШЬ?!"
+  },
+  {
+   "id": 29,
+   "en": "Uhhh?!",
+   "ru": "А-а?!"
+  },
+  {
+   "id": 30,
+   "en": "Thank you, sir! May\nI have another?!",
+   "ru": "Спасибо, сэр! Можно\nещё?!"
+  },
+  {
+   "id": 31,
+   "en": "You're nothing to me!\nNOTHING!",
+   "ru": "Ты для меня ничто!\nНИЧТО!"
+  },
+  {
+   "id": 32,
+   "en": "UUUUHH!!",
+   "ru": "У-У-УХ!!"
+  },
+  {
+   "id": 33,
+   "en": "AARRGH!!",
+   "ru": "А-А-РГХ!!"
+  },
+  {
+   "id": 34,
+   "en": "Your defense is full\nof holes!",
+   "ru": "В твоей защите одни\nдыры!"
+  },
+  {
+   "id": 35,
+   "en": "You're pathetic.",
+   "ru": "Ты жалок."
+  },
+  {
+   "id": 36,
+   "en": "Unngghh!",
+   "ru": "Н-н-нгх!"
+  },
+  {
+   "id": 37,
+   "en": "NO!!",
+   "ru": "НЕТ!!"
+  },
+  {
+   "id": 38,
+   "en": "Very predictable!",
+   "ru": "Очень предсказуемо!"
+  },
+  {
+   "id": 39,
+   "en": "Filthy scum!",
+   "ru": "Грязная мразь!"
+  },
+  {
+   "id": 40,
+   "en": "I beat you, scum!\nWho's the man?!",
+   "ru": "Победил, мразь!\nКто тут крутой?!"
+  },
+  {
+   "id": 41,
+   "en": "How was that, huh?!\nDid you like that?!",
+   "ru": "Ну как, а?!\nПонравилось?!"
+  },
+  {
+   "id": 42,
+   "en": "For the glory of the\nJunaris Empire!",
+   "ru": "Во славу Империи\nДжунарис!"
+  },
+  {
+   "id": 43,
+   "en": "I send you to the next\nworld, scum!",
+   "ru": "Отправляю тебя на\nтот свет, мразь!"
+  },
+  {
+   "id": 44,
+   "en": "Waaaah!!",
+   "ru": "Ва-а-а!!"
+  },
+  {
+   "id": 45,
+   "en": "D'ohh!!",
+   "ru": "Тьфу!!"
+  },
+  {
+   "id": 46,
+   "en": "I sense your fear!",
+   "ru": "Чую твой страх!"
+  },
+  {
+   "id": 47,
+   "en": "Oh, you WILL perish!",
+   "ru": "О, ты ПОГИБНЕШЬ!"
+  },
+  {
+   "id": 48,
+   "en": "Ahhhh!!",
+   "ru": "А-а-а!!"
+  },
+  {
+   "id": 49,
+   "en": "You will know great\npain, scum!",
+   "ru": "Будет больно,\nмразь!"
+  },
+  {
+   "id": 50,
+   "en": "Surrender, you\npathetic fool!",
+   "ru": "Сдавайся, жалкий\nглупец!"
+  },
+  {
+   "id": 51,
+   "en": "For the honor of the\nalmighty Empire!",
+   "ru": "За честь всесильной\nИмперии!"
+  },
+  {
+   "id": 52,
+   "en": "All enemies of the\nEmpire will die!",
+   "ru": "Все враги Империи\nумрут!"
+  },
+  {
+   "id": 53,
+   "en": "Haaah!!",
+   "ru": "Ха-а!!"
+  },
+  {
+   "id": 54,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 55,
+   "en": "WHAT?!",
+   "ru": "ЧТО?!"
+  },
+  {
+   "id": 56,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 57,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 58,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 59,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 60,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 61,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 62,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 63,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 64,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 65,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 66,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 67,
+   "en": "",
+   "ru": ""
+  }
+ ]
+}

@@ -1,0 +1,291 @@
+{
+ "file": 154,
+ "kind": "battle",
+ "lines": [
+  {
+   "id": 0,
+   "en": "Are you ready?",
+   "ru": "Вы готовы?"
+  },
+  {
+   "id": 1,
+   "en": "I was, like, born ready, Dionne!",
+   "ru": "Я, типа, родилась готовой,\nДионн!"
+  },
+  {
+   "id": 2,
+   "en": "Then begin!",
+   "ru": "Тогда начинаем!"
+  },
+  {
+   "id": 3,
+   "en": "I totally SUCK!",
+   "ru": "Я реально ОТСТОЙ!"
+  },
+  {
+   "id": 4,
+   "en": "I'm sorry, Bastion! I blew it!",
+   "ru": "Прости, Бастион! Я всё испортила!"
+  },
+  {
+   "id": 5,
+   "en": "I am your next opponent, and your\nlast!",
+   "ru": "Я твой следующий противник, и\nпоследний!"
+  },
+  {
+   "id": 6,
+   "en": "I'm sorry, Prince Bastion!",
+   "ru": "Простите, принц Бастион!"
+  },
+  {
+   "id": 7,
+   "en": "I should have fought harder!",
+   "ru": "Мне следовало сражаться упорнее!"
+  },
+  {
+   "id": 8,
+   "en": "You've never seen moves like mine!",
+   "ru": "Таких приёмов ты ещё не видел!"
+  },
+  {
+   "id": 9,
+   "en": "Oops! I'll try harder next time!",
+   "ru": "Ой! В следующий раз постараюсь\nлучше!"
+  },
+  {
+   "id": 10,
+   "en": "You guys have made me angry, and\nyou won't like me when I'm angry!",
+   "ru": "Вы меня разозлили, а злой я вам\nне понравлюсь!"
+  },
+  {
+   "id": 11,
+   "en": "That was all I could do?!",
+   "ru": "И это всё, на что я способна?!"
+  },
+  {
+   "id": 12,
+   "en": "It's all up to you now, Bastion!",
+   "ru": "Теперь всё зависит от тебя,\nБастион!"
+  },
+  {
+   "id": 13,
+   "en": "I have to win.",
+   "ru": "Я должен победить."
+  },
+  {
+   "id": 14,
+   "en": "For the future of this world!",
+   "ru": "Ради будущего этого мира!"
+  },
+  {
+   "id": 15,
+   "en": "Mercenary 1:\nDamn it!",
+   "ru": "Наёмник 1:\nПроклятье!"
+  },
+  {
+   "id": 16,
+   "en": "Mercenary 2:\nPrepare to lose!",
+   "ru": "Наёмник 2:\nГотовьтесь проиграть!"
+  },
+  {
+   "id": 17,
+   "en": "Mercenary 2:\nDefeated!",
+   "ru": "Наёмник 2:\nПобеждён!"
+  },
+  {
+   "id": 18,
+   "en": "Mercenary 3:\nAttack!",
+   "ru": "Наёмник 3:\nВ атаку!"
+  },
+  {
+   "id": 19,
+   "en": "Mercenary 3:\nBugger and bollocks!",
+   "ru": "Наёмник 3:\nЧёрт побери!"
+  },
+  {
+   "id": 20,
+   "en": "Is it time for me to take the\nstage? I'm ready for my close-up,\nMr. Dionne!",
+   "ru": "Мой выход? Я готов к крупному\nплану, господин Дионн!"
+  },
+  {
+   "id": 21,
+   "en": "Fight!",
+   "ru": "Бой!"
+  },
+  {
+   "id": 22,
+   "en": "You're quite an angry young woman,\naren't you? I'm sensing that you have\na lot of issues.",
+   "ru": "Ты очень злая барышня, а?\nЧувствую, у тебя куча проблем."
+  },
+  {
+   "id": 23,
+   "en": "I don't, like, have time to lose!",
+   "ru": "У меня, типа, нет времени\nпроигрывать!"
+  },
+  {
+   "id": 24,
+   "en": "And the only issues I have are with\nsexist creeps like you.",
+   "ru": "А проблемы у меня только с\nтакими сексистскими уродами,\nкак ты."
+  },
+  {
+   "id": 25,
+   "en": "Big ouch, babe...",
+   "ru": "Ох, больно, детка..."
+  },
+  {
+   "id": 26,
+   "en": "But I thank you for the great fight!",
+   "ru": "Но спасибо за отличный бой!"
+  },
+  {
+   "id": 27,
+   "en": "Cecilia...",
+   "ru": "Сесилия..."
+  },
+  {
+   "id": 28,
+   "en": "I won't be beaten by you.",
+   "ru": "Я не проиграю тебе."
+  },
+  {
+   "id": 29,
+   "en": "I would sooner die!",
+   "ru": "Лучше умереть!"
+  },
+  {
+   "id": 30,
+   "en": "Be gentle with me, Sadira.",
+   "ru": "Будь со мной нежнее, Садира."
+  },
+  {
+   "id": 31,
+   "en": "I'll defeat you for Bastion!",
+   "ru": "Я одолею тебя ради Бастиона!"
+  },
+  {
+   "id": 32,
+   "en": "Will you, now?",
+   "ru": "Неужели?"
+  },
+  {
+   "id": 33,
+   "en": "I'm going to win this duel!",
+   "ru": "Я выиграю этот поединок!"
+  },
+  {
+   "id": 34,
+   "en": "I don't think so, buddy!",
+   "ru": "Не думаю, дружище!"
+  },
+  {
+   "id": 35,
+   "en": "But I do! The honor of my father and\nthe people of this world are at stake!",
+   "ru": "А я думаю! На кону честь моего\nотца и люди этого мира!"
+  },
+  {
+   "id": 36,
+   "en": "You're not EVEN as strong as my\ndaddy, Dionne! Beating you is\ngonna be way easy!",
+   "ru": "Ты ДАЖЕ не такой сильный, как\nмой папа, Дионн! Победить тебя\nбудет проще простого!"
+  },
+  {
+   "id": 37,
+   "en": "Duke Logan's daughter? Just as\nconfident as your father, I see!",
+   "ru": "Дочь герцога Логана? Так же\nсамоуверенна, как отец, вижу!"
+  },
+  {
+   "id": 38,
+   "en": "Princess Sadira, why have you\nsupported Bastion when he is\nyour enemy by blood?",
+   "ru": "Принцесса Садира, почему вы\nподдерживаете Бастиона, если по\nкрови он ваш враг?"
+  },
+  {
+   "id": 39,
+   "en": "Because he is NOT my enemy!\nHe and I desire the same thing!",
+   "ru": "Потому что он мне НЕ враг! Мы\nхотим одного и того же!"
+  },
+  {
+   "id": 40,
+   "en": "I respect your honesty.",
+   "ru": "Уважаю вашу честность."
+  },
+  {
+   "id": 41,
+   "en": "Show me your strength, Bastion.",
+   "ru": "Покажи свою силу, Бастион."
+  },
+  {
+   "id": 42,
+   "en": "I will show you strength as you\nhave never seen, Dionne...",
+   "ru": "Я покажу вам силу, какой вы ещё\nне видели, Дионн..."
+  },
+  {
+   "id": 43,
+   "en": "And I will claim Gratia!",
+   "ru": "И получу Гратию!"
+  },
+  {
+   "id": 44,
+   "en": "I didn't even need to fight!\nIt was quite refreshing to view\nthe battle as a spectator!",
+   "ru": "Мне даже драться не пришлось!\nБыло даже приятно посмотреть\nбой со стороны!"
+  },
+  {
+   "id": 45,
+   "en": "Excellent work, everyone!",
+   "ru": "Отличная работа, все!"
+  },
+  {
+   "id": 46,
+   "en": "...I did it.",
+   "ru": "...Я сделал это."
+  },
+  {
+   "id": 47,
+   "en": "No--WE did it.",
+   "ru": "Нет... МЫ сделали это."
+  },
+  {
+   "id": 48,
+   "en": "We won!!",
+   "ru": "Мы победили!!"
+  },
+  {
+   "id": 49,
+   "en": "Oh, man! Major humiliation points!",
+   "ru": "Ох, позорище!"
+  },
+  {
+   "id": 50,
+   "en": "I apologize for my utterly\ncrappy performance, Marquis Dionne.",
+   "ru": "Простите за моё совершенно\nпаршивое выступление, маркиз\nДионн."
+  },
+  {
+   "id": 51,
+   "en": "You beat Andrew, my best soldier.\nNot bad at all.",
+   "ru": "Вы победили Эндрю, моего\nлучшего воина. Весьма неплохо."
+  },
+  {
+   "id": 52,
+   "en": "But now you must fight me.",
+   "ru": "Но теперь вы должны сразиться\nсо мной."
+  },
+  {
+   "id": 53,
+   "en": "Now you will feel the sound of\nthe Roaring Lion in the depths\nof your soul!",
+   "ru": "Теперь ты услышишь рёв\nРычащего льва в глубине своей\nдуши!"
+  },
+  {
+   "id": 54,
+   "en": "Damn it!",
+   "ru": "Проклятье!"
+  },
+  {
+   "id": 55,
+   "en": "I had to win!",
+   "ru": "Я должен был победить!"
+  },
+  {
+   "id": 56,
+   "en": "I had to save the Continent...",
+   "ru": "Должен был спасти Континент..."
+  }
+ ]
+}

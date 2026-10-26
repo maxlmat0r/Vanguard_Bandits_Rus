@@ -1,0 +1,1894 @@
+{
+ "file": 0,
+ "kind": "module",
+ "base": "0x800751a8",
+ "lines": [
+  {
+   "id": 0,
+   "addr": "0x800751ac",
+   "en": "MFONT",
+   "ru": "",
+   "refs": [
+    "0x800769f8"
+   ],
+   "ptrs": [],
+   "room": 6,
+   "tail": false
+  },
+  {
+   "id": 1,
+   "addr": "0x800751b4",
+   "en": "SPSB",
+   "ru": "",
+   "refs": [
+    "0x800772d8"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 2,
+   "addr": "0x800751bc",
+   "en": "SPDB_0",
+   "ru": "",
+   "refs": [
+    "0x800772fc"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 3,
+   "addr": "0x800751c4",
+   "en": "SPDB_1",
+   "ru": "",
+   "refs": [
+    "0x80077314"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 4,
+   "addr": "0x800751cc",
+   "en": "LOADBUF",
+   "ru": "",
+   "refs": [
+    "0x80077344"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 5,
+   "addr": "0x800751d4",
+   "en": "SPSB",
+   "ru": "",
+   "refs": [
+    "0x8007776c"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 6,
+   "addr": "0x800751dc",
+   "en": "SPDB_0",
+   "ru": "",
+   "refs": [
+    "0x8007778c"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 7,
+   "addr": "0x800751e4",
+   "en": "SPDB_1",
+   "ru": "",
+   "refs": [
+    "0x800777a4"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 8,
+   "addr": "0x800751ec",
+   "en": "LOADBUF",
+   "ru": "",
+   "refs": [
+    "0x800778d0"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 9,
+   "addr": "0x800751f4",
+   "en": "Bastion:\n(Who should I speak with?)",
+   "ru": "Бастион:\n(С кем бы поговорить?)",
+   "refs": [
+    "0x80077e78"
+   ],
+   "ptrs": [],
+   "room": 36,
+   "tail": false
+  },
+  {
+   "id": 10,
+   "addr": "0x80075218",
+   "en": "Bastion:\n(There's nothing more to discuss.)",
+   "ru": "Бастион:\n(Больше не о чем говорить.)",
+   "refs": [
+    "0x8007916c"
+   ],
+   "ptrs": [],
+   "room": 44,
+   "tail": false
+  },
+  {
+   "id": 11,
+   "addr": "0x80075244",
+   "en": "Bastion:\n(Time grows short. Should I speak\nwith anyone else?)",
+   "ru": "",
+   "refs": [
+    "0x80079190"
+   ],
+   "ptrs": [],
+   "room": 64,
+   "tail": false
+  },
+  {
+   "id": 12,
+   "addr": "0x80075284",
+   "en": "Bastion:\n(Shall I speak with anybody else?)",
+   "ru": "Бастион:\n(Поговорить с кем-то ещё?)",
+   "refs": [
+    "0x80079198"
+   ],
+   "ptrs": [],
+   "room": 44,
+   "tail": false
+  },
+  {
+   "id": 13,
+   "addr": "0x800752b0",
+   "en": "WEP",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x800978f8"
+   ],
+   "room": 4,
+   "tail": false
+  },
+  {
+   "id": 14,
+   "addr": "0x800752b4",
+   "en": "DEF",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x800978f4"
+   ],
+   "room": 4,
+   "tail": false
+  },
+  {
+   "id": 15,
+   "addr": "0x800752b8",
+   "en": "AGL",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x800978f0"
+   ],
+   "room": 4,
+   "tail": false
+  },
+  {
+   "id": 16,
+   "addr": "0x800752bc",
+   "en": "DEX",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x800978ec"
+   ],
+   "room": 4,
+   "tail": false
+  },
+  {
+   "id": 17,
+   "addr": "0x800752c0",
+   "en": "POW",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x800978e8"
+   ],
+   "room": 4,
+   "tail": false
+  },
+  {
+   "id": 18,
+   "addr": "0x800752c4",
+   "en": "BAS",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x800978e4"
+   ],
+   "room": 4,
+   "tail": false
+  },
+  {
+   "id": 19,
+   "addr": "0x800752c8",
+   "en": "SPSB",
+   "ru": "",
+   "refs": [
+    "0x8007965c"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 20,
+   "addr": "0x800752d0",
+   "en": "SPDB_0",
+   "ru": "",
+   "refs": [
+    "0x8007967c"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 21,
+   "addr": "0x800752d8",
+   "en": "SPDB_1",
+   "ru": "",
+   "refs": [
+    "0x80079694"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 22,
+   "addr": "0x800752e0",
+   "en": "LOADBUF",
+   "ru": "",
+   "refs": [
+    "0x800797c8"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 23,
+   "addr": "0x8007530c",
+   "en": "Status",
+   "ru": "Статус",
+   "refs": [
+    "0x8007aac8"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 24,
+   "addr": "0x80075314",
+   "en": "Equipment",
+   "ru": "Снаряжение",
+   "refs": [
+    "0x8007ab04"
+   ],
+   "ptrs": [],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 25,
+   "addr": "0x80075320",
+   "en": "ATACs",
+   "ru": "АТАКи",
+   "refs": [
+    "0x8007ab2c"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 26,
+   "addr": "0x80075328",
+   "en": "Exit",
+   "ru": "Выход",
+   "refs": [
+    "0x8007ab54"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 27,
+   "addr": "0x80075330",
+   "en": "Attack",
+   "ru": "Атака",
+   "refs": [
+    "0x8007ad48"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 28,
+   "addr": "0x80075338",
+   "en": "Support",
+   "ru": "Поддержка",
+   "refs": [
+    "0x8007ad7c"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 29,
+   "addr": "0x80075340",
+   "en": "Dormant",
+   "ru": "Резерв",
+   "refs": [
+    "0x8007ada4"
+   ],
+   "ptrs": [],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 30,
+   "addr": "0x8007534c",
+   "en": "EQU%02d / ALL%02d",
+   "ru": "",
+   "refs": [
+    "0x8007ce14"
+   ],
+   "ptrs": [],
+   "room": 20,
+   "tail": false
+  },
+  {
+   "id": 31,
+   "addr": "0x80075360",
+   "en": "Level  %2d",
+   "ru": "Уровень %2d",
+   "refs": [
+    "0x8007d888"
+   ],
+   "ptrs": [],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 32,
+   "addr": "0x8007536c",
+   "en": "Exp. to Next\t\t%d\n",
+   "ru": "Опыт до ур.\t%d\n",
+   "refs": [
+    "0x8007d8b4"
+   ],
+   "ptrs": [],
+   "room": 20,
+   "tail": false
+  },
+  {
+   "id": 33,
+   "addr": "0x80075380",
+   "en": "Range\t\t\t\t%d\n",
+   "ru": "Дальность\t\t%d\n",
+   "refs": [
+    "0x8007d8dc"
+   ],
+   "ptrs": [],
+   "room": 16,
+   "tail": false
+  },
+  {
+   "id": 34,
+   "addr": "0x80075390",
+   "en": "Speed\t\t\t\t%d.%02d\n",
+   "ru": "Скорость\t\t%d.%02d\n",
+   "refs": [
+    "0x8007d914"
+   ],
+   "ptrs": [],
+   "room": 20,
+   "tail": false
+  },
+  {
+   "id": 35,
+   "addr": "0x800753ac",
+   "en": "HP%3d",
+   "ru": "",
+   "refs": [
+    "0x8007df38"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 36,
+   "addr": "0x800753b4",
+   "en": "#t BACKUP",
+   "ru": "#t ОТМЕНА",
+   "refs": [
+    "0x8007e030",
+    "0x8007e110"
+   ],
+   "ptrs": [],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 37,
+   "addr": "0x800753c0",
+   "en": "#x ACCEPT",
+   "ru": "#x ОК",
+   "refs": [
+    "0x8007e0a0"
+   ],
+   "ptrs": [],
+   "room": 16,
+   "tail": false
+  },
+  {
+   "id": 38,
+   "addr": "0x800753e8",
+   "en": "Ya canna sell it when it's equipped!",
+   "ru": "Надетое продать не выйдет!",
+   "refs": [],
+   "ptrs": [
+    "0x80097b08"
+   ],
+   "room": 40,
+   "tail": false
+  },
+  {
+   "id": 39,
+   "addr": "0x80075410",
+   "en": "I don't got any more o' that item.",
+   "ru": "Такого товару больше нету.",
+   "refs": [],
+   "ptrs": [
+    "0x80097b04"
+   ],
+   "room": 36,
+   "tail": false
+  },
+  {
+   "id": 40,
+   "addr": "0x80075434",
+   "en": "Ya don't got nothin' to sell, folks!",
+   "ru": "Вам и продать-то нечего!",
+   "refs": [],
+   "ptrs": [
+    "0x80097b00"
+   ],
+   "room": 40,
+   "tail": false
+  },
+  {
+   "id": 41,
+   "addr": "0x8007545c",
+   "en": "Ya don't got the cash fer that item!",
+   "ru": "На это у вас деньжат не хватит!",
+   "refs": [],
+   "ptrs": [
+    "0x80097afc"
+   ],
+   "room": 40,
+   "tail": false
+  },
+  {
+   "id": 42,
+   "addr": "0x80075484",
+   "en": "There ya go. Ya sellin' anythin' else?",
+   "ru": "Держите. Ещё чего продаёте?",
+   "refs": [],
+   "ptrs": [
+    "0x80097af8"
+   ],
+   "room": 40,
+   "tail": false
+  },
+  {
+   "id": 43,
+   "addr": "0x800754ac",
+   "en": "Thank ya! Will ya buy anythin' else?",
+   "ru": "Спасибочки! Ещё чего купите?",
+   "refs": [],
+   "ptrs": [
+    "0x80097af4"
+   ],
+   "room": 40,
+   "tail": false
+  },
+  {
+   "id": 44,
+   "addr": "0x800754d4",
+   "en": "No deal? Huh! Anythin' else ta sell?",
+   "ru": "Не сошлись? Ещё чего продаёте?",
+   "refs": [],
+   "ptrs": [
+    "0x80097af0"
+   ],
+   "room": 40,
+   "tail": false
+  },
+  {
+   "id": 45,
+   "addr": "0x800754fc",
+   "en": "Too much? Then buy somethin' else!",
+   "ru": "Дорого? Берите чего другое!",
+   "refs": [],
+   "ptrs": [
+    "0x80097aec"
+   ],
+   "room": 36,
+   "tail": false
+  },
+  {
+   "id": 46,
+   "addr": "0x80075520",
+   "en": "Ya sure ya want ta sell this item?",
+   "ru": "Точно продаёте эту вещь?",
+   "refs": [],
+   "ptrs": [
+    "0x80097ae8"
+   ],
+   "room": 36,
+   "tail": false
+  },
+  {
+   "id": 47,
+   "addr": "0x80075544",
+   "en": "Yer sure ya want this item?",
+   "ru": "Точно берёте эту вещь?",
+   "refs": [],
+   "ptrs": [
+    "0x80097ae4"
+   ],
+   "room": 28,
+   "tail": false
+  },
+  {
+   "id": 48,
+   "addr": "0x80075560",
+   "en": "What do ya want ta get rid of?",
+   "ru": "От чего избавиться хотите?",
+   "refs": [],
+   "ptrs": [
+    "0x80097ae0"
+   ],
+   "room": 32,
+   "tail": false
+  },
+  {
+   "id": 49,
+   "addr": "0x80075580",
+   "en": "Ya won't find better goods anywhere!",
+   "ru": "Лучше товару нигде не сыщете!",
+   "refs": [],
+   "ptrs": [
+    "0x80097adc"
+   ],
+   "room": 40,
+   "tail": false
+  },
+  {
+   "id": 50,
+   "addr": "0x800755a8",
+   "en": "Ya got any other business with me?",
+   "ru": "Ещё какие дела ко мне?",
+   "refs": [],
+   "ptrs": [
+    "0x80097ad8"
+   ],
+   "room": 36,
+   "tail": false
+  },
+  {
+   "id": 51,
+   "addr": "0x800755cc",
+   "en": "An' what do ya want ta sell?",
+   "ru": "А продать-то чего хотите?",
+   "refs": [],
+   "ptrs": [
+    "0x80097ad4"
+   ],
+   "room": 32,
+   "tail": false
+  },
+  {
+   "id": 52,
+   "addr": "0x800755ec",
+   "en": "What're ya wantin' ta buy?",
+   "ru": "Чего купить желаете?",
+   "refs": [],
+   "ptrs": [
+    "0x80097ad0"
+   ],
+   "room": 28,
+   "tail": false
+  },
+  {
+   "id": 53,
+   "addr": "0x80075608",
+   "en": "I hope ta see ya 'gain, folks!",
+   "ru": "Заглядывайте ещё, ребятки!",
+   "refs": [],
+   "ptrs": [
+    "0x80097acc"
+   ],
+   "room": 32,
+   "tail": false
+  },
+  {
+   "id": 54,
+   "addr": "0x80075628",
+   "en": "Grizzled Shopkeeper:\nWhat kin I do fer ya today, folks?",
+   "ru": "Седой торговец:\nЧем могу служить, ребятки?",
+   "refs": [],
+   "ptrs": [
+    "0x80097ac8"
+   ],
+   "room": 56,
+   "tail": false
+  },
+  {
+   "id": 55,
+   "addr": "0x80075660",
+   "en": "Speed kills.",
+   "ru": "Скорость убивает.",
+   "refs": [],
+   "ptrs": [
+    "0x80097ba0"
+   ],
+   "room": 16,
+   "tail": false
+  },
+  {
+   "id": 56,
+   "addr": "0x80075670",
+   "en": "Does what it says.",
+   "ru": "Делает, что обещано.",
+   "refs": [],
+   "ptrs": [
+    "0x80097b9c"
+   ],
+   "room": 20,
+   "tail": false
+  },
+  {
+   "id": 57,
+   "addr": "0x80075684",
+   "en": "Blade of magically glowing metal.",
+   "ru": "Клинок из волшебного металла.",
+   "refs": [],
+   "ptrs": [
+    "0x80097b98"
+   ],
+   "room": 36,
+   "tail": false
+  },
+  {
+   "id": 58,
+   "addr": "0x800756a8",
+   "en": "Strong sword favored by ninjas.",
+   "ru": "Крепкий меч, любимый ниндзя.",
+   "refs": [],
+   "ptrs": [
+    "0x80097b94"
+   ],
+   "room": 32,
+   "tail": false
+  },
+  {
+   "id": 59,
+   "addr": "0x800756c8",
+   "en": "Finely crafted katana.",
+   "ru": "Искусно выкованная катана.",
+   "refs": [],
+   "ptrs": [
+    "0x80097b90"
+   ],
+   "room": 24,
+   "tail": false
+  },
+  {
+   "id": 60,
+   "addr": "0x800756e0",
+   "en": "Super-strong cutter-chopper.",
+   "ru": "Суперпрочная рубилка-резалка.",
+   "refs": [],
+   "ptrs": [
+    "0x80097b8c"
+   ],
+   "room": 32,
+   "tail": false
+  },
+  {
+   "id": 61,
+   "addr": "0x80075700",
+   "en": "Medium-sized combat axe.",
+   "ru": "Боевой топор средних размеров.",
+   "refs": [],
+   "ptrs": [
+    "0x80097b88"
+   ],
+   "room": 28,
+   "tail": false
+  },
+  {
+   "id": 62,
+   "addr": "0x8007571c",
+   "en": "Hits an enemy swiftly and sharply.",
+   "ru": "Бьёт врага быстро и метко.",
+   "refs": [],
+   "ptrs": [
+    "0x80097b84"
+   ],
+   "room": 36,
+   "tail": false
+  },
+  {
+   "id": 63,
+   "addr": "0x80075740",
+   "en": "Small axe used for construction.",
+   "ru": "Строительный топорик.",
+   "refs": [],
+   "ptrs": [
+    "0x80097b80"
+   ],
+   "room": 36,
+   "tail": false
+  },
+  {
+   "id": 64,
+   "addr": "0x80075764",
+   "en": "Long spear with a strong shaft.",
+   "ru": "Длинное копьё, крепкое древко.",
+   "refs": [],
+   "ptrs": [
+    "0x80097b7c"
+   ],
+   "room": 32,
+   "tail": false
+  },
+  {
+   "id": 65,
+   "addr": "0x80075784",
+   "en": "Three-pointed poking action.",
+   "ru": "Колет сразу тремя остриями.",
+   "refs": [],
+   "ptrs": [
+    "0x80097b78"
+   ],
+   "room": 32,
+   "tail": false
+  },
+  {
+   "id": 66,
+   "addr": "0x800757a4",
+   "en": "Spear with a super-sharp point.",
+   "ru": "Копьё с острейшим жалом.",
+   "refs": [],
+   "ptrs": [
+    "0x80097b74"
+   ],
+   "room": 32,
+   "tail": false
+  },
+  {
+   "id": 67,
+   "addr": "0x800757c4",
+   "en": "Generic reinforced-steel spear.",
+   "ru": "Простое копьё из прочной стали.",
+   "refs": [],
+   "ptrs": [
+    "0x80097b70"
+   ],
+   "room": 32,
+   "tail": false
+  },
+  {
+   "id": 68,
+   "addr": "0x800757e4",
+   "en": "Sword with a golden blade.",
+   "ru": "Меч с золотым клинком.",
+   "refs": [],
+   "ptrs": [
+    "0x80097b6c"
+   ],
+   "room": 28,
+   "tail": false
+  },
+  {
+   "id": 69,
+   "addr": "0x80075800",
+   "en": "Sword crafted of ink-black metal.",
+   "ru": "Меч из угольно-чёрного металла.",
+   "refs": [],
+   "ptrs": [
+    "0x80097b68"
+   ],
+   "room": 36,
+   "tail": false
+  },
+  {
+   "id": 70,
+   "addr": "0x80075824",
+   "en": "Sword with a broad blade.",
+   "ru": "Меч с широким клинком.",
+   "refs": [],
+   "ptrs": [
+    "0x80097b64"
+   ],
+   "room": 28,
+   "tail": false
+  },
+  {
+   "id": 71,
+   "addr": "0x80075840",
+   "en": "Sword of shining steel.",
+   "ru": "Меч из сияющей стали.",
+   "refs": [],
+   "ptrs": [
+    "0x80097b60"
+   ],
+   "room": 28,
+   "tail": false
+  },
+  {
+   "id": 72,
+   "addr": "0x80075a5c",
+   "en": "Gives you the Assassination skill.",
+   "ru": "Даёт навык «Убийство».",
+   "refs": [],
+   "ptrs": [
+    "0x80097c60"
+   ],
+   "room": 36,
+   "tail": false
+  },
+  {
+   "id": 73,
+   "addr": "0x80075a80",
+   "en": "Gives you the Chivalry skill.",
+   "ru": "Даёт навык «Рыцарство».",
+   "refs": [],
+   "ptrs": [
+    "0x80097c5c"
+   ],
+   "room": 32,
+   "tail": false
+  },
+  {
+   "id": 74,
+   "addr": "0x80075aa0",
+   "en": "Gives you the Deflect Attacks skill.",
+   "ru": "Даёт навык «Отражение атак».",
+   "refs": [],
+   "ptrs": [
+    "0x80097c58"
+   ],
+   "room": 40,
+   "tail": false
+  },
+  {
+   "id": 75,
+   "addr": "0x80075ac8",
+   "en": "Gives you the Parry skill.",
+   "ru": "Даёт навык «Парирование».",
+   "refs": [],
+   "ptrs": [
+    "0x80097c54"
+   ],
+   "room": 28,
+   "tail": false
+  },
+  {
+   "id": 76,
+   "addr": "0x80075ae4",
+   "en": "Gives you the Rear Menace skill.",
+   "ru": "Даёт навык «Угроза с тыла».",
+   "refs": [],
+   "ptrs": [
+    "0x80097c50"
+   ],
+   "room": 36,
+   "tail": false
+  },
+  {
+   "id": 77,
+   "addr": "0x80075b08",
+   "en": "Gives you the Forward Menace skill.",
+   "ru": "Даёт навык «Угроза спереди».",
+   "refs": [],
+   "ptrs": [
+    "0x80097c4c"
+   ],
+   "room": 36,
+   "tail": false
+  },
+  {
+   "id": 78,
+   "addr": "0x80075b2c",
+   "en": "Gives you the Massive Menace skill.",
+   "ru": "Даёт навык «Общая угроза».",
+   "refs": [],
+   "ptrs": [
+    "0x80097c48"
+   ],
+   "room": 36,
+   "tail": false
+  },
+  {
+   "id": 79,
+   "addr": "0x80075b50",
+   "en": "Used by royalty for generations.",
+   "ru": "Королевская реликвия.",
+   "refs": [],
+   "ptrs": [
+    "0x80097c44"
+   ],
+   "room": 36,
+   "tail": false
+  },
+  {
+   "id": 80,
+   "addr": "0x80075b74",
+   "en": "An artifact from the Ancients.",
+   "ru": "Артефакт Древних.",
+   "refs": [],
+   "ptrs": [
+    "0x80097c40"
+   ],
+   "room": 32,
+   "tail": false
+  },
+  {
+   "id": 81,
+   "addr": "0x80075b94",
+   "en": "Increased movement range.",
+   "ru": "Увеличивает дальность хода.",
+   "refs": [],
+   "ptrs": [
+    "0x80097c3c"
+   ],
+   "room": 28,
+   "tail": false
+  },
+  {
+   "id": 82,
+   "addr": "0x80075bb0",
+   "en": "A multi-colored defense-booster.",
+   "ru": "Пёстрый усилитель защиты.",
+   "refs": [],
+   "ptrs": [
+    "0x80097c38"
+   ],
+   "room": 36,
+   "tail": false
+  },
+  {
+   "id": 83,
+   "addr": "0x80075bd4",
+   "en": "Move with the swiftness of the wind.",
+   "ru": "Двигайтесь быстро, как ветер.",
+   "refs": [],
+   "ptrs": [
+    "0x80097c34"
+   ],
+   "room": 40,
+   "tail": false
+  },
+  {
+   "id": 84,
+   "addr": "0x80075bfc",
+   "en": "Everyone else becomes slower.",
+   "ru": "Все прочие замедляются.",
+   "refs": [],
+   "ptrs": [
+    "0x80097c30"
+   ],
+   "room": 32,
+   "tail": false
+  },
+  {
+   "id": 85,
+   "addr": "0x80075c1c",
+   "en": "Pretty and power-boosting.",
+   "ru": "Красиво и прибавляет сил.",
+   "refs": [],
+   "ptrs": [
+    "0x80097c2c"
+   ],
+   "room": 28,
+   "tail": false
+  },
+  {
+   "id": 86,
+   "addr": "0x80075c38",
+   "en": "The hair accessory of the gods.",
+   "ru": "Украшение для волос от богов.",
+   "refs": [],
+   "ptrs": [
+    "0x80097c28"
+   ],
+   "room": 32,
+   "tail": false
+  },
+  {
+   "id": 87,
+   "addr": "0x80075c58",
+   "en": "Generates a magical energy field.",
+   "ru": "Создаёт магическое силовое поле.",
+   "refs": [],
+   "ptrs": [
+    "0x80097c24"
+   ],
+   "room": 36,
+   "tail": false
+  },
+  {
+   "id": 88,
+   "addr": "0x80075c7c",
+   "en": "Move with the speed of a stealer.",
+   "ru": "Двигайтесь с быстротой вора.",
+   "refs": [],
+   "ptrs": [
+    "0x80097c20"
+   ],
+   "room": 36,
+   "tail": false
+  },
+  {
+   "id": 89,
+   "addr": "0x80075ca0",
+   "en": "Move with the speed of a sprite.",
+   "ru": "Двигайтесь с быстротой эльфа.",
+   "refs": [],
+   "ptrs": [
+    "0x80097c1c"
+   ],
+   "room": 36,
+   "tail": false
+  },
+  {
+   "id": 90,
+   "addr": "0x80075cc4",
+   "en": "Imbued with magical steroids.",
+   "ru": "На магических стероидах.",
+   "refs": [],
+   "ptrs": [
+    "0x80097c18"
+   ],
+   "room": 32,
+   "tail": false
+  },
+  {
+   "id": 91,
+   "addr": "0x80075ce4",
+   "en": "This is a bug",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x80097c14"
+   ],
+   "room": 16,
+   "tail": false
+  },
+  {
+   "id": 92,
+   "addr": "0x80075d00",
+   "en": "Buy",
+   "ru": "Купить",
+   "refs": [
+    "0x8007f234"
+   ],
+   "ptrs": [],
+   "room": 4,
+   "tail": false
+  },
+  {
+   "id": 93,
+   "addr": "0x80075d04",
+   "en": "Sell",
+   "ru": "Продать",
+   "refs": [
+    "0x8007f248"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 94,
+   "addr": "0x80075d0c",
+   "en": "Exit",
+   "ru": "Выход",
+   "refs": [
+    "0x8007f25c"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 95,
+   "addr": "0x80075d14",
+   "en": "Weapons",
+   "ru": "Оружие",
+   "refs": [
+    "0x8007f280"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 96,
+   "addr": "0x80075d1c",
+   "en": "Stones",
+   "ru": "Камни",
+   "refs": [
+    "0x8007f294"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 97,
+   "addr": "0x80075d24",
+   "en": "Amulets",
+   "ru": "Амулеты",
+   "refs": [
+    "0x8007f2a8"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 98,
+   "addr": "0x80075d2c",
+   "en": "Yes",
+   "ru": "Да",
+   "refs": [
+    "0x8007f444"
+   ],
+   "ptrs": [],
+   "room": 4,
+   "tail": false
+  },
+  {
+   "id": 99,
+   "addr": "0x80075d30",
+   "en": "No",
+   "ru": "Нет",
+   "refs": [
+    "0x8007f458"
+   ],
+   "ptrs": [],
+   "room": 4,
+   "tail": false
+  },
+  {
+   "id": 100,
+   "addr": "0x80075d34",
+   "en": "EQU%02d/ALL%02d",
+   "ru": "",
+   "refs": [
+    "0x8007ff30"
+   ],
+   "ptrs": [],
+   "room": 16,
+   "tail": false
+  },
+  {
+   "id": 101,
+   "addr": "0x80075db0",
+   "en": "Funds %6d",
+   "ru": "Деньги %6d",
+   "refs": [
+    "0x80080890"
+   ],
+   "ptrs": [],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 102,
+   "addr": "0x80075dbc",
+   "en": "#x ACCEPT",
+   "ru": "#x ОК",
+   "refs": [
+    "0x80080930"
+   ],
+   "ptrs": [],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 103,
+   "addr": "0x80075dc8",
+   "en": "#t BACKUP",
+   "ru": "#t ОТМЕНА",
+   "refs": [
+    "0x800809a4"
+   ],
+   "ptrs": [],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 104,
+   "addr": "0x80075dd4",
+   "en": "SPSB",
+   "ru": "",
+   "refs": [
+    "0x80080c20"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 105,
+   "addr": "0x80075ddc",
+   "en": "SPDB_0",
+   "ru": "",
+   "refs": [
+    "0x80080c40"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 106,
+   "addr": "0x80075de4",
+   "en": "SPDB_1",
+   "ru": "",
+   "refs": [
+    "0x80080c58"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 107,
+   "addr": "0x80075dec",
+   "en": "LOADBUF",
+   "ru": "",
+   "refs": [
+    "0x80080d8c"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 108,
+   "addr": "0x80075e30",
+   "en": "sync:%08x\n",
+   "ru": "",
+   "refs": [
+    "0x80085194",
+    "0x80085274",
+    "0x80085334"
+   ],
+   "ptrs": [],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 109,
+   "addr": "0x80075e98",
+   "en": "world angl :%06x,%06x,%06x\n",
+   "ru": "",
+   "refs": [
+    "0x800852ac"
+   ],
+   "ptrs": [],
+   "room": 28,
+   "tail": false
+  },
+  {
+   "id": 110,
+   "addr": "0x80075eb4",
+   "en": "world trans:%06x,%06x,%06x\n",
+   "ru": "",
+   "refs": [
+    "0x800852c4"
+   ],
+   "ptrs": [],
+   "room": 28,
+   "tail": false
+  },
+  {
+   "id": 111,
+   "addr": "0x80075ed0",
+   "en": " map  trans:%06x,%06x,%06x\n",
+   "ru": "",
+   "refs": [
+    "0x800852e8"
+   ],
+   "ptrs": [],
+   "room": 28,
+   "tail": false
+  },
+  {
+   "id": 112,
+   "addr": "0x80075eec",
+   "en": "effect",
+   "ru": "",
+   "refs": [
+    "0x800854f0"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 113,
+   "addr": "0x80075ef4",
+   "en": "event",
+   "ru": "",
+   "refs": [
+    "0x80087684"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 114,
+   "addr": "0x8007608c",
+   "en": "rain",
+   "ru": "",
+   "refs": [
+    "0x80087b00"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 115,
+   "addr": "0x80076094",
+   "en": "snow",
+   "ru": "",
+   "refs": [
+    "0x8008814c"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 116,
+   "addr": "0x8007609c",
+   "en": "door",
+   "ru": "",
+   "refs": [
+    "0x80088698"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 117,
+   "addr": "0x800760a4",
+   "en": "mfade",
+   "ru": "",
+   "refs": [
+    "0x80088c68"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 118,
+   "addr": "0x800760ac",
+   "en": "mfade0",
+   "ru": "",
+   "refs": [
+    "0x80088c84"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 119,
+   "addr": "0x800760b4",
+   "en": "mfade1",
+   "ru": "",
+   "refs": [
+    "0x80088cc4"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 120,
+   "addr": "0x800760bc",
+   "en": "mfade2",
+   "ru": "",
+   "refs": [
+    "0x80088cd8"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 121,
+   "addr": "0x800760dc",
+   "en": "t_sb",
+   "ru": "",
+   "refs": [
+    "0x8008b04c"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 122,
+   "addr": "0x800760e4",
+   "en": "teve_sb",
+   "ru": "",
+   "refs": [
+    "0x8008b094"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 123,
+   "addr": "0x800760ec",
+   "en": "teve_db",
+   "ru": "",
+   "refs": [
+    "0x8008b0b8"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 124,
+   "addr": "0x800760f4",
+   "en": "TMDPKT",
+   "ru": "",
+   "refs": [
+    "0x8008b0e4"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 125,
+   "addr": "0x800760fc",
+   "en": "temp",
+   "ru": "",
+   "refs": [
+    "0x8008b5fc"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 126,
+   "addr": "0x80076104",
+   "en": "D:\\EPICA\\SOURCE\\PROJECT\\SBL\\TA\\EVENT\\E02_01.EZT",
+   "ru": "",
+   "refs": [
+    "0x8008b680"
+   ],
+   "ptrs": [],
+   "room": 48,
+   "tail": false
+  },
+  {
+   "id": 127,
+   "addr": "0x80076134",
+   "en": "D:\\EPICA\\SOURCE\\PROJECT\\SBL\\TA\\EVENT\\SCRIPT\\RPT\\E02_01.FPK",
+   "ru": "",
+   "refs": [
+    "0x8008b698"
+   ],
+   "ptrs": [],
+   "room": 60,
+   "tail": false
+  },
+  {
+   "id": 128,
+   "addr": "0x80076170",
+   "en": "D:\\EPICA\\SOURCE\\PROJECT\\SBL\\TA\\EVENT\\SCRIPT\\RPT\\E02_01.RPT",
+   "ru": "",
+   "refs": [
+    "0x8008b6a8"
+   ],
+   "ptrs": [],
+   "room": 60,
+   "tail": false
+  },
+  {
+   "id": 129,
+   "addr": "0x800761ac",
+   "en": "D:\\EPICA\\SOURCE\\PROJECT\\SBL\\TA\\EVENT\\SCRIPT\\MES\\E02_01.MES",
+   "ru": "",
+   "refs": [
+    "0x8008b6bc"
+   ],
+   "ptrs": [],
+   "room": 60,
+   "tail": false
+  },
+  {
+   "id": 130,
+   "addr": "0x80076364",
+   "en": "temp",
+   "ru": "",
+   "refs": [
+    "0x8008c4ec"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 131,
+   "addr": "0x80076394",
+   "en": "t_sb",
+   "ru": "",
+   "refs": [
+    "0x8008df40"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 132,
+   "addr": "0x8007639c",
+   "en": "tmnu_sb",
+   "ru": "",
+   "refs": [
+    "0x8008df7c"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 133,
+   "addr": "0x800763a4",
+   "en": "tmnu_db",
+   "ru": "",
+   "refs": [
+    "0x8008df9c"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 134,
+   "addr": "0x8007653c",
+   "en": "t_sb",
+   "ru": "",
+   "refs": [
+    "0x8009087c"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 135,
+   "addr": "0x80076544",
+   "en": "topr_sb",
+   "ru": "",
+   "refs": [
+    "0x800908cc"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 136,
+   "addr": "0x8007654c",
+   "en": "topr_db",
+   "ru": "",
+   "refs": [
+    "0x800908f0"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 137,
+   "addr": "0x80076554",
+   "en": "TMDPKT",
+   "ru": "",
+   "refs": [
+    "0x8009091c"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 138,
+   "addr": "0x8007655c",
+   "en": "temp",
+   "ru": "",
+   "refs": [
+    "0x80090c70"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 139,
+   "addr": "0x80076564",
+   "en": "D:\\EPICA\\SOURCE\\PROJECT\\SBL\\TA\\OPERAT\\OP55_00.OZT",
+   "ru": "",
+   "refs": [
+    "0x80090cbc"
+   ],
+   "ptrs": [],
+   "room": 52,
+   "tail": false
+  },
+  {
+   "id": 140,
+   "addr": "0x80076598",
+   "en": "D:\\EPICA\\SOURCE\\PROJECT\\SBL\\TA\\OPERAT\\SCRIPT\\RPT\\OP55_00.FPK",
+   "ru": "",
+   "refs": [
+    "0x80090cd4"
+   ],
+   "ptrs": [],
+   "room": 64,
+   "tail": false
+  },
+  {
+   "id": 141,
+   "addr": "0x800765d8",
+   "en": "D:\\EPICA\\SOURCE\\PROJECT\\SBL\\TA\\OPERAT\\SCRIPT\\RPT\\OP55_00.RPT",
+   "ru": "",
+   "refs": [
+    "0x80090ce4"
+   ],
+   "ptrs": [],
+   "room": 64,
+   "tail": false
+  },
+  {
+   "id": 142,
+   "addr": "0x80076618",
+   "en": "D:\\EPICA\\SOURCE\\PROJECT\\SBL\\TA\\OPERAT\\SCRIPT\\MES\\OP55_00.MES",
+   "ru": "",
+   "refs": [
+    "0x80090cf8"
+   ],
+   "ptrs": [],
+   "room": 64,
+   "tail": false
+  },
+  {
+   "id": 143,
+   "addr": "0x80076674",
+   "en": "t_sb",
+   "ru": "",
+   "refs": [
+    "0x8009336c"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 144,
+   "addr": "0x8007667c",
+   "en": "tstf_sb",
+   "ru": "",
+   "refs": [
+    "0x800933ac"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 145,
+   "addr": "0x80076684",
+   "en": "tstf_db",
+   "ru": "",
+   "refs": [
+    "0x800933cc"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 146,
+   "addr": "0x8007668c",
+   "en": "staff",
+   "ru": "",
+   "refs": [
+    "0x800935a0"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 147,
+   "addr": "0x80076694",
+   "en": "D:\\EPICA\\SOURCE\\PROJECT\\SBL\\TA\\STAFF\\STAFF2.DAT",
+   "ru": "",
+   "refs": [
+    "0x80093610"
+   ],
+   "ptrs": [],
+   "room": 48,
+   "tail": false
+  },
+  {
+   "id": 148,
+   "addr": "0x800768b4",
+   "en": "t_sb",
+   "ru": "",
+   "refs": [
+    "0x8009733c"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 149,
+   "addr": "0x800768bc",
+   "en": "twld_sb",
+   "ru": "",
+   "refs": [
+    "0x80097378"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 150,
+   "addr": "0x800768c4",
+   "en": "twld_db",
+   "ru": "",
+   "refs": [
+    "0x80097398"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 151,
+   "addr": "0x800768cc",
+   "en": "temp",
+   "ru": "",
+   "refs": [
+    "0x80097620"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 152,
+   "addr": "0x80076904",
+   "en": "D:\\EPICA\\SOURCE\\PROJECT\\SBL\\TA\\WORLD\\W06_00.WZT",
+   "ru": "",
+   "refs": [
+    "0x800976a0"
+   ],
+   "ptrs": [],
+   "room": 48,
+   "tail": false
+  },
+  {
+   "id": 153,
+   "addr": "0x80076934",
+   "en": "D:\\EPICA\\SOURCE\\PROJECT\\SBL\\TA\\WORLD\\SCRIPT\\RPT\\W06_00.FPK",
+   "ru": "",
+   "refs": [
+    "0x800976b8"
+   ],
+   "ptrs": [],
+   "room": 60,
+   "tail": false
+  },
+  {
+   "id": 154,
+   "addr": "0x80076970",
+   "en": "D:\\EPICA\\SOURCE\\PROJECT\\SBL\\TA\\WORLD\\SCRIPT\\RPT\\W06_00.RPT",
+   "ru": "",
+   "refs": [
+    "0x800976c8"
+   ],
+   "ptrs": [],
+   "room": 60,
+   "tail": false
+  },
+  {
+   "id": 155,
+   "addr": "0x800769ac",
+   "en": "D:\\EPICA\\SOURCE\\PROJECT\\SBL\\TA\\WORLD\\SCRIPT\\MES\\W06_00.MES",
+   "ru": "",
+   "refs": [
+    "0x800976dc"
+   ],
+   "ptrs": [],
+   "room": 60,
+   "tail": false
+  },
+  {
+   "id": 156,
+   "addr": "0x8008bbac",
+   "en": "KM",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x80076360"
+   ],
+   "room": 3,
+   "tail": true
+  }
+ ]
+}

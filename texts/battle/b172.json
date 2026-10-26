@@ -1,0 +1,301 @@
+{
+ "file": 172,
+ "kind": "battle",
+ "lines": [
+  {
+   "id": 0,
+   "en": "So this is the Kingdom Army? I don't\nexpect a difficult fight.",
+   "ru": "Так это армия Королевства? Не\nжду трудного боя."
+  },
+  {
+   "id": 1,
+   "en": "This will be a glorious triumph for\nthe Empire, and yet another disgrace\nfor the Kingdom.",
+   "ru": "Это будет славный триумф\nИмперии и очередной позор\nКоролевства."
+  },
+  {
+   "id": 2,
+   "en": "Brother!",
+   "ru": "Брат!"
+  },
+  {
+   "id": 3,
+   "en": "Hmmm?",
+   "ru": "Хм?"
+  },
+  {
+   "id": 4,
+   "en": "The Sylpheed? Is that you, Sadira?",
+   "ru": "Сильфид? Это ты, Садира?"
+  },
+  {
+   "id": 5,
+   "en": "What are you doing here, and what\nare you doing in the company of the\nKingdom Army?!",
+   "ru": "Что ты здесь делаешь, да ещё\nвместе с армией Королевства?!"
+  },
+  {
+   "id": 6,
+   "en": "I ran away from home.",
+   "ru": "Я сбежала из дома."
+  },
+  {
+   "id": 7,
+   "en": "Excuse me?!",
+   "ru": "Прости?!"
+  },
+  {
+   "id": 8,
+   "en": "I ran away from home, so I could do\nwhatever I wanted with whomever I\nwanted!",
+   "ru": "Сбежала, чтобы делать что хочу\nи с кем хочу!"
+  },
+  {
+   "id": 9,
+   "en": "Unbelievable.",
+   "ru": "Невероятно."
+  },
+  {
+   "id": 10,
+   "en": "It's unbelievable how selfish you are!",
+   "ru": "Невероятно, какая ты эгоистка!"
+  },
+  {
+   "id": 11,
+   "en": "I'm never going to be the Empress,\nbrother, so it really doesn't matter\nhow I act, does it?",
+   "ru": "Императрицей мне всё равно не\nбыть, брат, так какая разница,\nкак я себя веду?"
+  },
+  {
+   "id": 12,
+   "en": "You've been like this forever, Sadira!\nYou always think only of yourself!",
+   "ru": "Ты всегда такой была, Садира!\nВсегда думаешь только о себе!"
+  },
+  {
+   "id": 13,
+   "en": "It's not fair!!",
+   "ru": "Это нечестно!!"
+  },
+  {
+   "id": 14,
+   "en": "I'm sensing issues.",
+   "ru": "Чувствую проблемы."
+  },
+  {
+   "id": 15,
+   "en": "I'm sensing ridiculousness.",
+   "ru": "Чувствую нелепость."
+  },
+  {
+   "id": 16,
+   "en": "I'm sensing sibling rivalry!",
+   "ru": "Чувствую соперничество брата и\nсестры!"
+  },
+  {
+   "id": 17,
+   "en": "Bodyguard:\nUh, Your Highness, don't you think\nyou're being a little unreasonable?",
+   "ru": "Телохранитель:\nЭ-э, Ваше Высочество, вам не\nкажется, что вы немного\nнеразумны?"
+  },
+  {
+   "id": 18,
+   "en": "Shut up! You don't understand\nwhat it's like to grow up with a\nspoiled little brat for a sister!",
+   "ru": "Заткнись! Ты не знаешь, каково\nрасти с избалованной маленькой\nсестрицей!"
+  },
+  {
+   "id": 19,
+   "en": "Sadira, I demand that you return to\nthe Empire and take control! I would\nlike to be selfish for a while!",
+   "ru": "Садира, вернись в Империю и\nправь! Я тоже хочу побыть\nэгоистом!"
+  },
+  {
+   "id": 20,
+   "en": "Sorry, Duyere, but as the eldest son,\nyou're stuck with responsibility!\nWhat a pity!",
+   "ru": "Прости, Дюйер, но ты старший\nсын, так что ответственность на\nтебе! Какая жалость!"
+  },
+  {
+   "id": 21,
+   "en": "Oh, sure, go ahead and laugh!",
+   "ru": "Ну конечно, смейся!"
+  },
+  {
+   "id": 22,
+   "en": "Uh, Sadira, shouldn't you have tried\nto calm down your brother instead of\nriling him up?",
+   "ru": "Э-э, Садира, может, стоило\nуспокоить брата, а не заводить\nего?"
+  },
+  {
+   "id": 23,
+   "en": "I was TRYING to be nice, I promise.",
+   "ru": "Я ПЫТАЛАСЬ быть милой, честно."
+  },
+  {
+   "id": 24,
+   "en": "I've had enough of your selfishness,\nSadira!",
+   "ru": "Мне надоел твой эгоизм, Садира!"
+  },
+  {
+   "id": 25,
+   "en": "You're going to return with me to\nthe capital, and you're going to do\nit RIGHT NOW!",
+   "ru": "Ты вернёшься со мной в столицу,\nСЕЙЧАС ЖЕ!"
+  },
+  {
+   "id": 26,
+   "en": "It sounds like we'll have to fight,\nBastion. I only wish we could have\navoided this.",
+   "ru": "Похоже, придётся драться,\nБастион. Жаль, что этого не\nизбежать."
+  },
+  {
+   "id": 27,
+   "en": "You know, I had a crazy idea that \nperhaps we COULD have, Sadira.",
+   "ru": "Знаешь, у меня была безумная\nмысль, что этого МОЖНО было\nизбежать, Садира."
+  },
+  {
+   "id": 28,
+   "en": "Perhaps she was trying to stall,\nand give Thomson more time to\nescape with the townspeople.",
+   "ru": "Может, она тянула время, чтобы\nТомсон успел увести горожан."
+  },
+  {
+   "id": 29,
+   "en": "Or perhaps she really is a selfish,\nspoiled, thoughtless brat.",
+   "ru": "А может, она и правда\nэгоистичная, избалованная,\nбездумная девчонка."
+  },
+  {
+   "id": 30,
+   "en": "I've dated enough of the latter to\nknow that you're right, Reyna.",
+   "ru": "Я встречался с достаточным\nколичеством таких, чтобы знать:\nты права, Рейна."
+  },
+  {
+   "id": 31,
+   "en": "Maybe he'll cheer up if we give him\na sweetie cake. I know that always\nmakes me happier!",
+   "ru": "Может, он развеселится, если\nдать ему пирожное? Мне всегда\nпомогает."
+  },
+  {
+   "id": 32,
+   "en": "I wish everyone in the world could be\nlike you, Barlow.",
+   "ru": "Хотел бы я, чтобы все в мире\nбыли как ты, Барлоу."
+  },
+  {
+   "id": 33,
+   "en": "We're leaving, Sadira! NOW!",
+   "ru": "Мы уходим, Садира! СЕЙЧАС ЖЕ!"
+  },
+  {
+   "id": 34,
+   "en": "And, uh, the rest of you should kill\nthose Kingdom soldiers.",
+   "ru": "А вы, э-э, перебейте этих солдат\nКоролевства."
+  },
+  {
+   "id": 35,
+   "en": "Bodyguard:\nYes, sir!",
+   "ru": "Телохранитель:\nСлушаюсь!"
+  },
+  {
+   "id": 36,
+   "en": "I just want to be selfish like you,\nSadira! What's wrong with that?",
+   "ru": "Я просто хочу быть эгоистом, как\nты, Садира! Что в этом плохого?"
+  },
+  {
+   "id": 37,
+   "en": "Sorry, Duyere, but I don't want to\npick up your slack!",
+   "ru": "Прости, Дюйер, но я не собираюсь\nтянуть твою лямку!"
+  },
+  {
+   "id": 38,
+   "en": "You have to work hard so you'll be a\ngreat Emperor someday! Nyah!",
+   "ru": "Трудись, чтобы стать великим\nимператором! Бе-бе-бе!"
+  },
+  {
+   "id": 39,
+   "en": "You know, Father is right about you!",
+   "ru": "Знаешь, отец прав насчёт тебя!"
+  },
+  {
+   "id": 40,
+   "en": "You're never going to find a man\nwho can put up with your attitude!",
+   "ru": "Ты никогда не найдёшь\nмужчину, который вытерпит\nтвой характер!"
+  },
+  {
+   "id": 41,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 42,
+   "en": "You take that BACK!",
+   "ru": "Забери свои слова НАЗАД!"
+  },
+  {
+   "id": 43,
+   "en": "It wouldn't bother you so much if it\nwasn't true!",
+   "ru": "Если бы это была неправда, тебя\nбы это так не задело!"
+  },
+  {
+   "id": 44,
+   "en": "This is pretty silly, isn't it?",
+   "ru": "Глупо всё это, правда?"
+  },
+  {
+   "id": 45,
+   "en": "Bodyguard Chief:\nIndeed it is.",
+   "ru": "Начальник охраны:\nИменно."
+  },
+  {
+   "id": 46,
+   "en": "I think Sadira and Duyere are BOTH\nbrats, if you ask me.",
+   "ru": "Если хотите знать, по-моему, и\nСадира, и Дюйер - ОБА\nизбалованные."
+  },
+  {
+   "id": 47,
+   "en": "I can't disagree with you, sir.",
+   "ru": "Не могу с вами не согласиться,\nсударь."
+  },
+  {
+   "id": 48,
+   "en": "I remember a time before I met that\ngirl, when the world seemed to be so\nfull of joy and hope.",
+   "ru": "Помню времена, когда я ещё не\nзнал эту девчонку и мир казался\nполным радости и надежды."
+  },
+  {
+   "id": 49,
+   "en": "I remember those days as well, sir.",
+   "ru": "Я тоже помню те дни, сударь."
+  },
+  {
+   "id": 50,
+   "en": "Unfortunately, if we don't fight,\nthey're going to start yelling again.",
+   "ru": "К сожалению, если мы не будем\nдраться, они снова начнут орать."
+  },
+  {
+   "id": 51,
+   "en": "We don't want that, sir.",
+   "ru": "Этого мы не хотим, сударь."
+  },
+  {
+   "id": 52,
+   "en": "I'm sorry about this.",
+   "ru": "Мне очень жаль."
+  },
+  {
+   "id": 53,
+   "en": "As am I, sir.",
+   "ru": "Мне тоже, сударь."
+  },
+  {
+   "id": 54,
+   "en": "Damn!",
+   "ru": "Проклятье!"
+  },
+  {
+   "id": 55,
+   "en": "You're not going to get your way,\nSadira! I'm going to find you and\ndrag you home on your butt!",
+   "ru": "Не будет по-твоему, Садира! Я\nнайду тебя и притащу домой за\nшиворот!"
+  },
+  {
+   "id": 56,
+   "en": "... ... ...",
+   "ru": ""
+  },
+  {
+   "id": 57,
+   "en": "The battle is over at last!",
+   "ru": "Битва наконец окончена!"
+  },
+  {
+   "id": 58,
+   "en": "\n\n\n",
+   "ru": ""
+  }
+ ]
+}

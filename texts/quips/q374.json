@@ -1,0 +1,346 @@
+{
+ "file": 374,
+ "kind": "quip",
+ "lines": [
+  {
+   "id": 0,
+   "en": "From the left, you\nstrike!",
+   "ru": "Слева бьёшь ты!"
+  },
+  {
+   "id": 1,
+   "en": "See you, I do!",
+   "ru": "Вижу тебя я!"
+  },
+  {
+   "id": 2,
+   "en": "From the right, you\nattack!",
+   "ru": "Справа нападаешь\nты!"
+  },
+  {
+   "id": 3,
+   "en": "Crafty, you are!",
+   "ru": "Хитёр ты!"
+  },
+  {
+   "id": 4,
+   "en": "Feeble, that was!",
+   "ru": "Слабым удар был!"
+  },
+  {
+   "id": 5,
+   "en": "Hmmph!",
+   "ru": "Хм!"
+  },
+  {
+   "id": 6,
+   "en": "Much strength have I\nleft for you!",
+   "ru": "Сил много у меня\nещё осталось!"
+  },
+  {
+   "id": 7,
+   "en": "Trying to hurt me,\nyou were?",
+   "ru": "Ранить меня хотел\nты?"
+  },
+  {
+   "id": 8,
+   "en": "Skilled, you are.\nBleeding, I am...",
+   "ru": "Искусен ты. Истекаю\nкровью я..."
+  },
+  {
+   "id": 9,
+   "en": "Not bad for a young\nwhelp.",
+   "ru": "Неплохо для щенка."
+  },
+  {
+   "id": 10,
+   "en": "Kuuuh!",
+   "ru": "Кху-у!"
+  },
+  {
+   "id": 11,
+   "en": "Impressed, I am.\nDefeat you, I will!",
+   "ru": "Впечатлена я.\nПобедить тебя смогу!"
+  },
+  {
+   "id": 12,
+   "en": "Grim is my future--\nvery grim!",
+   "ru": "Мрачно будущее моё...\nочень мрачно!"
+  },
+  {
+   "id": 13,
+   "en": "Waaauugghh!!",
+   "ru": "Ва-а-агх!!"
+  },
+  {
+   "id": 14,
+   "en": "Many battles have I\nsurvived!",
+   "ru": "Много битв пережила\nя!"
+  },
+  {
+   "id": 15,
+   "en": "Feel a crack in my\nhip, I do!",
+   "ru": "Хруст в бедре\nчувствую я!"
+  },
+  {
+   "id": 16,
+   "en": "Surrounded by light,\nI am.",
+   "ru": "Светом окружена я."
+  },
+  {
+   "id": 17,
+   "en": "Abused the elderly,\nyou have!",
+   "ru": "Обидел старушку ты!"
+  },
+  {
+   "id": 18,
+   "en": "Princess Sadira,\nplease forgive me...",
+   "ru": "Принцесса Садира,\nпрости меня..."
+  },
+  {
+   "id": 19,
+   "en": "Haunt you in your\nsleep, I will!",
+   "ru": "Являться тебе во\nснах буду я!"
+  },
+  {
+   "id": 20,
+   "en": "Behind me, you are?!",
+   "ru": "Сзади ты?!"
+  },
+  {
+   "id": 21,
+   "en": "A coward, you are!",
+   "ru": "Трус ты!"
+  },
+  {
+   "id": 22,
+   "en": "Rookie!",
+   "ru": "Новичок!"
+  },
+  {
+   "id": 23,
+   "en": "Hit me, you cannot!",
+   "ru": "Попасть в меня не\nможешь ты!"
+  },
+  {
+   "id": 24,
+   "en": "Miss an old woman,\nyou did!",
+   "ru": "Промахнулся по\nстарушке ты!"
+  },
+  {
+   "id": 25,
+   "en": "Hah, hah, hah!",
+   "ru": "Ха-ха-ха!"
+  },
+  {
+   "id": 26,
+   "en": "Possessed with\nspeed, you are!",
+   "ru": "Быстротой одержим\nты!"
+  },
+  {
+   "id": 27,
+   "en": "Quick, you are!",
+   "ru": "Быстр ты!"
+  },
+  {
+   "id": 28,
+   "en": "Dodged my attack,\nyou did?!",
+   "ru": "Увернулся от удара\nты?!"
+  },
+  {
+   "id": 29,
+   "en": "A sharp thorn in my\nside, you are!",
+   "ru": "Заноза в боку моём\nты!"
+  },
+  {
+   "id": 30,
+   "en": "Oyyy!!",
+   "ru": "Ой-ой!!"
+  },
+  {
+   "id": 31,
+   "en": "Absorb your feeble\nblows, I will!",
+   "ru": "Слабые удары твои\nвыдержу я!"
+  },
+  {
+   "id": 32,
+   "en": "Laugh at you, I do!",
+   "ru": "Смеюсь над тобой я!"
+  },
+  {
+   "id": 33,
+   "en": "Much have you to\nlearn!",
+   "ru": "Многому учиться\nтебе!"
+  },
+  {
+   "id": 34,
+   "en": "Naive, you are!",
+   "ru": "Наивен ты!"
+  },
+  {
+   "id": 35,
+   "en": "Foolish youth!",
+   "ru": "Глупая молодёжь!"
+  },
+  {
+   "id": 36,
+   "en": "Don't underestimate\nthe elderly!",
+   "ru": "Стариков не\nнедооценивай!"
+  },
+  {
+   "id": 37,
+   "en": "Cracking loudly, my\naching joints are!",
+   "ru": "Хрустят громко\nсуставы мои!"
+  },
+  {
+   "id": 38,
+   "en": "Need skill AND power,\nyou do!",
+   "ru": "Умение И сила нужны\nтебе!"
+  },
+  {
+   "id": 39,
+   "en": "Annoy me, you do!",
+   "ru": "Раздражаешь меня\nты!"
+  },
+  {
+   "id": 40,
+   "en": "Another victory have\nI claimed!",
+   "ru": "Ещё одну победу\nодержала я!"
+  },
+  {
+   "id": 41,
+   "en": "Beaten by an old\nwoman, you were!",
+   "ru": "Побит старушкой ты!"
+  },
+  {
+   "id": 42,
+   "en": "Filled my Depends\nwith joy, I have!",
+   "ru": "На радостях\nподмокла я!"
+  },
+  {
+   "id": 43,
+   "en": "No one shall harm the\nImperial Princess!",
+   "ru": "Имперскую принцессу\nникто не тронет!"
+  },
+  {
+   "id": 44,
+   "en": "Hiiiiyaaaa!",
+   "ru": "Хи-и-йа-а!"
+  },
+  {
+   "id": 45,
+   "en": "Woooo-tang!",
+   "ru": "У-у-у-танг!"
+  },
+  {
+   "id": 46,
+   "en": "Kiaaaaiii!",
+   "ru": "Кия-а-а-ай!"
+  },
+  {
+   "id": 47,
+   "en": "Respect your elders,\nyou will!",
+   "ru": "Старших уважать\nбудешь ты!"
+  },
+  {
+   "id": 48,
+   "en": "Claim your life, I do!",
+   "ru": "Жизнь твою заберу\nя!"
+  },
+  {
+   "id": 49,
+   "en": "It's a great time to be\nsilver!",
+   "ru": "Славно быть седой!"
+  },
+  {
+   "id": 50,
+   "en": "Strike you dead, I\nwill!",
+   "ru": "Насмерть сражу тебя\nя!"
+  },
+  {
+   "id": 51,
+   "en": "Leaving me alone,\nyou are!",
+   "ru": "В покое меня\nоставляешь ты!"
+  },
+  {
+   "id": 52,
+   "en": "Need more than a\nweapon, you do!",
+   "ru": "Одного оружия мало\nтебе!"
+  },
+  {
+   "id": 53,
+   "en": "Hurt the Princess, you\nwill not!",
+   "ru": "Принцессу не\nтронешь ты!"
+  },
+  {
+   "id": 54,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 55,
+   "en": "Aaaugh!",
+   "ru": "А-а-ах!"
+  },
+  {
+   "id": 56,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 57,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 58,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 59,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 60,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 61,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 62,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 63,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 64,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 65,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 66,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 67,
+   "en": "",
+   "ru": ""
+  }
+ ]
+}

@@ -1,0 +1,421 @@
+{
+ "file": 408,
+ "kind": "quip",
+ "lines": [
+  {
+   "id": 0,
+   "en": "From the left?",
+   "ru": "Слева?"
+  },
+  {
+   "id": 1,
+   "en": "Aren't YOU clever!",
+   "ru": "Ишь, какой ловкий!"
+  },
+  {
+   "id": 2,
+   "en": "From the right?",
+   "ru": "Справа?"
+  },
+  {
+   "id": 3,
+   "en": "Wise tactic--NOT!",
+   "ru": "Мудрая тактика... НЕ!"
+  },
+  {
+   "id": 4,
+   "en": "That didn't hurt!",
+   "ru": "Даже не больно!"
+  },
+  {
+   "id": 5,
+   "en": "Alright, now it's MY\nturn to strike!",
+   "ru": "Так, теперь МОЙ\nчерёд!"
+  },
+  {
+   "id": 6,
+   "en": "You make me laugh!",
+   "ru": "Ты меня смешишь!"
+  },
+  {
+   "id": 7,
+   "en": "Prepare to feel my\ncold, hard steel!",
+   "ru": "Отведай моей\nхолодной стали!"
+  },
+  {
+   "id": 8,
+   "en": "Not bad!",
+   "ru": "Неплохо!"
+  },
+  {
+   "id": 9,
+   "en": "That--hurt!",
+   "ru": "Это было... больно!"
+  },
+  {
+   "id": 10,
+   "en": "Aargh!",
+   "ru": "Аргх!"
+  },
+  {
+   "id": 11,
+   "en": "Now you've made me\nquite upset!",
+   "ru": "Ну всё, ты меня\nразозлил!"
+  },
+  {
+   "id": 12,
+   "en": "Ahhhh!!",
+   "ru": "А-а-а!!"
+  },
+  {
+   "id": 13,
+   "en": "This fight has just\nbegun, I promise!",
+   "ru": "Бой только начался,\nобещаю!"
+  },
+  {
+   "id": 14,
+   "en": "No--it's not over yet!\nNot even close!",
+   "ru": "Нет, это ещё не\nконец! Даже близко!"
+  },
+  {
+   "id": 15,
+   "en": "This is NOT good.",
+   "ru": "Дело плохо."
+  },
+  {
+   "id": 16,
+   "en": "I have dishonored\nyou, Father!",
+   "ru": "Я опозорил тебя,\nотец!"
+  },
+  {
+   "id": 17,
+   "en": "This simply can't be!\nI cannot lose!",
+   "ru": "Не может быть! Я не\nмогу проиграть!"
+  },
+  {
+   "id": 18,
+   "en": "What went wrong?!",
+   "ru": "Что пошло не так?!"
+  },
+  {
+   "id": 19,
+   "en": "I'm so sorry, Father.",
+   "ru": "Прости меня, отец."
+  },
+  {
+   "id": 20,
+   "en": "What!?",
+   "ru": "Что!?"
+  },
+  {
+   "id": 21,
+   "en": "Hitting me from\nbehind, you coward?!",
+   "ru": "Удар в спину, трус?!"
+  },
+  {
+   "id": 22,
+   "en": "There you are!",
+   "ru": "Вот ты где!"
+  },
+  {
+   "id": 23,
+   "en": "Saw THAT coming!",
+   "ru": "Так и знал!"
+  },
+  {
+   "id": 24,
+   "en": "This is your first\nbattle, am I right?",
+   "ru": "Это твой первый\nбой, да?"
+  },
+  {
+   "id": 25,
+   "en": "Whoops!",
+   "ru": "Упс!"
+  },
+  {
+   "id": 26,
+   "en": "What!?",
+   "ru": "Что!?"
+  },
+  {
+   "id": 27,
+   "en": "Curse you!",
+   "ru": "Будь ты проклят!"
+  },
+  {
+   "id": 28,
+   "en": "You're good!",
+   "ru": "А ты хорош!"
+  },
+  {
+   "id": 29,
+   "en": "Not bad!",
+   "ru": "Неплохо!"
+  },
+  {
+   "id": 30,
+   "en": "Owww!!",
+   "ru": "А-а-ай!!"
+  },
+  {
+   "id": 31,
+   "en": "Aargh!",
+   "ru": "Аргх!"
+  },
+  {
+   "id": 32,
+   "en": "Is that all you can\nmuster?!",
+   "ru": "И это всё, на что ты\nспособен?!"
+  },
+  {
+   "id": 33,
+   "en": "Try again!",
+   "ru": "Попробуй ещё!"
+  },
+  {
+   "id": 34,
+   "en": "Gotcha!",
+   "ru": "Попался!"
+  },
+  {
+   "id": 35,
+   "en": "Too easy!",
+   "ru": "Слишком просто!"
+  },
+  {
+   "id": 36,
+   "en": "RAAUUGGHH!!",
+   "ru": "А-А-А-А!!"
+  },
+  {
+   "id": 37,
+   "en": "Damn you!",
+   "ru": "Чтоб тебя!"
+  },
+  {
+   "id": 38,
+   "en": "There you are, my\nwretched foe!",
+   "ru": "Вот ты где, негодяй!"
+  },
+  {
+   "id": 39,
+   "en": "Oh, no!",
+   "ru": "О нет!"
+  },
+  {
+   "id": 40,
+   "en": "I will not lose to you!\nI fight with honor!",
+   "ru": "Я тебе не проиграю!\nЯ бьюсь с честью!"
+  },
+  {
+   "id": 41,
+   "en": "I will never tire of\nsweet victory!",
+   "ru": "Сладкая победа не\nнадоест никогда!"
+  },
+  {
+   "id": 42,
+   "en": "And another one bites\nthe dust!",
+   "ru": "Ещё один готов!"
+  },
+  {
+   "id": 43,
+   "en": "Whose ATAC must\nI claim next?",
+   "ru": "Чей АТАК мне\nзабрать следующим?"
+  },
+  {
+   "id": 44,
+   "en": "Hah!",
+   "ru": "Ха!"
+  },
+  {
+   "id": 45,
+   "en": "Why, you little--!",
+   "ru": "Ах ты, мелкий...!"
+  },
+  {
+   "id": 46,
+   "en": "Kiai!!",
+   "ru": "Кия-а!!"
+  },
+  {
+   "id": 47,
+   "en": "Take THIS!",
+   "ru": "Получай!"
+  },
+  {
+   "id": 48,
+   "en": "There you are!",
+   "ru": "Вот ты где!"
+  },
+  {
+   "id": 49,
+   "en": "Blarg!!",
+   "ru": "Блярг!!"
+  },
+  {
+   "id": 50,
+   "en": "Here I come!",
+   "ru": "Иду!"
+  },
+  {
+   "id": 51,
+   "en": "Feel the power!",
+   "ru": "Почувствуй силу!"
+  },
+  {
+   "id": 52,
+   "en": "You're mine now!",
+   "ru": "Теперь ты мой!"
+  },
+  {
+   "id": 53,
+   "en": "The end is upon you!",
+   "ru": "Тебе конец!"
+  },
+  {
+   "id": 54,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 55,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 56,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 57,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 58,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 59,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 60,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 61,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 62,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 63,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 64,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 65,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 66,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 67,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 68,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 69,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 70,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 71,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 72,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 73,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 74,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 75,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 76,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 77,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 78,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 79,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 80,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 81,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 82,
+   "en": "",
+   "ru": ""
+  }
+ ]
+}

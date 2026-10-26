@@ -1,0 +1,346 @@
+{
+ "file": 377,
+ "kind": "quip",
+ "lines": [
+  {
+   "id": 0,
+   "en": "You choose to attack\nfrom the left?",
+   "ru": "Решил атаковать\nслева?"
+  },
+  {
+   "id": 1,
+   "en": "Interesting strategy.",
+   "ru": "Интересная\nстратегия."
+  },
+  {
+   "id": 2,
+   "en": "You are attacking\nfrom the right?",
+   "ru": "Атакуешь справа?"
+  },
+  {
+   "id": 3,
+   "en": "Probably not what I\nwould have done.",
+   "ru": "Я бы, пожалуй, так\nне сделал."
+  },
+  {
+   "id": 4,
+   "en": "A minimal attack\nand a feeble effort.",
+   "ru": "Минимальная атака,\nжалкая попытка."
+  },
+  {
+   "id": 5,
+   "en": "I am appalled at your\nlack of strength.",
+   "ru": "Твоя слабость меня\nужасает."
+  },
+  {
+   "id": 6,
+   "en": "I'm sorry. Were you\ntrying to injure me?",
+   "ru": "Прости. Ты пытался\nменя ранить?"
+  },
+  {
+   "id": 7,
+   "en": "You provide me with\nmild amusement.",
+   "ru": "Ты меня слегка\nзабавляешь."
+  },
+  {
+   "id": 8,
+   "en": "You are stronger than\nmy original estimate.",
+   "ru": "Ты сильнее, чем я\nрассчитывал."
+  },
+  {
+   "id": 9,
+   "en": "Aargh!!",
+   "ru": "Аргх!!"
+  },
+  {
+   "id": 10,
+   "en": "Wait until I analyze\nyour attack patterns!",
+   "ru": "Сейчас изучу\nтвои атаки!"
+  },
+  {
+   "id": 11,
+   "en": "Very interesting--\nand very painful.",
+   "ru": "Очень интересно... и\nочень больно."
+  },
+  {
+   "id": 12,
+   "en": "I've suffered damage\nto multiple systems!",
+   "ru": "Повреждено\nнесколько систем!"
+  },
+  {
+   "id": 13,
+   "en": "Now you're starting\nto make me angry!",
+   "ru": "Ты начинаешь меня\nзлить!"
+  },
+  {
+   "id": 14,
+   "en": "AAAAHH!!",
+   "ru": "А-А-А-А!!"
+  },
+  {
+   "id": 15,
+   "en": "My superior tactics\nwill yet prevail!",
+   "ru": "Моя тактика ещё\nвозьмёт своё!"
+  },
+  {
+   "id": 16,
+   "en": "The battle has ended\nfor me, it seems.",
+   "ru": "Похоже, битва для\nменя окончена."
+  },
+  {
+   "id": 17,
+   "en": "NOOOOO!!!",
+   "ru": "НЕ-Е-ЕТ!!!"
+  },
+  {
+   "id": 18,
+   "en": "I have disgraced Duke\nLogan with this loss.",
+   "ru": "Я опозорил герцога\nЛогана."
+  },
+  {
+   "id": 19,
+   "en": "Your victory is but a\nstatistical anomaly!",
+   "ru": "Твоя победа —\nпросто аномалия!"
+  },
+  {
+   "id": 20,
+   "en": "A rear attack?",
+   "ru": "Атака с тыла?"
+  },
+  {
+   "id": 21,
+   "en": "A dishonorable yet\neffective tactic!",
+   "ru": "Бесчестно, но\nдейственно!"
+  },
+  {
+   "id": 22,
+   "en": "Was that an attack\nyou just attempted?",
+   "ru": "Это ты сейчас\nатаковал?"
+  },
+  {
+   "id": 23,
+   "en": "You certainly didn't\nexpect THAT to hit.",
+   "ru": "Ты же не думал, что\nЭТО попадёт."
+  },
+  {
+   "id": 24,
+   "en": "Your futility is truly\na joy to behold!",
+   "ru": "Твоя беспомощность\n— загляденье!"
+  },
+  {
+   "id": 25,
+   "en": "Is there any method\nto your madness?",
+   "ru": "В твоём безумии есть\nсистема?"
+  },
+  {
+   "id": 26,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 27,
+   "en": "I need to recalibrate\nmy weapons systems.",
+   "ru": "Надо настроить\nоружие заново."
+  },
+  {
+   "id": 28,
+   "en": "Your luck will run\nout. It always does.",
+   "ru": "Удача отвернётся.\nКак всегда."
+  },
+  {
+   "id": 29,
+   "en": "A rare tactical error.",
+   "ru": "Редкая тактическая\nошибка."
+  },
+  {
+   "id": 30,
+   "en": "I am merely biding\nmy time.",
+   "ru": "Я просто выжидаю."
+  },
+  {
+   "id": 31,
+   "en": "Uhhhh!!",
+   "ru": "У-у-ух!!"
+  },
+  {
+   "id": 32,
+   "en": "You cannot defeat me\nunder any conditions!",
+   "ru": "Тебе меня не\nпобедить никак!"
+  },
+  {
+   "id": 33,
+   "en": "My attacks will not\nbe absorbed so easily!",
+   "ru": "Мои атаки так\nпросто не погасить!"
+  },
+  {
+   "id": 34,
+   "en": "Foolish! So foolish!",
+   "ru": "Глупо! Как глупо!"
+  },
+  {
+   "id": 35,
+   "en": "A warrior makes his\nown opportunities.",
+   "ru": "Воин сам творит\nсвои шансы."
+  },
+  {
+   "id": 36,
+   "en": "Hmmph!",
+   "ru": "Хм!"
+  },
+  {
+   "id": 37,
+   "en": "Damn you!",
+   "ru": "Чтоб тебя!"
+  },
+  {
+   "id": 38,
+   "en": "Futile.",
+   "ru": "Тщетно."
+  },
+  {
+   "id": 39,
+   "en": "My next attack will\nnot be so lethargic!",
+   "ru": "Следующий удар\nбудет резвее!"
+  },
+  {
+   "id": 40,
+   "en": "I dedicate my victory\nto Miss Claire!",
+   "ru": "Посвящаю победу\nмисс Клэр!"
+  },
+  {
+   "id": 41,
+   "en": "Fools do not belong\non the battlefield.",
+   "ru": "Глупцам не место на\nполе боя."
+  },
+  {
+   "id": 42,
+   "en": "You were an inferior\nopponent.",
+   "ru": "Ты был слабым\nпротивником."
+  },
+  {
+   "id": 43,
+   "en": "Who will be the next\nto taste defeat?",
+   "ru": "Кто следующий\nвкусит поражение?"
+  },
+  {
+   "id": 44,
+   "en": "Ooooff!",
+   "ru": "У-у-уф!"
+  },
+  {
+   "id": 45,
+   "en": "Haaaah!",
+   "ru": "Ха-а-а!"
+  },
+  {
+   "id": 46,
+   "en": "Attack initiated.",
+   "ru": "Атака начата."
+  },
+  {
+   "id": 47,
+   "en": "This attack should\nprove sufficient.",
+   "ru": "Этой атаки должно\nхватить."
+  },
+  {
+   "id": 48,
+   "en": "Withdraw from this\nbattle at once.",
+   "ru": "Немедленно покинь\nбой."
+  },
+  {
+   "id": 49,
+   "en": "Prepare yourself.",
+   "ru": "Приготовься."
+  },
+  {
+   "id": 50,
+   "en": "RAAARGH!!",
+   "ru": "Р-Р-РА-А-А!!"
+  },
+  {
+   "id": 51,
+   "en": "I will send you to\nyour grave, fool!",
+   "ru": "Я отправлю тебя в\nмогилу, глупец!"
+  },
+  {
+   "id": 52,
+   "en": "Leave this battle or\nyou shall suffer!",
+   "ru": "Уходи, или тебе не\nпоздоровится!"
+  },
+  {
+   "id": 53,
+   "en": "Bid farewell to your\nATAC and your life!",
+   "ru": "Прощайся с АТАКом\nи жизнью!"
+  },
+  {
+   "id": 54,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 55,
+   "en": "WAAUUGGHH!!",
+   "ru": "У-А-А-А-ГХ!!"
+  },
+  {
+   "id": 56,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 57,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 58,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 59,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 60,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 61,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 62,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 63,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 64,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 65,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 66,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 67,
+   "en": "",
+   "ru": ""
+  }
+ ]
+}

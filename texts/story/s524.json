@@ -1,0 +1,236 @@
+{
+ "file": 524,
+ "kind": "story",
+ "lines": [
+  {
+   "id": 0,
+   "en": "Imperial Chief of Security:\nHow are you faring, Your Majesty?",
+   "ru": "Начальник имперской охраны:\nКак вы, Ваше Величество?"
+  },
+  {
+   "id": 1,
+   "en": "My power output is down to sixty\npercent, but the leg actuators are\nstill fully operational.",
+   "ru": "Мощность упала до шестидесяти\nпроцентов, но приводы ног ещё в\nполном порядке."
+  },
+  {
+   "id": 2,
+   "en": "I was referring to you, not your\nATAC, M'lord.",
+   "ru": "Я спрашивал о вас, а не о вашем\nАТАКе, милорд."
+  },
+  {
+   "id": 3,
+   "en": "Oh. I'm fine, Chief Matisse. Slightly\nshaken up, but alright otherwise.",
+   "ru": "А. Я в порядке, начальник\nМатисс. Немного потрясён, но в\nостальном всё хорошо."
+  },
+  {
+   "id": 4,
+   "en": "I apologize for the way in which you\nmust constantly clean up my messes.\nI...I don't think I'm meant to lead.",
+   "ru": "Прости, что тебе вечно\nприходится за мной разгребать.\nЯ... кажется, я не создан править."
+  },
+  {
+   "id": 5,
+   "en": "That is not true, Your Majesty! You\nsimply have yet to learn the methods\nof your father's greatness.",
+   "ru": "Неправда, Ваше Величество! Вы\nпросто ещё не постигли секретов\nвеличия вашего отца."
+  },
+  {
+   "id": 6,
+   "en": "You will be a great Emperor, Duyere.\nThe Junaris Empire shall grow and\nprosper under your rule.",
+   "ru": "Вы станете великим\nимператором, Дюйер. При вас\nИмперия расцветёт."
+  },
+  {
+   "id": 7,
+   "en": "General Faulkner!",
+   "ru": "Генерал Фолкнер!"
+  },
+  {
+   "id": 8,
+   "en": "Faulkner, we were forced to retreat\nbecause your reinforcements did not\narrive! Explain yourself!",
+   "ru": "Фолкнер, мы отступили, потому\nчто твоё подкрепление не\nпришло! Объяснись!"
+  },
+  {
+   "id": 9,
+   "en": "I have no need to explain my actions\nto anyone...least of all, a dead man.",
+   "ru": "Мне незачем объясняться перед\nкем-либо... и уж тем более перед\nпокойником."
+  },
+  {
+   "id": 10,
+   "en": "What are you talking about?! As the\nEmperor, I demand that you answer\nhis question!",
+   "ru": "О чём ты?! Как император, я\nтребую, чтобы ты ответил на его\nвопрос!"
+  },
+  {
+   "id": 11,
+   "en": "Alright, Duyere, I'll humor you one\nfinal time. The reinforcements never\narrived because I never sent them.",
+   "ru": "Ладно, Дюйер, потешу вас\nнапоследок. Подкрепление не\nпришло - я его не посылал."
+  },
+  {
+   "id": 12,
+   "en": "What the hell is this?! What are these\nsoldiers doing?!",
+   "ru": "Что это, чёрт возьми, значит?!\nЧто делают эти солдаты?!"
+  },
+  {
+   "id": 13,
+   "en": "Duyere, I am placing you under\narrest for conspiracy in the murder\nof your father, Emperor Degalle.",
+   "ru": "Дюйер, вы арестованы за участие\nв заговоре с целью убийства\nвашего отца, императора Дегаля."
+  },
+  {
+   "id": 14,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 15,
+   "en": "Faulkner, this is ludicrous! Duyere\nhad no role in his father's death,\nand you very well know it!",
+   "ru": "Фолкнер, это нелепо! Дюйер не\nпричастен к смерти отца, и ты\nпрекрасно это знаешь!"
+  },
+  {
+   "id": 16,
+   "en": "Matisse is correct! I loved my father!\nI continue to grieve his passing!",
+   "ru": "Матисс прав! Я любил отца! Я до\nсих пор скорблю о нём!"
+  },
+  {
+   "id": 17,
+   "en": "Bringing this false charge against me\nis treason, Faulkner! You shall be\nexecuted for your crime!",
+   "ru": "Ложно обвинять меня - измена,\nФолкнер! Тебя казнят за это\nпреступление!"
+  },
+  {
+   "id": 18,
+   "en": "Oh, but I have overwheming evidence\nthat you DID order your father killed.\nI have the assassin's confession.",
+   "ru": "О, у меня есть неопровержимые\nдоказательства. Убийца\nпризнался, что это ваш заказ."
+  },
+  {
+   "id": 19,
+   "en": "You are no longer an Emperor,\nDuyere, but merely a criminal who\nwill say anything to escape justice.",
+   "ru": "Вы больше не император, Дюйер,\nа преступник, готовый лгать,\nлишь бы уйти от суда."
+  },
+  {
+   "id": 20,
+   "en": "You...you...idiot!",
+   "ru": "Ты... ты... идиот!"
+  },
+  {
+   "id": 21,
+   "en": "Of course...",
+   "ru": "Ну конечно..."
+  },
+  {
+   "id": 22,
+   "en": "Of course!",
+   "ru": "Ну конечно!"
+  },
+  {
+   "id": 23,
+   "en": "Your Majesty, I beg your forgiveness!\nI should have realized it sooner!",
+   "ru": "Ваше Величество, молю о\nпрощении! Мне следовало понять\nэто раньше!"
+  },
+  {
+   "id": 24,
+   "en": "It's so obvious to me now!",
+   "ru": "Теперь мне всё ясно!"
+  },
+  {
+   "id": 25,
+   "en": "All that is obvious to me is the utter\ninsanity of this situation!",
+   "ru": "Мне ясно лишь полное безумие\nпроисходящего!"
+  },
+  {
+   "id": 26,
+   "en": "Don't you see, Your Majesty?!",
+   "ru": "Разве вы не видите, Ваше\nВеличество?!"
+  },
+  {
+   "id": 27,
+   "en": "Faulkner is the one who had your\nfather murdered! He's responsible\nfor all of this!",
+   "ru": "Это Фолкнер убил вашего отца!\nЭто он за всем стоит!"
+  },
+  {
+   "id": 28,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 29,
+   "en": "Is this true, Faulkner?!",
+   "ru": "Это правда, Фолкнер?!"
+  },
+  {
+   "id": 30,
+   "en": "You are a very smart man, Matisse.\nIt is obvious why Emperor Degalle\nentrusted his life to you.",
+   "ru": "Ты очень умён, Матисс.\nНеудивительно, что император\nДегаль доверял тебе свою жизнь."
+  },
+  {
+   "id": 31,
+   "en": "If only you had been smart enough\nto cast your lot with me instead of\nthe Emperor's simpleton son.",
+   "ru": "Жаль, ума не хватило поставить\nна меня, а не на простака-сына\nимператора."
+  },
+  {
+   "id": 32,
+   "en": "It is truly a pity that you must die.",
+   "ru": "Право, жаль, что тебе придётся\nумереть."
+  },
+  {
+   "id": 33,
+   "en": "Gwahhh!",
+   "ru": "Аргх!"
+  },
+  {
+   "id": 34,
+   "en": "Your Majesty, I'm sorry...!",
+   "ru": "Ваше Величество, простите...!"
+  },
+  {
+   "id": 35,
+   "en": "Matisse!!",
+   "ru": "Матисс!!"
+  },
+  {
+   "id": 36,
+   "en": "Damn you, Faulkner!!",
+   "ru": "Будь ты проклят, Фолкнер!!"
+  },
+  {
+   "id": 37,
+   "en": "You unconscionable bastard! After\nall my father did on your behalf,\nyou would betray him?!",
+   "ru": "Бессовестный мерзавец! После\nвсего, что отец для тебя сделал,\nты его предал?!"
+  },
+  {
+   "id": 38,
+   "en": "This is your end, Faulkner! I will\nkill you or die trying!!",
+   "ru": "Тебе конец, Фолкнер! Я убью тебя\nили погибну!!"
+  },
+  {
+   "id": 39,
+   "en": "What?! My ATAC has shut down?!",
+   "ru": "Что?! Мой АТАК отключился?!"
+  },
+  {
+   "id": 40,
+   "en": "Damn it all!!",
+   "ru": "Будь всё проклято!!"
+  },
+  {
+   "id": 41,
+   "en": "Now you understand why I always\ninspect my ATAC very closely before\nheading into battle.",
+   "ru": "Теперь вы понимаете, почему я\nвсегда тщательно проверяю свой\nАТАК перед боем."
+  },
+  {
+   "id": 42,
+   "en": "It's far too easy for someone to place\na series of easily activated overrides\ninto your ATAC's systems.",
+   "ru": "Слишком уж легко встроить в\nсистемы АТАКа пару легко\nсрабатывающих блокировок."
+  },
+  {
+   "id": 43,
+   "en": "Curse you, Faulkner!",
+   "ru": "Будь ты проклят, Фолкнер!"
+  },
+  {
+   "id": 44,
+   "en": "Escort the prisoner to the palace.",
+   "ru": "Доставьте пленника во дворец."
+  },
+  {
+   "id": 45,
+   "en": "No! NO!!!",
+   "ru": "Нет! НЕТ!!!"
+  }
+ ]
+}

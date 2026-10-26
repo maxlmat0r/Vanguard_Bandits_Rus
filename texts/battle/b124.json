@@ -1,0 +1,376 @@
+{
+ "file": 124,
+ "kind": "battle",
+ "lines": [
+  {
+   "id": 0,
+   "en": "The plan seems to be a success.\nEvery ATAC in Araba must be out here\nto engage us...",
+   "ru": "План, похоже, сработал. Похоже,\nвсе АТАКи Арабы вышли сюда,\nчтобы сразиться с нами..."
+  },
+  {
+   "id": 1,
+   "en": "I just pray that the women find\nGalvas before these wretched\nImperials tarnish us too badly.",
+   "ru": "Лишь бы девушки нашли\nГальваса, пока эти имперцы нас\nне слишком потрепали."
+  },
+  {
+   "id": 2,
+   "en": "Bastion, you must attack now!",
+   "ru": "Бастион, атакуй сейчас же!"
+  },
+  {
+   "id": 3,
+   "en": "That ATAC...it's Faulkner!",
+   "ru": "Этот АТАК... это Фолкнер!"
+  },
+  {
+   "id": 4,
+   "en": "Stick to Zeira's plan, Bastion! If you\ndo anything stupid, you put all\nour lives at risk!",
+   "ru": "Держись плана Зейры, Бастион!\nНаделаешь глупостей -\nпоставишь под удар всех нас!"
+  },
+  {
+   "id": 5,
+   "en": "You understand that, don't you?",
+   "ru": "Ты ведь это понимаешь?"
+  },
+  {
+   "id": 6,
+   "en": "I understand.\nI don't care!",
+   "ru": "Понимаю. Мне всё равно!"
+  },
+  {
+   "id": 7,
+   "en": "I understand.",
+   "ru": "Понимаю."
+  },
+  {
+   "id": 8,
+   "en": "I'll do just as Zeira instructed us...\nuntil Galvas is rescued.",
+   "ru": "Я сделаю всё, как велел Зейра...\nпока Гальвас не будет спасён."
+  },
+  {
+   "id": 9,
+   "en": "And then I'm going to rip Faulkner\nfrom his ATAC and slit his throat!",
+   "ru": "А потом я вытащу Фолкнера из\nего АТАКа и перережу ему глотку!"
+  },
+  {
+   "id": 10,
+   "en": "I don't have any problem with that.\nJust make sure that you stay alive!",
+   "ru": "Я не против. Только постарайся\nостаться в живых!"
+  },
+  {
+   "id": 11,
+   "en": "I frankly don't care if I die...not as\nlong as I claim Faulkner's life first!",
+   "ru": "Честно говоря, мне всё равно,\nумру ли я... лишь бы сначала\nзабрать жизнь Фолкнера!"
+  },
+  {
+   "id": 12,
+   "en": "You can worry about your own life,\nDevlin! I'm here to claim revenge,\nnothing more!",
+   "ru": "О своей жизни сам беспокойся,\nДевлин! Я здесь ради мести, и\nтолько!"
+  },
+  {
+   "id": 13,
+   "en": "I know full well about wanting\nrevenge, Bastion! I have lost both\nfriends and family to the Empire!",
+   "ru": "Я прекрасно знаю, что такое\nжажда мести, Бастион! Империя\nотняла у меня друзей и семью!"
+  },
+  {
+   "id": 14,
+   "en": "But if you attack Faulkner, you\njeopardize the life of Galvas...",
+   "ru": "Но если ты нападёшь на\nФолкнера, то поставишь под\nугрозу жизнь Гальваса..."
+  },
+  {
+   "id": 15,
+   "en": "The only one who can explain what\nyour father told you with his final\nbreath.",
+   "ru": "Единственного, кто может\nобъяснить, что сказал тебе отец\nперед смертью."
+  },
+  {
+   "id": 16,
+   "en": "Be patient, Bastion! You'll have your\nchance for revenge soon enough!",
+   "ru": "Потерпи, Бастион! Скоро у тебя\nбудет шанс отомстить!"
+  },
+  {
+   "id": 17,
+   "en": "(But I have a chance for revenge at\nthis very moment...)",
+   "ru": "(Но шанс отомстить есть у меня\nпрямо сейчас...)"
+  },
+  {
+   "id": 18,
+   "en": "(Dah Awalon ATACs are putting up\na goot fight against Fokkner...)",
+   "ru": "(Эти афалонские АТАКи неплохо\nсражаются против Фоккнера...)"
+  },
+  {
+   "id": 19,
+   "en": "(I tolt dhat fool he coult not vin\nvithout my help!)",
+   "ru": "(Я гофорил этому тураку, что без\nменя ему не победить!)"
+  },
+  {
+   "id": 20,
+   "en": "(But perhaps I can take advantage\nuff dhis situation, and show Prince\nDuyere that I deserff to be a general!)",
+   "ru": "(Но, мошет, я этим фоспольсуюсь\nи токашу принцу Дюйеру, что\nтостоин пыть генералом!)"
+  },
+  {
+   "id": 21,
+   "en": "Soldier! Come here at vunce!",
+   "ru": "Солтат! Ко мне, неметтленно!"
+  },
+  {
+   "id": 22,
+   "en": "Imperial Soldier:\nYes, sir?",
+   "ru": "Имперский солдат:\nДа, командир?"
+  },
+  {
+   "id": 23,
+   "en": "Fetch Galwas from dhe dungeons ant\nbring him to me!",
+   "ru": "Притащи Гальфаса ис темницы и\nпривети ко мне!"
+  },
+  {
+   "id": 24,
+   "en": "Yes, sir.",
+   "ru": "Слушаюсь."
+  },
+  {
+   "id": 25,
+   "en": "(I vill display Galvas for everyvun\non the battlefielt to see. The Avalon\nArmy vill be forced to retreat...)",
+   "ru": "(Я покашу Гальфаса всему полю\nбоя. Афалонской армии притётся\nотступить...)"
+  },
+  {
+   "id": 26,
+   "en": "(And I vill be hailed as dhe man who\nchanged dhe course uff the var!)",
+   "ru": "(И меня просславят как челофека,\nкоторый исменил ход фойны!)"
+  },
+  {
+   "id": 27,
+   "en": "Commander Zakov!",
+   "ru": "Командир Заков!"
+  },
+  {
+   "id": 28,
+   "en": "Vhy haff you not brought Galvas as I\nordered you to do?!",
+   "ru": "Почему ты не привёл Гальфаса,\nкак я прикасал?!"
+  },
+  {
+   "id": 29,
+   "en": "He...he escaped, sir!",
+   "ru": "Он... он сбежал, командир!"
+  },
+  {
+   "id": 30,
+   "en": "Vhat?!! He vas to be guardet by at\nleast two men at all times! Vhere\nare dhe fools now?!",
+   "ru": "Што?!! Его толшны были\nсторошить как минимум тфое!\nГте эти тураки?!"
+  },
+  {
+   "id": 31,
+   "en": "Uh...they're dead, sir. Broken necks.\nGalvas must have killed them as he\nescaped.",
+   "ru": "Э-э... мертвы, командир.\nСвёрнуты шеи. Должно быть,\nГальвас убил их при побеге."
+  },
+  {
+   "id": 32,
+   "en": "If dhey weren't already dead, I vould\nkill dhem myself!",
+   "ru": "Если бы они уше не умерли, я\nубил бы их сам!"
+  },
+  {
+   "id": 33,
+   "en": "(Fokkner vill haff my head vhen he\nhears dhis news!)",
+   "ru": "(Фоккнер снимет с меня голофу,\nкогта упнает!)"
+  },
+  {
+   "id": 34,
+   "en": "(Unless...)",
+   "ru": "(Если только...)"
+  },
+  {
+   "id": 35,
+   "en": "If Galwas has escaped, dhen ve must\nrecapture him!",
+   "ru": "Раз Гальфас сбешал, мы толшны\nего поймать!"
+  },
+  {
+   "id": 36,
+   "en": "You soldiers, come vith me! Ve are\njoining the battle vith Fokkner!",
+   "ru": "Фы, солтаты, са мной! Мы\nприсоетиняемся к пою фместе с\nФоккнером!"
+  },
+  {
+   "id": 37,
+   "en": "But I thought General Faulkner's\norders were for us to remain here\nin the castle, Commander...",
+   "ru": "Но ведь генерал Фолкнер\nприказал нам оставаться в\nзамке, командир..."
+  },
+  {
+   "id": 38,
+   "en": "Dhat vas before Galvas escaped! Vhen\nve find him, and defeat dhese Avalon\nfools, Fokkner vill not care!",
+   "ru": "Это пыло то попега Гальфаса!\nКогта мы его найтём, Фоккнеру\nпудет фсё рафно!"
+  },
+  {
+   "id": 39,
+   "en": "As you command, sir...",
+   "ru": "Как прикажете, командир..."
+  },
+  {
+   "id": 40,
+   "en": "(What is Zakov doing?! I cannot\nbelieve he would so blatantly\ndisregard my orders!)",
+   "ru": "(Что творит Заков?! Не верится,\nчто он так нагло нарушил мой\nприказ!)"
+  },
+  {
+   "id": 41,
+   "en": "(I knew he had ambitions to impress\nthe Prince, but this bold a maneuver\nis certainly unexpected.)",
+   "ru": "(Я знал, что он мечтает\nвпечатлить принца, но такой\nдерзости никак не ожидал.)"
+  },
+  {
+   "id": 42,
+   "en": "(After this battle is won, I will have\nto consider the best way to deal with\nhim. Perhaps...permanently.)",
+   "ru": "(Когда битва будет выиграна,\nнужно решить, как с ним\nпоступить. Может... навсегда.)"
+  },
+  {
+   "id": 43,
+   "en": "Duke Zeira! Galvas is with us, and\nhe's alright!",
+   "ru": "Герцог Зейра! Гальвас с нами, и\nон цел!"
+  },
+  {
+   "id": 44,
+   "en": "Good work, Ione! All ATACs, prepare\nto fall back!",
+   "ru": "Отлично, Иона! Всем АТАКам\nприготовиться к отступлению!"
+  },
+  {
+   "id": 45,
+   "en": "Wait, Zeira! Not yet!",
+   "ru": "Подожди, Зейра! Ещё рано!"
+  },
+  {
+   "id": 46,
+   "en": "The ATACs which were guarding the\ncastle have followed us in pursuit of\nGalvas...",
+   "ru": "АТАКи, охранявшие замок,\nбросились за нами в погоню за\nГальвасом..."
+  },
+  {
+   "id": 47,
+   "en": "Which means they have left Araba\nalmost completely defenseless.",
+   "ru": "А значит, Араба осталась почти\nбез защиты."
+  },
+  {
+   "id": 48,
+   "en": "These Imperial fools have given us a\nperfect opportunity to reclaim Araba\nfor the Kingdom!",
+   "ru": "Эти имперские глупцы дали нам\nотличный шанс вернуть Арабу\nКоролевству!"
+  },
+  {
+   "id": 49,
+   "en": "Zeira, if you can continue to distract\nthe Empire's forces for a short while\nlonger...",
+   "ru": "Зейра, если ты сможешь ещё\nнемного отвлекать силы\nИмперии..."
+  },
+  {
+   "id": 50,
+   "en": "Reyna and I will join with Bastion's\nsquadron and storm the castle!",
+   "ru": "Мы с Рейной присоединимся к\nотряду Бастиона и штурмуем\nзамок!"
+  },
+  {
+   "id": 51,
+   "en": "That's a fine idea, Ione! We'll keep\nthese Imperial pigs busy for as long\nas you require!!",
+   "ru": "Отличная мысль, Иона! Мы\nзаймём этих имперских свиней,\nсколько потребуется!!"
+  },
+  {
+   "id": 52,
+   "en": "Bastion, we're coming up behind you.\nGive us a few moments...",
+   "ru": "Бастион, мы идём следом за\nтобой. Дай нам немного времени..."
+  },
+  {
+   "id": 53,
+   "en": "And once we've joined you, proceed\ndirectly to the castle entrance. Ignore\nthe Imperials!",
+   "ru": "А как только соединимся, сразу\nнаправляйся к воротам замка. Не\nобращай внимания на имперцев!"
+  },
+  {
+   "id": 54,
+   "en": "What is Faulkner doing here?! And\nfor what reason has he invaded this\ncastle and provoked the Kingdom?",
+   "ru": "Что здесь делает Фолкнер?! И\nзачем он захватил этот замок и\nзлит Королевство?"
+  },
+  {
+   "id": 55,
+   "en": "Franco:\nSadira, you know quite well that\nFaulkner has never needed a reason\nto embrace violence. He lives for it.",
+   "ru": "Франко:\nСадира, вы прекрасно знаете, что\nФолкнеру никогда не нужен был\nповод для насилия. Он им живёт."
+  },
+  {
+   "id": 56,
+   "en": "Your Highness! Do you recognize that\nATAC across the way?",
+   "ru": "Ваше Высочество! Узнаёте вон тот\nАТАК?"
+  },
+  {
+   "id": 57,
+   "en": "If I'm not mistaken, it's being driven\nby the young man we encountered at\nEgas Canyon.",
+   "ru": "Если не ошибаюсь, им управляет\nюноша, которого мы встретили в\nканьоне Эгас."
+  },
+  {
+   "id": 58,
+   "en": "Bastion.",
+   "ru": "Бастион."
+  },
+  {
+   "id": 59,
+   "en": "The boy who condemned my father's\nEmpire for waging war...and here he\nis, battling against us!",
+   "ru": "Мальчишка, что осуждал\nИмперию моего отца за войну... и\nвот он сражается против нас!"
+  },
+  {
+   "id": 60,
+   "en": "Sadira, we have no reason to stay\nhere and watch this...especially not\nif it upsets you.",
+   "ru": "Садира, нам незачем оставаться\nи смотреть на это... тем более\nесли вам это неприятно."
+  },
+  {
+   "id": 61,
+   "en": "We can discuss your concerns about\nFaulkner with your father when we\nreturn home.",
+   "ru": "Ваши опасения насчёт Фолкнера\nмы обсудим с вашим отцом,\nкогда вернёмся домой."
+  },
+  {
+   "id": 62,
+   "en": "No. I want to watch this.",
+   "ru": "Нет. Я хочу это видеть."
+  },
+  {
+   "id": 63,
+   "en": "So! The Imperial Princess has come to\nwatch the results of her handiwork!",
+   "ru": "Так-так! Имперская принцесса\nпришла полюбоваться плодами\nсвоих трудов!"
+  },
+  {
+   "id": 64,
+   "en": "You told Faulkner exactly where to\nfind us, after giving us that lovely\nspeech about ending the war.",
+   "ru": "Ты сказала Фолкнеру, где нас\nискать, после той чудной речи о\nконце войны."
+  },
+  {
+   "id": 65,
+   "en": "I told Father we couldn't trust you...\nand now he rots in the grave because\nof your treachery!",
+   "ru": "Я говорил отцу, что тебе нельзя\nверить... и он гниёт в могиле\nиз-за твоего предательства!"
+  },
+  {
+   "id": 66,
+   "en": "You're wrong, Bastion! I never told\nFaulkner anything! I'm so sorry that\nyour father was killed...",
+   "ru": "Ты ошибаешься, Бастион! Я\nничего не говорила Фолкнеру! Мне\nтак жаль твоего отца..."
+  },
+  {
+   "id": 67,
+   "en": "Shut your mouth, Sadira! I don't\nwant to hear any more of your lies!",
+   "ru": "Закрой рот, Садира! Я не желаю\nбольше слышать твою ложь!"
+  },
+  {
+   "id": 68,
+   "en": "(The castle has been seized! Zakov,\nyou incompetent fool...you have\nhumiliated both of us today.)",
+   "ru": "(Замок захвачен! Заков,\nбездарный глупец... сегодня ты\nопозорил нас обоих.)"
+  },
+  {
+   "id": 69,
+   "en": "Forces of the Kingdom have taken the\ncastle! We must retreat for now...but\nwe shall return to reclaim it!",
+   "ru": "Войска Королевства взяли замок!\nПока отступаем... но мы вернёмся,\nчтобы отбить его!"
+  },
+  {
+   "id": 70,
+   "en": "We should leave as well...",
+   "ru": "Нам тоже стоит уйти..."
+  },
+  {
+   "id": 71,
+   "en": "Vhat?! Dhey took dhe castle?! Dhis is...\ndhis is not good!",
+   "ru": "Што?! Они фсяли самок?! Это... это\nнехорошо!"
+  },
+  {
+   "id": 72,
+   "en": "(I pray dhe Emperor vill look upon\nmy distingvished years of service\nand pardon dhis mistake...)",
+   "ru": "(Молю, чтопы император\nфспомнил мои тостойные готы\nслушпы и простил эту ошипку...)"
+  },
+  {
+   "id": 73,
+   "en": "Is our Empire truly so evil that it\ninspires such hatred in the hearts\nof men?",
+   "ru": "Неужели наша Империя настолько\nпорочна, что вызывает такую\nненависть в сердцах людей?"
+  }
+ ]
+}

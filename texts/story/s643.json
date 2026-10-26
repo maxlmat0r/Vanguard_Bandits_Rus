@@ -1,0 +1,36 @@
+{
+ "file": 643,
+ "kind": "story",
+ "lines": [
+  {
+   "id": 0,
+   "en": "Are we ready, Thomson?",
+   "ru": "Готовы, Томсон?"
+  },
+  {
+   "id": 1,
+   "en": "We are, Your Highness.",
+   "ru": "Готовы, Ваше Высочество."
+  },
+  {
+   "id": 2,
+   "en": "We need to stop for a few moments,\nYour Highness. One of the children is\nunaccounted for.",
+   "ru": "Нужно ненадолго остановиться,\nВаше Высочество. Одного ребёнка\nне могут найти."
+  },
+  {
+   "id": 3,
+   "en": "It's probably just the overreaction of\nan overexcited parent.",
+   "ru": "Наверное, просто родители\nперепугались."
+  },
+  {
+   "id": 4,
+   "en": "I hope the reaction to the Imperial\nATACs coming our way isn't quite\nas frantic.",
+   "ru": "Надеюсь, на приближающиеся\nимперские АТАКи реакция будет\nпоспокойнее."
+  },
+  {
+   "id": 5,
+   "en": "Oh, no!",
+   "ru": "О нет!"
+  }
+ ]
+}

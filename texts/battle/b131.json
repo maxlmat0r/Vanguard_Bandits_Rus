@@ -1,0 +1,496 @@
+{
+ "file": 131,
+ "kind": "battle",
+ "lines": [
+  {
+   "id": 0,
+   "en": "Oh, Your Highness! I have been most\npatiently awaiting your arrival...and\nI see you have acquired Gratia!",
+   "ru": "О, Ваше Высочество! Я с\nвеличайшим терпением ждал\nвас... и вижу, вы добыли Гратию!"
+  },
+  {
+   "id": 1,
+   "en": "I would have had a most difficult\ntime obtaining it from Dionne and\nhis nasty mercenaries.",
+   "ru": "Мне было бы очень трудно\nотнять её у Дионна и его мерзких\nнаёмников."
+  },
+  {
+   "id": 2,
+   "en": "Now then, Prince Bastion, be a good\nlad and come over here, won't you?",
+   "ru": "А теперь, принц Бастион, будьте\nумницей, подойдите сюда, а?"
+  },
+  {
+   "id": 3,
+   "en": "His Highness will never cooperate\nwith your evil plan, Radcot! Never!",
+   "ru": "Его Высочество никогда не\nстанет помогать твоему злому\nзамыслу, Радкот! Никогда!"
+  },
+  {
+   "id": 4,
+   "en": "And I certainly wasn't expecting it.\nI'll most likely have to torture him...\nor you, perhaps.",
+   "ru": "А я и не ждал. Скорее всего,\nпридётся его пытать... или,\nможет, вас."
+  },
+  {
+   "id": 5,
+   "en": "Listening to that voice, imagining\nyour triple-chins quivering as you\nspeak, horrifies me, quite frankly.",
+   "ru": "Честно говоря, меня ужасает этот\nголос и мысль, как трясутся твои\nтри подбородка."
+  },
+  {
+   "id": 6,
+   "en": "With the Ultragunner, and the person\nwho can use it, I'll never again have\nto grovel at the feet of the Empire.",
+   "ru": "С Ультраганнером и его пилотом\nмне больше не придётся\nпресмыкаться перед Империей."
+  },
+  {
+   "id": 7,
+   "en": "I'll have the power to slice that damn\nsmirk off Faulkner's face...and what\na delight that will be.",
+   "ru": "Я смогу срезать проклятую\nухмылку с лица Фолкнера... вот\nбудет удовольствие."
+  },
+  {
+   "id": 8,
+   "en": "I will be the supreme ruler of the\nContinent! Kings and commoners\nalike will bow down before me!",
+   "ru": "Я стану владыкой Континента!\nКороли и простолюдины\nсклонятся предо мной!"
+  },
+  {
+   "id": 9,
+   "en": "And I haven't even begun to mention\nmy plans for assembling the largest\nharem in history! Ha, ha, ha!",
+   "ru": "А о моём будущем гареме,\nвеличайшем в истории, я и не\nначинал! Ха-ха-ха!"
+  },
+  {
+   "id": 10,
+   "en": "I'm going to be sick!",
+   "ru": "Меня сейчас стошнит!"
+  },
+  {
+   "id": 11,
+   "en": "Oh, well. That's enough conversation.\nKill them all, my soldiers. Except for\nPrince Bastion, of course.",
+   "ru": "Ну, хватит разговоров. Убейте\nвсех, солдаты. Кроме принца\nБастиона, конечно."
+  },
+  {
+   "id": 12,
+   "en": "Daddy, what are you doing?",
+   "ru": "Папа, что ты делаешь?"
+  },
+  {
+   "id": 13,
+   "en": "Nana?! Oh, my precious little Nana!\nWhat have they done to you?!",
+   "ru": "Нана?! О, моя драгоценная\nмалышка Нана! Что они с тобой\nсделали?!"
+  },
+  {
+   "id": 14,
+   "en": "You're the daughter of Duke Radcot?!",
+   "ru": "Ты дочь герцога Радкота?!"
+  },
+  {
+   "id": 15,
+   "en": "I know you're angry at me, Bastion.\nI'm sorry I didn't tell you.",
+   "ru": "Знаю, ты на меня злишься,\nБастион. Прости, что не сказала."
+  },
+  {
+   "id": 16,
+   "en": "I knew that you were fighting with\nDaddy...",
+   "ru": "Я знала, что ты воюешь с папой..."
+  },
+  {
+   "id": 17,
+   "en": "And I didn't want to tell you that I\nwas his daughter, or you wouldn't\nhave let me come with you!",
+   "ru": "И не хотела говорить, что я его\nдочь, а то бы ты не взял меня с\nсобой!"
+  },
+  {
+   "id": 18,
+   "en": "Prince Bastion, I cannot believe you\nwould stoop so low as to steal my\nsweet little girl!",
+   "ru": "Принц Бастион, не верится, что\nвы пали так низко, чтобы\nукрасть мою милую дочурку!"
+  },
+  {
+   "id": 19,
+   "en": "I will tear out your heart with my\nbare hands and feed it to a pack of\nmongrel dogs!",
+   "ru": "Я вырву ваше сердце голыми\nруками и скормлю стае бродячих\nпсов!"
+  },
+  {
+   "id": 20,
+   "en": "I will chop off your head and drag\nyour vile corpse through the streets\nof Muspel to be desecrated!",
+   "ru": "Я отрублю вам голову и протащу\nваш мерзкий труп по улицам\nМуспеля на поругание!"
+  },
+  {
+   "id": 21,
+   "en": "I will cut out the tongue of anyone\nwho speaks your accursed name in\nmy presence!",
+   "ru": "Я вырежу язык всякому, кто при\nмне произнесёт ваше проклятое\nимя!"
+  },
+  {
+   "id": 22,
+   "en": "I will call upon the black arts and\nuse the power of magic to endlessly\ntorture your black soul!",
+   "ru": "Я призову чёрную магию и буду\nвечно терзать вашу чёрную\nдушу!"
+  },
+  {
+   "id": 23,
+   "en": "A man who has wrought such evil\nas you has no right to complain\nwhen evil is wrought upon him!",
+   "ru": "Человек, сотворивший столько\nзла, не вправе жаловаться, когда\nзло творят с ним!"
+  },
+  {
+   "id": 24,
+   "en": "Bastion, it seems like Duke Radcot is\nextremely distraught.",
+   "ru": "Бастион, герцог Радкот, похоже, в\nотчаянии."
+  },
+  {
+   "id": 25,
+   "en": "Why don't you simply take the little\ngirl and leave here while we fight?",
+   "ru": "Может, просто забрать девочку и\nуйти, пока мы сражаемся?"
+  },
+  {
+   "id": 26,
+   "en": "I highly doubt he would pursue you.",
+   "ru": "Очень сомневаюсь, что он стал\nбы тебя преследовать."
+  },
+  {
+   "id": 27,
+   "en": "While your idea makes sense, I could\nnever do something so cruel.",
+   "ru": "Разумно, но я никогда не\nпоступлю так жестоко."
+  },
+  {
+   "id": 28,
+   "en": "I'm going to give her back to Radcot.",
+   "ru": "Я верну её Радкоту."
+  },
+  {
+   "id": 29,
+   "en": "Nana, you belong with your father.\nHe obviously loves you very much.",
+   "ru": "Нана, твоё место рядом с отцом.\nОн явно очень тебя любит."
+  },
+  {
+   "id": 30,
+   "en": "I would never do anything to tear a\nfamily apart. I have felt the pain of\nlosing a loved one...",
+   "ru": "Я никогда не стану разлучать\nсемью. Я знаю боль утраты\nблизкого..."
+  },
+  {
+   "id": 31,
+   "en": "And it is a pain I wish no one else\nwould ever have to suffer.",
+   "ru": "И не хочу, чтобы кто-то ещё её\nиспытал."
+  },
+  {
+   "id": 32,
+   "en": "Bastion...",
+   "ru": "Бастион..."
+  },
+  {
+   "id": 33,
+   "en": "What's going to happen when we give\nher back, Bastion? Won't Radcot just\nattack us?",
+   "ru": "Что будет, когда мы её вернём,\nБастион? Радкот же просто\nнападёт на нас?"
+  },
+  {
+   "id": 34,
+   "en": "Most likely.",
+   "ru": "Скорее всего."
+  },
+  {
+   "id": 35,
+   "en": "Ever the realist, aren't you, Bastion?",
+   "ru": "Ты всегда реалист, да, Бастион?"
+  },
+  {
+   "id": 36,
+   "en": "But that's what I like about you!",
+   "ru": "Но этим ты мне и нравишься!"
+  },
+  {
+   "id": 37,
+   "en": "Besides, I know you don't want to\nmiss this battle!",
+   "ru": "К тому же я знаю, ты не хочешь\nпропустить эту битву!"
+  },
+  {
+   "id": 38,
+   "en": "Bastion, I so admire your honor.",
+   "ru": "Бастион, я так восхищаюсь\nтвоим благородством."
+  },
+  {
+   "id": 39,
+   "en": "Your Highness surely realizes the\ntactical advantage you are willingly\ngiving up...but your will is law.",
+   "ru": "Ваше Высочество, конечно,\nпонимает, какое преимущество\nтеряет... но ваша воля - закон."
+  },
+  {
+   "id": 40,
+   "en": "The battlefield is no place for the\nyoung, Bastion. You're doing the\nright thing.",
+   "ru": "Поле боя не место для детей,\nБастион. Ты поступаешь\nправильно."
+  },
+  {
+   "id": 41,
+   "en": "I'm going to let you out of my ATAC\nnow, alright, Nana?",
+   "ru": "Сейчас я выпущу тебя из АТАКа,\nхорошо, Нана?"
+  },
+  {
+   "id": 42,
+   "en": "Okay, Bastion.",
+   "ru": "Ладно, Бастион."
+  },
+  {
+   "id": 43,
+   "en": "Daddy!",
+   "ru": "Папа!"
+  },
+  {
+   "id": 44,
+   "en": "Promise me you're not going to fight\nwith Bastion and his nice friends!",
+   "ru": "Обещай, что не будешь драться с\nБастионом и его хорошими\nдрузьями!"
+  },
+  {
+   "id": 45,
+   "en": "I promise, precious Nana! I won't\nfight with them! Now come here into\nmy arms, where you'll be safe!",
+   "ru": "Обещаю, драгоценная Нана! Не\nбуду! Иди ко мне на ручки, здесь\nты в безопасности!"
+  },
+  {
+   "id": 46,
+   "en": "I didn't get to stay with you for very\nlong, Bastion, but I had a lot of fun!",
+   "ru": "Я была с тобой недолго, Бастион,\nно было очень весело!"
+  },
+  {
+   "id": 47,
+   "en": "Maybe you can sneak into Muspel\nsomeday and come see me again!\nI'd really like that!",
+   "ru": "Может, когда-нибудь\nпроберёшься в Муспель и\nнавестишь меня! Я буду рада!"
+  },
+  {
+   "id": 48,
+   "en": "Goodbye, Bastion.",
+   "ru": "Пока, Бастион."
+  },
+  {
+   "id": 49,
+   "en": "Oh, my lovely little Nana! You must\nhave been so scared!",
+   "ru": "О, моя прелестная Нана! Ты,\nнаверное, так испугалась!"
+  },
+  {
+   "id": 50,
+   "en": "Of course not, Daddy! Bastion was\nvery nice to me! So I don't want you\nto be mean to him! You promised!",
+   "ru": "Вовсе нет, папа! Бастион был\nочень добр ко мне! Так что не\nобижай его! Ты обещал!"
+  },
+  {
+   "id": 51,
+   "en": "Alright, Nana. Let's go home together.",
+   "ru": "Хорошо, Нана. Пойдём домой\nвместе."
+  },
+  {
+   "id": 52,
+   "en": "Listen carefully, soldiers! I expect\nyou to bring me Bastion and Gratia!\nDo not return to Muspel otherwise!",
+   "ru": "Слушайте, солдаты! Доставьте\nмне Бастиона и Гратию, иначе в\nМуспель не возвращайтесь!"
+  },
+  {
+   "id": 53,
+   "en": "Muspel Soldier:\nYes, Duke Radcot!",
+   "ru": "Муспельский солдат:\nСлушаюсь, герцог Радкот!"
+  },
+  {
+   "id": 54,
+   "en": "That's not what you promised me,\nDaddy! You're terrible!",
+   "ru": "Ты не это мне обещал, папа! Ты\nужасный!"
+  },
+  {
+   "id": 55,
+   "en": "You were deceived by Bastion and his\ncohorts, my sweet Nana. They aren't\nnice people at all! They're evil!",
+   "ru": "Бастион и его дружки обманули\nтебя, моя милая Нана. Они вовсе\nне хорошие! Они злые!"
+  },
+  {
+   "id": 56,
+   "en": "That's not true, Daddy! That's not\ntrue at all!!",
+   "ru": "Неправда, папа! Совсем\nнеправда!!"
+  },
+  {
+   "id": 57,
+   "en": "Bastion, I'm sorry!",
+   "ru": "Бастион, прости!"
+  },
+  {
+   "id": 58,
+   "en": "I'm not surprised Duke Radcot is so\ncallous that he would even deceive\nhis own child!",
+   "ru": "Неудивительно, что герцог\nРадкот так бессердечен, что\nобманывает родную дочь!"
+  },
+  {
+   "id": 59,
+   "en": "I am also not surprised, merely\nappalled that there exists a man\nwith so little honor.",
+   "ru": "Меня это тоже не удивляет, лишь\nужасает, что бывают люди с\nтакой малой честью."
+  },
+  {
+   "id": 60,
+   "en": "At least we may now dispose of his\npuny underlings!",
+   "ru": "Зато теперь можно разделаться с\nего жалкими прихвостнями!"
+  },
+  {
+   "id": 61,
+   "en": "Here they come!",
+   "ru": "Идут!"
+  },
+  {
+   "id": 62,
+   "en": "You, ah, seem to be fighting hard,\nPrince Bastion!",
+   "ru": "Вы, кхм, похоже, упорно\nсражаетесь, принц Бастион!"
+  },
+  {
+   "id": 63,
+   "en": "You chose an excellent time to arrive,\nGanlon! Get in here and help us!",
+   "ru": "Ты как раз вовремя, Ганлон!\nДавай сюда и помогай!"
+  },
+  {
+   "id": 64,
+   "en": "Uh, certainly, Prince Bastion.",
+   "ru": "Э-э, конечно, принц Бастион."
+  },
+  {
+   "id": 65,
+   "en": "Ganlon! Why are you here?!",
+   "ru": "Ганлон! Зачем ты здесь?!"
+  },
+  {
+   "id": 66,
+   "en": "I was, ah, ordered by Ione to travel\nhere and provide, um, support for\nPrince Bastion.",
+   "ru": "Мне, кхм, Иона велела прибыть\nсюда и, э-э, поддержать принца\nБастиона."
+  },
+  {
+   "id": 67,
+   "en": "That makes no sense! We have not the\nmanpower to defend Araba Castle\nwithout you.",
+   "ru": "Бессмыслица! Без тебя нам не\nхватит сил оборонять замок\nАраба."
+  },
+  {
+   "id": 68,
+   "en": "And I'm certain Ione knows that.\nShe'd never make such a blatant\ntactical error.",
+   "ru": "И я уверена, Иона это знает. Она\nбы никогда не допустила такую\nгрубую тактическую ошибку."
+  },
+  {
+   "id": 69,
+   "en": "You're lying to us, Ganlon. And, I'm\nafraid it's not the first time.",
+   "ru": "Ты нам лжёшь, Ганлон. И, боюсь,\nне впервые."
+  },
+  {
+   "id": 70,
+   "en": "You better tell us what you're up to,\nGanlon! And I mean quick!",
+   "ru": "Выкладывай, что задумал,\nГанлон! И живо!"
+  },
+  {
+   "id": 71,
+   "en": "I, uh, don't know what, ah, you're\ntalking, er, about...",
+   "ru": "Я, э-э, не понимаю, о чём, кхм,\nвы говорите..."
+  },
+  {
+   "id": 72,
+   "en": "Heh, heh, heh! I guess there's no need\nto continue my charade, is there?",
+   "ru": "Хе-хе-хе! Пожалуй, нет нужды\nпродолжать этот спектакль,\nверно?"
+  },
+  {
+   "id": 73,
+   "en": "It was you who had Ione observing\nmy actions, wasn't it? Of course it\nwas, Duke Zeira.",
+   "ru": "Это вы велели Ионе следить за\nмной, да? Конечно, вы, герцог\nЗейра."
+  },
+  {
+   "id": 74,
+   "en": "I should have expected such wisdom\nfrom the ruler of Avalon.",
+   "ru": "Мне следовало ждать такой\nмудрости от правителя Авалона."
+  },
+  {
+   "id": 75,
+   "en": "I have decided to ally myself with the\nEmpire...but they require proof of my\nloyalty, of course.",
+   "ru": "Я решил примкнуть к Империи...\nно им, разумеется, нужно\nдоказательство моей верности."
+  },
+  {
+   "id": 76,
+   "en": "And what better proof than to bring\nthem Gratia, the key to unlocking the\npower of Ultragunner?",
+   "ru": "А что может быть лучше, чем\nпринести им Гратию - ключ к\nсиле Ультраганнера?"
+  },
+  {
+   "id": 77,
+   "en": "Even the great General Faulkner will\nbe most pleased with me!",
+   "ru": "Даже великий генерал Фолкнер\nбудет мной весьма доволен!"
+  },
+  {
+   "id": 78,
+   "en": "Faulkner? You dare invoke the name\nof that bastard?!",
+   "ru": "Фолкнер? Ты смеешь произносить\nимя этого мерзавца?!"
+  },
+  {
+   "id": 79,
+   "en": "Don't make this difficult, Bastion!\nGive me Gratia and I may let you live!",
+   "ru": "Не усложняй, Бастион! Отдай\nГратию, и, может, я оставлю тебя\nв живых!"
+  },
+  {
+   "id": 80,
+   "en": "You, ah, seem to be fighting hard,\nPrince Bastion!",
+   "ru": "Вы, кхм, похоже, упорно\nсражаетесь, принц Бастион!"
+  },
+  {
+   "id": 81,
+   "en": "You chose an excellent time to arrive,\nGanlon! Get in here and help us!",
+   "ru": "Ты как раз вовремя, Ганлон!\nДавай сюда и помогай!"
+  },
+  {
+   "id": 82,
+   "en": "Uh, yes, well, ah...",
+   "ru": "Э-э, да, ну, кхм..."
+  },
+  {
+   "id": 83,
+   "en": "Ganlon?! Hurry up, would you?!\nThis is no time for stuttering!",
+   "ru": "Ганлон?! Поторопись, а?! Сейчас\nне время мямлить!"
+  },
+  {
+   "id": 84,
+   "en": "Heh, heh, heh! I guess there's no need\nto continue my charade, is there?",
+   "ru": "Хе-хе-хе! Пожалуй, нет нужды\nпродолжать этот спектакль,\nверно?"
+  },
+  {
+   "id": 85,
+   "en": "You are painfully naive, aren't you,\nPrince Bastion?",
+   "ru": "Вы до боли наивны, правда,\nпринц Бастион?"
+  },
+  {
+   "id": 86,
+   "en": "I have not come here to assist you.\nFar from it, you poor fool.",
+   "ru": "Я пришёл не помогать вам.\nОтнюдь, бедный глупец."
+  },
+  {
+   "id": 87,
+   "en": "I have come to claim Gratia as a gift\nfor the great General Faulkner! And\na happy man he will be!",
+   "ru": "Я пришёл забрать Гратию в дар\nвеликому генералу Фолкнеру! Вот\nон обрадуется!"
+  },
+  {
+   "id": 88,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 89,
+   "en": "Attack!",
+   "ru": "В атаку!"
+  },
+  {
+   "id": 90,
+   "en": "I worked hard for the Kingdom, and\nI was never properly rewarded for\nmy services.",
+   "ru": "Я усердно трудился на\nКоролевство, и меня так и не\nнаградили по заслугам."
+  },
+  {
+   "id": 91,
+   "en": "I thought the Empire would show me\ntheir appreciation, and give me the\npower I deserved.",
+   "ru": "Я думал, Империя оценит меня и\nдаст заслуженную власть."
+  },
+  {
+   "id": 92,
+   "en": "Now that I have seen your strength,\nPrince Bastion, I know that I made\nthe wrong decision.",
+   "ru": "Теперь, увидев вашу силу, принц\nБастион, я понимаю, что ошибся."
+  },
+  {
+   "id": 93,
+   "en": "Best of luck in your battle against\nthe Empire and General Faulkner.\nYou will surely need it.",
+   "ru": "Удачи в битве против Империи и\nгенерала Фолкнера. Она вам\nнепременно понадобится."
+  },
+  {
+   "id": 94,
+   "en": "(This was a battle with a great deal\nof unpleasant revelations.)",
+   "ru": "(Эта битва принесла немало\nнеприятных открытий.)"
+  },
+  {
+   "id": 95,
+   "en": "Princess Sadira!",
+   "ru": "Принцесса Садира!"
+  },
+  {
+   "id": 96,
+   "en": "I have come with empty hands and\nopen arms, Bastion. I am not here to\ndo battle with you.",
+   "ru": "Я пришла с пустыми руками и\nоткрытым сердцем, Бастион. Я\nздесь не для боя."
+  },
+  {
+   "id": 97,
+   "en": "I wish to speak with you about\nsomething which will affect both\nof our lives forevermore...",
+   "ru": "Я хочу поговорить о том, что\nнавсегда изменит жизнь нас\nобоих..."
+  }
+ ]
+}

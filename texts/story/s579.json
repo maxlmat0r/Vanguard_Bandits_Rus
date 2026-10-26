@@ -1,0 +1,166 @@
+{
+ "file": 579,
+ "kind": "story",
+ "lines": [
+  {
+   "id": 0,
+   "en": "None of us were able to find her,\nBastion. I'm so sorry...",
+   "ru": "Никто из нас не смог её найти,\nБастион. Мне так жаль..."
+  },
+  {
+   "id": 1,
+   "en": "It's not your fault, Reyna. It's mine.",
+   "ru": "Ты не виновата, Рейна. Это моя\nвина."
+  },
+  {
+   "id": 2,
+   "en": "(I feel your pain, Bastion, even if\nyou'd never believe it. I know what\nit's like to lose a loved one.)",
+   "ru": "(Я понимаю твою боль, Бастион,\nхоть ты и не поверишь. Я знаю,\nкаково потерять близкого.)"
+  },
+  {
+   "id": 3,
+   "en": "I shall commission a search party\nimmediately. There is no reason to\nabandon hope yet.",
+   "ru": "Я немедленно отправлю\nпоисковый отряд. Терять\nнадежду рано."
+  },
+  {
+   "id": 4,
+   "en": "A young girl on foot cannot\npossibly travel far in such a\nshort period of time.",
+   "ru": "Девушка пешком не уйдёт далеко\nза такое короткое время."
+  },
+  {
+   "id": 5,
+   "en": "Never mind the search party, Zeira.\nI'm going to find her myself.",
+   "ru": "Не надо отряда, Зейра. Я сам её\nнайду."
+  },
+  {
+   "id": 6,
+   "en": "I've already caused enough trouble\nas it is, and we really don't have the\nresources to mount a search.",
+   "ru": "Я и так доставил достаточно\nхлопот, а сил на поиски у нас\nнет."
+  },
+  {
+   "id": 7,
+   "en": "Resources really aren't the issue,\nfriend, But, as always, it is\nyour choice to make.",
+   "ru": "Дело не в силах, друг мой. Но, как\nвсегда, решать тебе."
+  },
+  {
+   "id": 8,
+   "en": "I'll come with you, Bastion!",
+   "ru": "Я пойду с тобой, Бастион!"
+  },
+  {
+   "id": 9,
+   "en": "Oh, what the hell...you don't mind if I\ntag along, right, buddy?",
+   "ru": "А, чёрт с ним... ты ведь не\nпротив, если я увяжусь,\nдружище?"
+  },
+  {
+   "id": 10,
+   "en": "I'm coming with you, too, of course!",
+   "ru": "Я тоже иду, конечно!"
+  },
+  {
+   "id": 11,
+   "en": "Milea was really nice to me, Bastion.\nI want to help you find her.",
+   "ru": "Милея была ко мне очень добра,\nБастион. Я хочу помочь тебе её\nнайти."
+  },
+  {
+   "id": 12,
+   "en": "Devlin? Are you coming?",
+   "ru": "Девлин? Ты идёшь?"
+  },
+  {
+   "id": 13,
+   "en": "I...",
+   "ru": "Я..."
+  },
+  {
+   "id": 14,
+   "en": "I'm sorry, Bastion, but I won't be\njoining you.",
+   "ru": "Прости, Бастион, но я с вами не\nпойду."
+  },
+  {
+   "id": 15,
+   "en": "I'm sorry to hear that.",
+   "ru": "Жаль это слышать."
+  },
+  {
+   "id": 16,
+   "en": "Now that I've become involved in the\nwar against the Empire, I don't want\nto stop.",
+   "ru": "Раз уж я ввязался в войну с\nИмперией, я не хочу\nостанавливаться."
+  },
+  {
+   "id": 17,
+   "en": "I can feel the anger growing inside\nof me, Bastion, and I need to release\nit on the battlefield.",
+   "ru": "Я чувствую, как во мне растёт\nгнев, Бастион, и мне нужно\nвыплеснуть его на поле боя."
+  },
+  {
+   "id": 18,
+   "en": "I have come to realize that only by\nwaging this war can I end it.",
+   "ru": "Я понял: лишь ведя эту войну, я\nсмогу её закончить."
+  },
+  {
+   "id": 19,
+   "en": "I know I'm not explaining myself\nvery well, but that's how I feel.\nPlease don't be too upset.",
+   "ru": "Знаю, я плохо объясняю, но так я\nчувствую. Прошу, не\nрасстраивайся."
+  },
+  {
+   "id": 20,
+   "en": "No, Devlin. I'm disappointed, but I\nknow that every man must pursue\nhis own destiny.",
+   "ru": "Нет, Девлин. Я огорчён, но знаю:\nкаждый идёт своей дорогой."
+  },
+  {
+   "id": 21,
+   "en": "Well, it appears you've gathered\na search party of your own. I\ncan't say I'm not pleased.",
+   "ru": "Что ж, похоже, ты собрал\nсобственный поисковый отряд. Не\nскажу, что я недоволен."
+  },
+  {
+   "id": 22,
+   "en": "Thank you. All of you.",
+   "ru": "Спасибо. Всем вам."
+  },
+  {
+   "id": 23,
+   "en": "Let's begin the search at once.",
+   "ru": "Начнём поиски немедленно."
+  },
+  {
+   "id": 24,
+   "en": "I shall return to Araba Castle\nwith Galvas and Devlin. I hope\nto see you there soon.",
+   "ru": "Я вернусь в замок Араба с\nГальвасом и Девлином. Надеюсь,\nскоро увидимся там."
+  },
+  {
+   "id": 25,
+   "en": "Farewell, Your Highness.",
+   "ru": "Прощайте, Ваше Высочество."
+  },
+  {
+   "id": 26,
+   "en": "Are you all absolutely sure that you\nwant to join me?",
+   "ru": "Вы все точно уверены, что хотите\nпойти со мной?"
+  },
+  {
+   "id": 27,
+   "en": "It would be very strange for us to\nchange our minds over the course\nof a few moments, Bastion!",
+   "ru": "Было бы очень странно\nпередумать за пару мгновений,\nБастион!"
+  },
+  {
+   "id": 28,
+   "en": "Heh, heh, heh. Good point.",
+   "ru": "Хе-хе-хе. Справедливо."
+  },
+  {
+   "id": 29,
+   "en": "Ideally, we could split up and search\nindividually, but with the Imperials\nso close, that's too dangerous.",
+   "ru": "Лучше бы разделиться и искать\nпоодиночке, но имперцы слишком\nблизко, это опасно."
+  },
+  {
+   "id": 30,
+   "en": "We'll spread out as much as we can,\nbut we'll stay in a group.",
+   "ru": "Разойдёмся как можно шире, но\nбудем держаться вместе."
+  },
+  {
+   "id": 31,
+   "en": "Alright. Let's move out!",
+   "ru": "Хорошо. Выступаем!"
+  }
+ ]
+}

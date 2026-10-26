@@ -1,0 +1,326 @@
+{
+ "file": 165,
+ "kind": "battle",
+ "lines": [
+  {
+   "id": 0,
+   "en": "(I don't see the Alba. Prince Bastion\nmust have entered the temple to find\nUltragunner. Good!)",
+   "ru": "(Альбы не видно. Должно быть,\nпринц Бастион вошёл в храм за\nУльтраганнером. Хорошо!)"
+  },
+  {
+   "id": 1,
+   "en": "I thought I caught a whiff of\nyour foul stench, Faulkner. I suppose\nyour presence was to be expected.",
+   "ru": "Так и знал, что чую твою вонь,\nФолкнер. Впрочем, твоего\nпоявления следовало ожидать."
+  },
+  {
+   "id": 2,
+   "en": "Clever. I must admit you seem to\nhave a staggering array of cliched\nwitticisms at your command.",
+   "ru": "Остроумно. Признаю, у вас\nпоразительный запас избитых\nострот."
+  },
+  {
+   "id": 3,
+   "en": "I also have quite a formidable force\non my side to halt your advance,\nif that escaped your attention.",
+   "ru": "А у меня, если вы не заметили,\nвесьма грозные силы, чтобы\nостановить ваше наступление."
+  },
+  {
+   "id": 4,
+   "en": "I would suggest, in vain I'm certain,\nthat you retreat at once. Action of any\nother nature shall be deadly for you.",
+   "ru": "Советую, хоть и тщетно,\nотступить. Иначе вам конец."
+  },
+  {
+   "id": 5,
+   "en": "Yes! We shall never let you gain\npossession of His Highness, or of\nthe Ultragunner!",
+   "ru": "Да! Мы никогда не отдадим тебе\nни Его Высочество, ни\nУльтраганнер!"
+  },
+  {
+   "id": 6,
+   "en": "My, how your words do cut to\nthe quick!",
+   "ru": "Ох, как ранят ваши слова!"
+  },
+  {
+   "id": 7,
+   "en": "I'm ashamed to admit that your\nlittle speeches have heightened my\nanticipation of slaying you all.",
+   "ru": "Стыдно признаться, но ваши\nречи лишь усилили моё\nпредвкушение убить вас всех."
+  },
+  {
+   "id": 8,
+   "en": "For you see, I shall have the\nUltragunner. Your stand here is\nbut a thrilling bump in my path.",
+   "ru": "Ведь Ультраганнер будет моим.\nВаша оборона - лишь волнующая\nкочка на моём пути."
+  },
+  {
+   "id": 9,
+   "en": "We must hold this bridge! It's all\nthat holds Faulkner from taking\nthe temple!",
+   "ru": "Нужно удержать мост! Только он\nмешает Фолкнеру захватить\nхрам!"
+  },
+  {
+   "id": 10,
+   "en": "We understand, Zeira!!",
+   "ru": "Понятно, Зейра!!"
+  },
+  {
+   "id": 11,
+   "en": "We'll hold the bridge, Zeira! We'll\nkeep these maggots at bay for as\nlong as Bastion needs!",
+   "ru": "Удержим мост, Зейра! Не\nподпустим этих личинок, сколько\nБастиону понадобится!"
+  },
+  {
+   "id": 12,
+   "en": "This is our moment of truth! This is\nwhen the strength of our hearts will\nbe revealed! Fight strong!",
+   "ru": "Час истины! Сейчас откроется\nсила наших сердец! Бейтесь\nстойко!"
+  },
+  {
+   "id": 13,
+   "en": "Attack!!",
+   "ru": "В атаку!!"
+  },
+  {
+   "id": 14,
+   "en": "I'm sorry I took so long! How are we\nholding up?",
+   "ru": "Простите, что так долго! Как\nдержимся?"
+  },
+  {
+   "id": 15,
+   "en": "Bastion--and Ultragunner!",
+   "ru": "Бастион... и Ультраганнер!"
+  },
+  {
+   "id": 16,
+   "en": "Your Highness! You look magnificent!",
+   "ru": "Ваше Высочество! Вы\nвеликолепны!"
+  },
+  {
+   "id": 17,
+   "en": "That is a sweet-looking ATAC!",
+   "ru": "Вот это красивый АТАК!"
+  },
+  {
+   "id": 18,
+   "en": "Bastion, I can't lie. In that ATAC, you\nlook almost as cool as me!",
+   "ru": "Бастион, врать не буду. В этом\nАТАКе ты почти такой же\nкрутой, как я!"
+  },
+  {
+   "id": 19,
+   "en": "It's about time you decided to show\nup to the party, Bastion! Heh, heh!",
+   "ru": "Наконец-то ты соизволил\nявиться на вечеринку, Бастион!\nХе-хе!"
+  },
+  {
+   "id": 20,
+   "en": "Ultragunner...the ATAC of legend!",
+   "ru": "Ультраганнер... легендарный\nАТАК!"
+  },
+  {
+   "id": 21,
+   "en": "I can hardly believe my eyes!",
+   "ru": "Глазам своим не верю!"
+  },
+  {
+   "id": 22,
+   "en": "I can sense great power within this\nATAC, but I don't really know how\nto use it yet!",
+   "ru": "Я чувствую в этом АТАКе\nогромную силу, но пока не знаю,\nкак ею пользоваться!"
+  },
+  {
+   "id": 23,
+   "en": "(At last, my search is ended! The most\npowerful ATAC in the history of the\nContinent stands before me!)",
+   "ru": "(Наконец мои поиски окончены!\nПередо мной сильнейший АТАК в\nистории Континента!)"
+  },
+  {
+   "id": 24,
+   "en": "(Ultragunner will be mine. The world\nwill be mine!!)",
+   "ru": "(Ультраганнер будет моим. Мир\nбудет моим!!)"
+  },
+  {
+   "id": 25,
+   "en": "Faulkner!",
+   "ru": "Фолкнер!"
+  },
+  {
+   "id": 26,
+   "en": "It's been so long since we first met,\nPrince Bastion. I'm sorry I haven't\nkept in touch.",
+   "ru": "Давно мы не виделись, принц\nБастион. Простите, что не\nподдерживал связь."
+  },
+  {
+   "id": 27,
+   "en": "I must thank you and your friends\nfor all your hard work.",
+   "ru": "Должен поблагодарить вас и\nваших друзей за все труды."
+  },
+  {
+   "id": 28,
+   "en": "What are you talking about?",
+   "ru": "О чём ты?"
+  },
+  {
+   "id": 29,
+   "en": "Well, you found Ultragunner for me,\ndidn't you? And now you're going to\ngive it to me!",
+   "ru": "Ну как же, вы нашли для меня\nУльтраганнер, верно? А теперь\nвы мне его отдадите!"
+  },
+  {
+   "id": 30,
+   "en": "You're insane, Faulkner! I wouldn't\ngive you a bucket of my spit if you\nwere on fire!",
+   "ru": "Ты безумен, Фолкнер! Я бы на\nтебя и не плюнул, даже если б ты\nгорел!"
+  },
+  {
+   "id": 31,
+   "en": "Such a colorful insult, Bastion! But I\nassure you that I have an even better\nretort.",
+   "ru": "Какое красочное оскорбление,\nБастион! Но, уверяю, мой ответ\nбудет ещё лучше."
+  },
+  {
+   "id": 32,
+   "en": "Bring her out!",
+   "ru": "Выведите её!"
+  },
+  {
+   "id": 33,
+   "en": "Forgive me, Bastion.",
+   "ru": "Прости меня, Бастион."
+  },
+  {
+   "id": 34,
+   "en": "Milea?!",
+   "ru": "Милея?!"
+  },
+  {
+   "id": 35,
+   "en": "Have you more harsh words for me,\nBastion? Or are you going to be kind?\nI would much prefer the latter.",
+   "ru": "Ещё есть резкие слова, Бастион?\nИли будешь паинькой? Я бы\nпредпочёл второе."
+  },
+  {
+   "id": 36,
+   "en": "No, Bastion! Don't give Ultragunner\nto him! You know the terror that he\nwould cause with it!",
+   "ru": "Нет, Бастион! Не отдавай ему\nУльтраганнер! Ты знаешь, какой\nужас он им сотворит!"
+  },
+  {
+   "id": 37,
+   "en": "Don't worry about me, Bastion! It\nwas my fault for being captured!\nYou must fight Faulkner!",
+   "ru": "Не беспокойся обо мне, Бастион! Я\nсама виновата, что попалась!\nСражайся с Фолкнером!"
+  },
+  {
+   "id": 38,
+   "en": "It seems we have a martyr in our\nmidst. How endearing. Well, Bastion?\nWill you give me Ultragunner?",
+   "ru": "Похоже, у нас тут мученица. Как\nтрогательно. Ну, Бастион?\nОтдашь мне Ультраганнер?"
+  },
+  {
+   "id": 39,
+   "en": "Damn you, Faulkner!",
+   "ru": "Будь ты проклят, Фолкнер!"
+  },
+  {
+   "id": 40,
+   "en": "Is the future King having a difficult\ntime reaching a decision? Perhaps I\ncan assist.",
+   "ru": "Будущему королю трудно\nрешиться? Может, я помогу."
+  },
+  {
+   "id": 41,
+   "en": "I shall generously give you to the\ncount of five to answer me.",
+   "ru": "Щедро даю тебе на ответ счёт до\nпяти."
+  },
+  {
+   "id": 42,
+   "en": "And if I do not receive the answer I\nwant, Bastion, I shall use my sword\nto neatly cleave your friend in two.",
+   "ru": "А если не услышу нужного ответа,\nБастион, аккуратно разрублю\nтвою подругу мечом надвое."
+  },
+  {
+   "id": 43,
+   "en": "I shan't bother to describe what I\nmight do to her if you chose to\nattack me.",
+   "ru": "Не стану описывать, что я\nсделаю с ней, если ты решишь на\nменя напасть."
+  },
+  {
+   "id": 44,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 45,
+   "en": "One.",
+   "ru": "Раз."
+  },
+  {
+   "id": 46,
+   "en": "Alright, Faulkner! If you want this\ndamned ATAC, you can have it!",
+   "ru": "Ладно, Фолкнер! Хочешь этот\nпроклятый АТАК - забирай!"
+  },
+  {
+   "id": 47,
+   "en": "Oh, life is cruel at times, is it not\nmy young Prince? But, I'm encouraged\nthat you've come to your senses.",
+   "ru": "О, жизнь порой жестока, не так\nли, мой юный принц? Но я рад,\nчто ты образумился."
+  },
+  {
+   "id": 48,
+   "en": "(The boy gave in so quickly! Alugard\nwould be shamed at Bastion's lack of\nresolve, but I'm thrilled.)",
+   "ru": "(Сдался так быстро! Алугарду\nбыло бы стыдно за Бастиона, а я\nв восторге.)"
+  },
+  {
+   "id": 49,
+   "en": "No...",
+   "ru": "Нет..."
+  },
+  {
+   "id": 50,
+   "en": "Don't be stupid, Bastion!!",
+   "ru": "Не глупи, Бастион!!"
+  },
+  {
+   "id": 51,
+   "en": "Would you be so kind as to exit the\nUltragunner immediately, Bastion?",
+   "ru": "Будь любезен, немедленно выйди\nиз Ультраганнера, Бастион."
+  },
+  {
+   "id": 52,
+   "en": "As you wish.",
+   "ru": "Как пожелаешь."
+  },
+  {
+   "id": 53,
+   "en": "(I shall bring Ultragunner with me\nto the Imperial capital, so that\nMadoc can analyze every inch of it...)",
+   "ru": "(Отвезу Ультраганнер в\nимперскую столицу, чтобы Мэдок\nизучил каждый его дюйм...)"
+  },
+  {
+   "id": 54,
+   "en": "(And I am confident he will find a\nway to utilize its enormous power!)",
+   "ru": "(Уверен, он найдёт способ\nиспользовать его огромную\nмощь!)"
+  },
+  {
+   "id": 55,
+   "en": "All soldiers, retreat immediately!",
+   "ru": "Всем солдатам немедленно\nотступить!"
+  },
+  {
+   "id": 56,
+   "en": "Imperial Soldier:\nWhat shall I do with this girl,\nGeneral Faulkner?",
+   "ru": "Имперский солдат:\nЧто делать с девчонкой, генерал\nФолкнер?"
+  },
+  {
+   "id": 57,
+   "en": "Cast our little minnow back to\nthe sea, of course. She's of no use\nto me any longer.",
+   "ru": "Отпустите нашу рыбёшку\nобратно в море, разумеется. Она\nмне больше не нужна."
+  },
+  {
+   "id": 58,
+   "en": "Lord Alden! The Ultragunner!",
+   "ru": "Лорд Олден! Ультраганнер!"
+  },
+  {
+   "id": 59,
+   "en": "Unbelievable. The royal ATAC was\nstolen by Faulkner!",
+   "ru": "Невероятно. Фолкнер похитил\nкоролевский АТАК!"
+  },
+  {
+   "id": 60,
+   "en": "This shall have a drastic impact on\nthe future of the war, as well as\nthe Continent itself.",
+   "ru": "Это сильно повлияет на ход\nвойны и на судьбу всего\nКонтинента."
+  },
+  {
+   "id": 61,
+   "en": "Shall we pursue Faulkner?",
+   "ru": "Преследуем Фолкнера?"
+  },
+  {
+   "id": 62,
+   "en": "It is not our duty, Melior. Besides,\nFaulkner lacks the ability to activate\nUltragunner.",
+   "ru": "Это не наш долг, Мелиор. К тому\nже Фолкнеру не под силу\nпробудить Ультраганнер."
+  },
+  {
+   "id": 63,
+   "en": "Let us return to Hibernia. I have\nmany issues to consider.",
+   "ru": "Вернёмся в Хибернию. Мне о\nмногом нужно подумать."
+  }
+ ]
+}

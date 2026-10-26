@@ -1,0 +1,26 @@
+{
+ "file": 613,
+ "kind": "story",
+ "lines": [
+  {
+   "id": 0,
+   "en": "Ha, ha, ha! I am truly ready for you\nand your friends this time!",
+   "ru": "Ха-ха-ха! На этот раз я\nпо-настоящему готов к тебе и\nтвоим друзьям!"
+  },
+  {
+   "id": 1,
+   "en": "I expect you to fight with all your\neffort, and die with honor!",
+   "ru": "Жду, что вы будете сражаться\nизо всех сил и погибнете с\nчестью!"
+  },
+  {
+   "id": 2,
+   "en": "Attack!",
+   "ru": "В атаку!"
+  },
+  {
+   "id": 3,
+   "en": "I don't want to hurt you, Logan! Let\nus pass and we can avoid any more\nbloodshed!",
+   "ru": "Я не хочу причинять вам вред,\nЛоган! Пропустите нас, и\nобойдёмся без крови!"
+  }
+ ]
+}

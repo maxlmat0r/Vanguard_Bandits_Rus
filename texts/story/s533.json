@@ -1,0 +1,61 @@
+{
+ "file": 533,
+ "kind": "story",
+ "lines": [
+  {
+   "id": 0,
+   "en": "Thank you for speaking with me,\nBastion.",
+   "ru": "Спасибо, что согласился\nпоговорить, Бастион."
+  },
+  {
+   "id": 1,
+   "en": "It's alright, Sadira. Now just tell me\nwhat's going on.",
+   "ru": "Ничего, Садира. Просто расскажи,\nчто происходит."
+  },
+  {
+   "id": 2,
+   "en": "You've come here to storm the castle.\nMy...home since the day I was born.",
+   "ru": "Ты пришёл штурмовать замок.\nМой... дом с самого рождения."
+  },
+  {
+   "id": 3,
+   "en": "Correct.",
+   "ru": "Верно."
+  },
+  {
+   "id": 4,
+   "en": "And you're going to battle Faulkner.",
+   "ru": "И ты будешь сражаться с\nФолкнером."
+  },
+  {
+   "id": 5,
+   "en": "We're going to DEFEAT Faulkner.",
+   "ru": "Мы ПОБЕДИМ Фолкнера."
+  },
+  {
+   "id": 6,
+   "en": "Bastion...",
+   "ru": "Бастион..."
+  },
+  {
+   "id": 7,
+   "en": "I want to join you.",
+   "ru": "Я хочу присоединиться к вам."
+  },
+  {
+   "id": 8,
+   "en": "Sadira! I appreciate the help, but\nwouldn't you be taking an awful\nrisk by doing that?",
+   "ru": "Садира! Я ценю помощь, но разве\nэто не огромный риск для тебя?"
+  },
+  {
+   "id": 9,
+   "en": "Please, Bastion.",
+   "ru": "Прошу тебя, Бастион."
+  },
+  {
+   "id": 10,
+   "en": "Let me explain what's happened since\nour last encounter...",
+   "ru": "Позволь рассказать, что\nслучилось после нашей последней\nвстречи..."
+  }
+ ]
+}

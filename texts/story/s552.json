@@ -1,0 +1,471 @@
+{
+ "file": 552,
+ "kind": "story",
+ "lines": [
+  {
+   "id": 0,
+   "en": "Bastion, I understand why you were\nso upset, but striking Ganlon was a\nvery foolish thing to do.",
+   "ru": "Бастион, я понимаю, почему ты\nтак разозлился, но ударить\nГанлона было очень глупо."
+  },
+  {
+   "id": 1,
+   "en": "I should be able to prevent Faulkner\nfrom putting you on trial, but not if\nsomething like this happens again.",
+   "ru": "Я смогу помешать Фолкнеру\nотдать тебя под суд, но не если\nтакое повторится."
+  },
+  {
+   "id": 2,
+   "en": "I know, Sadira, and I'm sorry...but I\nstill feel what I did was right.",
+   "ru": "Знаю, Садира, и прости... но я всё\nравно считаю, что поступил\nправильно."
+  },
+  {
+   "id": 3,
+   "en": "Cecilia, why didn't you stop him?\nYou must have known how much\ntrouble his actions would cause!",
+   "ru": "Сесилия, почему ты его не\nостановила? Ты же знала,\nсколько бед это принесёт!"
+  },
+  {
+   "id": 4,
+   "en": "I'm sorry, Princess! I didn't know if\nI could stop him or not! You should\nhave seen how angry he was!",
+   "ru": "Простите, принцесса! Я не знала,\nсмогу ли его остановить! Видели\nбы вы, как он злился!"
+  },
+  {
+   "id": 5,
+   "en": "(I wish I HAD seen it. He looks most\nhandsome when he's angry.)",
+   "ru": "(Хотела бы я это ВИДЕТЬ. Когда\nон злится, он ещё красивее.)"
+  },
+  {
+   "id": 6,
+   "en": "Begging your pardon, Princess! It's\nThomson! May I enter?",
+   "ru": "Прошу прощения, принцесса! Это\nТомсон! Можно войти?"
+  },
+  {
+   "id": 7,
+   "en": "(Thomson? What does HE want?)",
+   "ru": "(Томсон? Что ЕМУ нужно?)"
+  },
+  {
+   "id": 8,
+   "en": "You may enter, Thomson!",
+   "ru": "Входи, Томсон!"
+  },
+  {
+   "id": 9,
+   "en": "Thank you, Your Highness. However,\nmy business is not with you...",
+   "ru": "Благодарю, Ваше Высочество. Но\nдело у меня не к вам..."
+  },
+  {
+   "id": 10,
+   "en": "...but with the young man there. May\nI speak with him privately?",
+   "ru": "...а к этому юноше. Можно\nпоговорить с ним наедине?"
+  },
+  {
+   "id": 11,
+   "en": "With Bastion?",
+   "ru": "С Бастионом?"
+  },
+  {
+   "id": 12,
+   "en": "(The old man who was staring at me\nin Faulkner's chamber. What does he\nwant?)",
+   "ru": "(Тот старик, что пялился на меня\nу Фолкнера. Что ему нужно?)"
+  },
+  {
+   "id": 13,
+   "en": "As you wish, Thomson. This meeting\nis adjourned.",
+   "ru": "Как хочешь, Томсон. Совещание\nокончено."
+  },
+  {
+   "id": 14,
+   "en": "I just noticed...isn't that a uniform of\nthe Kingdom Army you're wearing?",
+   "ru": "Я только заметил... на вас ведь\nформа армии Королевства?"
+  },
+  {
+   "id": 15,
+   "en": "Are you like Ganlon? A traitor who\nbetrays the trust of his friends, and\nwho lives without honor?!",
+   "ru": "Вы как Ганлон? Предатель, что\nобманывает доверие друзей и\nживёт без чести?!"
+  },
+  {
+   "id": 16,
+   "en": "My wife was kidnapped by the\nImperial Army. I was given a choice.\nBecome a soldier of the Empire...",
+   "ru": "Мою жену похитила имперская\nармия. Мне дали выбор: стать\nсолдатом Империи..."
+  },
+  {
+   "id": 17,
+   "en": "...or have the remains of my beloved\ndelivered to me, one piece at a time.\nI selected the former.",
+   "ru": "...или получать останки любимой\nпо кусочку. Я выбрал первое."
+  },
+  {
+   "id": 18,
+   "en": "How unspeakably horrible!",
+   "ru": "Какой несказанный ужас!"
+  },
+  {
+   "id": 19,
+   "en": "Yes. General Faulkner is not known\nfor his subtlety, nor his compassion.",
+   "ru": "Да. Генерал Фолкнер не славится\nни тонкостью, ни состраданием."
+  },
+  {
+   "id": 20,
+   "en": "I know that he will slay both me and\nmy wife when I am no longer useful\nto him.",
+   "ru": "Я знаю, он убьёт и меня, и жену,\nкогда я стану ему не нужен."
+  },
+  {
+   "id": 21,
+   "en": "It's true.",
+   "ru": "Это правда."
+  },
+  {
+   "id": 22,
+   "en": "I apologize, sir. I am sorry for what\nFaulkner has done to you. What did\nyou wish to discuss with me?",
+   "ru": "Простите, сударь. Мне жаль, что\nФолкнер так с вами поступил. О\nчём вы хотели поговорить?"
+  },
+  {
+   "id": 23,
+   "en": "I know I am rude for asking this,\nbut I wish to speak with you alone.",
+   "ru": "Знаю, это невежливо, но я хотел\nбы поговорить с вами наедине."
+  },
+  {
+   "id": 24,
+   "en": "Princess Sadira saved me from being\nimprisoned...or worse...by Faulkner. I\nneed not keep secrets from her.",
+   "ru": "Принцесса Садира спасла меня от\nтюрьмы... или хуже... у Фолкнера.\nОт неё у меня нет тайн."
+  },
+  {
+   "id": 25,
+   "en": "Whatever you wish to discuss can be\ndiscussed here. I also have a request\nof my own.",
+   "ru": "Всё, что хотите обсудить, можно\nобсудить здесь. И у меня тоже\nесть просьба."
+  },
+  {
+   "id": 26,
+   "en": "Please don't use such a formal tone!\nYou're addressing me as if I was the\nImperial Emperor!",
+   "ru": "Не говорите со мной так\nофициально! Вы обращаетесь ко\nмне, будто я император!"
+  },
+  {
+   "id": 27,
+   "en": "Treat me as you would anyone else.",
+   "ru": "Обращайтесь со мной, как с\nлюбым другим."
+  },
+  {
+   "id": 28,
+   "en": "I cannot do that, young man.",
+   "ru": "Не могу, юноша."
+  },
+  {
+   "id": 29,
+   "en": "Not if you confirm what I believe to\nbe true.",
+   "ru": "Не могу, если вы подтвердите то,\nво что я верю."
+  },
+  {
+   "id": 30,
+   "en": "(This old man grows stranger by the\nmoment!)",
+   "ru": "(Этот старик всё страннее!)"
+  },
+  {
+   "id": 31,
+   "en": "I have two questions of you.",
+   "ru": "У меня к вам два вопроса."
+  },
+  {
+   "id": 32,
+   "en": "The first regards your name. General\nFaulkner and Her Highness call you\nBastion. Is that correct?",
+   "ru": "Первый - о вашем имени. Генерал\nФолкнер и Её Высочество зовут\nвас Бастионом. Верно?"
+  },
+  {
+   "id": 33,
+   "en": "Yes, Bastion is my name, and I am\nvery proud to have it.",
+   "ru": "Да, меня зовут Бастион, и я\nгоржусь этим именем."
+  },
+  {
+   "id": 34,
+   "en": "My second question regards the ATAC\nyou command. It is a very rare model\ncalled the Alba.",
+   "ru": "Второй вопрос - о вашем АТАКе.\nЭто очень редкая модель под\nназванием Альба."
+  },
+  {
+   "id": 35,
+   "en": "Where did you obtain it?",
+   "ru": "Откуда она у вас?"
+  },
+  {
+   "id": 36,
+   "en": "From my father.",
+   "ru": "От отца."
+  },
+  {
+   "id": 37,
+   "en": "Did he tell you how HE obtained it?",
+   "ru": "А он рассказал вам, откуда она у\nНЕГО?"
+  },
+  {
+   "id": 38,
+   "en": "No, but...",
+   "ru": "Нет, но..."
+  },
+  {
+   "id": 39,
+   "en": "What is your father's name?",
+   "ru": "Как зовут вашего отца?"
+  },
+  {
+   "id": 40,
+   "en": "It was...it is Kamorge. But what does\nthat have to do with...",
+   "ru": "Звали... зовут Каморж. Но какое\nэто имеет отношение..."
+  },
+  {
+   "id": 41,
+   "en": "Then there is no mistake. You are the\nPrince of the Pharastia Kingdom.",
+   "ru": "Тогда ошибки нет. Вы - принц\nКоролевства Фарастия."
+  },
+  {
+   "id": 42,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 43,
+   "en": "Thomson?!",
+   "ru": "Томсон?!"
+  },
+  {
+   "id": 44,
+   "en": "And how did you come to that\nconclusion, sir?!",
+   "ru": "И как вы пришли к такому\nвыводу, сударь?!"
+  },
+  {
+   "id": 45,
+   "en": "The evidence is beyond doubt.",
+   "ru": "Доказательства бесспорны."
+  },
+  {
+   "id": 46,
+   "en": "Your father told you his name was\nKamorge, but his name by birth was\nAlugard.",
+   "ru": "Отец назвался вам Каморжем, но\nот рождения его звали Алугард."
+  },
+  {
+   "id": 47,
+   "en": "He was the leader of the Guardian\nKnights, and served as the King's\npersonal bodyguard.",
+   "ru": "Он был предводителем\nрыцарей-стражей и личным\nтелохранителем короля."
+  },
+  {
+   "id": 48,
+   "en": "What?! Father surely would have\ntold me something like that!",
+   "ru": "Что?! Уж такое отец бы мне\nточно рассказал!"
+  },
+  {
+   "id": 49,
+   "en": "He disappeared fifteen years ago,\nduring the Empire's assault on the\ncapital of the Kingdom.",
+   "ru": "Он исчез пятнадцать лет назад,\nво время штурма столицы\nКоролевства Империей."
+  },
+  {
+   "id": 50,
+   "en": "And the Alba ATAC, which had been\nwithin the Kingdom for generations,\ndisappeared with him.",
+   "ru": "А с ним исчез и АТАК Альба,\nвеками хранившийся в\nКоролевстве."
+  },
+  {
+   "id": 51,
+   "en": "I always wondered how Father had\nobtained such a powerful ATAC.",
+   "ru": "Я всегда гадал, откуда у отца\nтакой мощный АТАК."
+  },
+  {
+   "id": 52,
+   "en": "There was a third disappearance on\nthat day. Prince Bastion, heir to the\nKingdom. You.",
+   "ru": "В тот день исчез и третий.\nПринц Бастион, наследник\nКоролевства. Вы."
+  },
+  {
+   "id": 53,
+   "en": "Prince?",
+   "ru": "Принц?"
+  },
+  {
+   "id": 54,
+   "en": "I knew it was you the moment I saw\nyou in Faulkner's chambers.",
+   "ru": "Я понял, что это вы, едва увидел\nвас в покоях Фолкнера."
+  },
+  {
+   "id": 55,
+   "en": "You look very much like your father\ndid when he was your age. It is an\namazing resemblance.",
+   "ru": "Вы очень похожи на своего отца в\nвашем возрасте. Поразительное\nсходство."
+  },
+  {
+   "id": 56,
+   "en": "His Majesty was a wonderful man. I\nam sorry you never had the chance to\nknow him.",
+   "ru": "Его Величество был чудесным\nчеловеком. Жаль, вам так и не\nдовелось его узнать."
+  },
+  {
+   "id": 57,
+   "en": "This can't be true. Perhaps Faulkner\nhas sent you here to confuse me with\nthese bizarre stories.",
+   "ru": "Не может быть. Может, вас\nподослал Фолкнер, чтобы\nзапутать меня этими байками."
+  },
+  {
+   "id": 58,
+   "en": "I realize this might take you a great\ndeal of time for you to absorb, Your\nHighness.",
+   "ru": "Понимаю, вам потребуется много\nвремени, чтобы это осознать,\nВаше Высочество."
+  },
+  {
+   "id": 59,
+   "en": "But it is the truth. And in your heart,\nI think you already realize that.",
+   "ru": "Но это правда. И в глубине души,\nдумаю, вы это уже понимаете."
+  },
+  {
+   "id": 60,
+   "en": "The people of the Kingdom need you\nto return, Your Highness. They need\nyou to lead them to salvation.",
+   "ru": "Королевству нужно ваше\nвозвращение, Ваше Высочество.\nВедите народ к спасению."
+  },
+  {
+   "id": 61,
+   "en": "How...how can I respond to that?",
+   "ru": "Как... что мне на это ответить?"
+  },
+  {
+   "id": 62,
+   "en": "You don't have to, Your Highness. Not\nyet, anyway.",
+   "ru": "Пока ничего, Ваше Высочество. По\nкрайней мере, пока."
+  },
+  {
+   "id": 63,
+   "en": "You must be careful, Your Highness.\nGeneral Faulkner is already keeping\na close watch on you.",
+   "ru": "Будьте осторожны, Ваше\nВысочество. Генерал Фолкнер уже\nпристально за вами следит."
+  },
+  {
+   "id": 64,
+   "en": "It would be the end of everything if\nhe discovered  your true lineage.",
+   "ru": "Если он узнает о вашем\nпроисхождении, всему конец."
+  },
+  {
+   "id": 65,
+   "en": "I'm the Prince of the Kingdom, and\nmy father was a Guardian Knight?\nIt can't be true.",
+   "ru": "Я принц Королевства, а мой отец\nбыл рыцарем-стражем? Не может\nбыть."
+  },
+  {
+   "id": 66,
+   "en": "Because if it was, then Father threw\naway his life to protect mine.",
+   "ru": "Ведь тогда выходит, что отец\nотдал жизнь, защищая мою."
+  },
+  {
+   "id": 67,
+   "en": "It wasn't Father whom the Empire\nwas searching for. It was me.",
+   "ru": "Империя искала не отца. Она\nискала меня."
+  },
+  {
+   "id": 68,
+   "en": "Those Imperial soldiers attacked that\nvillage and endangered those innocent\npeople because I was there.",
+   "ru": "Имперцы напали на ту деревню и\nподвергли опасности невинных,\nпотому что там был я."
+  },
+  {
+   "id": 69,
+   "en": "If Thomson was telling the truth...\nthen all of this is my fault!",
+   "ru": "Если Томсон говорил правду...\nзначит, всё это из-за меня!"
+  },
+  {
+   "id": 70,
+   "en": "The endless war between the Empire\nand the Kingdom...the death of my\nfather...all because of my existence!",
+   "ru": "Бесконечная война Империи и\nКоролевства... смерть отца... всё\nиз-за того, что я существую!"
+  },
+  {
+   "id": 71,
+   "en": "Bastion...",
+   "ru": "Бастион..."
+  },
+  {
+   "id": 72,
+   "en": "The truth can be painful to bear,\nyes.  Mmmmm. Indeed it can. But\neven yet, the truth remains.",
+   "ru": "Правду бывает тяжело нести, да.\nМмм. Ещё как. И всё же правда\nостаётся правдой."
+  },
+  {
+   "id": 73,
+   "en": "I wish I could tell you Thomson was\nwrong, Bastion, but I believe him.",
+   "ru": "Хотела бы я сказать, что Томсон\nошибся, Бастион, но я ему верю."
+  },
+  {
+   "id": 74,
+   "en": "Now I understand why Faulkner\nambushed you and your father.",
+   "ru": "Теперь я понимаю, почему\nФолкнер устроил засаду тебе и\nтвоему отцу."
+  },
+  {
+   "id": 75,
+   "en": "I also believe that he already knows\nof your lineage, Bastion. That's why\nhe tried to capture you.",
+   "ru": "И, думаю, он уже знает о твоём\nпроисхождении, Бастион. Поэтому\nи пытался тебя захватить."
+  },
+  {
+   "id": 76,
+   "en": "But I still don't understand what he\nintended to do with you, or what he\nmight yet intend.",
+   "ru": "Но я всё ещё не понимаю, что он\nсобирался с тобой делать и что\nможет задумать."
+  },
+  {
+   "id": 77,
+   "en": "I feel sick.",
+   "ru": "Мне дурно."
+  },
+  {
+   "id": 78,
+   "en": "What do I do now, Sadira?",
+   "ru": "Что мне теперь делать, Садира?"
+  },
+  {
+   "id": 79,
+   "en": "Where do I go?",
+   "ru": "Куда идти?"
+  },
+  {
+   "id": 80,
+   "en": "I have no answers.",
+   "ru": "У меня нет ответов."
+  },
+  {
+   "id": 81,
+   "en": "Nor have I, unfortunately. Bastion,\nI believe that you hold the answers\nyou seek within. Find them.",
+   "ru": "У меня тоже, увы. Бастион,\nдумаю, ответы внутри тебя.\nНайди их."
+  },
+  {
+   "id": 82,
+   "en": "I...I will speak to you soon, Bastion.",
+   "ru": "Я... мы скоро поговорим, Бастион."
+  },
+  {
+   "id": 83,
+   "en": "Cecilia?!",
+   "ru": "Сесилия?!"
+  },
+  {
+   "id": 84,
+   "en": "Stop feeling so sorry for yourself,\nBastion! It's really dumb! Remember\nwhat your father told you? I do!",
+   "ru": "Хватит себя жалеть, Бастион! Это\nглупо! Помнишь, что говорил\nтебе отец? Я помню!"
+  },
+  {
+   "id": 85,
+   "en": "'Every moment you spend looking\nback is a moment you could have\nspent looking forward.'",
+   "ru": "\"Каждый миг, что ты смотришь\nназад, можно было потратить,\nглядя вперёд.\""
+  },
+  {
+   "id": 86,
+   "en": "I know, Cecilia, but I'm flooded with\nso many emotions. It's all I can do not\nto scream at the walls!",
+   "ru": "Знаю, Сесилия, но меня\nзахлёстывают чувства. Так и\nхочется закричать!"
+  },
+  {
+   "id": 87,
+   "en": "Get a grip or you get another slap,\nBastion! It's not a tough choice!",
+   "ru": "Возьми себя в руки, или\nполучишь ещё пощёчину,\nБастион! Выбор несложный!"
+  },
+  {
+   "id": 88,
+   "en": "You're starting to scare me a little.",
+   "ru": "Ты начинаешь меня слегка\nпугать."
+  },
+  {
+   "id": 89,
+   "en": "Good! I think a strong woman is\nexactly what you need in your life!",
+   "ru": "Отлично! По-моему, тебе в жизни\nкак раз нужна сильная женщина!"
+  },
+  {
+   "id": 90,
+   "en": "Don't think you're the only one with\na burden to bear, Bastion, because\nyou're not!",
+   "ru": "Не думай, что только ты несёшь\nтяжкий груз, Бастион, - не\nтолько ты!"
+  },
+  {
+   "id": 91,
+   "en": "Goodbye! And I'm sorry if I hurt you!",
+   "ru": "Пока! И прости, если было больно!"
+  },
+  {
+   "id": 92,
+   "en": "(I'm honored that you care about\nme, Cecilia, but you can't possibly\nunderstand what I'm feeling...)",
+   "ru": "(Мне лестно, что ты обо мне\nзаботишься, Сесилия, но тебе не\nпонять, что я чувствую...)"
+  }
+ ]
+}

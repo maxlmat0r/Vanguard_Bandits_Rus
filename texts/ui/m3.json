@@ -1,0 +1,3611 @@
+{
+ "file": 3,
+ "kind": "module",
+ "base": "0x800751a8",
+ "lines": [
+  {
+   "id": 0,
+   "addr": "0x800751ac",
+   "en": "None 9",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d130"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 1,
+   "addr": "0x800751b4",
+   "en": "None 8",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d12c"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 2,
+   "addr": "0x800751bc",
+   "en": "None 7",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d128"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 3,
+   "addr": "0x800751c4",
+   "en": "None 6",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d124"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 4,
+   "addr": "0x800751cc",
+   "en": "None 5",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d120"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 5,
+   "addr": "0x800751d4",
+   "en": "Faulkner play",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d11c"
+   ],
+   "room": 16,
+   "tail": false
+  },
+  {
+   "id": 6,
+   "addr": "0x800751e4",
+   "en": "Randy play",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d118"
+   ],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 7,
+   "addr": "0x800751f0",
+   "en": "Old man vs 497 general sword",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d114"
+   ],
+   "room": 32,
+   "tail": false
+  },
+  {
+   "id": 8,
+   "addr": "0x80075210",
+   "en": "Old man vs 497 Zagzagel",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d110"
+   ],
+   "room": 24,
+   "tail": false
+  },
+  {
+   "id": 9,
+   "addr": "0x80075228",
+   "en": "General circulation (spear)",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d10c"
+   ],
+   "room": 28,
+   "tail": false
+  },
+  {
+   "id": 10,
+   "addr": "0x80075244",
+   "en": "General circulation (axe)",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d108"
+   ],
+   "room": 28,
+   "tail": false
+  },
+  {
+   "id": 11,
+   "addr": "0x80075260",
+   "en": "General circulation (sword)",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d104"
+   ],
+   "room": 28,
+   "tail": false
+  },
+  {
+   "id": 12,
+   "addr": "0x8007527c",
+   "en": "General circulation (blade)",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d100"
+   ],
+   "room": 28,
+   "tail": false
+  },
+  {
+   "id": 13,
+   "addr": "0x80075298",
+   "en": "Comedy (No. 88)",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d0fc"
+   ],
+   "room": 16,
+   "tail": false
+  },
+  {
+   "id": 14,
+   "addr": "0x800752a8",
+   "en": "Fat Generic machine",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d0f8"
+   ],
+   "room": 20,
+   "tail": false
+  },
+  {
+   "id": 15,
+   "addr": "0x800752bc",
+   "en": "Fat machine (8 moles)",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d0f4"
+   ],
+   "room": 24,
+   "tail": false
+  },
+  {
+   "id": 16,
+   "addr": "0x800752d4",
+   "en": "Mercenary's ninja",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d0f0"
+   ],
+   "room": 20,
+   "tail": false
+  },
+  {
+   "id": 17,
+   "addr": "0x800752e8",
+   "en": "Mercenary's panther",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d0ec"
+   ],
+   "room": 20,
+   "tail": false
+  },
+  {
+   "id": 18,
+   "addr": "0x800752fc",
+   "en": "Mercenary machine (8 lions)",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d0e8"
+   ],
+   "room": 28,
+   "tail": false
+  },
+  {
+   "id": 19,
+   "addr": "0x80075318",
+   "en": "Jinba Generic machine (None)",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d0e4"
+   ],
+   "room": 32,
+   "tail": false
+  },
+  {
+   "id": 20,
+   "addr": "0x80075338",
+   "en": "Jinba machine (8 horses)",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d0e0"
+   ],
+   "room": 28,
+   "tail": false
+  },
+  {
+   "id": 21,
+   "addr": "0x80075354",
+   "en": "Red Tiger Generic machine",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d0dc"
+   ],
+   "room": 28,
+   "tail": false
+  },
+  {
+   "id": 22,
+   "addr": "0x80075370",
+   "en": "Red Tiger Raid machine (None)",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d0d8"
+   ],
+   "room": 32,
+   "tail": false
+  },
+  {
+   "id": 23,
+   "addr": "0x80075390",
+   "en": "Red Tiger machine (8 tigers)",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d0d4"
+   ],
+   "room": 32,
+   "tail": false
+  },
+  {
+   "id": 24,
+   "addr": "0x800753b0",
+   "en": "Ice Wolf Generic machine",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d0d0"
+   ],
+   "room": 28,
+   "tail": false
+  },
+  {
+   "id": 25,
+   "addr": "0x800753cc",
+   "en": "Ice Wolf Officer machine",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d0cc"
+   ],
+   "room": 28,
+   "tail": false
+  },
+  {
+   "id": 26,
+   "addr": "0x800753e8",
+   "en": "Ice Wolf Female Adjutant machine",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d0c8"
+   ],
+   "room": 36,
+   "tail": false
+  },
+  {
+   "id": 27,
+   "addr": "0x8007540c",
+   "en": "Ice Wolf machine (8 wolves)",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d0c4"
+   ],
+   "room": 28,
+   "tail": false
+  },
+  {
+   "id": 28,
+   "addr": "0x80075428",
+   "en": "Imperial Generic machine 2",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d0c0"
+   ],
+   "room": 28,
+   "tail": false
+  },
+  {
+   "id": 29,
+   "addr": "0x80075444",
+   "en": "Imperial Generic machine 1 (None)",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d0bc"
+   ],
+   "room": 36,
+   "tail": false
+  },
+  {
+   "id": 30,
+   "addr": "0x80075468",
+   "en": "Imperial Officer machine",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d0b8"
+   ],
+   "room": 28,
+   "tail": false
+  },
+  {
+   "id": 31,
+   "addr": "0x80075484",
+   "en": "Sharking v 1",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d0b4"
+   ],
+   "room": 16,
+   "tail": false
+  },
+  {
+   "id": 32,
+   "addr": "0x80075494",
+   "en": "Imperial Princess's unit's machine",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d0b0"
+   ],
+   "room": 36,
+   "tail": false
+  },
+  {
+   "id": 33,
+   "addr": "0x800754b8",
+   "en": "Imperial Princess's machine (8 birds)",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d0ac"
+   ],
+   "room": 40,
+   "tail": false
+  },
+  {
+   "id": 34,
+   "addr": "0x800754e0",
+   "en": "Imperial Prince's machine (8 dogs)",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d0a8"
+   ],
+   "room": 36,
+   "tail": false
+  },
+  {
+   "id": 35,
+   "addr": "0x80075504",
+   "en": "Rival machine",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d0a4"
+   ],
+   "room": 16,
+   "tail": false
+  },
+  {
+   "id": 36,
+   "addr": "0x80075514",
+   "en": "Kingdom Dragon-Shaped machine",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d0a0"
+   ],
+   "room": 32,
+   "tail": false
+  },
+  {
+   "id": 37,
+   "addr": "0x80075534",
+   "en": "Kingdom Generic machine",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d09c"
+   ],
+   "room": 24,
+   "tail": false
+  },
+  {
+   "id": 38,
+   "addr": "0x8007554c",
+   "en": "Kingdom Officer machine",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d098"
+   ],
+   "room": 24,
+   "tail": false
+  },
+  {
+   "id": 39,
+   "addr": "0x80075564",
+   "en": "Anti-Empire Old Man's machine",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d094"
+   ],
+   "room": 32,
+   "tail": false
+  },
+  {
+   "id": 40,
+   "addr": "0x80075584",
+   "en": "Initial main character machine",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d090"
+   ],
+   "room": 32,
+   "tail": false
+  },
+  {
+   "id": 41,
+   "addr": "0x800755a4",
+   "en": "Fake royal machine",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d08c"
+   ],
+   "room": 20,
+   "tail": false
+  },
+  {
+   "id": 42,
+   "addr": "0x800755b8",
+   "en": "Devil machine",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d088"
+   ],
+   "room": 16,
+   "tail": false
+  },
+  {
+   "id": 43,
+   "addr": "0x800755c8",
+   "en": "Royal machine",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d084"
+   ],
+   "room": 16,
+   "tail": false
+  },
+  {
+   "id": 44,
+   "addr": "0x800755d8",
+   "en": "No data",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d080"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 45,
+   "addr": "0x800755e0",
+   "en": "BISLPS-00002 SNEO03",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d144"
+   ],
+   "room": 20,
+   "tail": false
+  },
+  {
+   "id": 46,
+   "addr": "0x800755f4",
+   "en": "BISLPS-00002 SNEO02",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d140"
+   ],
+   "room": 20,
+   "tail": false
+  },
+  {
+   "id": 47,
+   "addr": "0x80075608",
+   "en": "BISLPS-00002 SNEO01",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d13c"
+   ],
+   "room": 20,
+   "tail": false
+  },
+  {
+   "id": 48,
+   "addr": "0x8007561c",
+   "en": "BISLPS-00002 SNEO00",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d138"
+   ],
+   "room": 20,
+   "tail": false
+  },
+  {
+   "id": 49,
+   "addr": "0x80075630",
+   "en": "BISLPS-00002 SNEOSY",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d134"
+   ],
+   "room": 20,
+   "tail": false
+  },
+  {
+   "id": 50,
+   "addr": "0x80075644",
+   "en": "REV03",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d184"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 51,
+   "addr": "0x8007564c",
+   "en": "REV02",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d180"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 52,
+   "addr": "0x80075654",
+   "en": "REV01",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d17c"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 53,
+   "addr": "0x8007565c",
+   "en": "COUNTER MISS",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d178"
+   ],
+   "room": 16,
+   "tail": false
+  },
+  {
+   "id": 54,
+   "addr": "0x8007566c",
+   "en": "COUNTER",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d174"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 55,
+   "addr": "0x80075674",
+   "en": "FLIP HIT",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d170"
+   ],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 56,
+   "addr": "0x80075680",
+   "en": "FLIP RETURN",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d16c"
+   ],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 57,
+   "addr": "0x8007568c",
+   "en": "PARRY HIT",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d168"
+   ],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 58,
+   "addr": "0x80075698",
+   "en": "PARRY IT",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d164"
+   ],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 59,
+   "addr": "0x800756a4",
+   "en": "STEP MISS",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d160"
+   ],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 60,
+   "addr": "0x800756b0",
+   "en": "STEP ASIDE",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d15c"
+   ],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 61,
+   "addr": "0x800756bc",
+   "en": "AVOID MISS",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d158"
+   ],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 62,
+   "addr": "0x800756c8",
+   "en": "AVOID",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d154"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 63,
+   "addr": "0x800756d0",
+   "en": "GUARD",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d150"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 64,
+   "addr": "0x800756d8",
+   "en": "HIT",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d14c"
+   ],
+   "room": 4,
+   "tail": false
+  },
+  {
+   "id": 65,
+   "addr": "0x800756dc",
+   "en": "NOT LINK",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d148"
+   ],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 66,
+   "addr": "0x800756f4",
+   "en": "CM",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d1b8"
+   ],
+   "room": 4,
+   "tail": false
+  },
+  {
+   "id": 67,
+   "addr": "0x800756f8",
+   "en": "CT",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d1b4"
+   ],
+   "room": 4,
+   "tail": false
+  },
+  {
+   "id": 68,
+   "addr": "0x800756fc",
+   "en": "FH",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d1b0"
+   ],
+   "room": 4,
+   "tail": false
+  },
+  {
+   "id": 69,
+   "addr": "0x80075700",
+   "en": "FL",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d1ac"
+   ],
+   "room": 4,
+   "tail": false
+  },
+  {
+   "id": 70,
+   "addr": "0x80075704",
+   "en": "PH",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d1a8"
+   ],
+   "room": 4,
+   "tail": false
+  },
+  {
+   "id": 71,
+   "addr": "0x80075708",
+   "en": "PA",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d1a4"
+   ],
+   "room": 4,
+   "tail": false
+  },
+  {
+   "id": 72,
+   "addr": "0x8007570c",
+   "en": "SM",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d1a0"
+   ],
+   "room": 4,
+   "tail": false
+  },
+  {
+   "id": 73,
+   "addr": "0x80075710",
+   "en": "ST",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d19c"
+   ],
+   "room": 4,
+   "tail": false
+  },
+  {
+   "id": 74,
+   "addr": "0x80075714",
+   "en": "AM",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d198"
+   ],
+   "room": 4,
+   "tail": false
+  },
+  {
+   "id": 75,
+   "addr": "0x80075718",
+   "en": "AV",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d194"
+   ],
+   "room": 4,
+   "tail": false
+  },
+  {
+   "id": 76,
+   "addr": "0x8007571c",
+   "en": "GD",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d190"
+   ],
+   "room": 4,
+   "tail": false
+  },
+  {
+   "id": 77,
+   "addr": "0x80075720",
+   "en": "HT",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d18c"
+   ],
+   "room": 4,
+   "tail": false
+  },
+  {
+   "id": 78,
+   "addr": "0x80075724",
+   "en": "NO",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d188"
+   ],
+   "room": 4,
+   "tail": false
+  },
+  {
+   "id": 79,
+   "addr": "0x800757cc",
+   "en": "LOAD",
+   "ru": "",
+   "refs": [
+    "0x80078554"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 80,
+   "addr": "0x800757d4",
+   "en": "FILE SYS  DISP MODE",
+   "ru": "",
+   "refs": [
+    "0x800799d4"
+   ],
+   "ptrs": [],
+   "room": 20,
+   "tail": false
+  },
+  {
+   "id": 81,
+   "addr": "0x800757e8",
+   "en": "FNT CPY\nRSD INS\nLSD DEL\nTOP\nFRE 512\n    UDO\nROX\nROY DP1\nMVX DP2\nMVY ED1\nMVZ ED2\nVSX\nVSY\n",
+   "ru": "",
+   "refs": [
+    "0x800799ec"
+   ],
+   "ptrs": [],
+   "room": 92,
+   "tail": false
+  },
+  {
+   "id": 82,
+   "addr": "0x80075864",
+   "en": "ANM\n NO FRM TM",
+   "ru": "",
+   "refs": [
+    "0x80079a38"
+   ],
+   "ptrs": [],
+   "room": 16,
+   "tail": false
+  },
+  {
+   "id": 83,
+   "addr": "0x80075b00",
+   "en": "L-SIDE",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d518"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 84,
+   "addr": "0x80075b08",
+   "en": "BACK",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d514"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 85,
+   "addr": "0x80075b10",
+   "en": "R-SIDE",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d510"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 86,
+   "addr": "0x80075b18",
+   "en": "FRONT",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d50c"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 87,
+   "addr": "0x80075b20",
+   "en": "ON",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d520",
+    "0x8008d544"
+   ],
+   "room": 4,
+   "tail": false
+  },
+  {
+   "id": 88,
+   "addr": "0x80075b24",
+   "en": "OFF",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d51c",
+    "0x8008d540"
+   ],
+   "room": 4,
+   "tail": false
+  },
+  {
+   "id": 89,
+   "addr": "0x80075cd4",
+   "en": "ROTATE",
+   "ru": "",
+   "refs": [
+    "0x8007ab70"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 90,
+   "addr": "0x80075cec",
+   "en": "MOVE",
+   "ru": "",
+   "refs": [
+    "0x8007ac04"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 91,
+   "addr": "0x80075cfc",
+   "en": "VANISH",
+   "ru": "",
+   "refs": [
+    "0x8007ac60"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 92,
+   "addr": "0x80075d04",
+   "en": "DIST",
+   "ru": "",
+   "refs": [
+    "0x8007acb8"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 93,
+   "addr": "0x80075d80",
+   "en": " xx ",
+   "ru": "",
+   "refs": [
+    "0x8007b1dc"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 94,
+   "addr": "0x80075ebc",
+   "en": "LONG",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d52c"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 95,
+   "addr": "0x80075ec4",
+   "en": "SHOT",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d528"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 96,
+   "addr": "0x80075ecc",
+   "en": "ALL",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d524"
+   ],
+   "room": 4,
+   "tail": false
+  },
+  {
+   "id": 97,
+   "addr": "0x80075ed0",
+   "en": "STAD",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d53c"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 98,
+   "addr": "0x80075ed8",
+   "en": "DOWN",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d538"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 99,
+   "addr": "0x80075ee0",
+   "en": "UP",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d534"
+   ],
+   "room": 4,
+   "tail": false
+  },
+  {
+   "id": 100,
+   "addr": "0x80075ee4",
+   "en": "NON",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d530"
+   ],
+   "room": 4,
+   "tail": false
+  },
+  {
+   "id": 101,
+   "addr": "0x80075ee8",
+   "en": "YELW",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d55c"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 102,
+   "addr": "0x80075ef0",
+   "en": "SKY",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d558"
+   ],
+   "room": 4,
+   "tail": false
+  },
+  {
+   "id": 103,
+   "addr": "0x80075ef4",
+   "en": "GREN",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d554"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 104,
+   "addr": "0x80075efc",
+   "en": "BLUE",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d550"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 105,
+   "addr": "0x80075f04",
+   "en": "RED",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d54c"
+   ],
+   "room": 4,
+   "tail": false
+  },
+  {
+   "id": 106,
+   "addr": "0x80075f08",
+   "en": "WHIT",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d548"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 107,
+   "addr": "0x80075f64",
+   "en": "xx",
+   "ru": "",
+   "refs": [
+    "0x8007b928",
+    "0x8007b994"
+   ],
+   "ptrs": [],
+   "room": 4,
+   "tail": false
+  },
+  {
+   "id": 108,
+   "addr": "0x80076054",
+   "en": "MEMORY CARD NOT READY",
+   "ru": "",
+   "refs": [
+    "0x8007dd54"
+   ],
+   "ptrs": [],
+   "room": 24,
+   "tail": false
+  },
+  {
+   "id": 109,
+   "addr": "0x8007606c",
+   "en": "../../USE/MEKA/DATA/MEKA",
+   "ru": "",
+   "refs": [
+    "0x8007debc"
+   ],
+   "ptrs": [],
+   "room": 28,
+   "tail": false
+  },
+  {
+   "id": 110,
+   "addr": "0x80076088",
+   "en": ".MAM",
+   "ru": "",
+   "refs": [
+    "0x8007def4"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 111,
+   "addr": "0x800760ac",
+   "en": "SAVE ERROR",
+   "ru": "",
+   "refs": [
+    "0x8007fe9c",
+    "0x800808cc"
+   ],
+   "ptrs": [],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 112,
+   "addr": "0x800760b8",
+   "en": "LOADTMP",
+   "ru": "",
+   "refs": [
+    "0x80080004"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 113,
+   "addr": "0x800760c0",
+   "en": "DATA SIZE OVER",
+   "ru": "",
+   "refs": [
+    "0x800806ac",
+    "0x80080b14"
+   ],
+   "ptrs": [],
+   "room": 20,
+   "tail": false
+  },
+  {
+   "id": 114,
+   "addr": "0x800763c4",
+   "en": "BLSB",
+   "ru": "",
+   "refs": [
+    "0x80081950"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 115,
+   "addr": "0x800763cc",
+   "en": "BLDB_0",
+   "ru": "",
+   "refs": [
+    "0x8008195c"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 116,
+   "addr": "0x800763d4",
+   "en": "BLDB_1",
+   "ru": "",
+   "refs": [
+    "0x80081974"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 117,
+   "addr": "0x800763dc",
+   "en": "TMDPKT",
+   "ru": "",
+   "refs": [
+    "0x80081990"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 118,
+   "addr": "0x800763e4",
+   "en": "BMK1",
+   "ru": "",
+   "refs": [
+    "0x800819d0"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 119,
+   "addr": "0x800763ec",
+   "en": "BMK2",
+   "ru": "",
+   "refs": [
+    "0x800819fc"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 120,
+   "addr": "0x800763f4",
+   "en": "SNE0-EDITOR System",
+   "ru": "",
+   "refs": [
+    "0x800820fc"
+   ],
+   "ptrs": [],
+   "room": 20,
+   "tail": false
+  },
+  {
+   "id": 121,
+   "addr": "0x80076408",
+   "en": "ModelTxPlus > UNKNOW PRIM\n",
+   "ru": "",
+   "refs": [
+    "0x80082e84"
+   ],
+   "ptrs": [],
+   "room": 28,
+   "tail": false
+  },
+  {
+   "id": 122,
+   "addr": "0x8007649c",
+   "en": "Bridge",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d774"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 123,
+   "addr": "0x800764a4",
+   "en": "Castle",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d770"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 124,
+   "addr": "0x800764ac",
+   "en": "City",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d76c"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 125,
+   "addr": "0x800764b4",
+   "en": "Road",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d768"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 126,
+   "addr": "0x800764bc",
+   "en": "Swamp land",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d764"
+   ],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 127,
+   "addr": "0x800764c8",
+   "en": "Desert",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d760"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 128,
+   "addr": "0x800764d0",
+   "en": "Cliff",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d75c"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 129,
+   "addr": "0x800764d8",
+   "en": "Rocky ground",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d758"
+   ],
+   "room": 16,
+   "tail": false
+  },
+  {
+   "id": 130,
+   "addr": "0x800764e8",
+   "en": "Forest",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d754"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 131,
+   "addr": "0x800764f0",
+   "en": "Trees",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d750"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 132,
+   "addr": "0x800764f8",
+   "en": "Wilderness",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d74c"
+   ],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 133,
+   "addr": "0x80076504",
+   "en": "Plains",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d748"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 134,
+   "addr": "0x8007650c",
+   "en": "Impossible to invade",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d778"
+   ],
+   "room": 24,
+   "tail": false
+  },
+  {
+   "id": 135,
+   "addr": "0x80076524",
+   "en": "Inner inclined plane 2-4",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d7dc"
+   ],
+   "room": 28,
+   "tail": false
+  },
+  {
+   "id": 136,
+   "addr": "0x80076540",
+   "en": "Inner inclined plane 2-3",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d7d8"
+   ],
+   "room": 28,
+   "tail": false
+  },
+  {
+   "id": 137,
+   "addr": "0x8007655c",
+   "en": "Inner inclined plane 2-2",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d7d4"
+   ],
+   "room": 28,
+   "tail": false
+  },
+  {
+   "id": 138,
+   "addr": "0x80076578",
+   "en": "Inner inclined plane 2-1",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d7d0"
+   ],
+   "room": 28,
+   "tail": false
+  },
+  {
+   "id": 139,
+   "addr": "0x80076594",
+   "en": "Outer inclined plane 2-4",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d7cc"
+   ],
+   "room": 28,
+   "tail": false
+  },
+  {
+   "id": 140,
+   "addr": "0x800765b0",
+   "en": "Outer inclined plane 2-3",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d7c8"
+   ],
+   "room": 28,
+   "tail": false
+  },
+  {
+   "id": 141,
+   "addr": "0x800765cc",
+   "en": "Outer inclined plane 2-2",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d7c4"
+   ],
+   "room": 28,
+   "tail": false
+  },
+  {
+   "id": 142,
+   "addr": "0x800765e8",
+   "en": "Outer inclined plane 2-1",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d7c0"
+   ],
+   "room": 28,
+   "tail": false
+  },
+  {
+   "id": 143,
+   "addr": "0x80076604",
+   "en": "Surface inclined plane 2-4",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d7bc"
+   ],
+   "room": 28,
+   "tail": false
+  },
+  {
+   "id": 144,
+   "addr": "0x80076620",
+   "en": "Surface inclined plane 2-3",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d7b8"
+   ],
+   "room": 28,
+   "tail": false
+  },
+  {
+   "id": 145,
+   "addr": "0x8007663c",
+   "en": "Surface inclined plane 2-2",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d7b4"
+   ],
+   "room": 28,
+   "tail": false
+  },
+  {
+   "id": 146,
+   "addr": "0x80076658",
+   "en": "Surface inclined plane 2-1",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d7b0"
+   ],
+   "room": 28,
+   "tail": false
+  },
+  {
+   "id": 147,
+   "addr": "0x80076674",
+   "en": "Inner inclined plane 1-4",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d7ac"
+   ],
+   "room": 28,
+   "tail": false
+  },
+  {
+   "id": 148,
+   "addr": "0x80076690",
+   "en": "Inner inclined plane 1-3",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d7a8"
+   ],
+   "room": 28,
+   "tail": false
+  },
+  {
+   "id": 149,
+   "addr": "0x800766ac",
+   "en": "Inner inclined plane 1-2",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d7a4"
+   ],
+   "room": 28,
+   "tail": false
+  },
+  {
+   "id": 150,
+   "addr": "0x800766c8",
+   "en": "Inner inclined plane 1-1",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d7a0"
+   ],
+   "room": 28,
+   "tail": false
+  },
+  {
+   "id": 151,
+   "addr": "0x800766e4",
+   "en": "Outer inclined plane 1-4",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d79c"
+   ],
+   "room": 28,
+   "tail": false
+  },
+  {
+   "id": 152,
+   "addr": "0x80076700",
+   "en": "Outer inclined plane 1-3",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d798"
+   ],
+   "room": 28,
+   "tail": false
+  },
+  {
+   "id": 153,
+   "addr": "0x8007671c",
+   "en": "Outer inclined plane 1-2",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d794"
+   ],
+   "room": 28,
+   "tail": false
+  },
+  {
+   "id": 154,
+   "addr": "0x80076738",
+   "en": "Outer inclined plane 1-1",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d790"
+   ],
+   "room": 28,
+   "tail": false
+  },
+  {
+   "id": 155,
+   "addr": "0x80076754",
+   "en": "Surface inclined plane 1-4",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d78c"
+   ],
+   "room": 28,
+   "tail": false
+  },
+  {
+   "id": 156,
+   "addr": "0x80076770",
+   "en": "Surface inclined plane 1-3",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d788"
+   ],
+   "room": 28,
+   "tail": false
+  },
+  {
+   "id": 157,
+   "addr": "0x8007678c",
+   "en": "Surface inclined plane 1-2",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d784"
+   ],
+   "room": 28,
+   "tail": false
+  },
+  {
+   "id": 158,
+   "addr": "0x800767a8",
+   "en": "Surface inclined plane 1-1",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d780"
+   ],
+   "room": 28,
+   "tail": false
+  },
+  {
+   "id": 159,
+   "addr": "0x800767c4",
+   "en": "Level surface",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d77c"
+   ],
+   "room": 16,
+   "tail": false
+  },
+  {
+   "id": 160,
+   "addr": "0x800767d4",
+   "en": "Terrain confirmation",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d7ec"
+   ],
+   "room": 24,
+   "tail": false
+  },
+  {
+   "id": 161,
+   "addr": "0x800767ec",
+   "en": "Terrain height",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d7e8"
+   ],
+   "room": 16,
+   "tail": false
+  },
+  {
+   "id": 162,
+   "addr": "0x800767fc",
+   "en": "Terrain shape",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d7e4"
+   ],
+   "room": 16,
+   "tail": false
+  },
+  {
+   "id": 163,
+   "addr": "0x8007680c",
+   "en": "Terrain effect",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d7e0"
+   ],
+   "room": 16,
+   "tail": false
+  },
+  {
+   "id": 164,
+   "addr": "0x8007681c",
+   "en": "Load",
+   "ru": "",
+   "refs": [
+    "0x80084a8c",
+    "0x80084bd8"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 165,
+   "addr": "0x80076824",
+   "en": ".TIZ",
+   "ru": "",
+   "refs": [
+    "0x80084aa4"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 166,
+   "addr": "0x8007682c",
+   "en": ".TMZ",
+   "ru": "",
+   "refs": [
+    "0x80084ad4"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 167,
+   "addr": "0x80076834",
+   "en": ".TMD",
+   "ru": "",
+   "refs": [
+    "0x80084b28"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 168,
+   "addr": "0x80076854",
+   "en": "SINGLE",
+   "ru": "",
+   "refs": [
+    "0x80085c9c"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 169,
+   "addr": "0x8007685c",
+   "en": "TMDPKT",
+   "ru": "",
+   "refs": [
+    "0x80085ce4"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 170,
+   "addr": "0x80076864",
+   "en": "DB0",
+   "ru": "",
+   "refs": [
+    "0x80085d00"
+   ],
+   "ptrs": [],
+   "room": 4,
+   "tail": false
+  },
+  {
+   "id": 171,
+   "addr": "0x80076868",
+   "en": "DB1",
+   "ru": "",
+   "refs": [
+    "0x80085d1c"
+   ],
+   "ptrs": [],
+   "room": 4,
+   "tail": false
+  },
+  {
+   "id": 172,
+   "addr": "0x8007686c",
+   "en": "Edit:",
+   "ru": "",
+   "refs": [
+    "0x80086244"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 173,
+   "addr": "0x80076874",
+   "en": "#p8,188,Effect: #p8,202,Shape: #p8,216,Height:",
+   "ru": "",
+   "refs": [
+    "0x8008627c"
+   ],
+   "ptrs": [],
+   "room": 48,
+   "tail": false
+  },
+  {
+   "id": 174,
+   "addr": "0x8007690c",
+   "en": "LOAD",
+   "ru": "",
+   "refs": [
+    "0x800866a8"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 175,
+   "addr": "0x80076914",
+   "en": "PACKET",
+   "ru": "",
+   "refs": [
+    "0x800866fc"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 176,
+   "addr": "0x8007691c",
+   "en": "\n < PACKET SIZE CHECK >\n\n\n",
+   "ru": "",
+   "refs": [
+    "0x80086808"
+   ],
+   "ptrs": [],
+   "room": 28,
+   "tail": false
+  },
+  {
+   "id": 177,
+   "addr": "0x80076938",
+   "en": " PUSH C TO START\n PUSH X TO EXIT",
+   "ru": "",
+   "refs": [
+    "0x8008681c"
+   ],
+   "ptrs": [],
+   "room": 36,
+   "tail": false
+  },
+  {
+   "id": 178,
+   "addr": "0x8007697c",
+   "en": " MEKA PACKET MAX = %6d / %5x\n",
+   "ru": "",
+   "refs": [
+    "0x8008683c"
+   ],
+   "ptrs": [],
+   "room": 32,
+   "tail": false
+  },
+  {
+   "id": 179,
+   "addr": "0x8007699c",
+   "en": "SB_0",
+   "ru": "",
+   "refs": [
+    "0x800868e8"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 180,
+   "addr": "0x800769a4",
+   "en": "DB_0",
+   "ru": "",
+   "refs": [
+    "0x80086908"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 181,
+   "addr": "0x800769ac",
+   "en": "DB_1",
+   "ru": "",
+   "refs": [
+    "0x80086920"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 182,
+   "addr": "0x800769b4",
+   "en": "TMD_3",
+   "ru": "",
+   "refs": [
+    "0x80086938"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 183,
+   "addr": "0x800769bc",
+   "en": "PROC  = %04d\n",
+   "ru": "",
+   "refs": [
+    "0x80086ab4"
+   ],
+   "ptrs": [],
+   "room": 16,
+   "tail": false
+  },
+  {
+   "id": 184,
+   "addr": "0x800769cc",
+   "en": "FRAME = %04d\n",
+   "ru": "",
+   "refs": [
+    "0x80086ac8"
+   ],
+   "ptrs": [],
+   "room": 16,
+   "tail": false
+  },
+  {
+   "id": 185,
+   "addr": "0x800769dc",
+   "en": "SYNCCNT   = %06x\n",
+   "ru": "",
+   "refs": [
+    "0x80086adc"
+   ],
+   "ptrs": [],
+   "room": 20,
+   "tail": false
+  },
+  {
+   "id": 186,
+   "addr": "0x800769f0",
+   "en": "FRAMECNT  = %06x\n",
+   "ru": "",
+   "refs": [
+    "0x80086af0"
+   ],
+   "ptrs": [],
+   "room": 20,
+   "tail": false
+  },
+  {
+   "id": 187,
+   "addr": "0x80076a04",
+   "en": "PACKET    = %06x\n",
+   "ru": "",
+   "refs": [
+    "0x80086b00"
+   ],
+   "ptrs": [],
+   "room": 20,
+   "tail": false
+  },
+  {
+   "id": 188,
+   "addr": "0x80076af8",
+   "en": "Color change ~#c2, complete",
+   "ru": "",
+   "refs": [
+    "0x80086bb0"
+   ],
+   "ptrs": [],
+   "room": 28,
+   "tail": false
+  },
+  {
+   "id": 189,
+   "addr": "0x80076b14",
+   "en": "PROJ  = %d\n",
+   "ru": "",
+   "refs": [
+    "0x8008705c"
+   ],
+   "ptrs": [],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 190,
+   "addr": "0x80076b2c",
+   "en": "SCALE = %d\n",
+   "ru": "",
+   "refs": [
+    "0x8008707c"
+   ],
+   "ptrs": [],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 191,
+   "addr": "0x80076b38",
+   "en": "Ah-, run past, believe my heart",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d870",
+    "0x8008d894"
+   ],
+   "room": 32,
+   "tail": false
+  },
+  {
+   "id": 192,
+   "addr": "0x80076b58",
+   "en": "Spreading both hands",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d86c",
+    "0x8008d890"
+   ],
+   "room": 24,
+   "tail": false
+  },
+  {
+   "id": 193,
+   "addr": "0x80076b70",
+   "en": "Yes, the future always shines for you",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d868"
+   ],
+   "room": 40,
+   "tail": false
+  },
+  {
+   "id": 194,
+   "addr": "0x80076b98",
+   "en": "You can do it, because you believe",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d864"
+   ],
+   "room": 36,
+   "tail": false
+  },
+  {
+   "id": 195,
+   "addr": "0x80076bbc",
+   "en": "Ah-,  now, accept the legendary light, and fly off",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d860"
+   ],
+   "room": 52,
+   "tail": false
+  },
+  {
+   "id": 196,
+   "addr": "0x80076bf0",
+   "en": "A bundle of lights comes out of the fog, come on, the warm thoughts in this breast!",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d85c"
+   ],
+   "room": 84,
+   "tail": false
+  },
+  {
+   "id": 197,
+   "addr": "0x80076c44",
+   "en": "You take that sword in your hand and open those gates to grasp tomorrow",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d858"
+   ],
+   "room": 72,
+   "tail": false
+  },
+  {
+   "id": 198,
+   "addr": "0x80076c8c",
+   "en": "How much sadness must you pass through, to be allowed to dream?",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d854"
+   ],
+   "room": 64,
+   "tail": false
+  },
+  {
+   "id": 199,
+   "addr": "0x80076ce4",
+   "en": "Yes, just the number of thoughts, people shine again",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d88c"
+   ],
+   "room": 56,
+   "tail": false
+  },
+  {
+   "id": 200,
+   "addr": "0x80076d1c",
+   "en": "The light is always with you",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d888"
+   ],
+   "room": 32,
+   "tail": false
+  },
+  {
+   "id": 201,
+   "addr": "0x80076d3c",
+   "en": "Ah-, flap your legendary wings, and fly away",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d884"
+   ],
+   "room": 48,
+   "tail": false
+  },
+  {
+   "id": 202,
+   "addr": "0x80076d6c",
+   "en": "Ah-, wish on a shooting star, that you might grasp even fate in these hands!",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d880"
+   ],
+   "room": 80,
+   "tail": false
+  },
+  {
+   "id": 203,
+   "addr": "0x80076dbc",
+   "en": "You look up at the darkness, to change tomorrow, now begin to move",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d87c"
+   ],
+   "room": 68,
+   "tail": false
+  },
+  {
+   "id": 204,
+   "addr": "0x80076e00",
+   "en": "Whenever you see distant lamp lights, destruction will come again",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d878"
+   ],
+   "room": 68,
+   "tail": false
+  },
+  {
+   "id": 205,
+   "addr": "0x80076e5c",
+   "en": "All together, risk everything",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d8e4"
+   ],
+   "room": 32,
+   "tail": false
+  },
+  {
+   "id": 206,
+   "addr": "0x80076e7c",
+   "en": "All together, for tomorrow",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d8e0"
+   ],
+   "room": 28,
+   "tail": false
+  },
+  {
+   "id": 207,
+   "addr": "0x80076e98",
+   "en": "Continue to the location of light",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d8cc"
+   ],
+   "room": 36,
+   "tail": false
+  },
+  {
+   "id": 208,
+   "addr": "0x80076ebc",
+   "en": "Surely a wonderful comedy performance of life is coming on",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d8c8"
+   ],
+   "room": 60,
+   "tail": false
+  },
+  {
+   "id": 209,
+   "addr": "0x80076ef8",
+   "en": "Now, many things become one in your heart",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d8c4"
+   ],
+   "room": 44,
+   "tail": false
+  },
+  {
+   "id": 210,
+   "addr": "0x80076f24",
+   "en": "You'll find your own answer",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d8c0",
+    "0x8008d8dc"
+   ],
+   "room": 28,
+   "tail": false
+  },
+  {
+   "id": 211,
+   "addr": "0x80076f40",
+   "en": "Then, at the end of the long journey,",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d8bc",
+    "0x8008d8d8"
+   ],
+   "room": 40,
+   "tail": false
+  },
+  {
+   "id": 212,
+   "addr": "0x80076f68",
+   "en": "Let's run forward",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d8b8",
+    "0x8008d8d4"
+   ],
+   "room": 20,
+   "tail": false
+  },
+  {
+   "id": 213,
+   "addr": "0x80076f7c",
+   "en": "No matter how far away tomorrow is",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d8b4",
+    "0x8008d8d0"
+   ],
+   "room": 36,
+   "tail": false
+  },
+  {
+   "id": 214,
+   "addr": "0x80076fa0",
+   "en": "Dreaming of that place, now just believe",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d8b0"
+   ],
+   "room": 44,
+   "tail": false
+  },
+  {
+   "id": 215,
+   "addr": "0x80076fcc",
+   "en": "AH-, people lose the light, frozen hearts",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d8ac"
+   ],
+   "room": 44,
+   "tail": false
+  },
+  {
+   "id": 216,
+   "addr": "0x80076ff8",
+   "en": "AH-, burning ground, wounded warrior",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d8a8"
+   ],
+   "room": 40,
+   "tail": false
+  },
+  {
+   "id": 217,
+   "addr": "0x80077020",
+   "en": "In the direction the heart points, advance without hesitating",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d8a4"
+   ],
+   "room": 64,
+   "tail": false
+  },
+  {
+   "id": 218,
+   "addr": "0x80077060",
+   "en": "AH-, violently blowing wind, continue endlessly",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d8a0"
+   ],
+   "room": 48,
+   "tail": false
+  },
+  {
+   "id": 219,
+   "addr": "0x80077090",
+   "en": "AH-, o person who walks off, be burdened with fate",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d89c"
+   ],
+   "room": 52,
+   "tail": false
+  },
+  {
+   "id": 220,
+   "addr": "0x800770d4",
+   "en": "Tomorrow to start",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d918"
+   ],
+   "room": 20,
+   "tail": false
+  },
+  {
+   "id": 221,
+   "addr": "0x800770e8",
+   "en": "One by one, connect their hearts",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d914"
+   ],
+   "room": 36,
+   "tail": false
+  },
+  {
+   "id": 222,
+   "addr": "0x8007710c",
+   "en": "The voice that leads thousands of soldiers is Feeling",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d910"
+   ],
+   "room": 56,
+   "tail": false
+  },
+  {
+   "id": 223,
+   "addr": "0x80077144",
+   "en": "As if to illuminate lives one by one",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d90c"
+   ],
+   "room": 40,
+   "tail": false
+  },
+  {
+   "id": 224,
+   "addr": "0x8007716c",
+   "en": "Look up, in this sky, countless stars are shining",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d908"
+   ],
+   "room": 52,
+   "tail": false
+  },
+  {
+   "id": 225,
+   "addr": "0x800771a0",
+   "en": "Each tomorrow aims at a shining place",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d904"
+   ],
+   "room": 40,
+   "tail": false
+  },
+  {
+   "id": 226,
+   "addr": "0x800771c8",
+   "en": "In the stillness, held in his lap",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d900"
+   ],
+   "room": 36,
+   "tail": false
+  },
+  {
+   "id": 227,
+   "addr": "0x800771ec",
+   "en": "A certain person has a still-unreliable friend",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d8fc"
+   ],
+   "room": 48,
+   "tail": false
+  },
+  {
+   "id": 228,
+   "addr": "0x8007721c",
+   "en": "Now I'm living on this irreplaceable earth",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d8f8"
+   ],
+   "room": 44,
+   "tail": false
+  },
+  {
+   "id": 229,
+   "addr": "0x80077248",
+   "en": "Days filled with joy are, after all,",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d8f4"
+   ],
+   "room": 40,
+   "tail": false
+  },
+  {
+   "id": 230,
+   "addr": "0x80077270",
+   "en": "Continue to search for a new road to a future not yet seen",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d8f0"
+   ],
+   "room": 60,
+   "tail": false
+  },
+  {
+   "id": 231,
+   "addr": "0x800772ac",
+   "en": "Strained memories and faint noise, the seasons pass",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008d8ec"
+   ],
+   "room": 52,
+   "tail": false
+  },
+  {
+   "id": 232,
+   "addr": "0x800772fc",
+   "en": "TESTBUF",
+   "ru": "",
+   "refs": [
+    "0x80087364"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 233,
+   "addr": "0x80077304",
+   "en": "\n < SOUND TEST >\n\n\n  XA SONG            %02d\n\n  XA MUSIC           %02d\n\n  XA SE              %02d\n\n  INTERNAL MUSIC     %02d(%02d)\n\n  INTERNAL SYSTEM SE %02d\n\n  INTERNAL GAME SE   %02d\n\n  INTERNAL EVENT SE  %02d\n\n",
+   "ru": "",
+   "refs": [
+    "0x800874e8"
+   ],
+   "ptrs": [],
+   "room": 216,
+   "tail": false
+  },
+  {
+   "id": 234,
+   "addr": "0x800773e0",
+   "en": "INTERNAL MUSIC VOLUME = %03d",
+   "ru": "",
+   "refs": [
+    "0x80087614"
+   ],
+   "ptrs": [],
+   "room": 32,
+   "tail": false
+  },
+  {
+   "id": 235,
+   "addr": "0x80077400",
+   "en": "            CD VOLUME = %03d",
+   "ru": "",
+   "refs": [
+    "0x80087634"
+   ],
+   "ptrs": [],
+   "room": 32,
+   "tail": false
+  },
+  {
+   "id": 236,
+   "addr": "0x80077450",
+   "en": "BISLPS-00002 SNEO00",
+   "ru": "",
+   "refs": [
+    "0x80087cb0"
+   ],
+   "ptrs": [],
+   "room": 20,
+   "tail": false
+  },
+  {
+   "id": 237,
+   "addr": "0x80077464",
+   "en": "\n<FUNCTION SELECT>\n\n\n  0 : CONNECT CHECK\n\n  1 : FORMAT\n\n  2 : CREATE\n\n  3 : DELETE\n\n  4 : FIND FILE\n\n  5 : LOAD\n\n  6 : SAVE\n\n -1 : EXIT\n\n",
+   "ru": "",
+   "refs": [
+    "0x80087d3c"
+   ],
+   "ptrs": [],
+   "room": 140,
+   "tail": false
+  },
+  {
+   "id": 238,
+   "addr": "0x800774f0",
+   "en": "CONNECT",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x80077568"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 239,
+   "addr": "0x800774f8",
+   "en": "NO CONNECT",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8007756c"
+   ],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 240,
+   "addr": "0x80077504",
+   "en": "BREAK OR ERROR",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x80077570"
+   ],
+   "room": 16,
+   "tail": false
+  },
+  {
+   "id": 241,
+   "addr": "0x80077514",
+   "en": "NEW CARD",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x80077574"
+   ],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 242,
+   "addr": "0x80077520",
+   "en": "NON FORMAT",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x80077578"
+   ],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 243,
+   "addr": "0x8007752c",
+   "en": "FILE NOT EXIST",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8007757c"
+   ],
+   "room": 16,
+   "tail": false
+  },
+  {
+   "id": 244,
+   "addr": "0x8007753c",
+   "en": "ALREADY EXIST",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x80077580"
+   ],
+   "room": 16,
+   "tail": false
+  },
+  {
+   "id": 245,
+   "addr": "0x8007754c",
+   "en": "BLOCK FULL",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x80077584"
+   ],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 246,
+   "addr": "0x80077558",
+   "en": "UNKNOWN RESULT",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x80077588"
+   ],
+   "room": 16,
+   "tail": false
+  },
+  {
+   "id": 247,
+   "addr": "0x8007758c",
+   "en": "\nRESULT = FILE EXIST",
+   "ru": "",
+   "refs": [
+    "0x80087e64"
+   ],
+   "ptrs": [],
+   "room": 24,
+   "tail": false
+  },
+  {
+   "id": 248,
+   "addr": "0x800775a4",
+   "en": "\nRESULT = %s",
+   "ru": "",
+   "refs": [
+    "0x80087e80"
+   ],
+   "ptrs": [],
+   "room": 20,
+   "tail": false
+  },
+  {
+   "id": 249,
+   "addr": "0x800775d4",
+   "en": "LOADBUF",
+   "ru": "",
+   "refs": [
+    "0x80087f00"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 250,
+   "addr": "0x800775dc",
+   "en": "DB_0",
+   "ru": "",
+   "refs": [
+    "0x80087f40"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 251,
+   "addr": "0x800775e4",
+   "en": "DB_1",
+   "ru": "",
+   "refs": [
+    "0x80087f68"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 252,
+   "addr": "0x800775ec",
+   "en": "SINGLE",
+   "ru": "",
+   "refs": [
+    "0x80087f84"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 253,
+   "addr": "0x80077640",
+   "en": "BISLPS-00001 SNEO04",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008f688"
+   ],
+   "room": 20,
+   "tail": false
+  },
+  {
+   "id": 254,
+   "addr": "0x80077654",
+   "en": "BISLPS-00001 SNEO03",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008f684"
+   ],
+   "room": 20,
+   "tail": false
+  },
+  {
+   "id": 255,
+   "addr": "0x80077668",
+   "en": "BISLPS-00001 SNEO02",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008f680"
+   ],
+   "room": 20,
+   "tail": false
+  },
+  {
+   "id": 256,
+   "addr": "0x8007767c",
+   "en": "BISLPS-00001 SNEO01",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008f67c"
+   ],
+   "room": 20,
+   "tail": false
+  },
+  {
+   "id": 257,
+   "addr": "0x80077690",
+   "en": "BISLPS-00001 SNEO00",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008f678"
+   ],
+   "room": 20,
+   "tail": false
+  },
+  {
+   "id": 258,
+   "addr": "0x800776a4",
+   "en": "MEMORY CARD NOT READY",
+   "ru": "",
+   "refs": [
+    "0x800891fc"
+   ],
+   "ptrs": [],
+   "room": 24,
+   "tail": false
+  },
+  {
+   "id": 259,
+   "addr": "0x800776c8",
+   "en": "SNE 0 Poko-poko data %02d",
+   "ru": "",
+   "refs": [
+    "0x80089a08",
+    "0x8008a000"
+   ],
+   "ptrs": [],
+   "room": 28,
+   "tail": false
+  },
+  {
+   "id": 260,
+   "addr": "0x800776f4",
+   "en": "SAVE ERROR",
+   "ru": "",
+   "refs": [
+    "0x80089bf8"
+   ],
+   "ptrs": [],
+   "room": 16,
+   "tail": false
+  },
+  {
+   "id": 261,
+   "addr": "0x8007772c",
+   "en": "MENU",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008f698"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 262,
+   "addr": "0x80077734",
+   "en": "COLOR",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008f694"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 263,
+   "addr": "0x8007773c",
+   "en": "VIEW",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008f690"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 264,
+   "addr": "0x80077744",
+   "en": "EDIT",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008f68c"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 265,
+   "addr": "0x8007774c",
+   "en": "CN_IN",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008f6a8"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 266,
+   "addr": "0x80077754",
+   "en": "CN_OUT",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008f6a4"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 267,
+   "addr": "0x8007775c",
+   "en": "SLOPE",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008f6a0"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 268,
+   "addr": "0x80077764",
+   "en": "BOX",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008f69c"
+   ],
+   "room": 4,
+   "tail": false
+  },
+  {
+   "id": 269,
+   "addr": "0x80077768",
+   "en": "BLACK",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008f6c8"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 270,
+   "addr": "0x80077770",
+   "en": "BLUE",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008f6c4"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 271,
+   "addr": "0x80077778",
+   "en": "GREEN",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008f6c0"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 272,
+   "addr": "0x80077780",
+   "en": "RED",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008f6bc"
+   ],
+   "room": 4,
+   "tail": false
+  },
+  {
+   "id": 273,
+   "addr": "0x80077784",
+   "en": "CYAN",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008f6b8"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 274,
+   "addr": "0x8007778c",
+   "en": "PURPLE",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008f6b4"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 275,
+   "addr": "0x80077794",
+   "en": "YELLOW",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008f6b0"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 276,
+   "addr": "0x8007779c",
+   "en": "WHITE",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8008f6ac"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 277,
+   "addr": "0x800777a4",
+   "en": "\n MODE:%s\n",
+   "ru": "",
+   "refs": [
+    "0x80089d14"
+   ],
+   "ptrs": [],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 278,
+   "addr": "0x800777b0",
+   "en": " SIZE:%2d*%2d\n",
+   "ru": "",
+   "refs": [
+    "0x80089d28"
+   ],
+   "ptrs": [],
+   "room": 16,
+   "tail": false
+  },
+  {
+   "id": 279,
+   "addr": "0x800777c0",
+   "en": " TYPE:%s\n",
+   "ru": "",
+   "refs": [
+    "0x80089d4c"
+   ],
+   "ptrs": [],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 280,
+   "addr": "0x800777cc",
+   "en": " POLY:%d\n",
+   "ru": "",
+   "refs": [
+    "0x80089d54"
+   ],
+   "ptrs": [],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 281,
+   "addr": "0x800777d8",
+   "en": " TIME:%3d\n",
+   "ru": "",
+   "refs": [
+    "0x80089d88"
+   ],
+   "ptrs": [],
+   "room": 16,
+   "tail": false
+  },
+  {
+   "id": 282,
+   "addr": "0x800778b4",
+   "en": "No data",
+   "ru": "",
+   "refs": [
+    "0x80089fc8"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 283,
+   "addr": "0x80077920",
+   "en": "sync:%6x\n",
+   "ru": "",
+   "refs": [
+    "0x8008bba0"
+   ],
+   "ptrs": [],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 284,
+   "addr": "0x80077930",
+   "en": "world angl :%06x,%06x,%06x\n",
+   "ru": "",
+   "refs": [
+    "0x8008bbc8"
+   ],
+   "ptrs": [],
+   "room": 28,
+   "tail": false
+  },
+  {
+   "id": 285,
+   "addr": "0x8007794c",
+   "en": "world trans:%06x,%06x,%06x\n",
+   "ru": "",
+   "refs": [
+    "0x8008bbe0"
+   ],
+   "ptrs": [],
+   "room": 28,
+   "tail": false
+  },
+  {
+   "id": 286,
+   "addr": "0x80077968",
+   "en": " map  trans:%06x,%06x,%06x\n",
+   "ru": "",
+   "refs": [
+    "0x8008bc00"
+   ],
+   "ptrs": [],
+   "room": 28,
+   "tail": false
+  },
+  {
+   "id": 287,
+   "addr": "0x80077a0c",
+   "en": "                              height  :%04x\n",
+   "ru": "",
+   "refs": [
+    "0x8008bcbc"
+   ],
+   "ptrs": [],
+   "room": 48,
+   "tail": false
+  },
+  {
+   "id": 288,
+   "addr": "0x80077a3c",
+   "en": "                              surface :%04x\n",
+   "ru": "",
+   "refs": [
+    "0x8008bccc"
+   ],
+   "ptrs": [],
+   "room": 48,
+   "tail": false
+  },
+  {
+   "id": 289,
+   "addr": "0x80077a6c",
+   "en": "                              disp    :%04x\n",
+   "ru": "",
+   "refs": [
+    "0x8008bcdc"
+   ],
+   "ptrs": [],
+   "room": 45,
+   "tail": false
+  },
+  {
+   "id": 290,
+   "addr": "0x80077a9c",
+   "en": "twork",
+   "ru": "",
+   "refs": [
+    "0x8008bd08"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 291,
+   "addr": "0x80077aa4",
+   "en": "tbufa",
+   "ru": "",
+   "refs": [
+    "0x8008bd4c"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 292,
+   "addr": "0x80077aac",
+   "en": "tbufb",
+   "ru": "",
+   "refs": [
+    "0x8008bd58"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 293,
+   "addr": "0x80077ab4",
+   "en": "TMDPKT",
+   "ru": "",
+   "refs": [
+    "0x8008bd74"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 294,
+   "addr": "0x80077abc",
+   "en": "MAPATT00.MAT",
+   "ru": "",
+   "refs": [
+    "0x8008c0c0"
+   ],
+   "ptrs": [],
+   "room": 16,
+   "tail": false
+  },
+  {
+   "id": 295,
+   "addr": "0x80077acc",
+   "en": "temp",
+   "ru": "",
+   "refs": [
+    "0x8008cbd8"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 296,
+   "addr": "0x80077ad4",
+   "en": "D:\\EPICA\\SOURCE\\PROJECT\\SBL\\TA\\EDIT\\MODEL\\ev13.TIM",
+   "ru": "",
+   "refs": [
+    "0x8008cbec"
+   ],
+   "ptrs": [],
+   "room": 52,
+   "tail": false
+  },
+  {
+   "id": 297,
+   "addr": "0x80077b08",
+   "en": "D:\\EPICA\\SOURCE\\PROJECT\\SBL\\TA\\EDIT\\MODEL\\ev13.TMD",
+   "ru": "",
+   "refs": [
+    "0x8008cc08"
+   ],
+   "ptrs": [],
+   "room": 51,
+   "tail": false
+  },
+  {
+   "id": 298,
+   "addr": "0x8008d1c8",
+   "en": "OFF",
+   "ru": "",
+   "refs": [
+    "0x8007b470",
+    "0x8007b51c",
+    "0x8007b588",
+    "0x8007b634"
+   ],
+   "ptrs": [],
+   "room": 14,
+   "tail": false
+  }
+ ]
+}

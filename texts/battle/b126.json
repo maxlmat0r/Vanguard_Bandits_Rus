@@ -1,0 +1,326 @@
+{
+ "file": 126,
+ "kind": "battle",
+ "lines": [
+  {
+   "id": 0,
+   "en": "I would have expected a reception at\nRadcot's palace, not in the middle of\nthe desert.",
+   "ru": "Я ожидал приёма во дворце\nРадкота, а не посреди пустыни."
+  },
+  {
+   "id": 1,
+   "en": "Perhaps Radcot felt this is a more\nneutral location...or perhaps this is\na better place to spring his trap.",
+   "ru": "Возможно, Радкот счёл это место\nнейтральным... или же здесь\nудобнее устроить ловушку."
+  },
+  {
+   "id": 2,
+   "en": "Stop worrying, Galvas! We'll be fine!",
+   "ru": "Хватит волноваться, Гальвас! Всё\nбудет хорошо!"
+  },
+  {
+   "id": 3,
+   "en": "Meeting like this might be a little\nstrange, but perhaps it's Radcot's\ncustom. Who's to say?",
+   "ru": "Встреча, конечно, странная, но,\nможет, у Радкота так принято.\nКто знает?"
+  },
+  {
+   "id": 4,
+   "en": "Wish me luck, Galvas!",
+   "ru": "Пожелай мне удачи, Гальвас!"
+  },
+  {
+   "id": 5,
+   "en": "Would it be alright if I wished you\nskill instead, Your Highness?",
+   "ru": "Позвольте лучше пожелать вам\nмастерства, Ваше Высочество."
+  },
+  {
+   "id": 6,
+   "en": "Galvas, I'm not afraid of Radcot.",
+   "ru": "Гальвас, я не боюсь Радкота."
+  },
+  {
+   "id": 7,
+   "en": "I'm not afraid of anyone. Fear is for\nthe weak of heart. Alugard raised me\nto be strong.",
+   "ru": "Я никого не боюсь. Страх - удел\nслабых сердцем. Алугард\nвырастил меня сильным."
+  },
+  {
+   "id": 8,
+   "en": "He did indeed, Your Highness. You\nare a living testament to Alugard's\nstrength, and his wisdom.",
+   "ru": "Это так, Ваше Высочество. Вы -\nживое свидетельство силы и\nмудрости Алугарда."
+  },
+  {
+   "id": 9,
+   "en": "I know that you share Alugard's\nstrength, Galvas, and I expect you\nto use it if you need to.",
+   "ru": "Ты силён, как Алугард, Гальвас,\nи я жду, что ты пустишь силу в\nход, если придётся."
+  },
+  {
+   "id": 10,
+   "en": "Of course, Your Highness.",
+   "ru": "Разумеется, Ваше Высочество."
+  },
+  {
+   "id": 11,
+   "en": "(Alugard, you were a wonderful\nfather. His Highness is a remarkable\nyoung man, thanks to you.)",
+   "ru": "(Алугард, ты был прекрасным\nотцом. Его Высочество вырос\nдостойным человеком.)"
+  },
+  {
+   "id": 12,
+   "en": "(I will protect your living legacy,\nno matter what the cost!)",
+   "ru": "(Я защищу твоё живое наследие,\nчего бы мне это ни стоило!)"
+  },
+  {
+   "id": 13,
+   "en": "If Radcot attacks, he's a fool. We're\nstrong enough to trounce this puny\ngroup of soldiers!",
+   "ru": "Если Радкот нападёт, он глупец.\nМы легко разобьём эту жалкую\nкучку солдат!"
+  },
+  {
+   "id": 14,
+   "en": "No matter what happens, Galvas, we\nhold the advantage. I'm surprised you\ndon't realize that.",
+   "ru": "Что бы ни случилось, Гальвас,\nпреимущество за нами. Странно,\nчто ты этого не понимаешь."
+  },
+  {
+   "id": 15,
+   "en": "Your Highness! There is a thin line\nbetween confidence and egotism, and\nI fear you may have crossed it!",
+   "ru": "Ваше Высочество! От уверенности\nдо самонадеянности один шаг, и,\nбоюсь, вы его сделали!"
+  },
+  {
+   "id": 16,
+   "en": "Egotism?! Galvas, with each passing\nday, I gain experience and strength!\nThat is fact, not egotism!",
+   "ru": "Самонадеянности?! Гальвас, с\nкаждым днём я всё опытнее и\nсильнее! Это факт, а не гордыня!"
+  },
+  {
+   "id": 17,
+   "en": "Yes, Your Highness...",
+   "ru": "Да, Ваше Высочество..."
+  },
+  {
+   "id": 18,
+   "en": "Greetings, Duke Radcot! I am Prince\nBastion of the Pharastia Kingdom!",
+   "ru": "Приветствую, герцог Радкот! Я\nпринц Бастион из Королевства\nФарастия!"
+  },
+  {
+   "id": 19,
+   "en": "Eh heh heh heh, Your Highness! I have\nbeen most patiently awaiting your\narrival!",
+   "ru": "Хе-хе-хе-хе, Ваше Высочество! Я с\nвеличайшим терпением ждал\nвашего прибытия!"
+  },
+  {
+   "id": 20,
+   "en": "I am obliged to you for accepting my\noffer and traveling here.",
+   "ru": "Признателен, что вы приняли\nмоё предложение и приехали\nсюда."
+  },
+  {
+   "id": 21,
+   "en": "I am Duke Radcot, the ruler of the\ngreat Muspel Nation. I am certain we\ncould spend hours conversing...",
+   "ru": "Я герцог Радкот, правитель\nвеликого Муспеля. Уверен, мы\nмогли бы беседовать часами..."
+  },
+  {
+   "id": 22,
+   "en": "But surely you would rather discuss\na potential alliance, and what I have\nlearned of Ultragunner.",
+   "ru": "Но вы, конечно, предпочтёте\nобсудить возможный союз и то,\nчто я узнал об Ультраганнере."
+  },
+  {
+   "id": 23,
+   "en": "Let me introduce my negotiators...",
+   "ru": "Позвольте представить моих\nпереговорщиков..."
+  },
+  {
+   "id": 24,
+   "en": "I knew it! I knew you were planning\nsomething evil, Radcot!",
+   "ru": "Я так и знал! Я знал, что ты\nзадумал злое, Радкот!"
+  },
+  {
+   "id": 25,
+   "en": "Evil? Such a strong word, Galvas!\nAnd an entirely inaccurate method\nof describing my plans.",
+   "ru": "Злое? Какое сильное слово,\nГальвас! И совершенно неверное\nописание моих планов."
+  },
+  {
+   "id": 26,
+   "en": "It is my deepest wish to cooperate\nwith Prince Bastion, and help him\nlocate Ultragunner.",
+   "ru": "Моё заветное желание - помочь\nпринцу Бастиону найти\nУльтраганнер."
+  },
+  {
+   "id": 27,
+   "en": "Because it is only with Ultragunner\nthat I can assume absolute control\nof the Continent!",
+   "ru": "Ведь только с Ультраганнером я\nсмогу взять Континент под\nполный контроль!"
+  },
+  {
+   "id": 28,
+   "en": "Emperor Radcot sounds so much\nmore pleasant than Duke Radcot,\ndon't you think?",
+   "ru": "\"Император Радкот\" звучит куда\nприятнее, чем \"герцог Радкот\",\nне находите?"
+  },
+  {
+   "id": 29,
+   "en": "You're seriously mistaken if you\nbelieve that will come to pass.",
+   "ru": "Вы сильно ошибаетесь, если\nдумаете, что так и будет."
+  },
+  {
+   "id": 30,
+   "en": "Eh, heh heh heh. I consider myself\nquite sane, sir...and it WILL happen,\nI assure you.",
+   "ru": "Хе-хе-хе. Я считаю себя вполне\nздравомыслящим, сударь... и так\nБУДЕТ, уверяю вас."
+  },
+  {
+   "id": 31,
+   "en": "Bastion is the only one who can find\nUltragunner, and the only one with\nthe ability to use it.",
+   "ru": "Только Бастион может найти\nУльтраганнер, и только он\nспособен им управлять."
+  },
+  {
+   "id": 32,
+   "en": "General Faulkner also knows this to\nbe true.",
+   "ru": "Генералу Фолкнеру это тоже\nизвестно."
+  },
+  {
+   "id": 33,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 34,
+   "en": "But perhaps I have spoken too much.",
+   "ru": "Но, пожалуй, я сказал лишнего."
+  },
+  {
+   "id": 35,
+   "en": "My only dilemma is to decide how to\ndeal with your friends, Bastion.",
+   "ru": "Осталось лишь решить, как\nпоступить с вашими друзьями,\nБастион."
+  },
+  {
+   "id": 36,
+   "en": "How about this, Bastion? As a gesture\nof peace and friendship, I will allow\nthem to leave freely.",
+   "ru": "Как насчёт этого, Бастион? В\nзнак мира и дружбы я позволю\nим свободно уйти."
+  },
+  {
+   "id": 37,
+   "en": "Like you, I do not want to cause any\nundue suffering to the people of the\nContinent.",
+   "ru": "Как и вы, я не хочу причинять\nнароду Континента лишних\nстраданий."
+  },
+  {
+   "id": 38,
+   "en": "We rebuke your foolish offer, Radcot!\nWe would never allow you to use His\nHighness for your insane scheme!",
+   "ru": "Мы отвергаем твоё предложение,\nРадкот! Его Высочество не станет\nорудием твоего безумия!"
+  },
+  {
+   "id": 39,
+   "en": "How unfortunate. I was so hoping to\navoid a messy resolution, but now it\nappears inevitable...",
+   "ru": "Как жаль. Я так надеялся\nобойтись без грязи, но, похоже,\nэто неизбежно..."
+  },
+  {
+   "id": 40,
+   "en": "I knew you were plotting to harm His\nHighness, you corpulent bag of pus!{06}",
+   "ru": "Я знал, что ты задумал\nнавредить Его Высочеству,\nжирный мешок гноя!"
+  },
+  {
+   "id": 41,
+   "en": "You're not going to touch him. You're\ngoing to die at my hand!",
+   "ru": "Ты его не тронешь. Ты умрёшь от\nмоей руки!"
+  },
+  {
+   "id": 42,
+   "en": "Calm down, my friend. Violence is\nentirely unnecessary.",
+   "ru": "Успокойтесь, друг мой. Насилие\nсовершенно ни к чему."
+  },
+  {
+   "id": 43,
+   "en": "Prince Bastion and I are merely going\nto cooperate and make a better world\nfor us all!",
+   "ru": "Мы с принцем Бастионом просто\nбудем сотрудничать и сделаем\nмир лучше для всех нас!"
+  },
+  {
+   "id": 44,
+   "en": "Shut up, scoundrel! I'll cut out your\nblack heart long before you fulfill\nyour evil wishes!",
+   "ru": "Заткнись, негодяй! Я вырежу\nтвоё чёрное сердце, прежде чем\nты исполнишь свои замыслы!"
+  },
+  {
+   "id": 45,
+   "en": "(Prince Bastion and his soldiers are\nmuch stronger than I assumed.)",
+   "ru": "(Принц Бастион и его солдаты\nгораздо сильнее, чем я думал.)"
+  },
+  {
+   "id": 46,
+   "en": "(I will need to reassess the best way\nto acquire Bastion's cooperation...)",
+   "ru": "(Придётся пересмотреть, как\nлучше добиться содействия\nБастиона...)"
+  },
+  {
+   "id": 47,
+   "en": "Excellent! Prince Bastion is mine!",
+   "ru": "Превосходно! Принц Бастион мой!"
+  },
+  {
+   "id": 48,
+   "en": "The power of Ultragunner will be\nmine to control. Faulkner will kneel\nin my presence. How delightful!",
+   "ru": "Сила Ультраганнера будет моей.\nФолкнер преклонит передо мной\nколени. Восхитительно!"
+  },
+  {
+   "id": 49,
+   "en": "Hah, hah, hah, hah, hah...",
+   "ru": "Ха-ха-ха-ха-ха..."
+  },
+  {
+   "id": 50,
+   "en": "Stop worrying, Galvas! We'll be fine!\nIf Radcot attacks, he's a fool.",
+   "ru": "Хватит волноваться, Гальвас! Всё\nбудет хорошо! Если Радкот\nнападёт, он глупец."
+  },
+  {
+   "id": 51,
+   "en": "(My ATAC is out of energy! Damn it!)",
+   "ru": "(У моего АТАКа кончилась\nэнергия! Проклятье!)"
+  },
+  {
+   "id": 52,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 53,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 54,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 55,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 56,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 57,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 58,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 59,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 60,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 61,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 62,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 63,
+   "en": "\n\n\n",
+   "ru": ""
+  }
+ ]
+}

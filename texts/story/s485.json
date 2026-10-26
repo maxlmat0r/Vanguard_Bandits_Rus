@@ -1,0 +1,191 @@
+{
+ "file": 485,
+ "kind": "story",
+ "lines": [
+  {
+   "id": 0,
+   "en": "You are a man of very few words,\naren't you, Kamorge?",
+   "ru": "Вы немногословный человек,\nправда, Каморж?"
+  },
+  {
+   "id": 1,
+   "en": "Indeed.",
+   "ru": "Верно."
+  },
+  {
+   "id": 2,
+   "en": "So, tell me, Bastion...it seems that\nyou move around quite a bit. Doesn't\nthat get hard?",
+   "ru": "Скажи-ка, Бастион... похоже, вам\nчасто приходится переезжать.\nРазве это не тяжело?"
+  },
+  {
+   "id": 3,
+   "en": "Yes, it is difficult. I doubt there's\na place on the Continent where we\nhaven't lived at some point.",
+   "ru": "Да, нелегко. Вряд ли на\nКонтиненте есть место, где мы не\nжили бы хоть раз."
+  },
+  {
+   "id": 4,
+   "en": "Well then, how did Milea come to\nbe in your company?",
+   "ru": "А как Милея оказалась с вами?"
+  },
+  {
+   "id": 5,
+   "en": "Both of my parents were slain by\nsoldiers of the Empire when I was\nvery young.",
+   "ru": "Мои родители погибли от рук\nимперских солдат, когда я была\nсовсем маленькой."
+  },
+  {
+   "id": 6,
+   "en": "Kamorge had been a good friend\nof my family, and took me in as\none of his own.",
+   "ru": "Каморж был хорошим другом\nнашей семьи и принял меня как\nродную."
+  },
+  {
+   "id": 7,
+   "en": "Oh, Milea. I'm so sorry...",
+   "ru": "Ох, Милея. Мне так жаль..."
+  },
+  {
+   "id": 8,
+   "en": "I really didn't mean to cause\nyou any pain...",
+   "ru": "Я правда не хотела причинить\nтебе боль..."
+  },
+  {
+   "id": 9,
+   "en": "Don't be silly, Reyna, and please\ndon't apologize. After all, how\ncould you have known?",
+   "ru": "Не говори глупостей, Рейна, и не\nизвиняйся. Откуда тебе было\nзнать?"
+  },
+  {
+   "id": 10,
+   "en": "Besides, I couldn't have had a better\nlife than the one Kamorge has given\nto me.",
+   "ru": "К тому же лучшей жизни, чем та,\nчто подарил мне Каморж, у меня\nи быть не могло."
+  },
+  {
+   "id": 11,
+   "en": "Geez, that was TOO easy! All I had to\ndo was patch up the bipolar circuits\nand tweak the cortex modulator!",
+   "ru": "Пф, СЛИШКОМ просто! Подлатал\nбиполярные цепи и подкрутил\nкортикальный модулятор!"
+  },
+  {
+   "id": 12,
+   "en": "Sounds like our little genius has\nfinished his repair work.",
+   "ru": "Похоже, наш маленький гений\nзакончил ремонт."
+  },
+  {
+   "id": 13,
+   "en": "Thank you very much, Puck! I'll go\nand run a few diagnostic programs\nbefore we depart.",
+   "ru": "Большое спасибо, Пак! Пойду\nпроведу диагностику перед\nотъездом."
+  },
+  {
+   "id": 14,
+   "en": "Boy, he IS good! The very best\nengineers in the Avalon Corps don't\neven work that fast!",
+   "ru": "Ничего себе, он и правда хорош!\nЛучшие инженеры Корпуса\nАвалона так быстро не работают!"
+  },
+  {
+   "id": 15,
+   "en": "I said as much earlier, remember?",
+   "ru": "Я же говорил, помнишь?"
+  },
+  {
+   "id": 16,
+   "en": "Yes, yes...oh, I forgot to ask how\nPuck ended up with you as well.",
+   "ru": "Да, да... ой, я забыла спросить,\nкак Пак оказался с вами."
+  },
+  {
+   "id": 17,
+   "en": "Puck was apprenticing with one\nof Father's friends, who is an\nengineer.",
+   "ru": "Пак учился у одного из друзей\nотца, инженера."
+  },
+  {
+   "id": 18,
+   "en": "He's traveling with us to test what\nhe's learned thus far in real-life\nsituations.",
+   "ru": "Он путешествует с нами, чтобы\nпроверить свои знания на\nпрактике."
+  },
+  {
+   "id": 19,
+   "en": "And I assure you there aren't many\n\"situations\" we haven't been in\nlately!",
+   "ru": "И поверьте, в каких только\n\"практических ситуациях\" мы\nнедавно не бывали!"
+  },
+  {
+   "id": 20,
+   "en": "It's okay, Bastion! I really don't\nmind fixing your ATAC all the time!",
+   "ru": "Всё нормально, Бастион! Мне\nправда не трудно постоянно\nчинить твой АТАК!"
+  },
+  {
+   "id": 21,
+   "en": "I'm starting to get the picture.",
+   "ru": "Кажется, я начинаю понимать."
+  },
+  {
+   "id": 22,
+   "en": "It's a perfect arrangement. Father\nand I battle against the Empire...",
+   "ru": "У нас всё идеально устроено. Мы с\nотцом сражаемся с Империей..."
+  },
+  {
+   "id": 23,
+   "en": "Puck repairs our ATACs and allows\nme to pull wedgies on him when the\nmood strikes...",
+   "ru": "Пак чинит наши АТАКи и\nтерпит, когда мне вздумается\nнатянуть ему трусы на уши..."
+  },
+  {
+   "id": 24,
+   "en": "And Milea cooks and cleans up after\nus. Like I said, it's perfect!",
+   "ru": "А Милея готовит и убирает за\nнами. Говорю же, идеально!"
+  },
+  {
+   "id": 25,
+   "en": "No, no.",
+   "ru": "Нет-нет."
+  },
+  {
+   "id": 26,
+   "en": "It would be perfect if you managed\nto belch out a \"thank you\" now and\nthen to show some appreciation!",
+   "ru": "Было бы идеально, если бы ты\nхоть иногда выдавливал из себя\n\"спасибо\"!"
+  },
+  {
+   "id": 27,
+   "en": "I appreciate what you do, Milea.\nYou KNOW that!",
+   "ru": "Я ценю то, что ты делаешь,\nМилея. Ты ЖЕ знаешь!"
+  },
+  {
+   "id": 28,
+   "en": "Well...it wouldn't hurt to tell me\nevery now and again.",
+   "ru": "Ну... тебе бы не помешало иногда\nговорить мне это."
+  },
+  {
+   "id": 29,
+   "en": "Sounds reasonable to me.",
+   "ru": "По-моему, справедливо."
+  },
+  {
+   "id": 30,
+   "en": "*... ... ...",
+   "ru": ""
+  },
+  {
+   "id": 31,
+   "en": "Attention, everyone! Kamorge and I\nhave seen a battle forming in the\ndistance!",
+   "ru": "Внимание всем! Мы с Каморжем\nзаметили вдали начинающийся\nбой!"
+  },
+  {
+   "id": 32,
+   "en": "There isn't any time to waste! We\nmust mobilize at once!",
+   "ru": "Нельзя терять ни минуты! Нужно\nнемедленно выступать!"
+  },
+  {
+   "id": 33,
+   "en": "Excellent. We can strike against the\nEmpire on their own wretched turf!",
+   "ru": "Отлично. Ударим по Империи на\nеё же поганой земле!"
+  },
+  {
+   "id": 34,
+   "en": "We must keep our wits about us\nas we descend into the conflict.",
+   "ru": "В бою главное - холодная голова."
+  },
+  {
+   "id": 35,
+   "en": "Yes. Caution is the best course of\naction. It may already be too late\nfor the Empire's poor prey.",
+   "ru": "Да. Осторожность прежде всего.\nДля бедных жертв Империи\nможет быть уже слишком поздно."
+  },
+  {
+   "id": 36,
+   "en": "If we are careless, we shall become\nvictims as well. Heads up! Let's\ngo!",
+   "ru": "Если будем беспечны, тоже\nстанем жертвами. Внимание!\nВперёд!"
+  }
+ ]
+}

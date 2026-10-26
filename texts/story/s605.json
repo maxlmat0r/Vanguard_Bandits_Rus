@@ -1,0 +1,166 @@
+{
+ "file": 605,
+ "kind": "story",
+ "lines": [
+  {
+   "id": 0,
+   "en": "Welcome back, Duke Zeira! Did you\nlearn anything from Dionne?",
+   "ru": "С возвращением, герцог Зейра!\nУзнали что-нибудь у Дионна?"
+  },
+  {
+   "id": 1,
+   "en": "We learned that Bastion is the only\none who can pilot Ultragunner...",
+   "ru": "Узнали, что управлять\nУльтраганнером может только\nБастион..."
+  },
+  {
+   "id": 2,
+   "en": "And we learned that Ganlon was\nemployed by Duke Radcot!",
+   "ru": "И что Ганлон работал на герцога\nРадкота!"
+  },
+  {
+   "id": 3,
+   "en": "So your suspicions about the reason\nfor Ganlon's strange behavior were\nconfirmed. I'm sorry.",
+   "ru": "Значит, ваши подозрения насчёт\nстранного поведения Ганлона\nподтвердились. Мне жаль."
+  },
+  {
+   "id": 4,
+   "en": "I know there was a time when you\nconsidered him a friend.",
+   "ru": "Знаю, когда-то вы считали его\nдругом."
+  },
+  {
+   "id": 5,
+   "en": "To learn that he betrayed us to the\nEmpire must not have been pleasant.",
+   "ru": "Узнать, что он предал нас\nИмперии, наверное, было\nнеприятно."
+  },
+  {
+   "id": 6,
+   "en": "At least we now understand how\nAraba Castle fell so easily to the\nImperial Army.",
+   "ru": "Зато теперь понятно, почему\nзамок Араба так легко пал перед\nимперской армией."
+  },
+  {
+   "id": 7,
+   "en": "I take responsibility for not noticing\nGanlon's behavior, Your Highness.\nI should have paid more attention.",
+   "ru": "Я виноват, что проглядел\nГанлона, Ваше Высочество. Надо\nбыло быть внимательнее."
+  },
+  {
+   "id": 8,
+   "en": "I take solace in the fact that he met a\npathetic and dishonorable fate.",
+   "ru": "Утешаюсь тем, что его постигла\nжалкая и бесчестная участь."
+  },
+  {
+   "id": 9,
+   "en": "There is nothing comforting about\ndeath, Galvas. Whether it befalls an\nenemy or a friend, it is a tragedy.",
+   "ru": "В смерти нет утешения, Гальвас.\nПостигнет ли она врага или\nдруга - это трагедия."
+  },
+  {
+   "id": 10,
+   "en": "Have you learned anything new\nregarding the hiding place of\nthe Ultragunner?",
+   "ru": "Удалось узнать что-нибудь новое\nо тайнике Ультраганнера?"
+  },
+  {
+   "id": 11,
+   "en": "Nothing at all, Zeira, although our\nspies continue to scour the Continent\nfor clues.",
+   "ru": "Ничего, Зейра, хотя шпионы\nпродолжают прочёсывать\nКонтинент в поисках зацепок."
+  },
+  {
+   "id": 12,
+   "en": "Our options are quickly falling\naway, Bastion. Do you have any\nnew ideas?",
+   "ru": "Варианты быстро тают, Бастион.\nЕсть новые мысли?"
+  },
+  {
+   "id": 13,
+   "en": "Actually, I do. Have any of you seen\na temple with an emblem of the sun\ndecorating its entrance?",
+   "ru": "Вообще-то, есть. Кто-нибудь\nвидел храм с изображением\nсолнца над входом?"
+  },
+  {
+   "id": 14,
+   "en": "Afraid I haven't seen anything\nof that nature, but why do\nyou ask?",
+   "ru": "Боюсь, ничего такого не видел. А\nчто?"
+  },
+  {
+   "id": 15,
+   "en": "Is that where you believe the\nUltragunner is hiding from us?",
+   "ru": "Думаешь, Ультраганнер прячется\nот нас там?"
+  },
+  {
+   "id": 16,
+   "en": "I saw that temple in the vision I had\nwhen I first grasped Gratia, and I'd\nalmost forgotten about it...",
+   "ru": "Я видел этот храм в видении,\nкогда впервые взял Гратию, и\nпочти о нём забыл..."
+  },
+  {
+   "id": 17,
+   "en": "But our talk of where Ultragunner\ncould be stored away seems to have\nrefreshed my memory.",
+   "ru": "Но разговор о том, где может\nхраниться Ультраганнер, освежил\nмне память."
+  },
+  {
+   "id": 18,
+   "en": "I do not know of any temples adorned\nwith the emblem of which you speak,\nYour Highness. I apologize.",
+   "ru": "Я не знаю храмов с таким\nсимволом, Ваше Высочество.\nПрошу прощения."
+  },
+  {
+   "id": 19,
+   "en": "I've never heard of a religion on the\nContinent that worships the sun, but\nit wouldn't surprise me.",
+   "ru": "Не слышал, чтобы на Континенте\nпоклонялись солнцу, но не\nудивлюсь."
+  },
+  {
+   "id": 20,
+   "en": "I know exactly what you're talking\nabout, Bastion, because I've seen that\ntemple with my own eyes!",
+   "ru": "Я точно знаю, о чём ты, Бастион,\nпотому что видела этот храм\nсвоими глазами!"
+  },
+  {
+   "id": 21,
+   "en": "Have you, now? Do tell, Reyna!",
+   "ru": "Вот как? Рассказывай, Рейна!"
+  },
+  {
+   "id": 22,
+   "en": "It's not any religion you've heard of,\njust a small cult with a sun god. All\nits followers have wonderful tans.",
+   "ru": "Это не известная религия, а\nкульт бога солнца. У всех его\nадептов чудесный загар."
+  },
+  {
+   "id": 23,
+   "en": "I saw their temple a few years ago,\nwhen I took time off from the Avalon\nCorps and toured the Continent.",
+   "ru": "Я видела их храм несколько лет\nназад, когда взяла отпуск и\nпутешествовала по Континенту."
+  },
+  {
+   "id": 24,
+   "en": "You've had quite the adventurous\nlife, haven't you, Reyna? I'm jealous!",
+   "ru": "Какая у тебя была жизнь, полная\nприключений, Рейна! Завидую!"
+  },
+  {
+   "id": 25,
+   "en": "You voluntarily left the armed forces\nto be a tourist?! I am baffled by your\ndecision, miss.",
+   "ru": "Вы ушли из армии, чтобы\nпутешествовать?! Ваше решение\nменя озадачивает, сударыня."
+  },
+  {
+   "id": 26,
+   "en": "In any case, I remember that temple\nvery well, because I was too afraid\nto go inside.",
+   "ru": "Как бы то ни было, я хорошо\nпомню тот храм, потому что\nпобоялась войти внутрь."
+  },
+  {
+   "id": 27,
+   "en": "Well, it's the only lead we\nhave, so we must pursue it.\nWhere's this place, Reyna?",
+   "ru": "Что ж, это единственная\nзацепка, придётся проверить. Где\nэто место, Рейна?"
+  },
+  {
+   "id": 28,
+   "en": "Unfortunately, it's in an area that's\ncurrently controlled by the Empire,\nbut not far across the border.",
+   "ru": "К сожалению, в области, которую\nсейчас контролирует Империя, но\nнедалеко за границей."
+  },
+  {
+   "id": 29,
+   "en": "We don't have any choice, Reyna. To\nthe temple we go.",
+   "ru": "Выбора нет, Рейна. Идём к храму."
+  },
+  {
+   "id": 30,
+   "en": "Are you sure, Bastion? What if we\nprovoke the Empire?",
+   "ru": "Ты уверен, Бастион? А если мы\nспровоцируем Империю?"
+  },
+  {
+   "id": 31,
+   "en": "If we find Ultragunner, we'll be able\nto handle anything they throw at us.\nNow let's go!",
+   "ru": "Если найдём Ультраганнер,\nсправимся со всем, что они на\nнас бросят. Вперёд!"
+  }
+ ]
+}

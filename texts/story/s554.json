@@ -1,0 +1,216 @@
+{
+ "file": 554,
+ "kind": "story",
+ "lines": [
+  {
+   "id": 0,
+   "en": "Princess Sadira, your beauty grows\nmore blinding with each day...and I\nonly get uglier!",
+   "ru": "Принцесса Садира, ваша красота\nс каждым днём всё\nослепительнее... а я всё уродливее!"
+  },
+  {
+   "id": 1,
+   "en": "Ha, ha, ha! You flatter me with your\noutrageous lies, Duke Logan!",
+   "ru": "Ха-ха-ха! Вы льстите мне\nвозмутительной ложью, герцог\nЛоган!"
+  },
+  {
+   "id": 2,
+   "en": "Like, hi, Sadira.",
+   "ru": "Типа, привет, Садира."
+  },
+  {
+   "id": 3,
+   "en": "Hello, Claire.",
+   "ru": "Здравствуй, Клэр."
+  },
+  {
+   "id": 4,
+   "en": "What business brings you to my\nchunk of the Continent, Sadira?",
+   "ru": "Что привело тебя в мой уголок\nКонтинента, Садира?"
+  },
+  {
+   "id": 5,
+   "en": "The Imperial Princess didn't come\nhere just to allow me to bask in the\nglow of her smile!",
+   "ru": "Не ради же того, чтобы я грелся\nв сиянии её улыбки, приехала\nимперская принцесса!"
+  },
+  {
+   "id": 6,
+   "en": "I think he likes you, Sadira. Perhaps\nwe should leave you two alone?",
+   "ru": "По-моему, ты ему нравишься,\nСадира. Может, оставить вас\nнаедине?"
+  },
+  {
+   "id": 7,
+   "en": "Bastion! You're disgusting!",
+   "ru": "Бастион! Ты отвратителен!"
+  },
+  {
+   "id": 8,
+   "en": "Let me explain why I've come to see\nyou, Duke Logan.",
+   "ru": "Позвольте объяснить, зачем я\nприехала, герцог Логан."
+  },
+  {
+   "id": 9,
+   "en": "That's quite a story you've shared\nwith me.",
+   "ru": "Ну и историю ты мне поведала."
+  },
+  {
+   "id": 10,
+   "en": "I don't mean to sound rude, Sadira,\nbut should you really have told me\nso much?",
+   "ru": "Не хочу показаться грубым,\nСадира, но стоило ли\nрассказывать мне так много?"
+  },
+  {
+   "id": 11,
+   "en": "I've always believed that diplomacy\nrequires one to tread a fine line\nbetween confession and deception!",
+   "ru": "Я всегда считал, что дипломатия\n- это тонкая грань между\nоткровенностью и обманом!"
+  },
+  {
+   "id": 12,
+   "en": "You've known me since I was a child,\nLogan, and you'd know if I was lying\nto you anyway.",
+   "ru": "Вы знаете меня с детства, Логан,\nи всё равно поймёте, если я солгу."
+  },
+  {
+   "id": 13,
+   "en": "Besides, if I may use the tired cliche,\nhonesty is the best policy. I want only\npeace, not deception.",
+   "ru": "К тому же честность - лучшая\nполитика, уж простите. Я хочу\nмира, а не обмана."
+  },
+  {
+   "id": 14,
+   "en": "Ha, ha, ha! I've always admired your\nindomitable spirit, Sadira! You got\nit from your damned father! Ha ha!",
+   "ru": "Ха-ха-ха! Всегда восхищался\nтвоим упорством, Садира! Это у\nтебя от чёртова папаши!"
+  },
+  {
+   "id": 15,
+   "en": "I will gladly sign your peace accord,\nSadira. Nordilain will declare itself\nan official ally of the Empire!",
+   "ru": "Охотно подпишу договор, Садира.\nНордилейн станет официальным\nсоюзником Империи!"
+  },
+  {
+   "id": 16,
+   "en": "However, there is one small condition\nI place upon you first.",
+   "ru": "Однако у меня есть одно\nмаленькое условие."
+  },
+  {
+   "id": 17,
+   "en": "And what would that be?",
+   "ru": "Какое же?"
+  },
+  {
+   "id": 18,
+   "en": "You have to prove yourself worthy of\nfacing me in war before I deem you\nworthy of joining me in peace!",
+   "ru": "Докажи, что достойна сразиться\nсо мной в войне, - тогда\nпризнаю, что достойна и мира!"
+  },
+  {
+   "id": 19,
+   "en": "Win the battle and you have won my\nalliance. Lose the battle, and I won't\nsign anything. Agreed?",
+   "ru": "Победишь - получишь союз.\nПроиграешь - ничего не подпишу.\nИдёт?"
+  },
+  {
+   "id": 20,
+   "en": "Duke Logan! Isn't that a rather, uh,\nconfrontational manner of working\nthrough this negotiation?",
+   "ru": "Герцог Логан! Не слишком ли,\nэ-э, воинственный способ вести\nпереговоры?"
+  },
+  {
+   "id": 21,
+   "en": "To you, lovely Sadira, it might be...\nbut to me, it makes perfect sense! So,\ndo you agree to my condition?",
+   "ru": "Для вас, прелестная Садира,\nможет, и так... а для меня в\nсамый раз! Так что, согласна?"
+  },
+  {
+   "id": 22,
+   "en": "I don't really have a choice...but, yes,\nI agree.",
+   "ru": "Выбора у меня особо нет... но да,\nсогласна."
+  },
+  {
+   "id": 23,
+   "en": "I'm afraid to ask, but what sort of\nwar are we to engage in?",
+   "ru": "Боюсь спрашивать, но что это\nбудет за война?"
+  },
+  {
+   "id": 24,
+   "en": "With ATACs, of course! But we won't\nuse any attacks that could harm the\ncombatants inside them.",
+   "ru": "На АТАКах, конечно! Но без\nударов, которые могут ранить\nпилотов."
+  },
+  {
+   "id": 25,
+   "en": "Each side will have five ATACs. When\nthe leader of either group is defeated,\nthe battle is over.",
+   "ru": "У каждой стороны пять АТАКов.\nБой окончен, когда побеждён\nодин из предводителей."
+  },
+  {
+   "id": 26,
+   "en": "Those are fair enough terms, Logan.\nWell, then, for my group of ATACs, I\nwill choose...",
+   "ru": "Вполне честные условия, Логан.\nЧто ж, в свою группу АТАКов я\nвыберу..."
+  },
+  {
+   "id": 27,
+   "en": "Uh, Sadira? There are only five of us.",
+   "ru": "Э-э, Садира? Нас всего пятеро."
+  },
+  {
+   "id": 28,
+   "en": "I knew that, Bastion!",
+   "ru": "Я знала, Бастион!"
+  },
+  {
+   "id": 29,
+   "en": "Alright, perhaps I had a slight brain\nlapse in all the excitement. You don't\nhave to laugh at me!",
+   "ru": "Ладно, может, я слегка\nрастерялась от волнения. Незачем\nнадо мной смеяться!"
+  },
+  {
+   "id": 30,
+   "en": "If one of us has to be the leader in\nthis battle, I nominate Sadira.",
+   "ru": "Если кто-то из нас должен быть\nпредводителем, я предлагаю\nСадиру."
+  },
+  {
+   "id": 31,
+   "en": "I don't know...",
+   "ru": "Не знаю..."
+  },
+  {
+   "id": 32,
+   "en": "How about Bastion? I think he'd do a\ngreat job, Princess!",
+   "ru": "А может, Бастион? По-моему, он\nотлично справится, принцесса!"
+  },
+  {
+   "id": 33,
+   "en": "No. This is Sadira's battle to lead,\nnot mine.",
+   "ru": "Нет. В этой битве ведёт Садира, а\nне я."
+  },
+  {
+   "id": 34,
+   "en": "Actually, Cecilia, I think that's a very\ngood idea. Bastion, you're going to be\nour leader.",
+   "ru": "Вообще-то, Сесилия, по-моему,\nотличная мысль. Бастион, ты\nбудешь нашим предводителем."
+  },
+  {
+   "id": 35,
+   "en": "Are you sure, Sadira? I don't want to\nusurp your authority.",
+   "ru": "Ты уверена, Садира? Не хочу\nузурпировать твою власть."
+  },
+  {
+   "id": 36,
+   "en": "I'm absolutely sure. This way, if we\nlose, it's going to be all your fault.",
+   "ru": "Абсолютно. Так, если проиграем,\nвиноват будешь ты."
+  },
+  {
+   "id": 37,
+   "en": "Well, when you put it that way...",
+   "ru": "Ну, если так посмотреть..."
+  },
+  {
+   "id": 38,
+   "en": "I will fight with myself, my daughter\nClaire, her advisor Shion, and two\nATACs from my private army.",
+   "ru": "Со мной будут моя дочь Клэр, её\nсоветник Шион и два АТАКа из\nмоей личной армии."
+  },
+  {
+   "id": 39,
+   "en": "I will be the leader of our side, of\ncourse. I don't know how to fight any\nother way!",
+   "ru": "Предводителем нашей стороны\nбуду, конечно, я. По-другому я\nсражаться не умею!"
+  },
+  {
+   "id": 40,
+   "en": "Are we ready to wage a war?",
+   "ru": "Готовы к войне?"
+  },
+  {
+   "id": 41,
+   "en": "Remember, Duke Logan! If we win,\nyou keep your promise!",
+   "ru": "Помните, герцог Логан! Если мы\nпобедим, вы сдержите обещание!"
+  }
+ ]
+}

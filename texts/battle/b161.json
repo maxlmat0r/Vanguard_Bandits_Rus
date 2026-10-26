@@ -1,0 +1,366 @@
+{
+ "file": 161,
+ "kind": "battle",
+ "lines": [
+  {
+   "id": 0,
+   "en": "We've reached the castle...",
+   "ru": "Мы дошли до замка..."
+  },
+  {
+   "id": 1,
+   "en": "But where is Faulkner?!",
+   "ru": "Но где Фолкнер?!"
+  },
+  {
+   "id": 2,
+   "en": "Hello, Bastion.",
+   "ru": "Привет, Бастион."
+  },
+  {
+   "id": 3,
+   "en": "Cecilia! Are you alright?",
+   "ru": "Сесилия! Ты в порядке?"
+  },
+  {
+   "id": 4,
+   "en": "No, Bastion. Zulwarn is approaching.",
+   "ru": "Нет, Бастион. Приближается\nЗулварн."
+  },
+  {
+   "id": 5,
+   "en": "Where?!",
+   "ru": "Где?!"
+  },
+  {
+   "id": 6,
+   "en": "Right here, you impertinent boy.",
+   "ru": "Прямо здесь, дерзкий мальчишка."
+  },
+  {
+   "id": 7,
+   "en": "Duyere!",
+   "ru": "Дюйер!"
+  },
+  {
+   "id": 8,
+   "en": "Listen to me, Duyere! Faulkner is--",
+   "ru": "Послушай, Дюйер! Фолкнер--"
+  },
+  {
+   "id": 9,
+   "en": "You waste your breath, Sadira. Have\nyou already forgotten what happened\nto Zeira and the other fools?",
+   "ru": "Не трать слов, Садира. Ты уже\nзабыла, что стало с Зейрой и\nпрочими глупцами?"
+  },
+  {
+   "id": 10,
+   "en": "No.",
+   "ru": "Нет."
+  },
+  {
+   "id": 11,
+   "en": "Not my brother!",
+   "ru": "Только не мой брат!"
+  },
+  {
+   "id": 12,
+   "en": "Cecilia, come here! Hurry!!",
+   "ru": "Сесилия, иди сюда! Скорее!!"
+  },
+  {
+   "id": 13,
+   "en": "Prince Bastion, you have impressed\nme to no end with your combat skills\nand your infinite determination.",
+   "ru": "Принц Бастион, ваше мастерство\nи решимость безмерно меня\nвпечатлили."
+  },
+  {
+   "id": 14,
+   "en": "Wouldn't you consider serving me\ninstead of forcing me to end your life\nat such a promising young age?",
+   "ru": "Не хотите служить мне? Иначе\nпридётся оборвать вашу\nмногообещающую жизнь."
+  },
+  {
+   "id": 15,
+   "en": "I would rather die a dozen deaths\nthan spend a single moment under\nyour control, Faulkner!",
+   "ru": "Лучше дюжину раз умереть, чем\nхоть миг быть в твоей власти,\nФолкнер!"
+  },
+  {
+   "id": 16,
+   "en": "It never hurts to ask, dear boy. Well,\nit never hurts ME.",
+   "ru": "Спросить никогда не вредно,\nмальчик. Мне, во всяком случае."
+  },
+  {
+   "id": 17,
+   "en": "Kill him.",
+   "ru": "Убей его."
+  },
+  {
+   "id": 18,
+   "en": "What--",
+   "ru": "Что--"
+  },
+  {
+   "id": 19,
+   "en": "Aaugh!",
+   "ru": "А-а-а!"
+  },
+  {
+   "id": 20,
+   "en": "Cecilia!!",
+   "ru": "Сесилия!!"
+  },
+  {
+   "id": 21,
+   "en": "No WAY!",
+   "ru": "Не МОЖЕТ быть!"
+  },
+  {
+   "id": 22,
+   "en": "Cecilia, why did you DO that?!",
+   "ru": "Сесилия, зачем ты это СДЕЛАЛА?!"
+  },
+  {
+   "id": 23,
+   "en": "...   ...   ...",
+   "ru": ""
+  },
+  {
+   "id": 24,
+   "en": "I'll give you a clue, Bastion. I'm not\ncontrolling her mind.",
+   "ru": "Подскажу тебе, Бастион. Её\nразумом я не управляю."
+  },
+  {
+   "id": 25,
+   "en": "So the person for whom you've been\nworking all this time is...",
+   "ru": "Значит, всё это время ты\nработала на..."
+  },
+  {
+   "id": 26,
+   "en": "...   ...   ...",
+   "ru": ""
+  },
+  {
+   "id": 27,
+   "en": "Attack!",
+   "ru": "В атаку!"
+  },
+  {
+   "id": 28,
+   "en": "Why did you betray me, Cecilia? Why\ndid you betray US?!",
+   "ru": "Почему ты предала меня,\nСесилия? Почему предала НАС?!"
+  },
+  {
+   "id": 29,
+   "en": "I was only doing my job, Bastion.",
+   "ru": "Я просто делала свою работу,\nБастион."
+  },
+  {
+   "id": 30,
+   "en": "This is not betrayal. It is fulfilling\nmy duty to my employer.",
+   "ru": "Это не предательство. Это\nисполнение долга перед\nнанимателем."
+  },
+  {
+   "id": 31,
+   "en": "No, Cecilia! You learned to care about\nus, and I guarantee that wasn't part\nof your duty to Faulkner!",
+   "ru": "Нет, Сесилия! Ты полюбила нас, а\nэто точно не входило в твой долг\nперед Фолкнером!"
+  },
+  {
+   "id": 32,
+   "en": "Bastion...",
+   "ru": "Бастион..."
+  },
+  {
+   "id": 33,
+   "en": "It's too late for me now.",
+   "ru": "Для меня уже слишком поздно."
+  },
+  {
+   "id": 34,
+   "en": "Cecilia!",
+   "ru": "Сесилия!"
+  },
+  {
+   "id": 35,
+   "en": "Cecilia, you're under Faulkner's\ncontrol, but we can save you!",
+   "ru": "Сесилия, ты во власти Фолкнера,\nно мы можем тебя спасти!"
+  },
+  {
+   "id": 36,
+   "en": "Sadira, I have worked for Faulkner\nsince the beginning. I sided with him\nof my own free will.",
+   "ru": "Садира, я с самого начала\nработаю на Фолкнера. Я встала\nна его сторону по своей воле."
+  },
+  {
+   "id": 37,
+   "en": "But...",
+   "ru": "Но..."
+  },
+  {
+   "id": 38,
+   "en": "What, Cecilia?",
+   "ru": "Что, Сесилия?"
+  },
+  {
+   "id": 39,
+   "en": "I started to regret my choice.",
+   "ru": "Я начала жалеть о своём выборе."
+  },
+  {
+   "id": 40,
+   "en": "As well you should, Cecilia, because\nyou made the WRONG choice!",
+   "ru": "И правильно, Сесилия, потому\nчто ты выбрала НЕВЕРНО!"
+  },
+  {
+   "id": 41,
+   "en": "...   ...   ...",
+   "ru": ""
+  },
+  {
+   "id": 42,
+   "en": "Enough talking, Sadira. I have been\nordered to defeat you, and I always\nfulfill my duty.",
+   "ru": "Хватит разговоров, Садира. Мне\nприказано тебя победить, а я\nвсегда исполняю долг."
+  },
+  {
+   "id": 43,
+   "en": "Cecilia!",
+   "ru": "Сесилия!"
+  },
+  {
+   "id": 44,
+   "en": "Faulkner!",
+   "ru": "Фолкнер!"
+  },
+  {
+   "id": 45,
+   "en": "Indeed, that is my name, boy. Take\ncare not to wear it out.",
+   "ru": "Да, это моё имя, мальчик.\nСмотри не затри его."
+  },
+  {
+   "id": 46,
+   "en": "I have come to kill you, Faulkner!\nI have come to destroy you!!",
+   "ru": "Я пришёл убить тебя, Фолкнер!\nУничтожить тебя!!"
+  },
+  {
+   "id": 47,
+   "en": "Really? Even though you have yet to\nmake Ultragunner manifest its true\npower? I think not, Bastion.",
+   "ru": "Правда? Ты ведь так и не\nпробудил истинную силу\nУльтраганнера. Не думаю."
+  },
+  {
+   "id": 48,
+   "en": "I'll show you power, Faulkner!",
+   "ru": "Я покажу тебе силу, Фолкнер!"
+  },
+  {
+   "id": 49,
+   "en": "You've slaughtered so many innocent\npeople, Faulkner. You've even taken\nthe lives of your own countrymen.",
+   "ru": "Ты истребил столько невинных,\nФолкнер. Ты отнял жизни даже у\nсвоих соотечественников."
+  },
+  {
+   "id": 50,
+   "en": "But the only life to be claimed today\nwill be your own!",
+   "ru": "Но сегодня оборвётся лишь твоя\nжизнь!"
+  },
+  {
+   "id": 51,
+   "en": "Is that so?",
+   "ru": "Вот как?"
+  },
+  {
+   "id": 52,
+   "en": "Indeed, Faulkner! And I shall be the\none to claim it!",
+   "ru": "Именно, Фолкнер! И оборву её я!"
+  },
+  {
+   "id": 53,
+   "en": "I have grown tired of your empty\nthreats, Sadira, which means it is\ntime for you to DIE!",
+   "ru": "Я устал от твоих пустых угроз,\nСадира, а значит, тебе пора\nУМЕРЕТЬ!"
+  },
+  {
+   "id": 54,
+   "en": "Duyere! Snap out of it!",
+   "ru": "Дюйер! Очнись!"
+  },
+  {
+   "id": 55,
+   "en": "...   ...   ...",
+   "ru": ""
+  },
+  {
+   "id": 56,
+   "en": "I've heard of sibling rivalry, but this\nis ridiculous.",
+   "ru": "Слышала я о соперничестве брата\nи сестры, но это уже слишком."
+  },
+  {
+   "id": 57,
+   "en": "I see you vere able to defeat Alden\nand dhe other Hibernians, eh? Good\nvork, Princess!",
+   "ru": "Фижу, фы сумели одолеть Олдена\nи прочих хибернийцеф, а?\nХорошая рапота, принцесса!"
+  },
+  {
+   "id": 58,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 59,
+   "en": "You weren't under the control of the\nZulwarn ATAC?",
+   "ru": "Ты не во власти Зулварна?"
+  },
+  {
+   "id": 60,
+   "en": "Of course not, silly vench! I villingly\nchose to ally myself vith Fokkner!",
+   "ru": "Конечно, нет, клупая тефчонка! Я\nпо сфоей фоле примкнул к\nФоккнеру!"
+  },
+  {
+   "id": 61,
+   "en": "Then you have willingly chosen to\ndie with him, Zakov!",
+   "ru": "Тогда ты по своей воле и умрёшь\nвместе с ним, Заков!"
+  },
+  {
+   "id": 62,
+   "en": "(I have lost.)",
+   "ru": "(Я проиграла.)"
+  },
+  {
+   "id": 63,
+   "en": "(But I already lost when I betrayed\nBastion and Sadira. I lost my heart,\nand my soul.)",
+   "ru": "(Но я проиграла, ещё когда\nпредала Бастиона и Садиру. Я\nпотеряла сердце и душу.)"
+  },
+  {
+   "id": 64,
+   "en": "(I deserve this fate.)",
+   "ru": "(Я заслужила эту участь.)"
+  },
+  {
+   "id": 65,
+   "en": "This cannot be! The Zulwarn is too\npowerful to be defeated! I refuse to\nlose to you!",
+   "ru": "Не может быть! Зулварн слишком\nсилён, чтобы проиграть! Я\nотказываюсь тебе проигрывать!"
+  },
+  {
+   "id": 66,
+   "en": "No! NOOOO!!!",
+   "ru": "Нет! НЕ-Е-ЕТ!!!"
+  },
+  {
+   "id": 67,
+   "en": "It's over.",
+   "ru": "Всё кончено."
+  },
+  {
+   "id": 68,
+   "en": "At last...",
+   "ru": "Наконец-то..."
+  },
+  {
+   "id": 69,
+   "en": "Father has been avenged. The evil has\nbeen stopped. And the war is over.",
+   "ru": "Отец отомщён. Зло остановлено.\nВойна окончена."
+  },
+  {
+   "id": 70,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 71,
+   "en": "\n\n\n",
+   "ru": ""
+  }
+ ]
+}

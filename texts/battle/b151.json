@@ -1,0 +1,166 @@
+{
+ "file": 151,
+ "kind": "battle",
+ "lines": [
+  {
+   "id": 0,
+   "en": "Hibernian Commander:\nAttention! You are ordered to halt\nyour ATACs at once by the authority\nof the Hibernian Guard!",
+   "ru": "Хибернийский командир:\nВнимание! Властью Хибернийской\nстражи приказываю немедленно\nостановить АТАКи!"
+  },
+  {
+   "id": 1,
+   "en": "State your country of origin and the\nnature of your business here.",
+   "ru": "Назовите страну происхождения\nи цель визита."
+  },
+  {
+   "id": 2,
+   "en": "Excuse me, Commander, but that red\nATAC belongs to Claire, the daughter\nof Duke Logan!",
+   "ru": "Простите, командир, но тот\nкрасный АТАК - Клэр, дочери\nгерцога Логана!"
+  },
+  {
+   "id": 3,
+   "en": "The child of our greatest enemy is\nstanding on Hibernian soil!",
+   "ru": "Дитя нашего злейшего врага\nстоит на земле Хибернии!"
+  },
+  {
+   "id": 4,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 5,
+   "en": "Hey, I recognize that blue ATAC, too!\nWhere did we see that one, Devlin?",
+   "ru": "Эй, и синий АТАК я тоже узнаю!\nГде мы его видели, Девлин?"
+  },
+  {
+   "id": 6,
+   "en": "When our convoy was besieged by the\nEmpire, Barlow! How could you\nforget that?! Inside that ATAC was...",
+   "ru": "Когда на наш караван напала\nИмперия, Барлоу! Как ты мог\nзабыть?! В том АТАКе была..."
+  },
+  {
+   "id": 7,
+   "en": "The Imperial Princess! What are she\nand Logan's daughter doing together?",
+   "ru": "Имперская принцесса! Что она\nделает вместе с дочерью Логана?"
+  },
+  {
+   "id": 8,
+   "en": "Greetings, Commander! I am Princess\nSadira of the Junaris Empire.",
+   "ru": "Приветствую, командир! Я\nпринцесса Садира из Империи\nДжунарис."
+  },
+  {
+   "id": 9,
+   "en": "My entourage and I are here because\nwe were promised an audience with\nLord Alden. Please let us pass.",
+   "ru": "Мы со свитой здесь, потому что\nнам обещали аудиенцию у лорда\nОлдена. Прошу, пропустите нас."
+  },
+  {
+   "id": 10,
+   "en": "And why does your entourage contain\nClaire, the daughter of Logan?! Her\nvery presence here is an insult!",
+   "ru": "А почему в вашей свите Клэр,\nдочь Логана?! Само её\nприсутствие здесь - оскорбление!"
+  },
+  {
+   "id": 11,
+   "en": "Claire is here only as my friend, not\nas a representative of Nordilain! She\nhas no intentions of aggression!",
+   "ru": "Клэр здесь как мой друг, а не от\nНордилейна! Враждебных\nнамерений у неё нет!"
+  },
+  {
+   "id": 12,
+   "en": "Or perhaps the Junaris Empire is\nscheming with Nordilain to invade\nour country?!",
+   "ru": "А может, Империя сговорилась с\nНордилейном вторгнуться в нашу\nстрану?!"
+  },
+  {
+   "id": 13,
+   "en": "Impudence precedes the fall, boy!",
+   "ru": "Дерзость падению предшествует,\nмальчик!"
+  },
+  {
+   "id": 14,
+   "en": "You insult the Princess with no\nclear insight, yes.",
+   "ru": "Оскорбляешь принцессу ты без\nясного понимания, да."
+  },
+  {
+   "id": 15,
+   "en": "Halak, perhaps you should allow\nSadira to continue negotiating with\nthese soldiers.",
+   "ru": "Халак, может, дашь Садире\nпродолжить переговоры с этими\nсолдатами?"
+  },
+  {
+   "id": 16,
+   "en": "My anger rages within, it does.",
+   "ru": "Гнев мой бушует внутри, бушует."
+  },
+  {
+   "id": 17,
+   "en": "Teach these impudent soldiers some\nmanners, we should! Show them our\nfighting skill, we should!",
+   "ru": "Проучить этих дерзких солдат\nмы должны! Показать им наше\nмастерство мы должны!"
+  },
+  {
+   "id": 18,
+   "en": "How dare you use such language with\na commander of the Hibernian Guard!",
+   "ru": "Как вы смеете так разговаривать\nс командиром Хибернийской\nстражи!"
+  },
+  {
+   "id": 19,
+   "en": "I've heard enough from the lot of you!\nAll personnel, disable the intruders!\nUse deadly force if necessary!",
+   "ru": "Наслушался я вас! Всем бойцам:\nобезвредить нарушителей! При\nнеобходимости применять\nсмертоносную силу!"
+  },
+  {
+   "id": 20,
+   "en": "What are you doing here, Bastion?!",
+   "ru": "Что ты здесь делаешь, Бастион?!"
+  },
+  {
+   "id": 21,
+   "en": "That voice...you're from the caravan\nthat was attacked by those bandits!\nYou were there when I met Sadira!",
+   "ru": "Этот голос... ты из каравана, на\nкоторый напали бандиты! Тогда\nя и встретила Садиру!"
+  },
+  {
+   "id": 22,
+   "en": "Is your father so afraid of Hibernian\nsoldiers that he would send his\ndaughter to wage war for him?",
+   "ru": "Твой отец так боится\nхибернийских солдат, что\nпосылает воевать за себя дочь?"
+  },
+  {
+   "id": 23,
+   "en": "Like, whatEVER, Devlin! I came here\nto make peace and stuff!",
+   "ru": "Типа, да ЛАДНО, Девлин! Я\nпришла с миром и всё такое!"
+  },
+  {
+   "id": 24,
+   "en": "But now you're being all aggro and\nI have to smack you down and teach\nyou a lesson!",
+   "ru": "Но теперь ты весь такой\nагрессивный, и мне придётся\nтебя приложить и проучить!"
+  },
+  {
+   "id": 25,
+   "en": "Your arrogance astounds me almost\nas much as your intolerable slang!\nPrepare for pain, Claire!",
+   "ru": "Твоя наглость поражает почти\nкак твой невыносимый сленг!\nГотовься к боли, Клэр!"
+  },
+  {
+   "id": 26,
+   "en": "I've been beaten?!",
+   "ru": "Меня победили?!"
+  },
+  {
+   "id": 27,
+   "en": "This is entirely unacceptable!",
+   "ru": "Это совершенно недопустимо!"
+  },
+  {
+   "id": 28,
+   "en": "That's enough! All of you!",
+   "ru": "Довольно! Все!"
+  },
+  {
+   "id": 29,
+   "en": "Devlin, I told you that a delegation\nfrom the Empire was coming here!\nDon't you ever listen to me?",
+   "ru": "Девлин, я же говорила, что сюда\nедет делегация из Империи! Ты\nменя вообще слушаешь?"
+  },
+  {
+   "id": 30,
+   "en": "Sister, you're embarrassing me in\nfront of the other soldiers!",
+   "ru": "Сестра, ты позоришь меня перед\nдругими солдатами!"
+  },
+  {
+   "id": 31,
+   "en": "Who's that?",
+   "ru": "Кто это?"
+  }
+ ]
+}

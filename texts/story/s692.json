@@ -1,0 +1,26 @@
+{
+ "file": 692,
+ "kind": "story",
+ "lines": [
+  {
+   "id": 0,
+   "en": "This is definitely a battle, not a\ntraining exercise as I had hoped.",
+   "ru": "Это точно бой, а не учения, как я\nнадеялся."
+  },
+  {
+   "id": 1,
+   "en": "It's safe to say that one of these\narmies is from Hibernia...",
+   "ru": "Можно уверенно сказать, что\nодна из армий - из Хибернии..."
+  },
+  {
+   "id": 2,
+   "en": "...and their opponents are most likely\nfrom Nordilain.",
+   "ru": "...а противник, скорее всего, из\nНордилейна."
+  },
+  {
+   "id": 3,
+   "en": "Nordilain?",
+   "ru": "Нордилейн?"
+  }
+ ]
+}

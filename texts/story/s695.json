@@ -1,0 +1,26 @@
+{
+ "file": 695,
+ "kind": "story",
+ "lines": [
+  {
+   "id": 0,
+   "en": "What do you make of this situation,\nAndrew?",
+   "ru": "Что скажешь о положении,\nЭндрю?"
+  },
+  {
+   "id": 1,
+   "en": "Well, the Kingdom Army is managing\nto hold the Imperial troops at bay...",
+   "ru": "Ну, армия Королевства пока\nсдерживает имперцев..."
+  },
+  {
+   "id": 2,
+   "en": "But they're fairly well outnumbered.\nUnless they have reinforcements on\nthe way, they're going to lose.",
+   "ru": "Но их явно меньше. Если\nподкрепление не на подходе, они\nпроиграют."
+  },
+  {
+   "id": 3,
+   "en": "We ARE the reinforcements, Andrew!\nLet's hurry!",
+   "ru": "Подкрепление - это МЫ, Эндрю!\nСкорее!"
+  }
+ ]
+}

@@ -1,0 +1,391 @@
+{
+ "file": 409,
+ "kind": "quip",
+ "lines": [
+  {
+   "id": 0,
+   "en": "From the left? Bah!",
+   "ru": "Слева? Ба!"
+  },
+  {
+   "id": 1,
+   "en": "Hmmph!",
+   "ru": "Хм!"
+  },
+  {
+   "id": 2,
+   "en": "From the right? Fool!",
+   "ru": "Справа? Глупец!"
+  },
+  {
+   "id": 3,
+   "en": "Hmmph.",
+   "ru": "Хм."
+  },
+  {
+   "id": 4,
+   "en": "You are well and\ntruly pathetic.",
+   "ru": "Ты поистине жалок."
+  },
+  {
+   "id": 5,
+   "en": "Is that all you have to\noffer me? Hah!",
+   "ru": "И это всё, что ты\nможешь? Ха!"
+  },
+  {
+   "id": 6,
+   "en": "You annoy me.",
+   "ru": "Ты меня\nраздражаешь."
+  },
+  {
+   "id": 7,
+   "en": "Why don't you learn\nto fight?",
+   "ru": "Научился бы сперва\nдраться."
+  },
+  {
+   "id": 8,
+   "en": "Aargh!",
+   "ru": "Аргх!"
+  },
+  {
+   "id": 9,
+   "en": "I'm not afraid of you,\ninfidel. Not at all.",
+   "ru": "Я не боюсь тебя,\nневерный. Ничуть."
+  },
+  {
+   "id": 10,
+   "en": "I relish the pain.",
+   "ru": "Я наслаждаюсь\nболью."
+  },
+  {
+   "id": 11,
+   "en": "Hit me harder, fool!\nI demand it!",
+   "ru": "Бей сильнее, глупец!\nЯ требую!"
+  },
+  {
+   "id": 12,
+   "en": "You are strong.",
+   "ru": "Ты силён."
+  },
+  {
+   "id": 13,
+   "en": "I will never be\ndefeated. NEVER!",
+   "ru": "Меня не победить.\nНИКОГДА!"
+  },
+  {
+   "id": 14,
+   "en": "I will kill you, and I\nwill rejoice!",
+   "ru": "Я убью тебя и\nвозликую!"
+  },
+  {
+   "id": 15,
+   "en": "I will crush you like\na bug, infidel!",
+   "ru": "Раздавлю, как\nбукашку, неверный!"
+  },
+  {
+   "id": 16,
+   "en": "Impossible!",
+   "ru": "Невозможно!"
+  },
+  {
+   "id": 17,
+   "en": "I have lost. I welcome\nthe abyss!",
+   "ru": "Я проиграл.\nПринимаю бездну!"
+  },
+  {
+   "id": 18,
+   "en": "We will finish this in\nthe next world.",
+   "ru": "Закончим это на том\nсвете."
+  },
+  {
+   "id": 19,
+   "en": "I embrace the angel\nof death!",
+   "ru": "Я принимаю ангела\nсмерти!"
+  },
+  {
+   "id": 20,
+   "en": "From behind?",
+   "ru": "Со спины?"
+  },
+  {
+   "id": 21,
+   "en": "Coward!",
+   "ru": "Трус!"
+  },
+  {
+   "id": 22,
+   "en": "All too easy.",
+   "ru": "Слишком просто."
+  },
+  {
+   "id": 23,
+   "en": "Much too slow.",
+   "ru": "Слишком медленно."
+  },
+  {
+   "id": 24,
+   "en": "So very feeble.",
+   "ru": "Как же слабо."
+  },
+  {
+   "id": 25,
+   "en": "How very weak.",
+   "ru": "Как же немощно."
+  },
+  {
+   "id": 26,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 27,
+   "en": "You dodged my\nattack?!",
+   "ru": "Ты увернулся?!"
+  },
+  {
+   "id": 28,
+   "en": "Hmmph!!",
+   "ru": "Хм!!"
+  },
+  {
+   "id": 29,
+   "en": "I admire your speed,\ninfidel.",
+   "ru": "Восхищаюсь твоей\nпрытью, неверный."
+  },
+  {
+   "id": 30,
+   "en": "Aaugh!",
+   "ru": "А-ах!"
+  },
+  {
+   "id": 31,
+   "en": "Gwahh!",
+   "ru": "Гва-а!"
+  },
+  {
+   "id": 32,
+   "en": "You dare strike me,\ninfidel?!",
+   "ru": "Ты смеешь бить\nменя, неверный?!"
+  },
+  {
+   "id": 33,
+   "en": "Oooof!",
+   "ru": "Ух!"
+  },
+  {
+   "id": 34,
+   "en": "Your defense is quite\nlacking.",
+   "ru": "Защита у тебя\nникудышная."
+  },
+  {
+   "id": 35,
+   "en": "You know, I rather\nenjoy hurting you.",
+   "ru": "Мне нравится делать\nтебе больно."
+  },
+  {
+   "id": 36,
+   "en": "I think not.",
+   "ru": "Не думаю."
+  },
+  {
+   "id": 37,
+   "en": "Infidel!",
+   "ru": "Неверный!"
+  },
+  {
+   "id": 38,
+   "en": "What's wrong?",
+   "ru": "Что такое?"
+  },
+  {
+   "id": 39,
+   "en": "What's this?!",
+   "ru": "Это ещё что?!"
+  },
+  {
+   "id": 40,
+   "en": "I feel no pity, infidel.",
+   "ru": "Жалости не жди,\nневерный."
+  },
+  {
+   "id": 41,
+   "en": "Attacking me was\nyour last mistake.",
+   "ru": "Напасть на меня\nбыло ошибкой."
+  },
+  {
+   "id": 42,
+   "en": "I had no choice but to\nkill you.",
+   "ru": "Выбора не было:\nтолько убить."
+  },
+  {
+   "id": 43,
+   "en": "You could never have\nbeaten me.",
+   "ru": "Тебе меня никогда не\nодолеть."
+  },
+  {
+   "id": 44,
+   "en": "Heh.",
+   "ru": "Хе."
+  },
+  {
+   "id": 45,
+   "en": "Haaah!",
+   "ru": "Ха-а!"
+  },
+  {
+   "id": 46,
+   "en": "There you are, infidel!",
+   "ru": "Вот ты где,\nневерный!"
+  },
+  {
+   "id": 47,
+   "en": "Hwwahh!",
+   "ru": "Хва-а!"
+  },
+  {
+   "id": 48,
+   "en": "Die!",
+   "ru": "Умри!"
+  },
+  {
+   "id": 49,
+   "en": "What a pathetic fool\nyou are.",
+   "ru": "Какой же ты жалкий\nглупец."
+  },
+  {
+   "id": 50,
+   "en": "I will delight in your\ndeath, infidel.",
+   "ru": "Я упьюсь твоей\nсмертью, неверный."
+  },
+  {
+   "id": 51,
+   "en": "Your miserable death\nends today.",
+   "ru": "Сегодня оборвётся\nтвоя жалкая жизнь."
+  },
+  {
+   "id": 52,
+   "en": "Hmmph!!!",
+   "ru": "Хм!!!"
+  },
+  {
+   "id": 53,
+   "en": "Your blood will\nstain the ground!",
+   "ru": "Твоя кровь обагрит\nземлю!"
+  },
+  {
+   "id": 54,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 55,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 56,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 57,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 58,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 59,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 60,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 61,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 62,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 63,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 64,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 65,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 66,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 67,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 68,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 69,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 70,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 71,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 72,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 73,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 74,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 75,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 76,
+   "en": "",
+   "ru": ""
+  }
+ ]
+}

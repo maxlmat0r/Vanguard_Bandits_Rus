@@ -1,0 +1,346 @@
+{
+ "file": 370,
+ "kind": "quip",
+ "lines": [
+  {
+   "id": 0,
+   "en": "Enemy on my left!",
+   "ru": "Враг слева!"
+  },
+  {
+   "id": 1,
+   "en": "There!",
+   "ru": "Вот!"
+  },
+  {
+   "id": 2,
+   "en": "Enemy on my right!",
+   "ru": "Враг справа!"
+  },
+  {
+   "id": 3,
+   "en": "There!!",
+   "ru": "Вот!!"
+  },
+  {
+   "id": 4,
+   "en": "You hit like a girl!",
+   "ru": "Бьёшь, как девчонка!"
+  },
+  {
+   "id": 5,
+   "en": "Are you trying to\nspank me?",
+   "ru": "Ты меня отшлёпать\nрешил?"
+  },
+  {
+   "id": 6,
+   "en": "That was a love tap!",
+   "ru": "Ласковое\nпохлопывание!"
+  },
+  {
+   "id": 7,
+   "en": "Okay, now you're just\nbugging me!",
+   "ru": "Так, ты меня уже\nдостал!"
+  },
+  {
+   "id": 8,
+   "en": "Ouch! Not bad!",
+   "ru": "Ой! Неплохо!"
+  },
+  {
+   "id": 9,
+   "en": "You're really going\nto regret that!",
+   "ru": "Ты об этом сильно\nпожалеешь!"
+  },
+  {
+   "id": 10,
+   "en": "The real fight is from\nnow on, pal!",
+   "ru": "Вот теперь начнётся\nбой, дружок!"
+  },
+  {
+   "id": 11,
+   "en": "Hey! That stings!",
+   "ru": "Эй! Жжётся!"
+  },
+  {
+   "id": 12,
+   "en": "Fighting you was a\nbad idea.",
+   "ru": "Драться с тобой\nбыло плохой идеей."
+  },
+  {
+   "id": 13,
+   "en": "Aargh!! This just\nisn't fun anymore!",
+   "ru": "Аргх!! Это уже не\nвесело!"
+  },
+  {
+   "id": 14,
+   "en": "Oh, crap!!",
+   "ru": "Вот блин!!"
+  },
+  {
+   "id": 15,
+   "en": "Let me show you my\ntrue strength!",
+   "ru": "Сейчас покажу свою\nистинную силу!"
+  },
+  {
+   "id": 16,
+   "en": "What did I do wrong?",
+   "ru": "Что я сделала не\nтак?"
+  },
+  {
+   "id": 17,
+   "en": "I can't take this\nabuse anymore!",
+   "ru": "Я больше не вынесу\nэтих издевательств!"
+  },
+  {
+   "id": 18,
+   "en": "You were supposed to\nlose, not me!",
+   "ru": "Проиграть должен\nбыл ты, а не я!"
+  },
+  {
+   "id": 19,
+   "en": "Did I fail?!",
+   "ru": "Я провалилась?!"
+  },
+  {
+   "id": 20,
+   "en": "You little coward!",
+   "ru": "Ах ты, трусишка!"
+  },
+  {
+   "id": 21,
+   "en": "You're coming at\nme from behind?",
+   "ru": "Подкрадываешься\nсзади?"
+  },
+  {
+   "id": 22,
+   "en": "It's too bad that I'm\nso good!",
+   "ru": "Жаль, что я такая\nкрутая!"
+  },
+  {
+   "id": 23,
+   "en": "I'm not very easy to\nhit, am I?",
+   "ru": "В меня не так-то\nлегко попасть, а?"
+  },
+  {
+   "id": 24,
+   "en": "BIG WHIFF!",
+   "ru": "МИМО-О!"
+  },
+  {
+   "id": 25,
+   "en": "You make me giggle\nlike a schoolgirl!",
+   "ru": "Хихикаю, как\nшкольница!"
+  },
+  {
+   "id": 26,
+   "en": "I said, don't dodge!",
+   "ru": "Я же сказала, не\nуворачивайся!"
+  },
+  {
+   "id": 27,
+   "en": "Damn it!",
+   "ru": "Проклятье!"
+  },
+  {
+   "id": 28,
+   "en": "Oh, man!",
+   "ru": "Ну блин!"
+  },
+  {
+   "id": 29,
+   "en": "It's okay, I'll hit you\nlater!",
+   "ru": "Ладно, потом тебя\nстукну!"
+  },
+  {
+   "id": 30,
+   "en": "That was just sad!",
+   "ru": "Это было просто\nжалко!"
+  },
+  {
+   "id": 31,
+   "en": "Oooof!!",
+   "ru": "Ух!!"
+  },
+  {
+   "id": 32,
+   "en": "Don't push your luck!",
+   "ru": "Не испытывай удачу!"
+  },
+  {
+   "id": 33,
+   "en": "That hurts!",
+   "ru": "Больно же!"
+  },
+  {
+   "id": 34,
+   "en": "Do you think you can\nbeat me?!",
+   "ru": "Думаешь, победишь\nменя?!"
+  },
+  {
+   "id": 35,
+   "en": "Keep dreaming!",
+   "ru": "Мечтай дальше!"
+  },
+  {
+   "id": 36,
+   "en": "Haaaah!",
+   "ru": "Ха-а-а!"
+  },
+  {
+   "id": 37,
+   "en": "Whaaaa?!",
+   "ru": "Чего-о?!"
+  },
+  {
+   "id": 38,
+   "en": "I read your moves!",
+   "ru": "Я тебя раскусила!"
+  },
+  {
+   "id": 39,
+   "en": "You just got lucky!",
+   "ru": "Тебе просто повезло!"
+  },
+  {
+   "id": 40,
+   "en": "I win again!",
+   "ru": "Я снова победила!"
+  },
+  {
+   "id": 41,
+   "en": "It wasn't luck, it was\nskill! Trust me!",
+   "ru": "Это мастерство, а не\nудача!"
+  },
+  {
+   "id": 42,
+   "en": "Reyna rules the field\nof battle!",
+   "ru": "Рейна — королева\nполя боя!"
+  },
+  {
+   "id": 43,
+   "en": "It's a burden to be so\ndangerous.",
+   "ru": "Тяжело быть такой\nопасной."
+  },
+  {
+   "id": 44,
+   "en": "Hah!",
+   "ru": "Ха!"
+  },
+  {
+   "id": 45,
+   "en": "Take this!",
+   "ru": "Получай!"
+  },
+  {
+   "id": 46,
+   "en": "There you are!",
+   "ru": "Вот ты где!"
+  },
+  {
+   "id": 47,
+   "en": "Time for you to take\na fall!",
+   "ru": "Пора тебе упасть!"
+  },
+  {
+   "id": 48,
+   "en": "Catch the wave!",
+   "ru": "Лови волну!"
+  },
+  {
+   "id": 49,
+   "en": "I can do this!",
+   "ru": "Я справлюсь!"
+  },
+  {
+   "id": 50,
+   "en": "Awright, this is as\nfar as you go!",
+   "ru": "Всё, дальше ты не\nпройдёшь!"
+  },
+  {
+   "id": 51,
+   "en": "No more Miss Nice Gal!",
+   "ru": "Хватит быть\nпаинькой!"
+  },
+  {
+   "id": 52,
+   "en": "You're in my way!",
+   "ru": "Ты мне мешаешь!"
+  },
+  {
+   "id": 53,
+   "en": "This is really\ngonna hurt!",
+   "ru": "Сейчас будет очень\nбольно!"
+  },
+  {
+   "id": 54,
+   "en": "Ready!",
+   "ru": "Готова!"
+  },
+  {
+   "id": 55,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 56,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 57,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 58,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 59,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 60,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 61,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 62,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 63,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 64,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 65,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 66,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 67,
+   "en": "",
+   "ru": ""
+  }
+ ]
+}

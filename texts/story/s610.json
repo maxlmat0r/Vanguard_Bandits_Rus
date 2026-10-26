@@ -1,0 +1,31 @@
+{
+ "file": 610,
+ "kind": "story",
+ "lines": [
+  {
+   "id": 0,
+   "en": "Ah yes! There it is...just cresting\nthe horizon...",
+   "ru": "Ах да! Вот она... показалась на\nгоризонте..."
+  },
+  {
+   "id": 1,
+   "en": "This is the royal capital?",
+   "ru": "Это королевская столица?"
+  },
+  {
+   "id": 2,
+   "en": "(This is the place where I was born,\nand the place where my father...the\nfather I never knew...was slain.)",
+   "ru": "(Здесь я родился, и здесь мой\nотец... отец, которого я не знал...\nбыл убит.)"
+  },
+  {
+   "id": 3,
+   "en": "Today, we strike a fatal blow to the\nEmpire! Today, we reclaim the heart\nof the Kingdom!",
+   "ru": "Сегодня мы нанесём Империи\nсмертельный удар! Сегодня мы\nвернём сердце Королевства!"
+  },
+  {
+   "id": 4,
+   "en": "Commence the assault!",
+   "ru": "Начать штурм!"
+  }
+ ]
+}

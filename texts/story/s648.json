@@ -1,0 +1,51 @@
+{
+ "file": 648,
+ "kind": "story",
+ "lines": [
+  {
+   "id": 0,
+   "en": "Bastion:\nFather, I simply can't wait to slay\nthese wretched dogs!",
+   "ru": "Бастион:\nОтец, мне не терпится сразить\nэтих мерзких псов!"
+  },
+  {
+   "id": 1,
+   "en": "Kamorge:\nDo not allow your anger to cloud\ngood judgment.",
+   "ru": "Каморж:\nНе позволяй гневу затуманить\nрассудок."
+  },
+  {
+   "id": 2,
+   "en": "Forget your emotions. Remember\nyour training. Fight with honor.",
+   "ru": "Забудь о чувствах. Помни, чему\nучился. Сражайся с честью."
+  },
+  {
+   "id": 3,
+   "en": "I know, Father, I know...",
+   "ru": "Знаю, отец, знаю..."
+  },
+  {
+   "id": 4,
+   "en": "But now is the time for me to\nuse that training for just\nsuch an honorable purpose!",
+   "ru": "Но настало время применить мою\nвыучку ради такой благородной\nцели!"
+  },
+  {
+   "id": 5,
+   "en": "Stay close as we engage the enemy,\nBastion. Keep me within your line\nof sight at all times.",
+   "ru": "Держись рядом, когда вступим в\nбой, Бастион. Всё время держи\nменя в поле зрения."
+  },
+  {
+   "id": 6,
+   "en": "This is your first big test. Do\nnot disappoint me.",
+   "ru": "Это твоё первое большое\nиспытание. Не разочаруй меня."
+  },
+  {
+   "id": 7,
+   "en": "Of course not, Father! I shall\nmake you proud!",
+   "ru": "Конечно, отец! Ты будешь мной\nгордиться!"
+  },
+  {
+   "id": 8,
+   "en": "(Proud enough that perhaps you\ncan reserve that stick for\nsomeone else...)",
+   "ru": "(Настолько гордиться, что,\nможет, прибережёшь свою палку\nдля кого-нибудь другого...)"
+  }
+ ]
+}

@@ -1,0 +1,1275 @@
+{
+ "file": 419,
+ "kind": "strtab",
+ "section": 3,
+ "ctrl": 2,
+ "max_px": 251,
+ "max_lines": 4,
+ "lines": [
+  {
+   "id": 0,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 1,
+   "en": "You're pretty cute, Bastion! You must\ntotally have a girlfriend...what? You\ndon't? That's, like, hard to believe!",
+   "ru": "Какой ты милашка, Бастион! У\nтебя, типа, точно есть девушка...\nчто? Нету? Это, типа, вообще не\nверится!"
+  },
+  {
+   "id": 2,
+   "en": "Like, don't be afraid of me, Bastion.\nI don't bite...hard!",
+   "ru": "Типа, не бойся меня, Бастион. Я не\nкусаюсь... сильно!"
+  },
+  {
+   "id": 3,
+   "en": "Like, could you rub my shoulder for\na while, Bastion? It's TOTALLY sore!",
+   "ru": "Типа, может, помнёшь мне плечо,\nБастион? Оно РЕАЛЬНО болит!"
+  },
+  {
+   "id": 4,
+   "en": "Sadira is, like, SO jealous because\nmy hair is redder than hers! Like,\ncan I help my superior genetics?!",
+   "ru": "Садира, типа, ТАК завидует, что у\nменя волосы рыжее, чем у неё! Ну,\nтипа, я виновата, что у меня гены\nлучше?!"
+  },
+  {
+   "id": 5,
+   "en": "Like, both our fathers taught us how\nto fight, Bastion! Isn't that way cool?",
+   "ru": "Типа, нас обеих драться научили\nотцы, Бастион! Это же вообще\nкруто, да?"
+  },
+  {
+   "id": 6,
+   "en": "Bastion, I'm just going to, like, come\nout and ask you...do you like Sadira,\nor do you like me?",
+   "ru": "Бастион, я, типа, спрошу прямо...\nтебе нравится Садира или я?"
+  },
+  {
+   "id": 7,
+   "en": "Sadira's not, like, talking trash and\nstuff, is she? 'Cause I'll totally slap\nher around if she is!",
+   "ru": "Садира ведь, типа, не говорит про\nменя гадости? А то я ей реально\nврежу!"
+  },
+  {
+   "id": 8,
+   "en": "Like, here's a word of advice from\nme to you, Bastion...Sadira is a lot\nmore fun when she's drunk!",
+   "ru": "Типа, вот тебе совет от меня,\nБастион... пьяная Садира куда\nвеселее!"
+  },
+  {
+   "id": 9,
+   "en": "I wonder if, like, maybe you and me\nwould've been a good couple. Then I\nremember I'm too tall for you!",
+   "ru": "Интересно, типа, а мы бы с тобой\nбыли хорошей парой? А, точно, я\nже для тебя слишком высокая!"
+  },
+  {
+   "id": 10,
+   "en": "So, like, what are you going to do\nafter we kick the Empire's butt?",
+   "ru": "Ну и, типа, что ты будешь делать,\nкогда мы надерём Империи зад?"
+  },
+  {
+   "id": 11,
+   "en": "I know she's, like, cranky and stuff,\nbut Sadira really cares about you.\nBe good to her, okay?",
+   "ru": "Знаю, она, типа, вредная и всё\nтакое, но Садира реально за тебя\nпереживает. Будь с ней добрым,\nладно?"
+  },
+  {
+   "id": 12,
+   "en": "Not that it's, like, my business, but\nSadira has totally noticed how you\ntalk to Cecilia more than her...",
+   "ru": "Это, типа, не моё дело, но Садира\nреально заметила, что с Сесилией\nты болтаешь больше, чем с ней..."
+  },
+  {
+   "id": 13,
+   "en": "Bastion, like, can't you see how much\nSadira needs you? Or are you really\nthat clueless?",
+   "ru": "Бастион, ты, типа, не видишь, как\nты нужен Садире? Или ты реально\nтакой бестолковый?"
+  },
+  {
+   "id": 14,
+   "en": "What will you have, Bastion? Coffee,\ntea, or me? Ha-ha!",
+   "ru": "Что тебе подать, Бастион? Кофе,\nчай или меня? Ха-ха!"
+  },
+  {
+   "id": 15,
+   "en": "I'm not really a fan of tea. Give me\nmy morning coffee and my morning\nbuzz every time! Ha-ha!",
+   "ru": "Я не большая любительница чая.\nМне бы утренний кофе да\nутреннюю бодрость! Ха-ха!"
+  },
+  {
+   "id": 16,
+   "en": "Oh, Bastion! I broke one of Sadira's\nteacups! I hope she won't become too\nupset with me!",
+   "ru": "Ой, Бастион! Я разбила одну из\nчашек Садиры! Надеюсь, она не\nочень рассердится!"
+  },
+  {
+   "id": 17,
+   "en": "I had a horrible dream, Bastion! I\nsaw a blinding light surrounded by\na consuming darkness!",
+   "ru": "Мне приснился ужасный сон,\nБастион! Я видела слепящий свет\nпосреди всепоглощающей тьмы!"
+  },
+  {
+   "id": 18,
+   "en": "Bastion, remember that whatever we\ntalk about always stays between us.\nIt's our business...no one else's.",
+   "ru": "Бастион, помни: всё, о чём мы\nговорим, остаётся между нами. Это\nнаше дело... и больше ничьё."
+  },
+  {
+   "id": 19,
+   "en": "What's wrong, Bastion! You're going\nto give yourself wrinkles if you keep\nfrowning like that!",
+   "ru": "Что такое, Бастион? Будешь так\nхмуриться — появятся морщины!"
+  },
+  {
+   "id": 20,
+   "en": "Do you like my maid outfit, Bastion?\nI sewed it all by myself!",
+   "ru": "Нравится мой наряд горничной,\nБастион? Я сама его сшила!"
+  },
+  {
+   "id": 21,
+   "en": "Did you know I have seven of these\noutfits, Bastion? One for every day\nof the week! Ha-ha!",
+   "ru": "А ты знал, Бастион, что у меня\nсемь таких нарядов? По одному на\nкаждый день недели! Ха-ха!"
+  },
+  {
+   "id": 22,
+   "en": "You are my best friend in the world,\nBastion...and my only friend.",
+   "ru": "Ты мой лучший друг на свете,\nБастион... и единственный."
+  },
+  {
+   "id": 23,
+   "en": "Bastion, I'm really worried about\nusing Andrew's ATAC. Will he get\nangry if I damage it in battle?",
+   "ru": "Бастион, я так волнуюсь из-за\nАТАКа Эндрю. Он не рассердится,\nесли я его поврежу в бою?"
+  },
+  {
+   "id": 24,
+   "en": "I was taught that a ninja needs to\nmove swiftly and quietly, like the\nwind itself. Isn't that profound?",
+   "ru": "Меня учили, что ниндзя должен\nдвигаться быстро и тихо, как сам\nветер. Правда, глубоко?"
+  },
+  {
+   "id": 25,
+   "en": "The Ultragunner is a wonderful\nATAC, Bastion! Will you take me\nfor a ride in it someday?",
+   "ru": "Ультраганнер — чудесный АТАК,\nБастион! Прокатишь меня на нём\nкогда-нибудь?"
+  },
+  {
+   "id": 26,
+   "en": "This war will be over soon, Bastion.\nOne way...or another.\n",
+   "ru": "Эта война скоро закончится,\nБастион. Так или иначе."
+  },
+  {
+   "id": 27,
+   "en": "It's always fun to speak with you,\nBastion! You're very amusing...and\nvery cute! Ha-ha!",
+   "ru": "С тобой всегда весело болтать,\nБастион! Ты такой забавный... и\nтакой милый! Ха-ха!"
+  },
+  {
+   "id": 28,
+   "en": "Soon, Bastion, I will have to make\nthe most crucial decision of my life.\nBut I don't know if I'm ready...",
+   "ru": "Скоро, Бастион, мне придётся\nпринять самое важное решение в\nжизни. Но не знаю, готова ли я..."
+  },
+  {
+   "id": 29,
+   "en": "...   ...   ...",
+   "ru": ""
+  },
+  {
+   "id": 30,
+   "en": "Have a bad hip, I do. Depending on\nyou for deep-muscle massages, I am!\nHeh, heh, heh!",
+   "ru": "Больное бедро у меня. На твой\nглубокий массаж надеюсь я!\nХе-хе-хе!"
+  },
+  {
+   "id": 31,
+   "en": "Strong, your hands must be, Bastion.\nAching, my shoulder is. Kneading the\ntension away, you are!",
+   "ru": "Сильные руки у тебя, должно быть,\nБастион. Ноет плечо моё. Размять\nего ты сможешь!"
+  },
+  {
+   "id": 32,
+   "en": "Aching, my bones are. Understand my\npain, you will, when old you become!",
+   "ru": "Ноют кости мои. Поймёшь мою боль\nты, когда состаришься!"
+  },
+  {
+   "id": 33,
+   "en": "Untouched by a woman, you are.\nSee your purity, I can. Speak with\nCecilia, you should not...",
+   "ru": "Не знал ты женщины ещё. Вижу\nтвою чистоту я. С Сесилией\nговорить не стоит тебе..."
+  },
+  {
+   "id": 34,
+   "en": "Flaring up again, my hip is. Need to\nreduce the swelling with ice, I do...",
+   "ru": "Снова разыгралось бедро моё.\nПриложить лёд нужно мне..."
+  },
+  {
+   "id": 35,
+   "en": "Feeling healthy, you are? Good! Very\nconcerned for you, I am, Bastion!",
+   "ru": "Здоров ты? Хорошо! Очень\nбеспокоюсь о тебе я, Бастион!"
+  },
+  {
+   "id": 36,
+   "en": "Use the High Speech, I do. The tongue\nof the ancients, it is.",
+   "ru": "Высокой речью говорю я. Язык\nдревних это."
+  },
+  {
+   "id": 37,
+   "en": "Having children soon, you are? Find\na wife with wide hips, you must!",
+   "ru": "Скоро детей заводишь ты? Жену с\nширокими бёдрами найти должен\nты!"
+  },
+  {
+   "id": 38,
+   "en": "Wish to fight with you, I do...but the\npain is too great.",
+   "ru": "Сразиться с тобой хотела бы я... но\nслишком сильна боль."
+  },
+  {
+   "id": 39,
+   "en": "Much competition for your affection,\nthere is. Make a choice, you must!",
+   "ru": "Много соперниц за твоё сердце есть.\nСделать выбор ты должен!"
+  },
+  {
+   "id": 40,
+   "en": "Say something, you did? Hear it, I\ncould not! Going deaf, I am!!",
+   "ru": "Сказал что-то ты? Не расслышала\nя! Глохну я!!"
+  },
+  {
+   "id": 41,
+   "en": "A foolish boy, Duyere is. Awful grades\nin school, he received!",
+   "ru": "Глупый мальчишка Дюйер.\nУжасные оценки в школе получал\nон!"
+  },
+  {
+   "id": 42,
+   "en": "Have you only a friendship with the\ngirl named Milea? Or think of her as\nmore than that, do you?",
+   "ru": "Лишь дружба у тебя с девушкой по\nимени Милея? Или больше, чем\nподругу, видишь в ней ты?"
+  },
+  {
+   "id": 43,
+   "en": "Very happy, you make Sadira, but\ntake care of her heart, you must!",
+   "ru": "Счастливой Садиру делаешь ты, но\nберечь её сердце должен ты!"
+  },
+  {
+   "id": 44,
+   "en": "Hoping to see Sadira give birth to a\ngrandchild in my lifetime, I am.",
+   "ru": "Увидеть внука от Садиры при\nжизни надеюсь я."
+  },
+  {
+   "id": 45,
+   "en": "Take care of the Princess, you must.\nLove you, she does.",
+   "ru": "Береги принцессу ты. Любит тебя\nона."
+  },
+  {
+   "id": 46,
+   "en": "Very sad, Sadira is. Lift her spirits,\nyou must.",
+   "ru": "Очень грустна Садира. Поднять ей\nнастроение должен ты."
+  },
+  {
+   "id": 47,
+   "en": "Disappointed in you, I am. See the\npain in Sadira's eyes, you did not...",
+   "ru": "Разочарована в тебе я. Боли в\nглазах Садиры не увидел ты..."
+  },
+  {
+   "id": 48,
+   "en": "Didn't you love the look on Sadira's\nface when you found out how small\nour group is?",
+   "ru": "Видел лицо Садиры, когда она\nузнала, как мал наш отряд? Это\nбыло нечто!"
+  },
+  {
+   "id": 49,
+   "en": "How foolish were those bandits to\nestablish their base in a cave? I've\nnever been that fond of guano!",
+   "ru": "Какими же глупцами были\nбандиты, устроив базу в пещере!\nНикогда не любил помёт летучих\nмышей!"
+  },
+  {
+   "id": 50,
+   "en": "I delight in telling bad jokes, Bastion!\nWould you like to hear the one about\nthe priest and the gerbil?",
+   "ru": "Обожаю рассказывать дурацкие\nанекдоты, Бастион! Хочешь тот,\nпро священника и песчанку?"
+  },
+  {
+   "id": 51,
+   "en": "I know my jokes are bad, Bastion,\nbut you could at least PRETEND to\nlaugh at some of them...",
+   "ru": "Знаю, анекдоты у меня плохие,\nБастион, но мог бы хоть\nПРИТВОРИТЬСЯ, что смешно..."
+  },
+  {
+   "id": 52,
+   "en": "I'm worried about this confrontation\nwith Duke Logan. We need his support\nvery badly...",
+   "ru": "Меня тревожит встреча с герцогом\nЛоганом. Нам очень нужна его\nподдержка..."
+  },
+  {
+   "id": 53,
+   "en": "Her Highness has forbidden me from\ntelling any more bad jokes. How can\nshe be so cruel?",
+   "ru": "Её Высочество запретила мне\nрассказывать дурацкие анекдоты.\nКак можно быть такой жестокой?"
+  },
+  {
+   "id": 54,
+   "en": "I believe Princess Sadira has taken\nan interest in the growing friendship\nbetween you and Cecilia...",
+   "ru": "Похоже, принцессу Садиру\nзаинтересовала ваша крепнущая\nдружба с Сесилией..."
+  },
+  {
+   "id": 55,
+   "en": "Thomson's death is a tragedy I shall\nnot soon forget, Prince Bastion.",
+   "ru": "Гибель Томсона — трагедия,\nкоторую я не скоро забуду, принц\nБастион."
+  },
+  {
+   "id": 56,
+   "en": "It is a shame that Halak cannot\nfight with us. I fear that her time in\nthis world is drawing to an end...",
+   "ru": "Жаль, что Халак не может\nсражаться с нами. Боюсь, её время в\nэтом мире подходит к концу..."
+  },
+  {
+   "id": 57,
+   "en": "These ATACs appeared too quickly,\nBastion. This was a trap! They knew\nwe were coming!",
+   "ru": "Эти АТАКи появились слишком\nбыстро, Бастион. Это ловушка! Они\nзнали, что мы придём!"
+  },
+  {
+   "id": 58,
+   "en": "The Princess caught me telling a bad\njoke, and now she won't speak to me.\nWhy must she be so cruel?!",
+   "ru": "Принцесса застала меня за\nдурацким анекдотом и теперь со\nмной не разговаривает. Ну почему\nона так жестока?!"
+  },
+  {
+   "id": 59,
+   "en": "It's plain to see that Princess Sadira\nis troubled by what has happened to\nher brother, Prince Duyere.",
+   "ru": "Ясно видно, что принцессу Садиру\nтревожит то, что случилось с её\nбратом, принцем Дюйером."
+  },
+  {
+   "id": 60,
+   "en": "Prince Bastion, I sense a growing\nbond between you and the Princess.\nThis pleases me greatly.",
+   "ru": "Принц Бастион, я чувствую, как\nкрепнет связь между вами и\nпринцессой. Это меня очень радует."
+  },
+  {
+   "id": 61,
+   "en": "Prince Bastion, the Princess was\nseeking you out earlier. Have you\nspoken with her yet?",
+   "ru": "Принц Бастион, принцесса вас\nнедавно искала. Вы уже с ней\nпоговорили?"
+  },
+  {
+   "id": 62,
+   "en": "Prince Bastion, I would ask of you...\nwhat are your intentions regarding\nPrincess Sadira?",
+   "ru": "Принц Бастион, позвольте\nспросить... каковы ваши намерения\nнасчёт принцессы Садиры?"
+  },
+  {
+   "id": 63,
+   "en": "You and the Princess have grown\nvery close during your adventures.\nBe careful with her heart...",
+   "ru": "Вы с принцессой очень сблизились\nза время странствий. Берегите её\nсердце..."
+  },
+  {
+   "id": 64,
+   "en": "It saddens me to see the pain reflected\nin Princess Sadira's face.",
+   "ru": "Мне больно видеть страдание на\nлице принцессы Садиры."
+  },
+  {
+   "id": 65,
+   "en": "I wish there was some way I could\nlessen Princess Sadira's burden, but\nshe must carry it alone...",
+   "ru": "Хотел бы я хоть как-то облегчить\nношу принцессы Садиры, но нести\nеё ей придётся одной..."
+  },
+  {
+   "id": 66,
+   "en": "Cecilia's tea is delicious, Bastion!\nWhy don't you have a cup and taste\nit for yourself?",
+   "ru": "Чай у Сесилии восхитительный,\nБастион! Выпей чашечку, попробуй\nсам!"
+  },
+  {
+   "id": 67,
+   "en": "You look tired, Bastion. Would you\nlike to rest and have tea with me?",
+   "ru": "Ты выглядишь усталым, Бастион.\nНе хочешь отдохнуть и выпить со\nмной чаю?"
+  },
+  {
+   "id": 68,
+   "en": "What do you think, Bastion? Is this\nring too gaudy, or does it just make\na strong fashion statement?",
+   "ru": "Как думаешь, Бастион? Это кольцо\nслишком кричащее или просто\nсмелое модное заявление?"
+  },
+  {
+   "id": 69,
+   "en": "Now, remember, Bastion, don't hit\nthe Imperial ATACs this time! That\nwould be bad!",
+   "ru": "Так, помни, Бастион: на этот раз\nне бей имперские АТАКи! Это будет\nплохо!"
+  },
+  {
+   "id": 70,
+   "en": "Don't be fooled by Duke Logan's kind\ndemeanor, Bastion! He's a completely\nruthless warrior!",
+   "ru": "Не обманывайся мягкостью герцога\nЛогана, Бастион! Он совершенно\nбеспощадный воин!"
+  },
+  {
+   "id": 71,
+   "en": "Claire was my classmate at military\nschool. We didn't exactly get along. In\nfact, I basically despised her...",
+   "ru": "Клэр была моей одноклассницей в\nвоенной школе. Мы не очень\nладили. Если честно, я её просто\nпрезирала..."
+  },
+  {
+   "id": 72,
+   "en": "Are you alright, Bastion? You've been\nacting a little strangely since we left\nthe palace. What's on your mind?",
+   "ru": "Ты в порядке, Бастион? Ты странно\nсебя ведёшь с тех пор, как мы\nпокинули дворец. Что у тебя на\nуме?"
+  },
+  {
+   "id": 73,
+   "en": "Do you think this brooch looks nice,\nBastion? Or does it place too much\nemphasis on my thin neck?",
+   "ru": "Как думаешь, Бастион, эта брошь\nмне идёт? Или она слишком\nподчёркивает мою тонкую шею?"
+  },
+  {
+   "id": 74,
+   "en": "You don't think Claire's hair is any\nredder than mine, do you?",
+   "ru": "Ты же не считаешь, что у Клэр\nволосы рыжее моих?"
+  },
+  {
+   "id": 75,
+   "en": "Don't listen to a word Claire says\nabout me, Bastion. They're all lies!",
+   "ru": "Не верь ни единому слову Клэр обо\nмне, Бастион. Это всё враньё!"
+  },
+  {
+   "id": 76,
+   "en": "Bastion, did you know that today is\nmy birthday? You still have time to\nbuy me a present!",
+   "ru": "Бастион, а ты знал, что сегодня\nмой день рождения? Ты ещё\nуспеешь купить мне подарок!"
+  },
+  {
+   "id": 77,
+   "en": "I think Claire has a difficult time\ndistinguishing between flirtation\nand flaunting herself!",
+   "ru": "По-моему, Клэр с трудом отличает\nфлирт от выставления себя\nнапоказ!"
+  },
+  {
+   "id": 78,
+   "en": "Uh, Bastion, you wouldn't tell Claire\nall the nasty things I said about her,\nwould you?",
+   "ru": "Э-э, Бастион, ты ведь не\nрасскажешь Клэр все гадости, что\nя про неё наговорила?"
+  },
+  {
+   "id": 79,
+   "en": "Bastion? I was hoping that, later this\nevening, we could go for a walk and,\nuh, discuss our relationship...",
+   "ru": "Бастион? Я надеялась, что попозже\nвечером мы могли бы прогуляться\nи, э-э, обсудить наши отношения..."
+  },
+  {
+   "id": 80,
+   "en": "Bastion, I hate to admit it, but when\nI look at you, I start to feel all warm\nand fuzzy inside...",
+   "ru": "Бастион, неохотно признаю, но\nкогда я смотрю на тебя, внутри всё\nстановится тёплым и пушистым..."
+  },
+  {
+   "id": 81,
+   "en": "When this battle is won, Bastion,\nperhaps you'll be ready to engage\nin less violent activities...",
+   "ru": "Когда мы выиграем этот бой,\nБастион, может, ты будешь готов к\nзанятиям менее жестоким..."
+  },
+  {
+   "id": 82,
+   "en": "This used to be my country, Bastion.\nThe Empire was my home...",
+   "ru": "Когда-то это была моя страна,\nБастион. Империя была моим\nдомом..."
+  },
+  {
+   "id": 83,
+   "en": "Bastion, I feel as if...you're drifting\naway from me. Is there anything you\nwant to talk about?",
+   "ru": "Бастион, мне кажется... ты\nотдаляешься от меня. Ты не хочешь\nни о чём поговорить?"
+  },
+  {
+   "id": 84,
+   "en": "Remember, Bastion, you promised\nto protect me if we're found by the\nKingdom Army!",
+   "ru": "Помни, Бастион: ты обещал\nзащитить меня, если нас найдёт\nармия Королевства!"
+  },
+  {
+   "id": 85,
+   "en": "Is your friend Milea somewhat shy,\nBastion? I've noticed that she rarely\nspeaks to me.",
+   "ru": "Твоя подруга Милея немного\nзастенчива, Бастион? Я заметила,\nчто она редко со мной\nразговаривает."
+  },
+  {
+   "id": 86,
+   "en": "I've never been in so many fights!\nWhy do you think everyone keeps\nattacking us?",
+   "ru": "Я никогда ещё столько не\nсражалась! Как думаешь, почему на\nнас все время нападают?"
+  },
+  {
+   "id": 87,
+   "en": "Bastion, could you rub my feet when\nthis battle is over? I always got foot-\nrubs in the Imperial palace...",
+   "ru": "Бастион, разотрёшь мне ноги,\nкогда бой закончится? В\nимператорском дворце мне всегда\nделали массаж ног..."
+  },
+  {
+   "id": 88,
+   "en": "Bastion, could you make me a pot of\ntea? And make sure it's delicious!",
+   "ru": "Бастион, заваришь мне чайник\nчаю? И чтобы был вкусный!"
+  },
+  {
+   "id": 89,
+   "en": "What's wrong, Bastion? You need to\nshow me your fighting spirit!",
+   "ru": "Что такое, Бастион? Покажи мне\nсвой боевой дух!"
+  },
+  {
+   "id": 90,
+   "en": "I won't forgive Faulkner for how\nhe has destroyed the dignity of the\nEmpire! Go get him, Bastion!",
+   "ru": "Я не прощу Фолкнеру, что он\nрастоптал достоинство Империи!\nЗадай ему, Бастион!"
+  },
+  {
+   "id": 91,
+   "en": "According to legend, the ultimate\nmystery of the Ultragunner can be\nunlocked with balanced power.",
+   "ru": "Легенда гласит, что высшую тайну\nУльтраганнера раскрывает\nуравновешенная сила."
+  },
+  {
+   "id": 92,
+   "en": "I will fight hard for you, Bastion!",
+   "ru": "Я буду изо всех сил сражаться за\nтебя, Бастион!"
+  },
+  {
+   "id": 93,
+   "en": "You've gotten too skinny, Bastion!\nI have to start cooking your meals\nagain before you waste away!",
+   "ru": "Ты слишком исхудал, Бастион! Надо\nснова тебе готовить, а то совсем\nзачахнешь!"
+  },
+  {
+   "id": 94,
+   "en": "Bastion! The next King should start\neating his vegetables if he wants to\nbe strong!",
+   "ru": "Бастион! Будущему королю надо\nесть овощи, если он хочет быть\nсильным!"
+  },
+  {
+   "id": 95,
+   "en": "Bastion, while we were apart, you...\nyou didn't take an interest in other\ngirls, did you?",
+   "ru": "Бастион, пока мы были в разлуке,\nты... ты ведь не заглядывался на\nдругих девушек?"
+  },
+  {
+   "id": 96,
+   "en": "You say you haven't changed at all,\nBastion, but this journey has changed\nyou in many ways.",
+   "ru": "Ты говоришь, что совсем не\nизменился, Бастион, но это\nпутешествие изменило тебя во\nмногом."
+  },
+  {
+   "id": 97,
+   "en": "Bastion, when all of this is over, I'd\nlike for the both of us to embark on\na journey...just like before.",
+   "ru": "Бастион, когда всё закончится, я\nбы хотела, чтобы мы с тобой\nотправились в путь... как раньше."
+  },
+  {
+   "id": 98,
+   "en": "I didn't mean to cause you trouble,\nBastion. I promise to help you from\nthis day forward!",
+   "ru": "Я не хотела доставлять тебе\nхлопот, Бастион. Обещаю с этого\nдня тебе помогать!"
+  },
+  {
+   "id": 99,
+   "en": "Sadira is a shameless flirt, Bastion,\nand I don't like the way she speaks to\nyou at ALL!",
+   "ru": "Садира — бесстыжая кокетка,\nБастион, и мне СОВСЕМ не\nнравится, как она с тобой говорит!"
+  },
+  {
+   "id": 100,
+   "en": "Bastion, this might sound rude, but\nI think Sadira is starting to rely on\nyou too much.",
+   "ru": "Бастион, может, это прозвучит\nгрубо, но, по-моему, Садира\nслишком на тебя полагается."
+  },
+  {
+   "id": 101,
+   "en": "Have you noticed that Sadira seems\nto summon conflict to her as moths\nare summoned to a flame?",
+   "ru": "Ты заметил, что Садира\nпритягивает неприятности, как\nпламя мотыльков?"
+  },
+  {
+   "id": 102,
+   "en": "I'm glad you decided to come to the\naid of Duke Zeira. It was honorable,\nas Kamorge would have said.",
+   "ru": "Я рада, что ты решил помочь\nгерцогу Зейре. Это благородно, как\nсказал бы Каморж."
+  },
+  {
+   "id": 103,
+   "en": "Bastion, why won't you stand up for\nyourself and tell Sadira that YOU'RE\nthe one in charge here?!",
+   "ru": "Бастион, ну почему ты не скажешь\nСадире, что главный здесь ТЫ?!"
+  },
+  {
+   "id": 104,
+   "en": "Bastion, you're too nice to tell Sadira\nto leave us alone, so I will gladly do\nit for you!",
+   "ru": "Бастион, ты слишком добрый,\nчтобы попросить Садиру оставить\nнас в покое, так что я с радостью\nсделаю это за тебя!"
+  },
+  {
+   "id": 105,
+   "en": "I'm sorry I didn't get rid of Sadira\nsooner, Bastion, but I promise I will\nafter you conquer the capital!",
+   "ru": "Прости, что я не избавилась от\nСадиры раньше, Бастион, но\nобещаю сделать это, когда ты\nзахватишь столицу!"
+  },
+  {
+   "id": 106,
+   "en": "I look forward to witnessing your\nconsiderable skills in combat once\nagain, Prince Bastion.",
+   "ru": "С нетерпением жду, когда снова\nувижу ваше немалое боевое\nмастерство, принц Бастион."
+  },
+  {
+   "id": 107,
+   "en": "Did you notice how easy it was for\nme to provoke Claire? Inexperience\ncan always be exploited, Bastion.",
+   "ru": "Заметили, как легко мне удалось\nвывести Клэр из себя?\nНеопытностью всегда можно\nвоспользоваться, Бастион."
+  },
+  {
+   "id": 108,
+   "en": "Stay calm on the battlefield, Bastion.\nYour opponent's rage will invariably\nbe his undoing.",
+   "ru": "Сохраняйте спокойствие в бою,\nБастион. Ярость противника\nнеизменно его и погубит."
+  },
+  {
+   "id": 109,
+   "en": "Bastion! Have you heard the words\nAndrew is using to describe various\nregions of Melior's anatomy?!",
+   "ru": "Бастион! Вы слышали, какими\nсловами Эндрю описывает разные\nчасти тела Мелиор?!"
+  },
+  {
+   "id": 110,
+   "en": "Bastion, if I perish in this battle, I\nwant your assurance that you will\nreturn my remains to Hibernia...",
+   "ru": "Бастион, если я погибну в этом\nбою, обещайте, что вернёте мои\nостанки в Хибернию..."
+  },
+  {
+   "id": 111,
+   "en": "Regardless of the outcome of this\nbattle, Bastion, it has been my honor\nto have fought on your behalf.",
+   "ru": "Каким бы ни был исход этой\nбитвы, Бастион, для меня было\nчестью сражаться на вашей\nстороне."
+  },
+  {
+   "id": 112,
+   "en": "You're really nice to me, Bastion!\nI'm going to marry you and be your\nprincess when I grow up!",
+   "ru": "Ты такой добрый ко мне, Бастион!\nКогда я вырасту, я выйду за тебя\nзамуж и стану твоей принцессой!"
+  },
+  {
+   "id": 113,
+   "en": "When we get married, Bastion, I'm\ngoing to make you play with me and\nKyu-Kyu every single day!",
+   "ru": "Когда мы поженимся, Бастион, ты\nбудешь каждый-каждый день\nиграть со мной и Кю-Кю!"
+  },
+  {
+   "id": 114,
+   "en": "Hey! Barlow just ate my sandwich!",
+   "ru": "Эй! Барлоу съел мой бутерброд!"
+  },
+  {
+   "id": 115,
+   "en": "Bastion! Barlow just ate Kyu-Kyu's\nfood! Doesn't he know it's made out\nof earthworms and tree moss?!",
+   "ru": "Бастион! Барлоу съел еду Кю-Кю! Он\nчто, не знает, что она из червяков\nи древесного мха?!"
+  },
+  {
+   "id": 116,
+   "en": "Bastion! Barlow looked at Kyu-Kyu\nand started drooling! Don't let him\neat my little Kyu-Kyu!",
+   "ru": "Бастион! Барлоу посмотрел на\nКю-Кю и пустил слюни! Не дай ему\nсъесть моего маленького Кю-Кю!"
+  },
+  {
+   "id": 117,
+   "en": "Bastion, you've been talking to Milea\na lot more than me lately! That's not\nvery nice, is it, Kyu-Kyu?",
+   "ru": "Бастион, ты в последнее время\nболтаешь с Милеей больше, чем со\nмной! Это некрасиво, правда,\nКю-Кю?"
+  },
+  {
+   "id": 118,
+   "en": "Bastion, I miss my daddy sometimes.\nDo you miss your daddy, too?",
+   "ru": "Бастион, я иногда скучаю по папе.\nА ты скучаешь по своему папе?"
+  },
+  {
+   "id": 119,
+   "en": "Bastion, I keep hearing that you're\ngoing to marry Milea! Doesn't she\nknow you're going to marry ME?",
+   "ru": "Бастион, я всё время слышу, что ты\nженишься на Милее! Она что, не\nзнает, что ты женишься на МНЕ?"
+  },
+  {
+   "id": 120,
+   "en": "Bastion! If you're not going to marry\nme, you're going to be my new daddy\ninstead!",
+   "ru": "Бастион! Если не женишься на мне,\nто будешь моим новым папой!"
+  },
+  {
+   "id": 121,
+   "en": "Bastion, when the fighting is over,\nwe have to go and play!",
+   "ru": "Бастион, когда битвы закончатся,\nмы обязательно пойдём играть!"
+  },
+  {
+   "id": 122,
+   "en": "Sometimes, Bastion, not even I know\nhow I manage to look so damn good\nall the time. Genetics, I guess.",
+   "ru": "Иногда, Бастион, даже я не\nпонимаю, как мне удаётся всегда\nвыглядеть так чертовски хорошо.\nГены, наверное."
+  },
+  {
+   "id": 123,
+   "en": "Bastion, if you only believe one thing\nI ever say, let it be these three words:\nchicks dig sideburns.",
+   "ru": "Бастион, если поверишь мне хоть\nраз, то пусть это будут три слова:\nдевчонки любят бакенбарды."
+  },
+  {
+   "id": 124,
+   "en": "Bastion, my friend, the only thing a\nwoman likes more than a good kiss\nis a good spanking. Trust me.",
+   "ru": "Бастион, друг мой, женщины\nлюбят хороший поцелуй, но\nхороший шлепок любят ещё больше.\nПоверь мне."
+  },
+  {
+   "id": 125,
+   "en": "I'm sorry, Bastion, but the secrets of\ncoolness cannot be taught...they must\nbe learned.",
+   "ru": "Прости, Бастион, но секретам\nкрутости не научить... до них надо\nдойти самому."
+  },
+  {
+   "id": 126,
+   "en": "Bastion, why is a beer better than a\nwoman? Because a beer doesn't mind\nif you have another beer.",
+   "ru": "Бастион, чем пиво лучше\nженщины? Пиво не против, если ты\nвозьмёшь ещё одно пиво."
+  },
+  {
+   "id": 127,
+   "en": "I will never die in combat, Bastion.\nI don't want to bring that much grief\nto the women of the Continent...",
+   "ru": "Я никогда не погибну в бою,\nБастион. Не хочу причинить\nстолько горя женщинам\nКонтинента..."
+  },
+  {
+   "id": 128,
+   "en": "I'm a sinful man, Bastion. Don't live\nyour life the way I live mine. Besides,\nI don't want the competition...",
+   "ru": "Я грешник, Бастион. Не живи так,\nкак живу я. Да и конкуренты мне\nни к чему..."
+  },
+  {
+   "id": 129,
+   "en": "Hey, Bastion, I know you're not a\ndoctor or anything...but does this\nlook infected to you?",
+   "ru": "Эй, Бастион, я знаю, ты не лекарь\nи всё такое... но тебе не кажется,\nчто это загноилось?"
+  },
+  {
+   "id": 130,
+   "en": "Just between you and me, Bastion, I\nnever had this much fun fighting for\nMarquis Dionne...",
+   "ru": "Между нами, Бастион: у маркиза\nДионна мне никогда не было так\nвесело воевать..."
+  },
+  {
+   "id": 131,
+   "en": "The Vedocorban has always been my\nATAC of choice, Bastion. Swift, sleek,\nand sexy...just like me.",
+   "ru": "Ведокорбан всегда был моим\nлюбимым АТАКом, Бастион.\nБыстрый, гладкий и сексуальный...\nпрямо как я."
+  },
+  {
+   "id": 132,
+   "en": "You really want to know why I\nbecame a ninja? I thought I'd get\nto wear that cool black costume.",
+   "ru": "Правда хочешь знать, почему я\nстал ниндзя? Думал, мне дадут\nносить этот крутой чёрный\nкостюм."
+  },
+  {
+   "id": 133,
+   "en": "Bastion, I'll be honest. Even with my\ninvaluable help, I'm stunned that we\nmade it this far. Uh...good luck!",
+   "ru": "Бастион, скажу честно. Даже с моей\nбесценной помощью я поражён, что\nмы зашли так далеко. Э-э... удачи!"
+  },
+  {
+   "id": 134,
+   "en": "This is it, Bastion. Focus your heart\nand your soul on Faulkner...then kill\nhim and save the world! Easy, eh?",
+   "ru": "Вот и всё, Бастион. Сосредоточь\nсердце и душу на Фолкнере... а\nпотом убей его и спаси мир! Проще\nпростого, а?"
+  },
+  {
+   "id": 135,
+   "en": "Milea got lucky, Bastion...and if you\nplay your cards right, so will you.",
+   "ru": "Милее повезло, Бастион... а если\nправильно разыграешь карты,\nповезёт и тебе."
+  },
+  {
+   "id": 136,
+   "en": "Bastion, buddy, I don't think having\nSadira around is worth the trouble.\nAnd besides, she...scares me!",
+   "ru": "Бастион, дружище, по-моему,\nСадира не стоит таких хлопот. И к\nтому же она... меня пугает!"
+  },
+  {
+   "id": 137,
+   "en": "That Sharking ATAC really shook me\nup, buddy. Can you imagine trying to\ndefeat an army of those things?",
+   "ru": "Этот АТАК Шаркинг меня здорово\nвстряхнул, дружище.\nПредставляешь, каково сражаться с\nцелой армией таких?"
+  },
+  {
+   "id": 138,
+   "en": "Bastion, I just realized how long it's\nbeen since I enjoyed the company of a\nwoman! I may have to kill myself!",
+   "ru": "Бастион, я только что понял, как\nдавно не был в женском обществе!\nХоть руки на себя накладывай!"
+  },
+  {
+   "id": 139,
+   "en": "Hey!! Who went into my bag and stole\nmy massage oils?! I'll have you know\nthose are VERY expensive!",
+   "ru": "Эй!! Кто залез в мою сумку и\nстащил массажные масла?! Чтоб вы\nзнали, они ОЧЕНЬ дорогие!"
+  },
+  {
+   "id": 140,
+   "en": "No, buddy, I'm not jealous that the\ngirls are giving you all the attention.\nI am, however, VERY depressed...",
+   "ru": "Нет, дружище, я не завидую, что\nвсё внимание девушек достаётся\nтебе. Но я ОЧЕНЬ подавлен..."
+  },
+  {
+   "id": 141,
+   "en": "The only action I've been seeing lately\nis on the battlefield. Do you think my\nsideburns have gone out of style?",
+   "ru": "Последнее время у меня все\n«подвиги» только на поле боя.\nДумаешь, бакенбарды вышли из\nмоды?"
+  },
+  {
+   "id": 142,
+   "en": "Buddy, it's been an honor and a\nprivilege to fight beside you. I love\nyou in an entirely platonic way.",
+   "ru": "Дружище, для меня было честью\nсражаться рядом с тобой. Я люблю\nтебя чисто платонически."
+  },
+  {
+   "id": 143,
+   "en": "I still cannot believe Your Highness\nhas been alive all these years, in the\ncare of my honorable brother...",
+   "ru": "Не могу поверить, что Ваше\nВысочество все эти годы был жив,\nпод опекой моего благородного\nбрата..."
+  },
+  {
+   "id": 144,
+   "en": "When I look at Your Highness, I can't\nhelp but remember events which took\nplace long ago...",
+   "ru": "Когда я смотрю на Ваше\nВысочество, не могу не вспоминать\nсобытия давно минувших дней..."
+  },
+  {
+   "id": 145,
+   "en": "Your Highness, I don't mean to ask\nabout personal matters...but do you\nintend to marry Miss Milea?",
+   "ru": "Ваше Высочество, не хочу лезть в\nличное... но вы собираетесь\nжениться на мисс Милее?"
+  },
+  {
+   "id": 146,
+   "en": "Your Highness, I would suggest you\navoid eating Reyna's meatloaf. It has\nan adverse effect on one's colon...",
+   "ru": "Ваше Высочество, советую не есть\nмясной рулет Рейны. Он плохо\nсказывается на кишечнике..."
+  },
+  {
+   "id": 147,
+   "en": "His Majesty the King was a fine man.\nIt is unfortunate that you were never\nable to meet him, Your Highness.",
+   "ru": "Его Величество король был\nпрекрасным человеком. Жаль, что\nвы так и не смогли с ним\nвстретиться, Ваше Высочество."
+  },
+  {
+   "id": 148,
+   "en": "Milea will be found, Your Highness,\nand she will be safe. Do not worry.",
+   "ru": "Милею найдут, Ваше Высочество, и\nона будет в безопасности. Не\nволнуйтесь."
+  },
+  {
+   "id": 149,
+   "en": "His Majesty the King was a legendary\nruler. I expect Your Highness will be\na legend in his own right.",
+   "ru": "Его Величество король был\nлегендарным правителем. Полагаю,\nВаше Высочество тоже станет\nлегендой."
+  },
+  {
+   "id": 150,
+   "en": "Thomson was a great man, Your\nHighness. His soul will guide us as\nwe destroy the Empire...",
+   "ru": "Томсон был великим человеком,\nВаше Высочество. Его дух поведёт\nнас, когда мы будем сокрушать\nИмперию..."
+  },
+  {
+   "id": 151,
+   "en": "Your Highness, the day approaches\nwhen the Kingdom will be restored,\nand you will rule over a nation!",
+   "ru": "Ваше Высочество, близится день,\nкогда Королевство возродится и вы\nбудете править страной!"
+  },
+  {
+   "id": 152,
+   "en": "Your Highness, I have often dreamed\nof this day...the day when the capital\nwould be ours again!",
+   "ru": "Ваше Высочество, я часто мечтал\nоб этом дне... о дне, когда столица\nснова станет нашей!"
+  },
+  {
+   "id": 153,
+   "en": "There's nothing better than conflict\nto get one's heart racing, Bastion!",
+   "ru": "Ничто так не разгоняет кровь, как\nсхватка, Бастион!"
+  },
+  {
+   "id": 154,
+   "en": "There's not a better warrior than me\non the Continent, Bastion. I was born\nto win!",
+   "ru": "На Континенте нет воина лучше\nменя, Бастион. Я рождён\nпобеждать!"
+  },
+  {
+   "id": 155,
+   "en": "Ugh! How in the world did Reyna's\ncooking get mixed with Milea's? It's\nterrible!",
+   "ru": "Фу! Как стряпня Рейны умудрилась\nсмешаться со стряпнёй Милеи? Это\nужасно!"
+  },
+  {
+   "id": 156,
+   "en": "Say, Bastion. Perhaps you should\nconsider spending some time with\nMilea. I think she fancies you.",
+   "ru": "Слушай, Бастион. Может, тебе стоит\nпобольше времени проводить с\nМилеей? По-моему, ты ей\nнравишься."
+  },
+  {
+   "id": 157,
+   "en": "Be careful in that temple, Bastion...\nalthough it can't be more dangerous\nthan Reyna's cooking!",
+   "ru": "Осторожнее в том храме, Бастион...\nхотя вряд ли он опаснее стряпни\nРейны!"
+  },
+  {
+   "id": 158,
+   "en": "My OWN soldiers warring against me,\nBastion! I still can't believe it...",
+   "ru": "Мои СОБСТВЕННЫЕ солдаты воюют\nпротив меня, Бастион! До сих пор\nне могу поверить..."
+  },
+  {
+   "id": 159,
+   "en": "I'm in a great mood today, Bastion!\nI think we're on the brink of rolling\nback the Imperial forces!",
+   "ru": "У меня сегодня отличное\nнастроение, Бастион! По-моему, мы\nвот-вот отбросим имперские\nвойска!"
+  },
+  {
+   "id": 160,
+   "en": "...   ...   ...\nNice try, Bastion, but I never lose a\nstaring contest.",
+   "ru": "... ... ... Неплохая попытка, Бастион,\nно в гляделки я не проигрываю."
+  },
+  {
+   "id": 161,
+   "en": "I really do find that reflecting on\nthe events of the day while watching\nthe sun set calms my nerves.",
+   "ru": "Знаешь, вспоминать события дня,\nглядя на закат, — лучшее средство\nдля нервов."
+  },
+  {
+   "id": 162,
+   "en": "Bastion, I must admit. If you need\na laugh, talk to Andrew! There isn't\na naughty joke he doesn't know!",
+   "ru": "Бастион, признаюсь: хочешь\nпосмеяться — поговори с Эндрю!\nНет такой пошлой шутки, которой\nон не знает!"
+  },
+  {
+   "id": 163,
+   "en": "I sometimes wish I could reclaim the\nyouth I've lost, Bastion! I guess\nI'll just have to live through you!",
+   "ru": "Иногда мне хочется вернуть\nутраченную молодость, Бастион!\nЧто ж, придётся жить через тебя!"
+  },
+  {
+   "id": 164,
+   "en": "Bastion, if I can get my Dexterity\nand Agility high enough, I just know\nI can do something really special...",
+   "ru": "Бастион, если я подниму Ловкость\nи Проворство повыше, я точно\nсмогу сделать что-то особенное..."
+  },
+  {
+   "id": 165,
+   "en": "Zeira\nHey, Bastion...are you and little Milea\nthinking about marriage? I must\nadmit, it seems like a great idea!",
+   "ru": "Эй, Бастион... вы с малышкой\nМилеей подумываете о свадьбе?\nПризнаюсь, по-моему, отличная\nмысль!"
+  },
+  {
+   "id": 166,
+   "en": "Bastion, I just wanted you to\nknow that I'm proud to march\ninto battle with you.",
+   "ru": "Бастион, хочу, чтобы ты знал: я\nгоржусь, что иду в бой вместе с\nтобой."
+  },
+  {
+   "id": 167,
+   "en": "Faulkner thinks you a boy, Bastion,\nbut he's wrong. You're a man, and\nI expect you to show him that!",
+   "ru": "Фолкнер считает тебя мальчишкой,\nБастион, но он ошибается. Ты\nмужчина, и я жду, что ты ему это\nдокажешь!"
+  },
+  {
+   "id": 168,
+   "en": "I've been nothing if not impressed\nwith your fighting skill, Bastion.\nShow me one more time, Highness!",
+   "ru": "Твоё боевое мастерство меня\nнеизменно впечатляет, Бастион.\nПокажи его ещё разок, Ваше\nВысочество!"
+  },
+  {
+   "id": 169,
+   "en": "Have you ever tasted the Kingdom's\ndried sea slugs, Bastion? They're the\nbest on the Continent! Deee-LISH!",
+   "ru": "Ты пробовал сушёных морских\nслизней из Королевства, Бастион?\nЛучшие на Континенте!\nОбъеде-е-ение!"
+  },
+  {
+   "id": 170,
+   "en": "Bastion, did you know Reyna likes to\nbake cookies?! She is unquestionably\nthe perfect woman!!",
+   "ru": "Бастион, ты знал, что Рейна\nлюбит печь печенье?! Она, без\nсомнения, идеальная женщина!!"
+  },
+  {
+   "id": 171,
+   "en": "Sorry, Bastion, but I don't share my\ncandy...the sugar content is too high.\nYou'd be on a permanent buzz!",
+   "ru": "Извини, Бастион, но конфетами я\nне делюсь... в них слишком много\nсахара. Ты бы вечно был на взводе!"
+  },
+  {
+   "id": 172,
+   "en": "I don't just love food, Bastion...I LOVE\nfood! I only wish I had two stomachs\nso I could eat twice as much!",
+   "ru": "Я не просто люблю еду, Бастион... я\nОБОЖАЮ еду! Жаль, у меня нет двух\nжелудков, ел бы вдвое больше!"
+  },
+  {
+   "id": 173,
+   "en": "I hear the local delicacy in Dionne-\nLehve is sauteed sea slugs. They cook\n'em in their own slime!",
+   "ru": "Говорят, местный деликатес в\nДионн-Леве — жареные морские\nслизни. Их готовят в собственной\nслизи!"
+  },
+  {
+   "id": 174,
+   "en": "Bastion, I accidentally dropped my\nchocolate in Reyna's peanut butter...\nand it tasted delicious!",
+   "ru": "Бастион, я случайно уронил\nшоколадку в арахисовое масло\nРейны... и вышло очень вкусно!"
+  },
+  {
+   "id": 175,
+   "en": "Don't tell Nana, but I think her little\npet Kyu-Kyu looks yummy. I wonder\nif it tastes like chicken?",
+   "ru": "Только Нане не говори, но её зверёк\nКю-Кю выглядит аппетитно.\nИнтересно, на вкус как курица?"
+  },
+  {
+   "id": 176,
+   "en": "Hey, Bastion, I bet they hid snacks in\nthat temple along with Ultragunner!\nBring me a few, okay?",
+   "ru": "Эй, Бастион, спорим, в том храме\nвместе с Ультраганнером спрятали\nвкусняшки! Принеси мне парочку,\nладно?"
+  },
+  {
+   "id": 177,
+   "en": "Andrew told me about something\nthat feels like warm apple pie, and\nyou wouldn't BELIEVE what it is!",
+   "ru": "Эндрю рассказал мне про одну\nштуку, которая на ощупь как\nтёплый яблочный пирог, и ты НЕ\nПОВЕРИШЬ, что это!"
+  },
+  {
+   "id": 178,
+   "en": "[BURRRP!] I tell you, Bastion, Reyna's\nburritos taste almost as good coming\nup as they do going down!",
+   "ru": "(ОТРЫЖКА!) Скажу тебе, Бастион,\nбуррито Рейны на выходе почти\nтак же хороши, как на входе!"
+  },
+  {
+   "id": 179,
+   "en": "Bastion, we've run out of snack food!\nI need my daily fix of chocolate, man!\nI NEED IT!!",
+   "ru": "Бастион, у нас кончились закуски!\nМне нужна ежедневная доза\nшоколада, приятель! Очень НУЖНА!!"
+  },
+  {
+   "id": 180,
+   "en": "Reyna promised to make us all some\nbrownies after we take Norze Castle!\nSo let's make it quick, okay?!",
+   "ru": "Рейна обещала испечь всем\nпирожные, когда мы возьмём\nзамок Норзе! Так что давайте\nпобыстрее, ладно?!"
+  },
+  {
+   "id": 181,
+   "en": "Reyna just told me about a job I'd be\ngreat at! After the war, I'm going to\nbe a full-time fudge-packer!",
+   "ru": "Рейна рассказала мне про работу,\nкоторая мне подойдёт! После войны\nпойду упаковщиком помадки!"
+  },
+  {
+   "id": 182,
+   "en": "Hey, Bastion! You need to try this cup\nof Hibernian lemon-freeze! It's made\nfrom only the finest yellow snow!",
+   "ru": "Эй, Бастион! Попробуй\nхибернийский лимонный лёд!\nДелается только из лучшего\nжёлтого снега!"
+  },
+  {
+   "id": 183,
+   "en": "Bastion, how much longer do we have\nto keep fighting?! I thought Faulkner\nwould give up by now!",
+   "ru": "Бастион, долго нам ещё воевать?! Я\nдумал, Фолкнер уже сдастся!"
+  },
+  {
+   "id": 184,
+   "en": "Andrew told me I could lose weight\nif I eat less and exercise. I told him\nto take a flying leap.",
+   "ru": "Эндрю сказал, что я похудею, если\nбуду меньше есть и больше\nдвигаться. Я его послал куда\nподальше."
+  },
+  {
+   "id": 185,
+   "en": "Once you take over the Empire, can I\nbe allowed to digest...uh, dispose of\nthe Imperial Army's rations?",
+   "ru": "Когда ты захватишь Империю,\nможно мне переварить... то есть\nутилизировать пайки имперской\nармии?"
+  },
+  {
+   "id": 186,
+   "en": "Reyna said that if I do a good job\nfighting the Imperials today, she'll\nlet me dive into her muffins!",
+   "ru": "Рейна сказала, что если я сегодня\nхорошо побью имперцев, она даст\nмне нырнуть в её булочки!"
+  },
+  {
+   "id": 187,
+   "en": "I'm glad we're almost done fighting,\nBastion, because it makes me sweat\ntoo much! I'm wasting away!",
+   "ru": "Хорошо, что мы почти закончили\nвоевать, Бастион, а то я так потею!\nЯ совсем истаю!"
+  },
+  {
+   "id": 188,
+   "en": "When we've found Milea, could we\nembark on a search for rare snack\nfoods? I think it's a noble cause!",
+   "ru": "Когда найдём Милею, может,\nотправимся на поиски редких\nвкусняшек? По-моему, это\nблагородная цель!"
+  },
+  {
+   "id": 189,
+   "en": "Bastion, you look like you need a\nsugar buzz. Why don't you suck on\nmy lollipop for a while?",
+   "ru": "Бастион, тебе явно не хватает\nсладкого. Хочешь полизать мой\nледенец?"
+  },
+  {
+   "id": 190,
+   "en": "I can't wait until we're sitting on\nthat lakeshore and pan-frying all\nthe fish we've caught!",
+   "ru": "Скорей бы уже сидеть на берегу\nозера и жарить всю пойманную\nрыбу!"
+  },
+  {
+   "id": 191,
+   "en": "Does this mean we don't get to do any\nfishing? I'm really hungry!",
+   "ru": "Это значит, рыбалки не будет? Я\nужасно голодный!"
+  },
+  {
+   "id": 192,
+   "en": "Are you sure I can't give Sadira any\nchocolate, Bastion? She looks like she\nneeds to gain a few pounds.",
+   "ru": "Точно нельзя дать Садире\nшоколадку, Бастион? По-моему, ей\nнадо бы немного поправиться."
+  },
+  {
+   "id": 193,
+   "en": "I don't want to be inside the Empire\nany more, Bastion! I'm starting to get\nreally scared!",
+   "ru": "Не хочу больше быть в Империи,\nБастион! Мне становится\nпо-настоящему страшно!"
+  },
+  {
+   "id": 194,
+   "en": "We're finally going back into the\nKingdom! That makes me happy...\nand very hungry!",
+   "ru": "Наконец-то мы возвращаемся в\nКоролевство! Я так рад... и так\nголоден!"
+  },
+  {
+   "id": 195,
+   "en": "Bastion, have you ever tried Cajun-\nstyle food? All you have to do is set\nit on fire, stomp it out, and eat it!",
+   "ru": "Бастион, ты пробовал еду\nпо-каджунски? Надо просто\nподжечь её, затоптать и съесть!"
+  },
+  {
+   "id": 196,
+   "en": "Am I the only one who's noticed that\nour rations are dangerously low?!",
+   "ru": "Только я один заметил, что пайков\nопасно мало?!"
+  },
+  {
+   "id": 197,
+   "en": "Do you think that Sadira will allow\nus to sample some Imperial cuisine\nwhen we reach the capital?",
+   "ru": "Думаешь, Садира даст нам\nпопробовать имперскую кухню,\nкогда доберёмся до столицы?"
+  },
+  {
+   "id": 198,
+   "en": "Sadira told me the shores of the\nEmpire are teeming with jumbo\nshrimp! I must be dreaming!",
+   "ru": "Садира сказала, что у берегов\nИмперии кишат гигантские\nкреветки! Это сон, не иначе!"
+  },
+  {
+   "id": 199,
+   "en": "You look fairly strong, Bastion! One\nof these days, we'll arm-wrestle and\nsee which of us is stronger!",
+   "ru": "А ты на вид довольно сильный,\nБастион! Как-нибудь поборемся на\nруках и выясним, кто сильнее!"
+  },
+  {
+   "id": 200,
+   "en": "You think too much, Bastion. Feel,\ndon't think! Use your instincts! Go\nwith your gut, not your brain!",
+   "ru": "Ты слишком много думаешь,\nБастион. Чувствуй, а не думай!\nДоверься инстинктам! Слушай\nнутро, а не мозг!"
+  },
+  {
+   "id": 201,
+   "en": "Bastion, have you read this book? It's\nall about relationships...it taught me\nthat I have a feminine side!",
+   "ru": "Бастион, ты читал эту книгу? Она\nпро отношения... благодаря ей я\nпонял, что у меня есть женская\nсторона!"
+  },
+  {
+   "id": 202,
+   "en": "Let me ask you a serious question,\nBastion. Do you think I'm so good-\nlooking that I intimidate women?",
+   "ru": "Ответь честно, Бастион. Как\nдумаешь, я так хорош собой, что\nженщины меня робеют?"
+  },
+  {
+   "id": 203,
+   "en": "Bastion, I can't believe you haven't\nmade the moves on Reyna yet! She\nWANTS you, my friend! Seriously!",
+   "ru": "Бастион, не верю, что ты ещё не\nподкатил к Рейне! Она ХОЧЕТ тебя,\nдружище! Серьёзно!"
+  },
+  {
+   "id": 204,
+   "en": "It burns, Bastion! Oh, it BURNS!!\nReyna's meatloaf is eating a hole\nthrough my stomach!",
+   "ru": "Жжёт, Бастион! О-о, как ЖЖЁТ!!\nМясной рулет Рейны прожигает мне\nдыру в желудке!"
+  },
+  {
+   "id": 205,
+   "en": "Did you hear Duke Zeira speaking of\nhis difficult childhood, Bastion?! I...I\nwas moved by his courage!",
+   "ru": "Ты слышал, как герцог Зейра\nрассказывал о своём тяжёлом\nдетстве, Бастион?! Я... я тронут его\nмужеством!"
+  },
+  {
+   "id": 206,
+   "en": "Oh, Bastion, I shouldn't have gulped\ndown that ice water so quickly! I'm\nsuffering from brain-freeze!",
+   "ru": "Ох, Бастион, зря я так быстро\nвыпил ледяную воду! У меня мозг\nзамёрз!"
+  },
+  {
+   "id": 207,
+   "en": "Nana refused to let me give her a\npiggy-back ride! Why must she be\nso cruel?!",
+   "ru": "Нана не дала покатать её на спине!\nНу почему она так жестока?!"
+  },
+  {
+   "id": 208,
+   "en": "I asked Reyna if she would date me...\nand she laughed so hard that milk\ncame out of her nose!",
+   "ru": "Я позвал Рейну на свидание... а она\nтак хохотала, что у неё молоко из\nноса пошло!"
+  },
+  {
+   "id": 209,
+   "en": "Did you hear Andrew speaking of all\nthe girls he's loved before?! I'd gladly\nlove half that many!",
+   "ru": "Ты слышал, как Эндрю\nрассказывал обо всех девушках,\nкоторых любил?! Мне бы хоть\nполовину!"
+  },
+  {
+   "id": 210,
+   "en": "Did you hear Barlow's story about the\ndeath of his childhood pet, Snacky?!\nIt was heartbreaking!",
+   "ru": "Ты слышал историю Барлоу о\nсмерти его детского питомца\nХрумки?! Это разбивает сердце!"
+  },
+  {
+   "id": 211,
+   "en": "I draw upon the strength of my soul\nwhen I fight, Bastion...and the souls\nof the victims of this war!",
+   "ru": "В бою я черпаю силу из своей\nдуши, Бастион... и из душ жертв\nэтой войны!"
+  },
+  {
+   "id": 212,
+   "en": "I fight with vengeance in my heart\nand anger in my soul!",
+   "ru": "Я сражаюсь с жаждой мести в\nсердце и гневом в душе!"
+  },
+  {
+   "id": 213,
+   "en": "Live your life like the shining sun,\nBastion. Burn bright and hot for all\nthe world to see!",
+   "ru": "Живи, как сияющее солнце,\nБастион. Гори ярко и жарко, чтобы\nвидел весь мир!"
+  },
+  {
+   "id": 214,
+   "en": "I'm glad that Logan didn't hear me\nspeaking boastfully about him, or\nhe would have torn me apart!",
+   "ru": "Хорошо, что Логан не слышал, как\nя им хвастался, а то бы он меня\nразорвал!"
+  },
+  {
+   "id": 215,
+   "en": "The time is here and now, Bastion!\nTime to bathe Faulkner in the bright\nflames of your burning heart!",
+   "ru": "Время пришло, Бастион! Пора\nомыть Фолкнера ярким пламенем\nтвоего пылающего сердца!"
+  },
+  {
+   "id": 216,
+   "en": "Do you think it's too early to start\nplanning our victory party, Bastion?\nI'll be in charge of the beer!",
+   "ru": "Как думаешь, не рано планировать\nпирушку в честь победы, Бастион?\nПиво беру на себя!"
+  },
+  {
+   "id": 217,
+   "en": "Life is a wonderful gift, Bastion, so\ndon't waste a single moment of it on\nstress or worry!",
+   "ru": "Жизнь — чудесный дар, Бастион,\nтак что не трать ни минуты на\nстресс и тревоги!"
+  },
+  {
+   "id": 218,
+   "en": "This might sound strange, Bastion,\nbut you remind me of my brothers\nback at home...young and naive!",
+   "ru": "Прозвучит странно, Бастион, но ты\nнапоминаешь мне моих братьев\nдома... такой же юный и наивный!"
+  },
+  {
+   "id": 219,
+   "en": "I baked Ione some cookies, but I must\nhave used the wrong ingredients. Why\nelse would she projectile-vomit?",
+   "ru": "Я испекла Ионе печенье, но,\nнаверное, перепутала ингредиенты.\nИначе с чего бы её так фонтаном\nстошнило?"
+  },
+  {
+   "id": 220,
+   "en": "So, tell me, Bastion...you and Milea\nhave a brother-sister relationship,\nright? So you're single, right?",
+   "ru": "Скажи-ка, Бастион... у вас с Милеей\nотношения как у брата с сестрой,\nда? Значит, ты свободен, да?"
+  },
+  {
+   "id": 221,
+   "en": "Bastion, why haven't you tried any of\nmy cooking yet? Just because Ione got\nsick doesn't mean YOU will!",
+   "ru": "Бастион, почему ты ещё не\nпробовал мою стряпню? Если Ионе\nстало плохо, это не значит, что и\nТЕБЕ станет!"
+  },
+  {
+   "id": 222,
+   "en": "Hey, Bastion! I got myself a bottle of\nthe best liquor in Dionne-Lehve! How\nabout you and I share it?",
+   "ru": "Эй, Бастион! Я раздобыла бутылку\nлучшего ликёра Дионн-Леве!\nРазопьём на двоих?"
+  },
+  {
+   "id": 223,
+   "en": "I'm not surprised that Duke Radcot is\nso evil. Living in a desert like Muspel\nwould make me crazy, too.",
+   "ru": "Неудивительно, что герцог Радкот\nтакой злодей. Поживи в пустыне\nвроде Муспеля — и я бы свихнулась."
+  },
+  {
+   "id": 224,
+   "en": "I had so much fun on my tour of the\nContinent. I was a very wild woman\nin those days, Bastion...",
+   "ru": "Как же весело было путешествовать\nпо Континенту. В те дни я была\nочень дикой женщиной, Бастион..."
+  },
+  {
+   "id": 225,
+   "en": "Look, Bastion! A bottle of vintage\nAvalonian wine! Don't make me force\nyou to have a few glasses with me!",
+   "ru": "Смотри, Бастион! Бутылка\nвыдержанного авалонского вина!\nНе заставляй меня силой поить\nтебя!"
+  },
+  {
+   "id": 226,
+   "en": "Bastion, you were just staring at me,\nweren't you? Oh, no, I'm not offended\nat all...merely surprised!",
+   "ru": "Бастион, ты ведь сейчас на меня\nпялился? О нет, я ничуть не\nобиделась... просто удивилась!"
+  },
+  {
+   "id": 227,
+   "en": "I hope my little brothers are doing\nalright, Bastion. I hope they miss me\nas much as I miss them...",
+   "ru": "Надеюсь, у моих младших братьев\nвсё хорошо, Бастион. Надеюсь, они\nскучают по мне так же, как я по\nним..."
+  },
+  {
+   "id": 228,
+   "en": "You need to turn that frown upside-\ndown, Bastion! You're going to give\nyourself wrinkles!",
+   "ru": "Хватит хмуриться, Бастион!\nУлыбнись! А то морщины появятся!"
+  },
+  {
+   "id": 229,
+   "en": "Have I ever told you what beautiful\neyes you have, Bastion? I get lost in\nthem sometimes...",
+   "ru": "Я говорила тебе, какие у тебя\nкрасивые глаза, Бастион? Иногда я\nв них теряюсь..."
+  },
+  {
+   "id": 230,
+   "en": "You and Milea were getting pretty\ncozy back there at Alden's castle...\nI want all the lurid details!",
+   "ru": "Вы с Милеей так мило ворковали в\nзамке Олдена... Хочу знать все\nпикантные подробности!"
+  },
+  {
+   "id": 231,
+   "en": "I was hoping to try some Nordilain\npale ale, but I doubt I'll be tasting it\nanytime soon...",
+   "ru": "Хотела попробовать светлый эль\nиз Нордилейна, но, боюсь, не скоро\nмне это удастся..."
+  },
+  {
+   "id": 232,
+   "en": "I always like to do the unexpected,\nBastion. It keeps people guessing...\nand keeps them talking about me!",
+   "ru": "Я люблю делать неожиданное,\nБастион. Люди теряются в\nдогадках... и не перестают обо мне\nговорить!"
+  },
+  {
+   "id": 233,
+   "en": "Bastion, if you and Milea get any\ncloser, I will declare you officially\nwhipped! Heh, heh, heh!",
+   "ru": "Бастион, если вы с Милеей станете\nещё ближе, официально объявлю\nтебя подкаблучником! Хе-хе-хе!"
+  },
+  {
+   "id": 234,
+   "en": "Get a grip on your emotions, Bastion!\nIf you fail, the world will be forever\ncloaked in darkness!",
+   "ru": "Возьми себя в руки, Бастион! Если\nне справишься, мир навеки окутает\nтьма!"
+  },
+  {
+   "id": 235,
+   "en": "Bastion, I have a question. How do I\nphrase this delicately...have you and\nMilea bumped uglies yet?",
+   "ru": "Бастион, у меня вопрос. Как бы это\nделикатно... вы с Милеей уже, ну...\nтого?"
+  },
+  {
+   "id": 236,
+   "en": "Take that look of depression off of\nyour face, Bastion! We'll find Milea\nsoon, I'm sure of it!",
+   "ru": "Сотри с лица это уныние, Бастион!\nМы скоро найдём Милею, я уверена!"
+  },
+  {
+   "id": 237,
+   "en": "Bastion, I'm still very curious as to\nhow Puck obtained a stone from an\nexcavated ATAC. Aren't you?",
+   "ru": "Бастион, мне всё ещё очень\nлюбопытно, откуда у Пака камень\nиз раскопанного АТАКа. А тебе?"
+  },
+  {
+   "id": 238,
+   "en": "Bastion, I'm starting to realize that\nlistening to Andrew was the single\nstupidest thing I've ever done...",
+   "ru": "Бастион, я начинаю понимать, что\nслушать Эндрю было самой глупой\nошибкой в моей жизни..."
+  },
+  {
+   "id": 239,
+   "en": "You see, Bastion? Not only is Milea in\nfine health, but her tumble off the\ncliff has turned her into a genius!",
+   "ru": "Видишь, Бастион? Милея не только\nцела, но после падения со скалы\nстала гением!"
+  },
+  {
+   "id": 240,
+   "en": "Just between you and me, Bastion,\nthe Princess is really starting to get\non my nerves...",
+   "ru": "Между нами, Бастион, принцесса\nначинает действовать мне на\nнервы..."
+  },
+  {
+   "id": 241,
+   "en": "I've been having strange dreams,\nBastion. Dreams of darkness and\nof tremendous sorrow...",
+   "ru": "Мне снятся странные сны, Бастион.\nСны о тьме и о безмерной скорби..."
+  },
+  {
+   "id": 242,
+   "en": "I can see that you are also burdened\nwith sorrow, Bastion. I wish I could\ntake away the pain you feel...",
+   "ru": "Вижу, тебя тоже гнетёт печаль,\nБастион. Хотела бы я забрать твою\nболь..."
+  },
+  {
+   "id": 243,
+   "en": "It might already be too late, Bastion...\nbut you need to start showing Sadira\nthat YOU'RE in charge, not her!",
+   "ru": "Может, уже слишком поздно,\nБастион... но пора показать Садире,\nчто главный здесь ТЫ, а не она!"
+  },
+  {
+   "id": 244,
+   "en": "Just when I thought we'd pulled it\noff, we run into Duke Logan. Are we\ncursed with bad luck?",
+   "ru": "Только я подумала, что нам всё\nудалось, как мы наткнулись на\nгерцога Логана. Над нами что,\nпроклятие?"
+  },
+  {
+   "id": 245,
+   "en": "Our association with Sadira has not\nexactly been a beneficial one, Bastion.\nIn fact, it's been an utter disaster.",
+   "ru": "Союз с Садирой не принёс нам\nособой пользы, Бастион. Скорее, это\nполная катастрофа."
+  },
+  {
+   "id": 246,
+   "en": "I can't believe we made it this far,\nBastion! Perhaps we should become\nas egotistical as Sadira!",
+   "ru": "Не верится, что мы зашли так\nдалеко, Бастион! Может, нам стоит\nстать такими же\nсамовлюблёнными, как Садира!"
+  },
+  {
+   "id": 247,
+   "en": "I think my friend Reyna has a bit of\na crush on you, Bastion. How do you\nfeel about her?",
+   "ru": "По-моему, моя подруга Рейна в\nтебя немножко влюблена, Бастион.\nА ты что к ней чувствуешь?"
+  },
+  {
+   "id": 248,
+   "en": "Your father is a great man, Bastion.\nYou are fortunate to have the benefit\nof his knowledge and guidance.",
+   "ru": "Твой отец — великий человек,\nБастион. Тебе повезло, что у тебя\nесть его знания и наставления."
+  },
+  {
+   "id": 249,
+   "en": "Bastion, if Reyna offers to bake you\ncookies, I suggest you decline. Your\ndigestive system will thank you...",
+   "ru": "Бастион, если Рейна предложит\nиспечь тебе печенье, советую\nотказаться. Твой желудок скажет\nспасибо..."
+  },
+  {
+   "id": 250,
+   "en": "Reyna is so energetic...it's really hard\nto keep up with her sometimes.",
+   "ru": "Рейна такая энергичная... за ней\nиногда так трудно угнаться."
+  },
+  {
+   "id": 251,
+   "en": "To learn the Strong Slash, you must\nstrengthen your BAS, POW, and DEX.\nIt will come to you in time.",
+   "ru": "Чтобы освоить Сильную рубку,\nразвивай BAS, POW и DEX. Со\nвременем она придёт."
+  },
+  {
+   "id": 252,
+   "en": "Bastion, to learn the Tackle, you need\nto improve your BAS and POW. It is a\nvery valuable attack.",
+   "ru": "Бастион, чтобы освоить Таран,\nнужно поднять BAS и POW. Это\nочень ценная атака."
+  }
+ ]
+}

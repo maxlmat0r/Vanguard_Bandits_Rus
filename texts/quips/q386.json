@@ -1,0 +1,346 @@
+{
+ "file": 386,
+ "kind": "quip",
+ "lines": [
+  {
+   "id": 0,
+   "en": "From the left?",
+   "ru": "Слева?"
+  },
+  {
+   "id": 1,
+   "en": "I see you!",
+   "ru": "Я тебя вижу!"
+  },
+  {
+   "id": 2,
+   "en": "From the right?",
+   "ru": "Справа?"
+  },
+  {
+   "id": 3,
+   "en": "There you are!",
+   "ru": "Вот ты где!"
+  },
+  {
+   "id": 4,
+   "en": "Have I been hit?",
+   "ru": "Меня задели?"
+  },
+  {
+   "id": 5,
+   "en": "That didn't hurt!\nNot even a little!",
+   "ru": "Не больно! Ни\nкапельки!"
+  },
+  {
+   "id": 6,
+   "en": "Kyahh!",
+   "ru": "Кья-а!"
+  },
+  {
+   "id": 7,
+   "en": "Uhhhh!",
+   "ru": "У-у-ух!"
+  },
+  {
+   "id": 8,
+   "en": "That HURT!",
+   "ru": "БОЛЬНО!"
+  },
+  {
+   "id": 9,
+   "en": "OWWWW!",
+   "ru": "А-А-АЙ!"
+  },
+  {
+   "id": 10,
+   "en": "Ahhhh!",
+   "ru": "А-а-ах!"
+  },
+  {
+   "id": 11,
+   "en": "I can still fight!",
+   "ru": "Я ещё могу\nсражаться!"
+  },
+  {
+   "id": 12,
+   "en": "KYAHHH!!",
+   "ru": "КЬЯ-А-А!!"
+  },
+  {
+   "id": 13,
+   "en": "UHHHHH!!",
+   "ru": "У-У-У-УХ!!"
+  },
+  {
+   "id": 14,
+   "en": "NOOOOO!!",
+   "ru": "НЕ-Е-ЕТ!!"
+  },
+  {
+   "id": 15,
+   "en": "I won't lose to you!\nBastion needs me!",
+   "ru": "Я не проиграю! Я\nнужна Бастиону!"
+  },
+  {
+   "id": 16,
+   "en": "I'm sorry, Bastion!\nI tried to win!",
+   "ru": "Прости, Бастион! Я\nстаралась!"
+  },
+  {
+   "id": 17,
+   "en": "YAAAAH!!",
+   "ru": "ЙА-А-А-А!!"
+  },
+  {
+   "id": 18,
+   "en": "Bastion! HELP!!",
+   "ru": "Бастион! ПОМОГИ!!"
+  },
+  {
+   "id": 19,
+   "en": "AAAAAA!!",
+   "ru": "А-А-А-А-А!!"
+  },
+  {
+   "id": 20,
+   "en": "From behind? That\nisn't very fair!",
+   "ru": "Сзади? Это нечестно!"
+  },
+  {
+   "id": 21,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 22,
+   "en": "Did you really think\nthat would work?!",
+   "ru": "Ты правда думал,\nчто сработает?!"
+  },
+  {
+   "id": 23,
+   "en": "Lord Alden taught\nme how to dodge!",
+   "ru": "Лорд Олден научил\nменя уклоняться!"
+  },
+  {
+   "id": 24,
+   "en": "I did it! I dodged\nan attack!",
+   "ru": "Получилось! Я\nувернулась!"
+  },
+  {
+   "id": 25,
+   "en": "That was really easy!",
+   "ru": "Это было легко!"
+  },
+  {
+   "id": 26,
+   "en": "You're really good!",
+   "ru": "Ты очень хорош!"
+  },
+  {
+   "id": 27,
+   "en": "You're making me\nvery mad!",
+   "ru": "Ты меня очень\nзлишь!"
+  },
+  {
+   "id": 28,
+   "en": "Alden would be\nupset with me!",
+   "ru": "Олден бы на меня\nрассердился!"
+  },
+  {
+   "id": 29,
+   "en": "I didn't expect\nyou to do that!",
+   "ru": "Я такого не ожидала!"
+  },
+  {
+   "id": 30,
+   "en": "I'm not beaten yet!",
+   "ru": "Я ещё не побеждена!"
+  },
+  {
+   "id": 31,
+   "en": "Can this ATAC take\nso much abuse?",
+   "ru": "Выдержит ли этот\nАТАК столько?"
+  },
+  {
+   "id": 32,
+   "en": "Bastion! I may\nneed your help!",
+   "ru": "Бастион! Мне нужна\nпомощь!"
+  },
+  {
+   "id": 33,
+   "en": "Kuhhhh!",
+   "ru": "Кху-у-у!"
+  },
+  {
+   "id": 34,
+   "en": "I'm going to beat\nyou down!",
+   "ru": "Я тебя одолею!"
+  },
+  {
+   "id": 35,
+   "en": "It's easy to predict\nyour attacks!",
+   "ru": "Твои атаки легко\nпредугадать!"
+  },
+  {
+   "id": 36,
+   "en": "AHHHH!!",
+   "ru": "А-А-А-А!!"
+  },
+  {
+   "id": 37,
+   "en": "KYAHH!!",
+   "ru": "КЬЯ-А!!"
+  },
+  {
+   "id": 38,
+   "en": "EHHH!",
+   "ru": "Э-Э-Э!"
+  },
+  {
+   "id": 39,
+   "en": "AHHH!",
+   "ru": "А-А-А!"
+  },
+  {
+   "id": 40,
+   "en": "I did it!",
+   "ru": "Получилось!"
+  },
+  {
+   "id": 41,
+   "en": "How is everyone\nelse doing?",
+   "ru": "Как там остальные?"
+  },
+  {
+   "id": 42,
+   "en": "Did you see, Bastion?\nI won!",
+   "ru": "Видел, Бастион? Я\nпобедила!"
+  },
+  {
+   "id": 43,
+   "en": "I'll be glad when\nthe fights are over.",
+   "ru": "Скорей бы\nконец битвам."
+  },
+  {
+   "id": 44,
+   "en": "Hiyaa!",
+   "ru": "Хи-йа!"
+  },
+  {
+   "id": 45,
+   "en": "Yaaah!",
+   "ru": "Йа-а-а!"
+  },
+  {
+   "id": 46,
+   "en": "Here I come!",
+   "ru": "Иду!"
+  },
+  {
+   "id": 47,
+   "en": "There you are!",
+   "ru": "Вот ты где!"
+  },
+  {
+   "id": 48,
+   "en": "Stay calm, Milea!",
+   "ru": "Спокойно, Милея!"
+  },
+  {
+   "id": 49,
+   "en": "Watch what Alden\ntaught me!",
+   "ru": "Смотри, чему научил\nменя Олден!"
+  },
+  {
+   "id": 50,
+   "en": "Yaaaah!!",
+   "ru": "Йа-а-а!!"
+  },
+  {
+   "id": 51,
+   "en": "Get out of my way!",
+   "ru": "С дороги!"
+  },
+  {
+   "id": 52,
+   "en": "Why don't you just\nstop fighting?",
+   "ru": "Может, хватит\nдраться?"
+  },
+  {
+   "id": 53,
+   "en": "I am very, very\nangry!!",
+   "ru": "Я очень-очень злая!!"
+  },
+  {
+   "id": 54,
+   "en": "I won't let you get\nin Bastion's way!",
+   "ru": "Не дам мешать\nБастиону!"
+  },
+  {
+   "id": 55,
+   "en": "Eh?!",
+   "ru": "А?!"
+  },
+  {
+   "id": 56,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 57,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 58,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 59,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 60,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 61,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 62,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 63,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 64,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 65,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 66,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 67,
+   "en": "",
+   "ru": ""
+  }
+ ]
+}

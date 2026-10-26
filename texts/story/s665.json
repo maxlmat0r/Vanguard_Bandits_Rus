@@ -1,0 +1,21 @@
+{
+ "file": 665,
+ "kind": "story",
+ "lines": [
+  {
+   "id": 0,
+   "en": "These soldiers are fools, but I give\nthem credit for having the bravery\nto traverse this far into Hibernia.",
+   "ru": "Эти солдаты глупцы, но храбрые:\nзабрались так далеко в\nХибернию."
+  },
+  {
+   "id": 1,
+   "en": "Melior, please defend the castle while\nwe destroy these intruders.",
+   "ru": "Мелиор, защищай замок, пока мы\nуничтожаем этих захватчиков."
+  },
+  {
+   "id": 2,
+   "en": "Of course, Lord Alden.",
+   "ru": "Конечно, лорд Олден."
+  }
+ ]
+}

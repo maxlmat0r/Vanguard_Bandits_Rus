@@ -1,0 +1,26 @@
+{
+ "file": 628,
+ "kind": "story",
+ "lines": [
+  {
+   "id": 0,
+   "en": "Shall we depart, Franco?",
+   "ru": "Едем, Франко?"
+  },
+  {
+   "id": 1,
+   "en": "Certainly, Princess. I will lead our\nparty, if that is suitable to you.",
+   "ru": "Конечно, принцесса. Если\nпозволите, я поведу отряд."
+  },
+  {
+   "id": 2,
+   "en": "We have arrived. A short journey, no?",
+   "ru": "Прибыли. Недолгий путь,\nправда?"
+  },
+  {
+   "id": 3,
+   "en": "The Merania Temple. The tomb of the\nUltragunner...",
+   "ru": "Храм Мерании. Гробница\nУльтраганнера..."
+  }
+ ]
+}

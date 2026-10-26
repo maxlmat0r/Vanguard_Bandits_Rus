@@ -1,0 +1,346 @@
+{
+ "file": 363,
+ "kind": "quip",
+ "lines": [
+  {
+   "id": 0,
+   "en": "From the left, eh?",
+   "ru": "Слева, значит?"
+  },
+  {
+   "id": 1,
+   "en": "There you are!",
+   "ru": "Вот ты где!"
+  },
+  {
+   "id": 2,
+   "en": "From the right, eh?",
+   "ru": "Справа, значит?"
+  },
+  {
+   "id": 3,
+   "en": "There you are!!",
+   "ru": "Вот ты где!!"
+  },
+  {
+   "id": 4,
+   "en": "That pathetic swipe\nwon't affect me!",
+   "ru": "Этот жалкий взмах\nмне нипочём!"
+  },
+  {
+   "id": 5,
+   "en": "How dare you harm\nmy precious ATAC!",
+   "ru": "Как ты смеешь\nпортить мой АТАК!"
+  },
+  {
+   "id": 6,
+   "en": "What in the names of\nthe gods was THAT?",
+   "ru": "Во имя богов, ЭТО\nчто было?"
+  },
+  {
+   "id": 7,
+   "en": "Don't try to stop me.\nGet out of my way!",
+   "ru": "Не мешай мне. Прочь\nс дороги!"
+  },
+  {
+   "id": 8,
+   "en": "You maggot!!",
+   "ru": "Червяк!!"
+  },
+  {
+   "id": 9,
+   "en": "GRRRRR!!",
+   "ru": "Р-Р-Р-Р!!"
+  },
+  {
+   "id": 10,
+   "en": "You have unleashed\nmy wrath!",
+   "ru": "Ты навлёк на себя\nмой гнев!"
+  },
+  {
+   "id": 11,
+   "en": "Your insolence will\nnot be forgiven!",
+   "ru": "Твоя дерзость не\nбудет прощена!"
+  },
+  {
+   "id": 12,
+   "en": "Yarrgghhh!",
+   "ru": "Йа-а-аргх!"
+  },
+  {
+   "id": 13,
+   "en": "Arrrghhhh!",
+   "ru": "А-а-аргх!"
+  },
+  {
+   "id": 14,
+   "en": "Who ARE you?!",
+   "ru": "Да КТО ты такой?!"
+  },
+  {
+   "id": 15,
+   "en": "Stop it, you fiend!",
+   "ru": "Прекрати, изверг!"
+  },
+  {
+   "id": 16,
+   "en": "I have been crushed!",
+   "ru": "Я разгромлен!"
+  },
+  {
+   "id": 17,
+   "en": "My beautiful ATAC!\nHow could you?!",
+   "ru": "Мой прекрасный\nАТАК! Как ты мог?!"
+  },
+  {
+   "id": 18,
+   "en": "This cannot be! This\nis a terrible mistake!",
+   "ru": "Не может быть! Это\nужасная ошибка!"
+  },
+  {
+   "id": 19,
+   "en": "This is what losing a\nbattle is like?",
+   "ru": "Так вот каково\nпроигрывать?"
+  },
+  {
+   "id": 20,
+   "en": "Cowardly fiend!",
+   "ru": "Трусливый изверг!"
+  },
+  {
+   "id": 21,
+   "en": "Are you afraid of a\nfair fight?!",
+   "ru": "Боишься честного\nбоя?!"
+  },
+  {
+   "id": 22,
+   "en": "You expect to harm\nme with that attack?",
+   "ru": "Думаешь ранить\nменя этим?"
+  },
+  {
+   "id": 23,
+   "en": "Ha, ha, ha! That was\nall too easy!",
+   "ru": "Ха-ха-ха! Слишком\nпросто!"
+  },
+  {
+   "id": 24,
+   "en": "Should I stand still\nnext time?",
+   "ru": "Мне в следующий раз\nпостоять смирно?"
+  },
+  {
+   "id": 25,
+   "en": "Be careful, now! You\nmight hurt yourself!",
+   "ru": "Осторожнее! Ещё\nпоранишься!"
+  },
+  {
+   "id": 26,
+   "en": "Dodging my attack is\nNOT allowed!!",
+   "ru": "Уворачиваться от\nменя ЗАПРЕЩЕНО!!"
+  },
+  {
+   "id": 27,
+   "en": "I will destroy you\nsoon enough!",
+   "ru": "Скоро я тебя\nуничтожу!"
+  },
+  {
+   "id": 28,
+   "en": "You--!",
+   "ru": "Ах ты...!"
+  },
+  {
+   "id": 29,
+   "en": "Show some courtesy\nand allow me to hit!",
+   "ru": "Будь любезен, дай\nсебя ударить!"
+  },
+  {
+   "id": 30,
+   "en": "Your attack is but a\ntrifling blow!",
+   "ru": "Твой удар — сущий\nпустяк!"
+  },
+  {
+   "id": 31,
+   "en": "Urrrk!",
+   "ru": "Кха!"
+  },
+  {
+   "id": 32,
+   "en": "You will pay for that\nattack, fool!",
+   "ru": "Ты за это\nзаплатишь, глупец!"
+  },
+  {
+   "id": 33,
+   "en": "Damn you!",
+   "ru": "Чтоб тебя!"
+  },
+  {
+   "id": 34,
+   "en": "I saw you coming!",
+   "ru": "Я тебя видел!"
+  },
+  {
+   "id": 35,
+   "en": "That was a rather\nobvious attack!",
+   "ru": "Уж больно\nпредсказуемо!"
+  },
+  {
+   "id": 36,
+   "en": "Arrgghhhh!!",
+   "ru": "А-а-аргх!!"
+  },
+  {
+   "id": 37,
+   "en": "What was that?!",
+   "ru": "Это что было?!"
+  },
+  {
+   "id": 38,
+   "en": "Your lack of skill is\nquite depressing.",
+   "ru": "Твоё неумение просто\nудручает."
+  },
+  {
+   "id": 39,
+   "en": "What are you doing?!",
+   "ru": "Что ты делаешь?!"
+  },
+  {
+   "id": 40,
+   "en": "The Continent will\nbe mine to control!",
+   "ru": "Континент будет\nмоим!"
+  },
+  {
+   "id": 41,
+   "en": "You should have been\nhonored to fight me!",
+   "ru": "Сразиться со мной —\nчесть для тебя!"
+  },
+  {
+   "id": 42,
+   "en": "You will make a fine\nslave in my palace!",
+   "ru": "Будешь славным\nрабом в моём дворце!"
+  },
+  {
+   "id": 43,
+   "en": "Beg forgiveness and\nI might not kill you.",
+   "ru": "Моли о пощаде,\nможет, и не убью."
+  },
+  {
+   "id": 44,
+   "en": "Grraahhh!",
+   "ru": "Гр-ра-а!"
+  },
+  {
+   "id": 45,
+   "en": "Rrrahhhh!",
+   "ru": "Р-р-ра-а!"
+  },
+  {
+   "id": 46,
+   "en": "You cannot stop my\nglorious ambitions!",
+   "ru": "Моих замыслов\nне остановить!"
+  },
+  {
+   "id": 47,
+   "en": "Behold my power!",
+   "ru": "Узри мою мощь!"
+  },
+  {
+   "id": 48,
+   "en": "Bow down before me!",
+   "ru": "Склонись предо\nмной!"
+  },
+  {
+   "id": 49,
+   "en": "My anger will result\nin your defeat!",
+   "ru": "Мой гнев тебя\nпогубит!"
+  },
+  {
+   "id": 50,
+   "en": "How dare you strike\na legendary leader?!",
+   "ru": "Бить великого\nвождя?! Как посмел?!"
+  },
+  {
+   "id": 51,
+   "en": "Gaze upon the power\nof my mighty ATAC!",
+   "ru": "Узри мощь моего\nАТАКа!"
+  },
+  {
+   "id": 52,
+   "en": "You are unworthy of\nmy attention!",
+   "ru": "Ты недостоин моего\nвнимания!"
+  },
+  {
+   "id": 53,
+   "en": "Are you prepared for\nyour eternal rest?",
+   "ru": "Готов к вечному\nпокою?"
+  },
+  {
+   "id": 54,
+   "en": "Here I come!",
+   "ru": "Иду!"
+  },
+  {
+   "id": 55,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 56,
+   "en": "This is my first step\ntoward destiny!",
+   "ru": "Мой первый шаг\nнавстречу судьбе!"
+  },
+  {
+   "id": 57,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 58,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 59,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 60,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 61,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 62,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 63,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 64,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 65,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 66,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 67,
+   "en": "",
+   "ru": ""
+  }
+ ]
+}

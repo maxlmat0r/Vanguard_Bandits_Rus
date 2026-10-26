@@ -1,0 +1,206 @@
+{
+ "file": 130,
+ "kind": "battle",
+ "lines": [
+  {
+   "id": 0,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 1,
+   "en": "Ganlon is working for Radcot?!",
+   "ru": "Ганлон работает на Радкота?!"
+  },
+  {
+   "id": 2,
+   "en": "Eh, heh, heh, heh. We've been\nwaiting patiently for you, Highness.",
+   "ru": "Хе-хе-хе-хе. Мы терпеливо вас\nждали, Высочество."
+  },
+  {
+   "id": 3,
+   "en": "You shall pay for your treachery with\nyour life, Ganlon! I swear it!",
+   "ru": "Ты заплатишь жизнью за своё\nпредательство, Ганлон! Клянусь!"
+  },
+  {
+   "id": 4,
+   "en": "I hafta give credit where credit is\ndue. Without your help, I might have\nhever found the Gratia stone!",
+   "ru": "Надо отдать должное. Без твоей\nпомощи я бы никогда не нашёл\nкамень Гратию!"
+  },
+  {
+   "id": 5,
+   "en": "I know you'll do the smart thing and\nhand it over, eh Ganlon?",
+   "ru": "Уверен, ты поступишь умно и\nотдашь его мне, а, Ганлон?"
+  },
+  {
+   "id": 6,
+   "en": "I thought we agreed to, uh, discuss\nmy position as commander of your\narmies first...but, ah, here you go.",
+   "ru": "Мы же, э-э, договорились сперва\nобсудить моё назначение\nкомандующим... но, кхм, держите."
+  },
+  {
+   "id": 7,
+   "en": "Ganlon, you're a fool! Radcot's plans\nfor you are about six feet deep!",
+   "ru": "Ганлон, ты глупец! Радкот\nуготовил тебе место на два метра\nпод землёй!"
+  },
+  {
+   "id": 8,
+   "en": "Eh, heh heh heh! Ya got a good eye\nfor treachery, eh, Zeira? Goodbye,\nGalnon!",
+   "ru": "Хе-хе-хе! Глаз на предательство у\nтебя намётан, а, Зейра? Прощай,\nГанлон!"
+  },
+  {
+   "id": 9,
+   "en": "I...th...thought...we had...a...\n...gentleman's...a..a..agree...ment...",
+   "ru": "Мы... ж... же... договорились... как...\nблаго... благородные... люди..."
+  },
+  {
+   "id": 10,
+   "en": "Unfortunately, you made that deal\nwhile ignoring the fact that I'm\nnot a gentle man. Eh, heh heh heh.",
+   "ru": "К несчастью, договариваясь, ты\nупустил, что я не благородный\nчеловек. Хе-хе-хе."
+  },
+  {
+   "id": 11,
+   "en": "You're despicable, Radcot. His\nHighness will never cooperate\nwith a pustule like you!",
+   "ru": "Ты гнусен, Радкот. Его\nВысочество не станет помогать\nтакому гнойнику, как ты!"
+  },
+  {
+   "id": 12,
+   "en": "Eh, heh heh heh! Pustule, emm? Well,\nI'm not a stupid pustule. I know that\ncoercion will require torture.",
+   "ru": "Хе-хе-хе! Гнойник, м? Что ж, я не\nглупый гнойник. Я знаю, что для\nпринуждения нужны пытки."
+  },
+  {
+   "id": 13,
+   "en": "I believe you overestimate your\nchances of success in this ill-\nconceived plan. Give it up, Radcot!",
+   "ru": "Думаю, ты переоцениваешь\nшансы этого непродуманного\nплана. Сдавайся, Радкот!"
+  },
+  {
+   "id": 14,
+   "en": "Eh, heh heh heh! I don't think you're\nin any position to be giving advice. I\nhave the Ultragunner. I AM power!",
+   "ru": "Хе-хе-хе! Не тебе давать советы. У\nменя Ультраганнер. Я - ВЛАСТЬ!"
+  },
+  {
+   "id": 15,
+   "en": "I can finally slice that damned\nsmirk off Faulkner's face...and\nwhat a pleasure that will be!",
+   "ru": "Наконец я срежу эту проклятую\nухмылку с лица Фолкнера... какое\nэто будет наслаждение!"
+  },
+  {
+   "id": 16,
+   "en": "I'll be the supreme ruler of the\nContinent! Kings and commoners\nalike will bow down before me!",
+   "ru": "Я стану владыкой Континента!\nКороли и простолюдины\nсклонятся предо мной!"
+  },
+  {
+   "id": 17,
+   "en": "And I haven't even begun to mention\nmy plans for assembling the largest\nharem in history! Heh heh heh!",
+   "ru": "А о моём будущем гареме,\nвеличайшем в истории, я и не\nначинал! Хе-хе-хе!"
+  },
+  {
+   "id": 18,
+   "en": "I'm going to be sick!",
+   "ru": "Меня сейчас стошнит!"
+  },
+  {
+   "id": 19,
+   "en": "Oh, well. Enough talk. Time to die.\nKill them all, my soldiers...except for\nPrince Bastion, of course.",
+   "ru": "Ну, хватит болтовни. Пора\nумирать. Убейте всех, солдаты...\nкроме принца Бастиона, конечно."
+  },
+  {
+   "id": 20,
+   "en": "This is wrong, all wrong! YOU were\nsupposed to lose, and I was supposed\nto rule the Continent!",
+   "ru": "Не так, всё не так! Ты должен\nбыл проиграть, а я - править\nКонтинентом!"
+  },
+  {
+   "id": 21,
+   "en": "I was going to have a harem! I was\ngoing to spit in Faulkner's face! All\nmy wonderful plans ruined!",
+   "ru": "У меня был бы гарем! Я плюнул\nбы Фолкнеру в лицо! Все мои\nчудесные планы рухнули!"
+  },
+  {
+   "id": 22,
+   "en": "Damn it all! It's not fair!",
+   "ru": "Будь всё проклято! Это нечестно!"
+  },
+  {
+   "id": 23,
+   "en": "Gratia is ours again!",
+   "ru": "Гратия снова наша!"
+  },
+  {
+   "id": 24,
+   "en": "Bastion! I've retrieved Gratia for you!",
+   "ru": "Бастион! Я вернула тебе Гратию!"
+  },
+  {
+   "id": 25,
+   "en": "Ha, ha, ha! That was simple!",
+   "ru": "Ха-ха-ха! Это было просто!"
+  },
+  {
+   "id": 26,
+   "en": "Hey, Bastion! This magic stone\nbelongs to you, doesn't it?",
+   "ru": "Эй, Бастион! Это ведь твой\nволшебный камень?"
+  },
+  {
+   "id": 27,
+   "en": "Your Highness! Radcot is defeated,\nand Gratia has been reclaimed!",
+   "ru": "Ваше Высочество! Радкот\nповержен, Гратия возвращена!"
+  },
+  {
+   "id": 28,
+   "en": "Bastion, I retrieved the stone that\nrightfully belongs to you.",
+   "ru": "Бастион, я вернул камень,\nкоторый по праву твой."
+  },
+  {
+   "id": 29,
+   "en": "Gratia does not belong to you, Radcot.\nIt belongs to Prince Bastion.",
+   "ru": "Гратия не твоя, Радкот. Она\nпринадлежит принцу Бастиону."
+  },
+  {
+   "id": 30,
+   "en": "Tell you what, Duke Radcot, why\ndon't I just hold onto that big old\nmagical stone for you?",
+   "ru": "Знаете что, герцог Радкот,\nдавайте-ка я подержу у себя этот\nбольшой волшебный камешек?"
+  },
+  {
+   "id": 31,
+   "en": "It's over...?",
+   "ru": "Всё кончено...?"
+  },
+  {
+   "id": 32,
+   "en": "Princess Sadira!",
+   "ru": "Принцесса Садира!"
+  },
+  {
+   "id": 33,
+   "en": "I have come with empty hands and\nopen arms, Bastion. I am not here to\ndo battle with you.",
+   "ru": "Я пришла с пустыми руками и\nоткрытым сердцем, Бастион. Я\nздесь не для боя."
+  },
+  {
+   "id": 34,
+   "en": "I only wish to speak with you of an\nurgent matter of great import!",
+   "ru": "Я лишь хочу поговорить с тобой\nо срочном и очень важном деле!"
+  },
+  {
+   "id": 35,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 36,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 37,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 38,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 39,
+   "en": "\n\n\n",
+   "ru": ""
+  }
+ ]
+}

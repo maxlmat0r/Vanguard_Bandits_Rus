@@ -1,0 +1,346 @@
+{
+ "file": 385,
+ "kind": "quip",
+ "lines": [
+  {
+   "id": 0,
+   "en": "From the left?",
+   "ru": "Слева?"
+  },
+  {
+   "id": 1,
+   "en": "From the side?",
+   "ru": "Сбоку?"
+  },
+  {
+   "id": 2,
+   "en": "From the right?",
+   "ru": "Справа?"
+  },
+  {
+   "id": 3,
+   "en": "From the side!",
+   "ru": "Сбоку!"
+  },
+  {
+   "id": 4,
+   "en": "Is that all?",
+   "ru": "И это всё?"
+  },
+  {
+   "id": 5,
+   "en": "I believe I've been hit,\nbut it didn't hurt!",
+   "ru": "Кажется, меня\nзадели, но не больно!"
+  },
+  {
+   "id": 6,
+   "en": "My goodness!",
+   "ru": "Батюшки!"
+  },
+  {
+   "id": 7,
+   "en": "This is a problem.",
+   "ru": "Это проблема."
+  },
+  {
+   "id": 8,
+   "en": "That attack was a\nvery effective one.",
+   "ru": "Очень действенная\nатака."
+  },
+  {
+   "id": 9,
+   "en": "You're better than I\nhad expected!",
+   "ru": "Ты лучше, чем я\nожидала!"
+  },
+  {
+   "id": 10,
+   "en": "Owwww!",
+   "ru": "Ой-ой-ой!"
+  },
+  {
+   "id": 11,
+   "en": "That hurts!",
+   "ru": "Больно же!"
+  },
+  {
+   "id": 12,
+   "en": "Aaaahhh!!",
+   "ru": "А-а-а-ах!!"
+  },
+  {
+   "id": 13,
+   "en": "Such power!!",
+   "ru": "Какая сила!!"
+  },
+  {
+   "id": 14,
+   "en": "I won't let you stop\nBastion! I won't!!",
+   "ru": "Не дам помешать\nБастиону! Не дам!!"
+  },
+  {
+   "id": 15,
+   "en": "I can't be defeated\nand suffer dishonor!",
+   "ru": "Проиграть —\nзначит опозориться!"
+  },
+  {
+   "id": 16,
+   "en": "I still have much to\nlearn about combat.",
+   "ru": "Мне ещё многому\nучиться в бою."
+  },
+  {
+   "id": 17,
+   "en": "I'm sorry, Bastion!",
+   "ru": "Прости, Бастион!"
+  },
+  {
+   "id": 18,
+   "en": "NOOOO!!",
+   "ru": "НЕ-Е-ЕТ!!"
+  },
+  {
+   "id": 19,
+   "en": "I should not have\nlost this battle!",
+   "ru": "Я не должна\nбыла проиграть!"
+  },
+  {
+   "id": 20,
+   "en": "Behind me?!",
+   "ru": "Сзади?!"
+  },
+  {
+   "id": 21,
+   "en": "Aaaaahh!",
+   "ru": "А-а-а-ах!"
+  },
+  {
+   "id": 22,
+   "en": "You missed!",
+   "ru": "Мимо!"
+  },
+  {
+   "id": 23,
+   "en": "Too bad!",
+   "ru": "Обидно, да?"
+  },
+  {
+   "id": 24,
+   "en": "I'm not stupid!",
+   "ru": "Я не дура!"
+  },
+  {
+   "id": 25,
+   "en": "Quickly, now!",
+   "ru": "Быстрее!"
+  },
+  {
+   "id": 26,
+   "en": "Oh, my.",
+   "ru": "Ой-ёй."
+  },
+  {
+   "id": 27,
+   "en": "You're good!",
+   "ru": "А ты хорош!"
+  },
+  {
+   "id": 28,
+   "en": "You're cruel!",
+   "ru": "Жестокий!"
+  },
+  {
+   "id": 29,
+   "en": "This can't be!",
+   "ru": "Не может быть!"
+  },
+  {
+   "id": 30,
+   "en": "I can withstand your\nstrongest blows!",
+   "ru": "Я выдержу твои\nсильнейшие удары!"
+  },
+  {
+   "id": 31,
+   "en": "I wonder how many\nattacks I can absorb.",
+   "ru": "Сколько ещё ударов я\nвыдержу?"
+  },
+  {
+   "id": 32,
+   "en": "Have you no heart?!\nLeave me alone!",
+   "ru": "Нет у тебя сердца?!\nОтстань!"
+  },
+  {
+   "id": 33,
+   "en": "I know I will be the\nvictor in this battle!",
+   "ru": "Я знаю, что\nвыиграю этот бой!"
+  },
+  {
+   "id": 34,
+   "en": "There you are!",
+   "ru": "Вот ты где!"
+  },
+  {
+   "id": 35,
+   "en": "Don't you know how\nto defend yourself?",
+   "ru": "Ты что, защищаться\nне умеешь?"
+  },
+  {
+   "id": 36,
+   "en": "Yaaaah!",
+   "ru": "Йа-а-а!"
+  },
+  {
+   "id": 37,
+   "en": "Kyaaah!",
+   "ru": "Кья-а!"
+  },
+  {
+   "id": 38,
+   "en": "Just barely!",
+   "ru": "Еле-еле!"
+  },
+  {
+   "id": 39,
+   "en": "Aaaah?!",
+   "ru": "А-а?!"
+  },
+  {
+   "id": 40,
+   "en": "I did it! I won!",
+   "ru": "Получилось! Я\nпобедила!"
+  },
+  {
+   "id": 41,
+   "en": "You lose!",
+   "ru": "Ты проиграл!"
+  },
+  {
+   "id": 42,
+   "en": "Is it over?",
+   "ru": "Всё кончилось?"
+  },
+  {
+   "id": 43,
+   "en": "My heart is beating\nso fast. I feel dizzy!",
+   "ru": "Сердце стучит,\nголова кружится!"
+  },
+  {
+   "id": 44,
+   "en": "Hey!!",
+   "ru": "Эй!!"
+  },
+  {
+   "id": 45,
+   "en": "HEY!!",
+   "ru": "ЭЙ!!"
+  },
+  {
+   "id": 46,
+   "en": "You're mine now!",
+   "ru": "Теперь ты мой!"
+  },
+  {
+   "id": 47,
+   "en": "You are chivalrous\nto attack directly!",
+   "ru": "Как благородно\nатаковать в лоб!"
+  },
+  {
+   "id": 48,
+   "en": "There!",
+   "ru": "Вот!"
+  },
+  {
+   "id": 49,
+   "en": "Would you please\nget out of my way?",
+   "ru": "Не могли бы вы уйти\nс дороги?"
+  },
+  {
+   "id": 50,
+   "en": "How about this?",
+   "ru": "А как вам это?"
+  },
+  {
+   "id": 51,
+   "en": "Here I come!",
+   "ru": "Иду!"
+  },
+  {
+   "id": 52,
+   "en": "I'll never forget your\nawful technique!",
+   "ru": "Не забуду твою\nужасную технику!"
+  },
+  {
+   "id": 53,
+   "en": "Here I go!",
+   "ru": "Иду!"
+  },
+  {
+   "id": 54,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 55,
+   "en": "What?",
+   "ru": "Что?"
+  },
+  {
+   "id": 56,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 57,
+   "en": "You cannot survive\nmy secret attack!",
+   "ru": "Моя тайная атака\nтебя сразит!"
+  },
+  {
+   "id": 58,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 59,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 60,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 61,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 62,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 63,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 64,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 65,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 66,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 67,
+   "en": "",
+   "ru": ""
+  }
+ ]
+}

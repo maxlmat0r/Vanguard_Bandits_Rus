@@ -1,0 +1,21 @@
+{
+ "file": 635,
+ "kind": "story",
+ "lines": [
+  {
+   "id": 0,
+   "en": "That's the Sarbelas, alright, and I\nguarantee Duyere is inside. He won't\nlet anyone else into the cockpit.",
+   "ru": "Это точно Сарбелас, и ручаюсь,\nвнутри Дюйер. Он никого больше\nне пускает в кабину."
+  },
+  {
+   "id": 1,
+   "en": "So what happens if he's under the\ncontrol of the Zulwarn?",
+   "ru": "А что, если он под властью\nЗулварна?"
+  },
+  {
+   "id": 2,
+   "en": "I don't know...",
+   "ru": "Не знаю..."
+  }
+ ]
+}

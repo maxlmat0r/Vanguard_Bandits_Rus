@@ -1,0 +1,231 @@
+{
+ "file": 171,
+ "kind": "battle",
+ "lines": [
+  {
+   "id": 0,
+   "en": "They're putting up an amazing fight!",
+   "ru": "Они невероятно стойко\nсражаются!"
+  },
+  {
+   "id": 1,
+   "en": "More Imperials?!",
+   "ru": "Ещё имперцы?!"
+  },
+  {
+   "id": 2,
+   "en": "We are from the Kingdom Army, sir!\nAre the townspeople alright?",
+   "ru": "Мы из армии Королевства,\nсударь! Горожане целы?"
+  },
+  {
+   "id": 3,
+   "en": "You hail from the Kingdom, do you?!\nWell met, friends!",
+   "ru": "Вы из Королевства?! Рад встрече,\nдрузья!"
+  },
+  {
+   "id": 4,
+   "en": "The townspeople are safe, but these\nImperials are overpowering us with\ntheir superior numbers!",
+   "ru": "Горожане в безопасности, но\nимперцы берут нас числом!"
+  },
+  {
+   "id": 5,
+   "en": "Not anymore, sir! We're going to join\nthe fight!",
+   "ru": "Уже нет, сударь! Мы вступаем в\nбой!"
+  },
+  {
+   "id": 6,
+   "en": "Sadira, you're probably going to sit\nout this battle, aren't you?",
+   "ru": "Садира, ты, наверное,\nпересидишь этот бой?"
+  },
+  {
+   "id": 7,
+   "en": "Actually, I was hoping to fight.",
+   "ru": "Вообще-то я хотела сражаться."
+  },
+  {
+   "id": 8,
+   "en": "I'm so angry at what's happening\nthat I feel an incredible urge to hit\nsomething very hard!",
+   "ru": "Меня так злит происходящее, что\nужасно хочется что-нибудь\nсильно ударить!"
+  },
+  {
+   "id": 9,
+   "en": "Let's go!",
+   "ru": "Вперёд!"
+  },
+  {
+   "id": 10,
+   "en": "(Vhat?!)",
+   "ru": "(Што?!)"
+  },
+  {
+   "id": 11,
+   "en": "(Vhy are DHEY here?!)",
+   "ru": "(Почему ОНИ стесь?!)"
+  },
+  {
+   "id": 12,
+   "en": "(How coult dhey haff fount my\ntroops ant I so qvickly?!)",
+   "ru": "(Как они так пыстро нашли меня\nи моих солтат?!)"
+  },
+  {
+   "id": 13,
+   "en": "(And why have dhey made it dheir\nduty to screw everything up?!)",
+   "ru": "(И почему они фечно фсё\nпортят?!)"
+  },
+  {
+   "id": 14,
+   "en": "I haff run out uff patience!!",
+   "ru": "Моё терпение лопнуло!!"
+  },
+  {
+   "id": 15,
+   "en": "It's the Sharking!",
+   "ru": "Это Шаркинг!"
+  },
+  {
+   "id": 16,
+   "en": "Zakov?!",
+   "ru": "Заков?!"
+  },
+  {
+   "id": 17,
+   "en": "You again?!",
+   "ru": "Опять ты?!"
+  },
+  {
+   "id": 18,
+   "en": "... ... ...",
+   "ru": ""
+  },
+  {
+   "id": 19,
+   "en": "I wish we didn't have to\nbe enemies,Zakov.",
+   "ru": "Жаль, что мы враги, Заков."
+  },
+  {
+   "id": 20,
+   "en": "Let's go!",
+   "ru": "Вперёд!"
+  },
+  {
+   "id": 21,
+   "en": "You talk much trash for a little girl!",
+   "ru": "Много пол тфоих рта для\nмаленькой тефочки!"
+  },
+  {
+   "id": 22,
+   "en": "And you vill NOT defeat me again!",
+   "ru": "И фторой рас ты меня НЕ\nпопедишь!"
+  },
+  {
+   "id": 23,
+   "en": "Oh, yes, I vill!",
+   "ru": "О, ещё как попешу!"
+  },
+  {
+   "id": 24,
+   "en": "It seems as if you are in no position\nto mock me little vone!",
+   "ru": "Похоше, не тепе нато мной\nсмеяться, малышка!"
+  },
+  {
+   "id": 25,
+   "en": "I won't forgive you for your crimes,\nZakov! You will be PUNISHED!",
+   "ru": "Я не прощу вам ваших\nпреступлений, Заков! Вы будете\nНАКАЗАНЫ!"
+  },
+  {
+   "id": 26,
+   "en": "You are just a little girl who does not\nrealize the foolishness of her actions!\nBut I vill teach you!",
+   "ru": "Ты лишь глупая тефчонка, не\nпонимающая сфоих поступков! Но\nя тепя научу!"
+  },
+  {
+   "id": 27,
+   "en": "Vhy are you and your friends alvays\ninterfering vith me?!",
+   "ru": "Почему фы с трусьями фечно мне\nмешаете?!"
+  },
+  {
+   "id": 28,
+   "en": "Haff I offended you somehow? If so,\nI apologize! Now go away and leaff\nme alone!",
+   "ru": "Я фас чем-то обител? Если так,\nпростите! А теперь уйтите и\nостафьте меня ф покое!"
+  },
+  {
+   "id": 29,
+   "en": "We interfere with you because you're\nalways committing evil acts, Zakov!",
+   "ru": "Мы мешаем тебе, потому что ты\nвечно творишь зло, Заков!"
+  },
+  {
+   "id": 30,
+   "en": "Perhaps we would stop harassing\nyou if you changed your ways!",
+   "ru": "Может, мы перестанем тебя\nдонимать, если ты исправишься!"
+  },
+  {
+   "id": 31,
+   "en": "I vill never change! Vhat I do vill\nmake me dhe most powerful man\nin dhe Empire!",
+   "ru": "Я никогда не испрафлюсь! Мои\nдела стелают меня сильнейшим\nчелофеком Империи!"
+  },
+  {
+   "id": 32,
+   "en": "Get out of my vay, you fool!",
+   "ru": "Прочь с торои, турак!"
+  },
+  {
+   "id": 33,
+   "en": "Your blood pressure must be going\nthrough the roof, Zakov! You have to\nlearn how to relax!",
+   "ru": "Давление у тебя, наверное,\nзашкаливает, Заков! Надо\nучиться расслабляться!"
+  },
+  {
+   "id": 34,
+   "en": "Would you like me to teach you some\nbreathing exercises?",
+   "ru": "Хочешь, научу дыхательным\nупражнениям?"
+  },
+  {
+   "id": 35,
+   "en": "Vhat are you TALKING about?! Your\nstupid vords only make me angrier!!",
+   "ru": "Што ты НЕСЁШЬ?! От тфоих\nклупых слоф я ещё сильнее\nзлюсь!!"
+  },
+  {
+   "id": 36,
+   "en": "I vill punish you for your mockery!",
+   "ru": "Я накашу тепя за насмешки!"
+  },
+  {
+   "id": 37,
+   "en": "NOW what are you angry about?!",
+   "ru": "Ну а теперь на что ты злишься?!"
+  },
+  {
+   "id": 38,
+   "en": "Damn it!",
+   "ru": "Проклятье!"
+  },
+  {
+   "id": 39,
+   "en": "Reinforcements! Take care of the rest\nof these Imperial fools!",
+   "ru": "Подкрепление! Разберитесь с\nостальными имперскими\nдураками!"
+  },
+  {
+   "id": 40,
+   "en": "Not again!",
+   "ru": "Опять!"
+  },
+  {
+   "id": 41,
+   "en": "I vould haff gotten avay vith it, too,\nif not for dhese kids!!",
+   "ru": "И фсё пы у меня получилось, если\nпы не эти тетишки!!"
+  },
+  {
+   "id": 42,
+   "en": "It vill be difficult to impress Madoc\nand Fokkner if I continue to lose...",
+   "ru": "Трутно пудет фпечатлить Мэдока\nи Фоккнера, если я пуду фсё фремя\nпроигрыфать..."
+  },
+  {
+   "id": 43,
+   "en": "The town is safe!",
+   "ru": "Город спасён!"
+  },
+  {
+   "id": 44,
+   "en": "\n\n\n",
+   "ru": ""
+  }
+ ]
+}

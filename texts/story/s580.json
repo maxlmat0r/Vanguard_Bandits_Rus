@@ -1,0 +1,191 @@
+{
+ "file": 580,
+ "kind": "story",
+ "lines": [
+  {
+   "id": 0,
+   "en": "Listen, you MORONS! I want you to\nREPAIR this ATAC, not DESTROY it!\nAm I making myself CLEAR?!",
+   "ru": "Слушайте, БОЛВАНЫ! Я велел\nПОЧИНИТЬ АТАК, а не СЛОМАТЬ! Я\nЯСНО выражаюсь?!"
+  },
+  {
+   "id": 1,
+   "en": "Good Evening, Madoc.",
+   "ru": "Добрый вечер, Мэдок."
+  },
+  {
+   "id": 2,
+   "en": "Faulkner. Is something wrong?",
+   "ru": "Фолкнер. Что-то случилось?"
+  },
+  {
+   "id": 3,
+   "en": "Not at all, Madoc, although I enjoy\nthe paranoia my presence seems to\ninstill in you.",
+   "ru": "Вовсе нет, Мэдок, хотя мне\nнравится паранойя, которую\nвызывает у вас моё присутствие."
+  },
+  {
+   "id": 4,
+   "en": "What are the results of your tests on\nthe Ultragunner? Have you been able\nto successfully operate it?",
+   "ru": "Каковы итоги испытаний\nУльтраганнера? Удалось\nзаставить его работать?"
+  },
+  {
+   "id": 5,
+   "en": "Hmmm?",
+   "ru": "Хм?"
+  },
+  {
+   "id": 6,
+   "en": "Oh, yes, the Ultragunner.",
+   "ru": "Ах да, Ультраганнер."
+  },
+  {
+   "id": 7,
+   "en": "Yes, the Ultragunner! How could\nyou possibly forget something of\nsuch tremendous importance?!",
+   "ru": "Да, Ультраганнер! Как можно\nзабыть о чём-то столь\nневероятно важном?!"
+  },
+  {
+   "id": 8,
+   "en": "You've asked me that same question\ntwenty times since you brought that\nATAC to me, Faulkner.",
+   "ru": "Вы спрашиваете уже в\nдвадцатый раз, с тех пор как\nпривезли этот АТАК, Фолкнер."
+  },
+  {
+   "id": 9,
+   "en": "Because my plans of conquering the\nContinent require the Ultragunner to\nbe fulfilled, you crazy old goat!",
+   "ru": "Потому что без Ультраганнера\nмне не завоевать Континент,\nстарый безумный козёл!"
+  },
+  {
+   "id": 10,
+   "en": "Does the Emperor happen to know of\nthese plans? Yell at me again and he's\ncertain to learn of them.",
+   "ru": "А император знает об этих\nпланах? Наорёте на меня ещё раз\n- непременно узнает."
+  },
+  {
+   "id": 11,
+   "en": "Don't patronize me, Madoc! We both\nknow that I could destroy you with a\nsnap of my fingers!",
+   "ru": "Не дерзите мне, Мэдок! Мы оба\nзнаем, что я сотру вас в порошок\nщелчком пальцев!"
+  },
+  {
+   "id": 12,
+   "en": "Now tell me what you have achieved\nwith the Ultragunner!",
+   "ru": "Говорите, чего вы добились с\nУльтраганнером!"
+  },
+  {
+   "id": 13,
+   "en": "Nothing, Faulkner. Nothing at all.",
+   "ru": "Ничего, Фолкнер. Совсем ничего."
+  },
+  {
+   "id": 14,
+   "en": "Excuse me?",
+   "ru": "Прости?"
+  },
+  {
+   "id": 15,
+   "en": "It doesn't work. It doesn't move. It's a\ncompletely worthless hunk of metal.",
+   "ru": "Он не работает. Не двигается.\nСовершенно бесполезная груда\nметалла."
+  },
+  {
+   "id": 16,
+   "en": "Nonsense! It is the ATAC of legend!\nThere is a way to make it work, and\nyou will FIND the way!",
+   "ru": "Вздор! Это легендарный АТАК!\nЕсть способ заставить его\nработать, и вы его НАЙДЁТЕ!"
+  },
+  {
+   "id": 17,
+   "en": "Would you care for a look at my\nlatest ATAC design, Faulkner? I\nguarantee you'll be very pleased!",
+   "ru": "Не взглянете на мой новейший\nАТАК, Фолкнер? Уверен, вам\nпонравится!"
+  },
+  {
+   "id": 18,
+   "en": "Why must you always attempt to\nchange the subject when you have\nunpleasant news to report?",
+   "ru": "Почему вы вечно меняете тему,\nкогда у вас плохие новости?"
+  },
+  {
+   "id": 19,
+   "en": "Are you absolutely certain that the\nUltragunner cannot be activated?",
+   "ru": "Вы абсолютно уверены, что\nУльтраганнер не запустить?"
+  },
+  {
+   "id": 20,
+   "en": "Actually, I'm not certain at all.\nI've been far too busy supervising\nthe construction of my new ATAC.",
+   "ru": "Вообще-то не уверен. Я был\nслишком занят строительством\nнового АТАКа."
+  },
+  {
+   "id": 21,
+   "en": "The Ultragunner will look like a\nchild's plaything in comparison to\nmy majestic creation!",
+   "ru": "Рядом с моим величественным\nтворением Ультраганнер\nпокажется детской игрушкой!"
+  },
+  {
+   "id": 22,
+   "en": "Madoc, you disappoint me...and you\nknow how I hate to be disappointed.",
+   "ru": "Мэдок, вы меня\nразочаровываете... а вы знаете,\nкак я не люблю разочарований."
+  },
+  {
+   "id": 23,
+   "en": "This new ATAC is the culmination\nof my life's work! The perfect mix\nof aesthetics and functionality!",
+   "ru": "Этот АТАК - венец моей жизни!\nИдеальное сочетание красоты и\nпользы!"
+  },
+  {
+   "id": 24,
+   "en": "Rest assured there will be nothing\naesthetic about the manner in which\nI punish your insolence, old man.",
+   "ru": "Будьте уверены, в наказании за\nвашу дерзость красоты не будет\nникакой, старик."
+  },
+  {
+   "id": 25,
+   "en": "Uh...",
+   "ru": "Э-э..."
+  },
+  {
+   "id": 26,
+   "en": "Your manner could be less heavy,\nmy tyrannical taskmaster. I was\nmerely jesting with you.",
+   "ru": "Можно и полегче, мой\nдеспотичный хозяин. Я лишь\nпошутил."
+  },
+  {
+   "id": 27,
+   "en": "Of course you were.",
+   "ru": "Разумеется."
+  },
+  {
+   "id": 28,
+   "en": "In any case, I must return to the\nconstr...the research facility.",
+   "ru": "Как бы то ни было, мне пора на\nстрой... в исследовательский\nцентр."
+  },
+  {
+   "id": 29,
+   "en": "Those technicians never get any work\ndone unless I'm standing behind them\nwith a prod in hand!",
+   "ru": "Эти техники ничего не делают,\nпока я не стою у них за спиной с\nпалкой!"
+  },
+  {
+   "id": 30,
+   "en": "If any progress is made with the\nUltragunner, you shall be the\nfirst to know.",
+   "ru": "Если с Ультраганнером будут\nподвижки, вы узнаете первым."
+  },
+  {
+   "id": 31,
+   "en": "(I would kill that old fool with my\nbare hands if he wasn't such a vital\npart of my plans.)",
+   "ru": "(Я бы задушил этого старого\nдурня голыми руками, не будь он\nтак важен для моих планов.)"
+  },
+  {
+   "id": 32,
+   "en": "(But those plans are for naught if\nUltragunner cannot be activated!)",
+   "ru": "(Но мои планы ничего не стоят,\nесли Ультраганнер не запустить!)"
+  },
+  {
+   "id": 33,
+   "en": "(Madoc is the Empire's best engineer.\nIf he says the Ultragunner is useless,\nI must take him at his word.)",
+   "ru": "(Мэдок - лучший инженер\nИмперии. Раз он сказал, что\nУльтраганнер мёртв, так и есть.)"
+  },
+  {
+   "id": 34,
+   "en": "(I have no choice but to conceive of\na new strategy for the enslavement\nof the Continent.)",
+   "ru": "(Остаётся лишь придумать новую\nстратегию порабощения\nКонтинента.)"
+  },
+  {
+   "id": 35,
+   "en": "(Perhaps the old man's new ATAC\nis truly as powerful as he claims.)",
+   "ru": "(Может, новый АТАК старика и\nправда так силён, как он\nговорит.)"
+  },
+  {
+   "id": 36,
+   "en": "(Or perhaps I should strangle one or\ntwo of the Emperor's servants to help\nrelieve this frustration!)",
+   "ru": "(Или, может, задушить парочку\nслуг императора, чтобы снять\nнапряжение!)"
+  }
+ ]
+}

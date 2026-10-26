@@ -1,0 +1,376 @@
+{
+ "file": 135,
+ "kind": "battle",
+ "lines": [
+  {
+   "id": 0,
+   "en": "Well, here we are. Does anyone have\nany ideas?",
+   "ru": "Ну вот мы и здесь. Есть мысли?"
+  },
+  {
+   "id": 1,
+   "en": "We have to defeat the two ATACs at\nthe entrance before they can signal\nthe others.",
+   "ru": "Надо разбить два АТАКа у входа,\nпока они не подали знак\nостальным."
+  },
+  {
+   "id": 2,
+   "en": "But it don't matter how quickly we\ndefeat them, because the others\nwill hear the fighting anyway.",
+   "ru": "Да как быстро ни разбивай,\nостальные всё равно услышат\nбой."
+  },
+  {
+   "id": 3,
+   "en": "Alright. We'll lure the guards away\nfrom the gates...",
+   "ru": "Хорошо. Выманим стражу от\nворот..."
+  },
+  {
+   "id": 4,
+   "en": "...giving Andrew and Zeira adequate\ntime to sneak into the town ahead of\nus and liberate the hostages.",
+   "ru": "...чтобы Эндрю и Зейра успели\nпробраться в город и освободить\nзаложников."
+  },
+  {
+   "id": 5,
+   "en": "How does that sound?",
+   "ru": "Как вам?"
+  },
+  {
+   "id": 6,
+   "en": "Like a plan of action.",
+   "ru": "Похоже на план."
+  },
+  {
+   "id": 7,
+   "en": "But now we must decide what to\nuse as a lure!",
+   "ru": "Но теперь нужно решить, чем их\nвыманить!"
+  },
+  {
+   "id": 8,
+   "en": "That was the obvious flaw in my\nplan. There must be a way...",
+   "ru": "Вот очевидная дыра в моём\nплане. Должен быть способ..."
+  },
+  {
+   "id": 9,
+   "en": "Don't worry, Bastion! I'll take care of\nthe guards!",
+   "ru": "Не волнуйся, Бастион! Я займусь\nстражей!"
+  },
+  {
+   "id": 10,
+   "en": "And how will you do that, Devlin?",
+   "ru": "И как же, Девлин?"
+  },
+  {
+   "id": 11,
+   "en": "With my unparalleled trash-talking.\nAnd while they're busy with me,\nZeira and Andrew can sneak in!",
+   "ru": "Оскорблениями! Пока они заняты\nмной, Зейра и Эндрю проберутся\nвнутрь!"
+  },
+  {
+   "id": 12,
+   "en": "Are you sure, Devlin? I don't think\nyou're a very smooth talker.",
+   "ru": "Ты уверен, Девлин? По-моему, ты\nне очень красноречив."
+  },
+  {
+   "id": 13,
+   "en": "You just haven't seen me at work,\nReyna! Trust me, I'm an expert.",
+   "ru": "Ты просто не видела меня в деле,\nРейна! Поверь, я мастер."
+  },
+  {
+   "id": 14,
+   "en": "If...you...say so, Devlin.",
+   "ru": "Ну... раз... ты так... говоришь,\nДевлин."
+  },
+  {
+   "id": 15,
+   "en": "Wish me luck!",
+   "ru": "Пожелайте мне удачи!"
+  },
+  {
+   "id": 16,
+   "en": "Imperial Soldier 1:\nIdentify yourself or be destroyed!",
+   "ru": "Имперский солдат 1:\nНазовись или будешь уничтожен!"
+  },
+  {
+   "id": 17,
+   "en": "Imperial Soldier 2:\nThat's a Kingdom ATAC, isn't it?",
+   "ru": "Имперский солдат 2:\nЭто ведь АТАК Королевства?"
+  },
+  {
+   "id": 18,
+   "en": "Hmmm? That was strange. I thought\nI heard an extremely effeminate voice\ncalling out to me.",
+   "ru": "Хм? Странно. Мне послышался\nочень женственный голосок,\nзовущий меня."
+  },
+  {
+   "id": 19,
+   "en": "Perhaps this part of the Continent is\npopulated with fairies!",
+   "ru": "Может, в этой части Континента\nживут феечки!"
+  },
+  {
+   "id": 20,
+   "en": "Imperial Soldier 1:\nWhat?!",
+   "ru": "Имперский солдат 1:\nЧто?!"
+  },
+  {
+   "id": 21,
+   "en": "Cease your stupidity and tell us who\nyou are before we beat you senseless!",
+   "ru": "Хватит дурить, говори, кто ты,\nпока мы тебя не отделали!"
+  },
+  {
+   "id": 22,
+   "en": "Oh, Imperial soldiers! How cute!",
+   "ru": "О, имперские солдатики! Какая\nпрелесть!"
+  },
+  {
+   "id": 23,
+   "en": "Not that I'm an expert on Imperial\npolicy, but aren't you guys standing\nunusually close to each other?",
+   "ru": "Я не знаток имперских порядков,\nно вы не слишком близко друг к\nдругу стоите?"
+  },
+  {
+   "id": 24,
+   "en": "Imperial Soldier 1:\nActually, we both just graduated\nfrom the Imperial Academy. Do you\nthink we're standing too close?",
+   "ru": "Имперский солдат 1:\nВообще-то мы оба только\nокончили Имперскую академию.\nДумаешь, стоим слишком близко?"
+  },
+  {
+   "id": 25,
+   "en": "I think you're in just the right place...",
+   "ru": "По-моему, вы стоите в самый\nраз..."
+  },
+  {
+   "id": 26,
+   "en": "For me to POOP ON! Heh, heh, heh!",
+   "ru": "Чтобы я на вас НАКАКАЛ!\nХе-хе-хе!"
+  },
+  {
+   "id": 27,
+   "en": "Imperial Soldier 2:\nThe bastard is mocking us!",
+   "ru": "Имперский солдат 2:\nЭтот мерзавец издевается!"
+  },
+  {
+   "id": 28,
+   "en": "Did I make you angry?",
+   "ru": "Я вас разозлил?"
+  },
+  {
+   "id": 29,
+   "en": "I'm amazed that you have a large\nenough intellect to understand my\ninsults at all!",
+   "ru": "Поражаюсь, что вам хватает ума\nвообще понять мои оскорбления!"
+  },
+  {
+   "id": 30,
+   "en": "Imperial Soldier 1:\nYou just doomed yourself to death\nwith that comment, you fool!",
+   "ru": "Имперский солдат 1:\nЭтой фразой ты обрёк себя на\nсмерть, дурак!"
+  },
+  {
+   "id": 31,
+   "en": "Oh, really? Let's see if you know how\nto pilot those ATACs, rookies!",
+   "ru": "Да ну? Посмотрим, умеете ли вы\nводить эти АТАКи, новички!"
+  },
+  {
+   "id": 32,
+   "en": "Now's your chance! Go!",
+   "ru": "Ваш шанс! Вперёд!"
+  },
+  {
+   "id": 33,
+   "en": "Good work, Devlin! We're inside!",
+   "ru": "Отлично, Девлин! Мы внутри!"
+  },
+  {
+   "id": 34,
+   "en": "Imperial Soldier 1:\nYou ARE a Kingdom soldier!",
+   "ru": "Имперский солдат 1:\nТак ты солдат Королевства!"
+  },
+  {
+   "id": 35,
+   "en": "And you're even bigger suckers than\nthe ones Barlow gnaws on!",
+   "ru": "А вы ещё большие сосунки, чем те\nледенцы, что грызёт Барлоу!"
+  },
+  {
+   "id": 36,
+   "en": "Alright, finish them off!",
+   "ru": "Хорошо, добиваем их!"
+  },
+  {
+   "id": 37,
+   "en": "I wonder how it's going inside.",
+   "ru": "Интересно, как там дела внутри."
+  },
+  {
+   "id": 38,
+   "en": "I hope Zeira and Andrew were able\nto handle the other Imperials.",
+   "ru": "Надеюсь, Зейра и Эндрю\nсправились с остальными\nимперцами."
+  },
+  {
+   "id": 39,
+   "en": "Dhe Prince's army has already taken\ndhe town?",
+   "ru": "Армия принца уже фсяла город?"
+  },
+  {
+   "id": 40,
+   "en": "It does not matter, uff course, now\ndhat I control dhe Sharking.",
+   "ru": "Это, конешно, неважно, ведь у\nменя Шаркинг."
+  },
+  {
+   "id": 41,
+   "en": "I vill kill the Prince, ant his army,\nant the hostages, ant anyone else I\nveel like killing!",
+   "ru": "Я упью принца, и его армию, и\nсасложников, и фсех, кого сахочу!"
+  },
+  {
+   "id": 42,
+   "en": "Have any of you seen an ATAC like\nthat before?! It's...horrible!",
+   "ru": "Кто-нибудь видел такой АТАК\nраньше?! Это... ужасно!"
+  },
+  {
+   "id": 43,
+   "en": "Attack!!",
+   "ru": "В атаку!!"
+  },
+  {
+   "id": 44,
+   "en": "There he is!",
+   "ru": "Вот он!"
+  },
+  {
+   "id": 45,
+   "en": "Commander Zakov! You know full\nwell that I ordered the Sharking\nnever to be used by our armies!",
+   "ru": "Командир Заков! Вы прекрасно\nзнаете, что я запретила нашим\nармиям использовать Шаркинг!"
+  },
+  {
+   "id": 46,
+   "en": "You have blatantly disobeyed the\nwill of the Imperial Princess, and\nyou shall be punished for it!",
+   "ru": "Вы нагло нарушили волю\nимперской принцессы и будете за\nэто наказаны!"
+  },
+  {
+   "id": 47,
+   "en": "(Damn it! Dhe little vench has fount\nme already?!)",
+   "ru": "(Проклятье! Эта тефчонка уше\nменя нашла?!)"
+  },
+  {
+   "id": 48,
+   "en": "Sadira?! What's SHE doing here?",
+   "ru": "Садира?! Что ОНА здесь делает?"
+  },
+  {
+   "id": 49,
+   "en": "Uh...it is a great honor to have you\ngrace dhe fielt of battle, Princess.",
+   "ru": "Э-э... для меня фелика честь, что\nфы почтили поле поя, принцесса."
+  },
+  {
+   "id": 50,
+   "en": "You ignored my orders, Zakov, and\nyour insincere compliments won't\nmake me forget that!",
+   "ru": "Вы ослушались приказа, Заков, и\nнеискренние комплименты не\nзаставят меня это забыть!"
+  },
+  {
+   "id": 51,
+   "en": "Retreat now or I will use force to\nrepel you!",
+   "ru": "Отступайте немедленно, или я\nотражу вас силой!"
+  },
+  {
+   "id": 52,
+   "en": "Vhat?!",
+   "ru": "Што?!"
+  },
+  {
+   "id": 53,
+   "en": "You voult attack me?!",
+   "ru": "Фы нападёте на меня?!"
+  },
+  {
+   "id": 54,
+   "en": "You voult...",
+   "ru": "Фы..."
+  },
+  {
+   "id": 55,
+   "en": "Heh, heh, heh!",
+   "ru": "Хе-хе-хе!"
+  },
+  {
+   "id": 56,
+   "en": "By all means, Sadira! I velcome your\nassault upon me!",
+   "ru": "Сделайте одолшение, Садира! Я\nприффетстфую фашу атаку!"
+  },
+  {
+   "id": 57,
+   "en": "Strike me and declare your alliance\nvith the Kingdom!",
+   "ru": "Ударьте меня и объявите сепя\nсоюсником Королефстфа!"
+  },
+  {
+   "id": 58,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 59,
+   "en": "I am attacking the Kingdom Army.\nAttack me, and you haff sided with\ndhe Kingdom. Is dhat not obvious?",
+   "ru": "Я атакую армию Королефстфа.\nУдарите меня - и фы на стороне\nКоролефстфа. Ясно?"
+  },
+  {
+   "id": 60,
+   "en": "Dhe people of dhe Empire vill be\nshocked to learn of dhe betrayal\nof dhe Imperial Princess.",
+   "ru": "Народ Империи пудет потрясён\nпрешательством имперской\nпринцессы."
+  },
+  {
+   "id": 61,
+   "en": "He's right...",
+   "ru": "Он прав..."
+  },
+  {
+   "id": 62,
+   "en": "Vhy don't you stand over dhere ant\nwatch our glorious wictory instead?",
+   "ru": "Почему пы фам не постоять фон\nтам и не посмотреть на нашу\nслафную попеду?"
+  },
+  {
+   "id": 63,
+   "en": "You vill be wery impressed vith dhe\nspeed and power of dhe Sharking!",
+   "ru": "Фас очень фпечатлят скорость и\nмощь Шаркинга!"
+  },
+  {
+   "id": 64,
+   "en": "Ant perhaps you vill realize vhere\nyour loyalties should lie.",
+   "ru": "И, может, фы поймёте, кому\nтолшны пыть ферны."
+  },
+  {
+   "id": 65,
+   "en": "I'm sorry, Princess Sadira.",
+   "ru": "Простите, принцесса Садира."
+  },
+  {
+   "id": 66,
+   "en": "...   ...   ...",
+   "ru": ""
+  },
+  {
+   "id": 67,
+   "en": "Heed my words, Zakov!",
+   "ru": "Слушайте меня, Заков!"
+  },
+  {
+   "id": 68,
+   "en": "I will not state my warning again!\nRetreat now or be destroyed!",
+   "ru": "Повторять не стану! Отступайте,\nили будете уничтожены!"
+  },
+  {
+   "id": 69,
+   "en": "Aargh!",
+   "ru": "Аргх!"
+  },
+  {
+   "id": 70,
+   "en": "I vill defeat dhese Kingdom fools, and\ndhen I vill defeat YOU!",
+   "ru": "Я разопью этих тураков из\nКоролефстфа, а потом разопью\nТЕПЯ!"
+  },
+  {
+   "id": 71,
+   "en": "Sadira!",
+   "ru": "Садира!"
+  },
+  {
+   "id": 72,
+   "en": "What have I done?",
+   "ru": "Что я наделала?"
+  },
+  {
+   "id": 73,
+   "en": "(I don't know...)",
+   "ru": "(Не знаю...)"
+  }
+ ]
+}

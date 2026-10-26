@@ -1,0 +1,21 @@
+{
+ "file": 681,
+ "kind": "story",
+ "lines": [
+  {
+   "id": 0,
+   "en": "This is, like, too suspicious. It has to\nbe an ambush!",
+   "ru": "Это, типа, слишком\nподозрительно. Наверняка\nзасада!"
+  },
+  {
+   "id": 1,
+   "en": "But who are the ambushers? Has the\nKingdom Army followed us here?",
+   "ru": "Но кто в засаде? Армия\nКоролевства пошла за нами\nсюда?"
+  },
+  {
+   "id": 2,
+   "en": "Or are these Muspel soldiers?",
+   "ru": "Или это муспельские солдаты?"
+  }
+ ]
+}

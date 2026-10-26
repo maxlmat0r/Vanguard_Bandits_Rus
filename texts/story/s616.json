@@ -1,0 +1,26 @@
+{
+ "file": 616,
+ "kind": "story",
+ "lines": [
+  {
+   "id": 0,
+   "en": "Here we are, Sadira. The Imperial\nPalace. You still have time to leave\nif you wish.",
+   "ru": "Вот мы и здесь, Садира.\nИмператорский дворец. Ещё не\nпоздно уйти, если хочешь."
+  },
+  {
+   "id": 1,
+   "en": "No, Bastion. This is what I want.",
+   "ru": "Нет, Бастион. Я этого хочу."
+  },
+  {
+   "id": 2,
+   "en": "Look who's waiting...",
+   "ru": "Смотри, кто нас ждёт..."
+  },
+  {
+   "id": 3,
+   "en": "Faulkner!",
+   "ru": "Фолкнер!"
+  }
+ ]
+}

@@ -1,0 +1,331 @@
+{
+ "file": 152,
+ "kind": "battle",
+ "lines": [
+  {
+   "id": 0,
+   "en": "These ATACs are from the Kingdom!",
+   "ru": "Эти АТАКи из Королевства!"
+  },
+  {
+   "id": 1,
+   "en": "Their leader is Commander Galvas.\nHe was a good friend, so perhaps he\nwill listen to me.",
+   "ru": "Их ведёт командир Гальвас. Он\nбыл моим добрым другом, может,\nон меня выслушает."
+  },
+  {
+   "id": 2,
+   "en": "That dark-blue ATAC is familiar,\nbut I do not recall its name--",
+   "ru": "Этот тёмно-синий АТАК мне\nзнаком, но имени не припомню--"
+  },
+  {
+   "id": 3,
+   "en": "Wait! It is the Sylpheed! An excavated\nATAC being used by the daughter of\nthe Imperial Emperor!",
+   "ru": "Постой! Это Сильфид! Древний\nАТАК дочери императора!"
+  },
+  {
+   "id": 4,
+   "en": "And that other ATAC is...",
+   "ru": "А тот другой АТАК..."
+  },
+  {
+   "id": 5,
+   "en": "The Alba? What the hell is going on?!",
+   "ru": "Альба? Что, чёрт возьми,\nпроисходит?!"
+  },
+  {
+   "id": 6,
+   "en": "Attention, pilot of the Serata ATAC!\nAre you Commander Galvas?",
+   "ru": "Внимание, пилот АТАКа Серата!\nВы командир Гальвас?"
+  },
+  {
+   "id": 7,
+   "en": "Is that the voice of General Thomson?",
+   "ru": "Это голос генерала Томсона?"
+  },
+  {
+   "id": 8,
+   "en": "Yes, Galvas, it is me. Please listen to\nwhat I have to say--",
+   "ru": "Да, Гальвас, это я. Прошу,\nвыслушай меня--"
+  },
+  {
+   "id": 9,
+   "en": "First, Thomson, you will listen to me!",
+   "ru": "Сперва ты выслушаешь меня,\nТомсон!"
+  },
+  {
+   "id": 10,
+   "en": "I have many questions for you, but I\nwill begin with the simplest.",
+   "ru": "У меня много вопросов, но начну\nс самого простого."
+  },
+  {
+   "id": 11,
+   "en": "Why are you now in the company of\nthe Imperial Army?!",
+   "ru": "Почему ты теперь с имперской\nармией?!"
+  },
+  {
+   "id": 12,
+   "en": "I will explain, Galvas, if you\nwill only stop speaking and hear\nmy words!",
+   "ru": "Я объясню, Гальвас, если ты\nзамолчишь и выслушаешь!"
+  },
+  {
+   "id": 13,
+   "en": "What is there to explain? You are\nquite obviously a traitor to your\nfellow soldiers and your country!",
+   "ru": "Что тут объяснять? Ты явный\nпредатель своих товарищей и\nсвоей страны!"
+  },
+  {
+   "id": 14,
+   "en": "I would rather you explain how the\nImperial Army came into possession\nof the Alba ATAC!",
+   "ru": "Лучше объясни, как к имперской\nармии попал АТАК Альба!"
+  },
+  {
+   "id": 15,
+   "en": "The Alba is being controlled by His\nHighness, Prince Bastion!",
+   "ru": "Альбой управляет Его\nВысочество, принц Бастион!"
+  },
+  {
+   "id": 16,
+   "en": "What?! You lie!",
+   "ru": "Что?! Ты лжёшь!"
+  },
+  {
+   "id": 17,
+   "en": "When the royal capital fell fifteen\nyears ago, Alugard spirited away\nwith the King's son! It's the truth!",
+   "ru": "Когда пятнадцать лет назад\nпала столица, Алугард унёс сына\nкороля! Это правда!"
+  },
+  {
+   "id": 18,
+   "en": "And where is Alugard?!",
+   "ru": "А где Алугард?!"
+  },
+  {
+   "id": 19,
+   "en": "He died while defending His Highness\nfrom General Faulkner.",
+   "ru": "Он погиб, защищая Его\nВысочество от генерала Фолкнера."
+  },
+  {
+   "id": 20,
+   "en": "I met His Highness unexpectedly in\nthe Imperial palace...",
+   "ru": "Я случайно встретил Его\nВысочество в императорском\nдворце..."
+  },
+  {
+   "id": 21,
+   "en": "And with Princess Sadira's help, we\nare journeying to find Ultragunner.",
+   "ru": "И с помощью принцессы Садиры\nмы ищем Ультраганнер."
+  },
+  {
+   "id": 22,
+   "en": "Once we have obtained it, Bastion\nwill have the power to end the war!",
+   "ru": "Получив его, Бастион сможет\nзакончить войну!"
+  },
+  {
+   "id": 23,
+   "en": "Stop this nonsense, Thomson! Prince\nBastion was slain when the Empire\ninvaded the capital!",
+   "ru": "Прекрати этот вздор, Томсон!\nПринц Бастион погиб, когда\nИмперия захватила столицу!"
+  },
+  {
+   "id": 24,
+   "en": "Your ridiculous story only serves to\nremind me of the intense pain I have\nfelt since that awful day!",
+   "ru": "Твоя нелепая история лишь\nбередит боль, что терзает меня с\nтого ужасного дня!"
+  },
+  {
+   "id": 25,
+   "en": "It is NOT a story, Galvas! I swear on\nmy life that I speak the truth!",
+   "ru": "Это НЕ история, Гальвас! Клянусь\nжизнью, я говорю правду!"
+  },
+  {
+   "id": 26,
+   "en": "Silence, traitor!!",
+   "ru": "Молчать, предатель!!"
+  },
+  {
+   "id": 27,
+   "en": "What are you doing?!",
+   "ru": "Что вы делаете?!"
+  },
+  {
+   "id": 28,
+   "en": "You are no longer a general in the\nKingdom Army! You are a criminal\nwho deserves death!",
+   "ru": "Ты больше не генерал армии\nКоролевства! Ты преступник,\nдостойный смерти!"
+  },
+  {
+   "id": 29,
+   "en": "Or do you deny that you were not\nthe one who supplied the Empire\nwith a floorplan of Araba Castle?",
+   "ru": "Или будешь отрицать, что это\nты передал Империи план замка\nАраба?"
+  },
+  {
+   "id": 30,
+   "en": "Your betrayals end today, Thomson,\nas does your miserable life!",
+   "ru": "Сегодня твоим предательствам\nконец, Томсон, как и твоей\nжалкой жизни!"
+  },
+  {
+   "id": 31,
+   "en": "Thomson!",
+   "ru": "Томсон!"
+  },
+  {
+   "id": 32,
+   "en": "No!",
+   "ru": "Нет!"
+  },
+  {
+   "id": 33,
+   "en": "You...",
+   "ru": "Ты..."
+  },
+  {
+   "id": 34,
+   "en": "Do you know what you've done?!",
+   "ru": "Ты понимаешь, что ты наделал?!"
+  },
+  {
+   "id": 35,
+   "en": "Thomson's wife was a prisoner of\nthe Empire! He wanted me to return\nhere and claim the throne!",
+   "ru": "Жена Томсона была в плену у\nИмперии! Он хотел, чтобы я\nвернулся и занял трон!"
+  },
+  {
+   "id": 36,
+   "en": "All he wanted was to bring peace to\nthe citizens of the Kingdom, and you\nstrike him down?!",
+   "ru": "Он хотел лишь мира для жителей\nКоролевства, а ты его убил?!"
+  },
+  {
+   "id": 37,
+   "en": "I know about you, boy! Ganlon gave\nme a full report!",
+   "ru": "Я о тебе знаю, мальчишка!\nГанлон мне всё доложил!"
+  },
+  {
+   "id": 38,
+   "en": "He informed me that a bastard child\nwas baring his fangs at the Kingdom.",
+   "ru": "Он сообщил, что какой-то\nублюдок скалит зубы на\nКоролевство."
+  },
+  {
+   "id": 39,
+   "en": "And having the audacity to use one\nof the Kingdom's own ATACs!",
+   "ru": "Да ещё имеет наглость водить\nАТАК самого Королевства!"
+  },
+  {
+   "id": 40,
+   "en": "Don't you understand?!",
+   "ru": "Да пойми же ты!"
+  },
+  {
+   "id": 41,
+   "en": "Ganlon is the real traitor! He's the\none who gave Araba's secrets away to\nthe Empire, not Thomson!",
+   "ru": "Настоящий предатель - Ганлон!\nЭто он выдал Империи тайны\nАрабы, а не Томсон!"
+  },
+  {
+   "id": 42,
+   "en": "Your words have no weight with me,\nboy! Prepare for death!",
+   "ru": "Твои слова для меня ничего не\nзначат, мальчишка! Готовься к\nсмерти!"
+  },
+  {
+   "id": 43,
+   "en": "Listen to me, Galvas! Ganlon is the\ntraitor in your midst!",
+   "ru": "Послушай, Гальвас! Предатель\nсреди вас - Ганлон!"
+  },
+  {
+   "id": 44,
+   "en": "He drugged his own soldiers and\nattempted to give Araba Castle to\nthe Imperial Army!",
+   "ru": "Он опоил своих солдат и пытался\nотдать замок Араба имперской\nармии!"
+  },
+  {
+   "id": 45,
+   "en": "He has no loyalty to you! He sold you\nout to the Empire simply in exchange\nfor a higher rank!",
+   "ru": "Он тебе не верен! Он продал тебя\nИмперии ради звания повыше!"
+  },
+  {
+   "id": 46,
+   "en": "You keep referring to the great evil\nof the Empire, boy, and yet you are\na soldier in the Imperial Army!",
+   "ru": "Ты всё твердишь о великом зле\nИмперии, мальчишка, а сам\nсолдат имперской армии!"
+  },
+  {
+   "id": 47,
+   "en": "You're a hypocrite, an idiot, or both!",
+   "ru": "Ты лицемер, идиот или и то и\nдругое!"
+  },
+  {
+   "id": 48,
+   "en": "You don't understand, Galvas!",
+   "ru": "Ты не понимаешь, Гальвас!"
+  },
+  {
+   "id": 49,
+   "en": "There is good and evil within the\nKingdom AND the Empire! Sadira\nand I are fighting for good!",
+   "ru": "Добро и зло есть и в Королевстве,\nИ в Империи! Мы с Садирой\nсражаемся за добро!"
+  },
+  {
+   "id": 50,
+   "en": "Enough of your lies, boy! I will rip\nyour tongue from your mouth!",
+   "ru": "Хватит лжи, мальчишка! Я вырву\nтебе язык!"
+  },
+  {
+   "id": 51,
+   "en": "Why won't you just LISTEN to me,\nyou grumpy old idiot?!",
+   "ru": "Да почему ты меня не СЛУШАЕШЬ,\nворчливый старый идиот?!"
+  },
+  {
+   "id": 52,
+   "en": "It will be a great pleasure to claim\nthe head of the Imperial Princess!",
+   "ru": "С огромным удовольствием\nзаберу голову имперской\nпринцессы!"
+  },
+  {
+   "id": 53,
+   "en": "Sorry, old man, but you won't get my\nhead that easily!",
+   "ru": "Прости, старик, но мою голову\nтак просто не взять!"
+  },
+  {
+   "id": 54,
+   "en": "I'm going to make you pay for what\nyou did to Thomson!",
+   "ru": "Ты заплатишь за то, что сделал\nс Томсоном!"
+  },
+  {
+   "id": 55,
+   "en": "You don't have the strength or the\nskill to harm me, little girl! But I\nwelcome you to try!",
+   "ru": "У тебя нет ни сил, ни умения\nменя ранить, девчонка! Но\nмилости прошу, попробуй!"
+  },
+  {
+   "id": 56,
+   "en": "Claire, the daughter of Duke Logan?!",
+   "ru": "Клэр, дочь герцога Логана?!"
+  },
+  {
+   "id": 57,
+   "en": "Shall I have your remains returned\nto Nordilain for a proper burial?!",
+   "ru": "Отправить твои останки в\nНордилейн для достойного\nпогребения?!"
+  },
+  {
+   "id": 58,
+   "en": "Like, you don't understand, old man!\nBastion IS the Prince! I know it!",
+   "ru": "Типа, ты не понимаешь, старик!\nБастион И ЕСТЬ принц! Я знаю!"
+  },
+  {
+   "id": 59,
+   "en": "Stop speaking nonsense, you wench!",
+   "ru": "Хватит молоть чушь, девка!"
+  },
+  {
+   "id": 60,
+   "en": "Stop sassing me, you stupid old fart!",
+   "ru": "Хватит мне дерзить, старый\nпердун!"
+  },
+  {
+   "id": 61,
+   "en": "WHAT?!",
+   "ru": "ЧТО?!"
+  },
+  {
+   "id": 62,
+   "en": "I will find a way to defeat you,\nbastard child!",
+   "ru": "Я найду способ тебя победить,\nублюдок!"
+  },
+  {
+   "id": 63,
+   "en": "I swear it!",
+   "ru": "Клянусь!"
+  },
+  {
+   "id": 64,
+   "en": "Where is Thomson?!",
+   "ru": "Где Томсон?!"
+  }
+ ]
+}

@@ -1,0 +1,326 @@
+{
+ "file": 123,
+ "kind": "battle",
+ "lines": [
+  {
+   "id": 0,
+   "en": "Duyere:\nIt has been far too long since I last\nengaged in battle. I have longed to\nfeel this excitement again...",
+   "ru": "Дюйер:\nСлишком давно я не бывал в бою.\nКак же я истосковался по этому\nволнению..."
+  },
+  {
+   "id": 1,
+   "en": "And I shall delight in slaying these\nignorant fools who dare to defy the\nwill of the Empire!",
+   "ru": "И с каким наслаждением я\nсокрушу этих невежд, что смеют\nпротивиться воле Империи!"
+  },
+  {
+   "id": 2,
+   "en": "Imperial Bodyguard:\nYour Highness, General Faulkner said\nthese ATACs were to be captured, not\ndestroyed.",
+   "ru": "Имперский телохранитель:\nВаше Высочество, генерал Фолкнер\nвелел захватить эти АТАКи, а не\nуничтожать."
+  },
+  {
+   "id": 3,
+   "en": "Yes, and when they resist capture,\nthese rebels will have to be killed.\nI cannot wait!",
+   "ru": "Да, а если мятежники станут\nсопротивляться, их придётся\nубить. Не могу дождаться!"
+  },
+  {
+   "id": 4,
+   "en": "Now still your insolent tongue and\nescort me into battle!",
+   "ru": "А теперь придержи свой дерзкий\nязык и сопроводи меня в бой!"
+  },
+  {
+   "id": 5,
+   "en": "You receive my sincere admiration,\nold man! A lesser warrior would\nhave fled at my mere approach!",
+   "ru": "Восхищаюсь тобой, старик! Воин\nпослабее бежал бы, едва завидев\nменя!"
+  },
+  {
+   "id": 6,
+   "en": "Before I kill you, perhaps you could\nconfess as to which of your precious\ncompanions is the royal one?",
+   "ru": "Прежде чем умереть, не скажешь,\nкто из твоих спутников - особа\nкоролевской крови?"
+  },
+  {
+   "id": 7,
+   "en": "The boy for whom you will so gladly\nsacrifice your own miserable life?",
+   "ru": "Мальчишка, ради которого ты\nтак охотно отдашь свою жалкую\nжизнь?"
+  },
+  {
+   "id": 8,
+   "en": "You will never find him, Faulkner!\nBut he will find you, and he will\nannihilate your accursed Empire!",
+   "ru": "Тебе его не найти, Фолкнер! Но он\nнайдёт тебя и уничтожит твою\nпроклятую Империю!"
+  },
+  {
+   "id": 9,
+   "en": "Defiant to the end. I would expect no\nless from you.",
+   "ru": "Непокорен до конца. Иного я от\nтебя и не ждал."
+  },
+  {
+   "id": 10,
+   "en": "Now let us finish this with haste.\nThe sooner you die, the sooner the\neternal reign will begin!",
+   "ru": "Покончим с этим поскорее. Чем\nраньше ты умрёшь, тем раньше\nначнётся вечное царствие!"
+  },
+  {
+   "id": 11,
+   "en": "Death to anyone who stands in the\nEmpire's path!",
+   "ru": "Смерть всякому, кто встанет на\nпути Империи!"
+  },
+  {
+   "id": 12,
+   "en": "It's your pathetic Empire which is\ndestined to perish!",
+   "ru": "Это ваша жалкая Империя\nобречена на гибель!"
+  },
+  {
+   "id": 13,
+   "en": "We will never let you fulfill your\nevil ambitions!",
+   "ru": "Мы не дадим вам осуществить\nваши злые замыслы!"
+  },
+  {
+   "id": 14,
+   "en": "Ione:\n(This must be a Sarbelas ATAC. Very\nquick and powerful, from what I've\nheard. I must be cautious.)",
+   "ru": "Иона:\n(Это, должно быть, Сарбелас.\nГоворят, быстрый и мощный\nАТАК. Надо быть осторожной.)"
+  },
+  {
+   "id": 15,
+   "en": "It's because of sadistic scum like you\nthat these wars will never end!",
+   "ru": "Из-за таких жестоких мерзавцев,\nкак ты, эти войны никогда не\nзакончатся!"
+  },
+  {
+   "id": 16,
+   "en": "Why do you bother to fight? Whether\nnow or later, your ignominious fate\nis to die at my hand...",
+   "ru": "Зачем ты вообще сражаешься?\nРано или поздно тебе суждено\nбесславно пасть от моей руки..."
+  },
+  {
+   "id": 17,
+   "en": "What? What's going on?",
+   "ru": "Что? Что происходит?"
+  },
+  {
+   "id": 18,
+   "en": "I...I can't move!",
+   "ru": "Я... я не могу двигаться!"
+  },
+  {
+   "id": 19,
+   "en": "Something's wrong with this ATAC!",
+   "ru": "С этим АТАКом что-то не так!"
+  },
+  {
+   "id": 20,
+   "en": "I've never been so thoroughly\nhumiliated in all my life!",
+   "ru": "Никогда в жизни меня так не\nунижали!"
+  },
+  {
+   "id": 21,
+   "en": "Imperial Bodyguard:\nYour Highness, why have you stopped\nmoving? The enemy is attacking!",
+   "ru": "Имперский телохранитель:\nВаше Высочество, почему вы\nостановились? Враг атакует!"
+  },
+  {
+   "id": 22,
+   "en": "I know that, you fool! It's my ATAC...\nthe repairs weren't completed before\nI left the castle!",
+   "ru": "Знаю, болван! Это мой АТАК... его\nне успели починить до того, как\nя покинул замок!"
+  },
+  {
+   "id": 23,
+   "en": "That was stup...very ill-advised,\nYour Highness! We must retreat to\ninsure your safety!",
+   "ru": "Это было глу... весьма\nопрометчиво, Ваше Высочество!\nНадо отступать!"
+  },
+  {
+   "id": 24,
+   "en": "But I don't want to leave until I've\nbeaten them all! I'm enjoying this!",
+   "ru": "Но я не хочу уходить, пока не\nразобью их всех! Мне весело!"
+  },
+  {
+   "id": 25,
+   "en": "Please, Your Highness! You are the\nfuture of the Empire! Your death\nwould be our end!",
+   "ru": "Прошу, Ваше Высочество! Вы -\nбудущее Империи! Ваша смерть\nстанет нашим концом!"
+  },
+  {
+   "id": 26,
+   "en": "Death? Uh...yes, well, while I would\nmuch prefer to continue, I shall heed\nyour advice for the moment.",
+   "ru": "Смерть? Э-э... ну что ж, хоть я и\nхотел бы продолжить, пока\nпоследую твоему совету."
+  },
+  {
+   "id": 27,
+   "en": "(Prince Duyere has retreated?! And\nafter puling like a spoiled brat to\ncome here with me?)",
+   "ru": "(Принц Дюйер отступил?! А ведь\nныл, как избалованный ребёнок,\nчтобы его взяли!)"
+  },
+  {
+   "id": 28,
+   "en": "(That fool is entirely unworthy to\ninherit the Empire. He'll never\npossess the necessary maturity!)",
+   "ru": "(Этот глупец недостоин трона\nИмперии. Ему никогда не\nповзрослеть!)"
+  },
+  {
+   "id": 29,
+   "en": "(A foolish attack, easily countered.\nI expected more from you, Alugard.\nSo much more...)",
+   "ru": "(Глупая атака, её легко отразить.\nЯ ждал от тебя большего,\nАлугард. Гораздо большего...)"
+  },
+  {
+   "id": 30,
+   "en": "(Hmmm? What's this? My leg servos\nare losing pressure...and my torso\nactuators have been damaged.)",
+   "ru": "(Хм? Что это? Сервоприводы ног\nтеряют давление... и приводы\nкорпуса повреждены.)"
+  },
+  {
+   "id": 31,
+   "en": "(Even in death, you surprise me.)",
+   "ru": "(Даже умирая, ты меня\nудивляешь.)"
+  },
+  {
+   "id": 32,
+   "en": "This battle has grown tiresome.\nCapture the remaining rebels, and\ndo it quickly.",
+   "ru": "Эта битва мне наскучила.\nЗахватите оставшихся\nмятежников, и побыстрее."
+  },
+  {
+   "id": 33,
+   "en": "Imperial Soldier:\nYes, sir!",
+   "ru": "Имперский солдат:\nСлушаюсь!"
+  },
+  {
+   "id": 34,
+   "en": "...   ...   ...",
+   "ru": ""
+  },
+  {
+   "id": 35,
+   "en": "Impressive...very impressive. Neither\nhis fighting skills nor his immense\nstrength have dwindled with age.",
+   "ru": "Впечатляет... весьма впечатляет.\nНи мастерство, ни огромная сила\nне ослабли с годами."
+  },
+  {
+   "id": 36,
+   "en": "Which of you will lose to...rather,\nwhich of you chooses to fight the old\nman next?",
+   "ru": "Кто из вас проиграет... то есть,\nкто из вас следующим сразится\nсо стариком?"
+  },
+  {
+   "id": 37,
+   "en": "Imperial Soldier:\nI gladly volunteer to dispatch this\nrebel for you, sir!",
+   "ru": "Имперский солдат:\nПозвольте мне расправиться с\nэтим мятежником, командир!"
+  },
+  {
+   "id": 38,
+   "en": "I've grown tired of feeding you these\namateurs, old man. It's time for you\nto embrace your eternal judgment.",
+   "ru": "Надоело кормить тебя этими\nдилетантами, старик. Пора\nпредстать перед вечным судом."
+  },
+  {
+   "id": 39,
+   "en": "What?! Faulkner is retreating?!",
+   "ru": "Что?! Фолкнер отступает?!"
+  },
+  {
+   "id": 40,
+   "en": "I can't finish off these rebels\nwithout him!",
+   "ru": "Без него мне не добить этих\nмятежников!"
+  },
+  {
+   "id": 41,
+   "en": "Father?! FATHER!!",
+   "ru": "Отец?! ОТЕЦ!!"
+  },
+  {
+   "id": 42,
+   "en": "The battle is won...",
+   "ru": "Битва выиграна..."
+  },
+  {
+   "id": 43,
+   "en": "We must attend to Kamorge!\nI shall find that murderer!",
+   "ru": "Нужно помочь Каморжу! А я\nнайду этого убийцу!"
+  },
+  {
+   "id": 44,
+   "en": "Oh, Father, please be alright...",
+   "ru": "Ох, отец, только бы ты был жив..."
+  },
+  {
+   "id": 45,
+   "en": "I will have revenge for you, Father!\nThat Imperial bastard won't escape\nmy wrath!",
+   "ru": "Я отомщу за тебя, отец! Этот\nимперский ублюдок не уйдёт от\nмоего гнева!"
+  },
+  {
+   "id": 46,
+   "en": "...   ...   ...",
+   "ru": ""
+  },
+  {
+   "id": 47,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 48,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 49,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 50,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 51,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 52,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 53,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 54,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 55,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 56,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 57,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 58,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 59,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 60,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 61,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 62,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 63,
+   "en": "\n\n\n",
+   "ru": ""
+  }
+ ]
+}

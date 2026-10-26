@@ -1,0 +1,496 @@
+{
+ "file": 174,
+ "kind": "battle",
+ "lines": [
+  {
+   "id": 0,
+   "en": "It's been a long time since you joined\nme for a walk, Claire! What are you\ngoing to ask me for? Ha, ha, ha!",
+   "ru": "Давно ты не гуляла со мной,\nКлэр! О чём будешь просить?\nХа-ха-ха!"
+  },
+  {
+   "id": 1,
+   "en": "Like, I just wanted some quality time\nwith you, Daddy.",
+   "ru": "Типа, я просто хотела побыть с\nтобой, папа."
+  },
+  {
+   "id": 2,
+   "en": "I can't help but think back to when\nyou were still a child.",
+   "ru": "Так и вспоминаю, какой ты была\nмаленькой."
+  },
+  {
+   "id": 3,
+   "en": "You'd always drag me outside to\nplay with you, pulling on my little\nfinger with your tiny hands!",
+   "ru": "Вечно тащила меня гулять,\nдёргая за палец своими\nкрохотными ручками!"
+  },
+  {
+   "id": 4,
+   "en": "You were such an adorable little\ngirl, I couldn't stand it!",
+   "ru": "Ты была такой очаровательной\nдевочкой, просто сил нет!"
+  },
+  {
+   "id": 5,
+   "en": "Daddy, let's live in the now, okay?!\nYou're SO embarrassing when you\nstart having flashbacks!",
+   "ru": "Папа, давай жить настоящим,\nладно?! Ты ТАК позоришь меня\nсвоими воспоминаниями!"
+  },
+  {
+   "id": 6,
+   "en": "And, like, that pulling-your-finger\nstory always sounds gross to me.",
+   "ru": "И, типа, эта история про палец\nвсегда звучит противно."
+  },
+  {
+   "id": 7,
+   "en": "Not to mention that you totally make\nme sound like a midget.",
+   "ru": "Не говоря уж о том, что я у тебя\nвыхожу реально карлицей."
+  },
+  {
+   "id": 8,
+   "en": "Ha, ha, ha! Claire, you always know\nhow to make me laugh!",
+   "ru": "Ха-ха-ха! Клэр, ты всегда умеешь\nменя рассмешить!"
+  },
+  {
+   "id": 9,
+   "en": "(Wheeze!) Ha, ha, ha! (Wheeze!)",
+   "ru": "(Хрип!) Ха-ха-ха! (Хрип!)"
+  },
+  {
+   "id": 10,
+   "en": "Daddy! How many times have I asked\nyou NOT to laugh like that?!",
+   "ru": "Папа! Сколько раз просить тебя\nНЕ смеяться так?!"
+  },
+  {
+   "id": 11,
+   "en": "I'm always afraid you're going to\nstart having seizures or something.",
+   "ru": "Я всё время боюсь, что с тобой\nслучится припадок или типа\nтого."
+  },
+  {
+   "id": 12,
+   "en": "And, like, it's more embarrassing\nthan all those stories about me as\na little midget girl.",
+   "ru": "И, типа, это позорнее всех\nисторий про меня маленькую\nкарлицу."
+  },
+  {
+   "id": 13,
+   "en": "If anyone heard you laugh like that,\nI would...",
+   "ru": "Если бы кто-то услышал, как ты\nсмеёшься, я бы..."
+  },
+  {
+   "id": 14,
+   "en": "...totally...",
+   "ru": "...реально..."
+  },
+  {
+   "id": 15,
+   "en": "...die!",
+   "ru": "...умерла!"
+  },
+  {
+   "id": 16,
+   "en": "Do you think she knows we heard\ntheir entire conversation?",
+   "ru": "Думаешь, она знает, что мы\nслышали весь разговор?"
+  },
+  {
+   "id": 17,
+   "en": "Well, let's hope she didn't just hear\nYOU say THAT!",
+   "ru": "Будем надеяться, она не\nслышала, как ТЫ это сказал!"
+  },
+  {
+   "id": 18,
+   "en": "How long have you guys been there?",
+   "ru": "Давно вы тут стоите?"
+  },
+  {
+   "id": 19,
+   "en": "We, uh, just arrived a moment ago!",
+   "ru": "Мы, э-э, только что подошли!"
+  },
+  {
+   "id": 20,
+   "en": "Isn't that right, Bastion?!",
+   "ru": "Правда, Бастион?!"
+  },
+  {
+   "id": 21,
+   "en": "Uh...right! Right! We just arrived, and\nwe didn't hear anything!",
+   "ru": "Э-э... да! Да! Только что подошли\nи ничего не слышали!"
+  },
+  {
+   "id": 22,
+   "en": "Is that right?",
+   "ru": "Вот как?"
+  },
+  {
+   "id": 23,
+   "en": "What didn't you hear?",
+   "ru": "Чего не слышали?"
+  },
+  {
+   "id": 24,
+   "en": "Uh...did I say 'hear'?",
+   "ru": "Э-э... я сказал \"слышали\"?"
+  },
+  {
+   "id": 25,
+   "en": "Ha, ha, ha...you're so silly, Bastion!",
+   "ru": "Ха-ха-ха... какой ты глупый,\nБастион!"
+  },
+  {
+   "id": 26,
+   "en": "Hmm, hmm, hmm...",
+   "ru": "Хм-хм-хм..."
+  },
+  {
+   "id": 27,
+   "en": "Ah, ha, ha, HA!!",
+   "ru": "А-ха-ха-ХА!!"
+  },
+  {
+   "id": 28,
+   "en": "I heard EVERYTHING, Claire, and it\nwas hilarious!!",
+   "ru": "Я слышала ВСЁ, Клэр, и это было\nуморительно!!"
+  },
+  {
+   "id": 29,
+   "en": "Pulling your dad's finger--!!",
+   "ru": "Дёргать папу за палец--!!"
+  },
+  {
+   "id": 30,
+   "en": "HA, HA, HA, HA, HA!!!",
+   "ru": "ХА-ХА-ХА-ХА-ХА!!!"
+  },
+  {
+   "id": 31,
+   "en": "Sadira?!",
+   "ru": "Садира?!"
+  },
+  {
+   "id": 32,
+   "en": "I didn't think it was THAT funny.",
+   "ru": "По-моему, не НАСТОЛЬКО это\nсмешно."
+  },
+  {
+   "id": 33,
+   "en": "Oh, my ribs!! Claire, you and your\nfather ought to take your act out on\nthe road! You'd make a fortune!",
+   "ru": "Ой, мои рёбра!! Клэр, вам с отцом\nнадо выступать на гастролях!\nОзолотились бы!"
+  },
+  {
+   "id": 34,
+   "en": "So tell me, Claire, have you pulled\nany fingers lately? Heh, heh, heh!",
+   "ru": "Скажи, Клэр, дёргала\nкого-нибудь за палец в последнее\nвремя? Хе-хе-хе!"
+  },
+  {
+   "id": 35,
+   "en": "Like, I think I can guess that you\nheard everything we said...",
+   "ru": "Типа, я так понимаю, вы\nслышали всё, что мы говорили..."
+  },
+  {
+   "id": 36,
+   "en": "And that makes me SO angry that I'm\ngonna have to beat you all up!",
+   "ru": "И это меня ТАК злит, что\nпридётся вас всех поколотить!"
+  },
+  {
+   "id": 37,
+   "en": "Calm down, Claire! We're merely\npassing through Nordilain on our\nway to the Imperial capital.",
+   "ru": "Успокойся, Клэр! Мы лишь\nпроезжаем через Нордилейн на\nпути в имперскую столицу."
+  },
+  {
+   "id": 38,
+   "en": "I didn't think you would mind!",
+   "ru": "Я думала, ты не будешь против!"
+  },
+  {
+   "id": 39,
+   "en": "But you heard, didn't you?",
+   "ru": "Но вы же слышали?"
+  },
+  {
+   "id": 40,
+   "en": "Of course I did, Claire, but you don't\nhave to worry. I'll keep your finger-\npulling tendencies a secret!",
+   "ru": "Слышала, Клэр, но не волнуйся.\nТвою страсть к дёрганью\nпальцев я сохраню в тайне!"
+  },
+  {
+   "id": 41,
+   "en": "You can't EVEN keep a secret, Sadira!",
+   "ru": "Да ты ВООБЩЕ не умеешь хранить\nтайны, Садира!"
+  },
+  {
+   "id": 42,
+   "en": "Now that YOU know, I might as well\nannounce it to the entire Empire!",
+   "ru": "Раз знаешь ТЫ, можно сразу\nобъявить на всю Империю!"
+  },
+  {
+   "id": 43,
+   "en": "'Hey, everyone, I was a midget and\nmy dad laughs like he's having an\nasthma attack!'",
+   "ru": "\"Эй, все, я была карлицей, а мой\nпапа смеётся, будто у него\nприступ астмы!\""
+  },
+  {
+   "id": 44,
+   "en": "I think you're exaggerating just a--",
+   "ru": "По-моему, ты немного\nпреувеличива--"
+  },
+  {
+   "id": 45,
+   "en": "I totally remember how your loose\ntongue made me suffer when we\nwere at the military academy!",
+   "ru": "Я реально помню, как я страдала\nиз-за твоего длинного языка в\nвоенной академии!"
+  },
+  {
+   "id": 46,
+   "en": "Like, when I accidentally walked\ninto that cute boy, and you told the\nwhole school I did it on purpose?",
+   "ru": "Типа, когда я налетела на\nмилого мальчика, а ты сказала\nвсей школе, что нарочно?"
+  },
+  {
+   "id": 47,
+   "en": "I got totally stuck with the nickname\n'Groper Girl' for the rest of the year!\nAnd it was YOU who told everyone!",
+   "ru": "Меня реально весь год звали\n\"Щупальщицей\"! И всем\nрассказала ТЫ!"
+  },
+  {
+   "id": 48,
+   "en": "Sadira, you are the epitome of evil.",
+   "ru": "Садира, ты воплощение зла."
+  },
+  {
+   "id": 49,
+   "en": "Sadira, you're inhuman.",
+   "ru": "Садира, ты бесчеловечна."
+  },
+  {
+   "id": 50,
+   "en": "It didn't happen like that! I mean,\nnot EXACTLY like that!",
+   "ru": "Всё было не так! То есть не\nСОВСЕМ так!"
+  },
+  {
+   "id": 51,
+   "en": "Claire's just upset at me because of\nwhat happened between her and her\nfirst love!",
+   "ru": "Клэр просто злится на меня\nиз-за того, что случилось с её\nпервой любовью!"
+  },
+  {
+   "id": 52,
+   "en": "Oh, yeah, the guy who picked me off\nthe ground after I bumped into that\ncute boy. 'He's nice,' I said to you.",
+   "ru": "А, тот парень, что поднял меня,\nкогда я налетела на мальчика. Я\nсказала: \"Он славный\"."
+  },
+  {
+   "id": 53,
+   "en": "YOU decided I was in love with him,\nand YOU told the entire school how I,\nlike, 'felt' about him.",
+   "ru": "ТЫ решила, что я влюблена, и ТЫ\nразболтала всей школе, что я,\nтипа, к нему \"чувствую\"."
+  },
+  {
+   "id": 54,
+   "en": "He was so angry at me and ashamed\nof himself that he dropped out.",
+   "ru": "Он так на меня злился и так\nстыдился, что бросил учёбу."
+  },
+  {
+   "id": 55,
+   "en": "Then the rumors totally started that\nI was going to have his love child.\nRumors YOU started, Sadira.",
+   "ru": "А потом реально пошли слухи,\nчто я от него беременна. Слухи,\nкоторые пустила ТЫ, Садира."
+  },
+  {
+   "id": 56,
+   "en": "That was the most humiliating\nexperience of my entire life, and\nit was all because of YOU!",
+   "ru": "Это был самый унизительный\nслучай в моей жизни, и всё из-за\nТЕБЯ!"
+  },
+  {
+   "id": 57,
+   "en": "You've got it all wrong, Claire!",
+   "ru": "Ты всё не так поняла, Клэр!"
+  },
+  {
+   "id": 58,
+   "en": "I have the strong suspicion that she's\nexactly right.",
+   "ru": "У меня сильное подозрение, что\nона совершенно права."
+  },
+  {
+   "id": 59,
+   "en": "I guarantee she's right.",
+   "ru": "Ручаюсь, она права."
+  },
+  {
+   "id": 60,
+   "en": "And now you totally know my most\nembarrassing secret!",
+   "ru": "А теперь вы реально знаете мою\nсамую постыдную тайну!"
+  },
+  {
+   "id": 61,
+   "en": "If I let you go, Daddy and me will be\nthe laughingstocks of the Continent!",
+   "ru": "Если я вас отпущу, мы с папой\nстанем посмешищем всего\nКонтинента!"
+  },
+  {
+   "id": 62,
+   "en": "So now we're gonna have to beat up\nyou and your friends instead!",
+   "ru": "Так что придётся поколотить\nтебя и твоих друзей!"
+  },
+  {
+   "id": 63,
+   "en": "Claire...",
+   "ru": "Клэр..."
+  },
+  {
+   "id": 64,
+   "en": "You never told me what Sadira had\ndone to you. And now that I know...",
+   "ru": "Ты никогда не рассказывала, что\nтебе сделала Садира. А теперь,\nкогда я знаю..."
+  },
+  {
+   "id": 65,
+   "en": "I'm going to give that little brat the\nspanking of a lifetime!",
+   "ru": "Я задам этой маленькой поганке\nтакую порку, что она её не\nзабудет!"
+  },
+  {
+   "id": 66,
+   "en": "Hold on, Duke Logan!",
+   "ru": "Погодите, герцог Логан!"
+  },
+  {
+   "id": 67,
+   "en": "Can the rest of us pass through to the\nEmpire while you and your daughter\npunish Sadira?",
+   "ru": "Может, остальные проедут в\nИмперию, пока вы с дочерью\nнаказываете Садиру?"
+  },
+  {
+   "id": 68,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 69,
+   "en": "Is THAT the kind of relationship we\nhave, Bastion? You're throwing me\naway since I'm no longer useful?!",
+   "ru": "Так вот какие у нас ОТНОШЕНИЯ,\nБастион? Бросаешь меня, раз я\nбольше не нужна?!"
+  },
+  {
+   "id": 70,
+   "en": "Relationship?! You and Bastion are\nacquaintances, and nothing more!",
+   "ru": "Отношения?! Вы с Бастионом\nпросто знакомые, не более!"
+  },
+  {
+   "id": 71,
+   "en": "Enough debating, okay?! You all\nknow my secret, and so you're all\ngoing to get, like, beaten up!",
+   "ru": "Хватит спорить, ладно?! Вы все\nзнаете мою тайну, так что, типа,\nвсе получите!"
+  },
+  {
+   "id": 72,
+   "en": "Miss Claire! I detected these intruders\nand came to your assistance at once!",
+   "ru": "Госпожа Клэр! Я засёк\nнарушителей и сразу поспешил\nвам на помощь!"
+  },
+  {
+   "id": 73,
+   "en": "Shion! Good timing!",
+   "ru": "Шион! Как вовремя!"
+  },
+  {
+   "id": 74,
+   "en": "Destroy them all!",
+   "ru": "Уничтожь их всех!"
+  },
+  {
+   "id": 75,
+   "en": "With pleasure, Miss Claire.",
+   "ru": "С удовольствием, госпожа Клэр."
+  },
+  {
+   "id": 76,
+   "en": "Now I totally get to have my revenge\non you, Sadira!",
+   "ru": "Теперь я реально отомщу тебе,\nСадира!"
+  },
+  {
+   "id": 77,
+   "en": "I still have yet to understand why\nyou're so angry at me, Claire!",
+   "ru": "Я до сих пор не понимаю, почему\nты так на меня злишься, Клэр!"
+  },
+  {
+   "id": 78,
+   "en": "Drop the act, Sadira! You KNOW\nthat what you did was messed up,\nand now you're gonna pay for it!",
+   "ru": "Хватит притворяться, Садира!\nТы ЗНАЕШЬ, что поступила\nгадко, и теперь заплатишь!"
+  },
+  {
+   "id": 79,
+   "en": "Could you please reconsider allowing\nthe rest of us to continue onward?",
+   "ru": "Может, всё-таки пропустите\nостальных дальше?"
+  },
+  {
+   "id": 80,
+   "en": "Unlike certain Princesses, we are all\nable to keep a secret.",
+   "ru": "В отличие от некоторых\nпринцесс, мы все умеем хранить\nтайны."
+  },
+  {
+   "id": 81,
+   "en": "Birds of a feather flock together!\nIf you're hanging out with Sadira,\nyou must be, like, just as bad!",
+   "ru": "Рыбак рыбака видит издалека!\nРаз водишься с Садирой, значит,\nтакой же гадкий!"
+  },
+  {
+   "id": 82,
+   "en": "I totally don't believe you!",
+   "ru": "Я вам реально не верю!"
+  },
+  {
+   "id": 83,
+   "en": "How dare you compare us to Sadira!",
+   "ru": "Как ты смеешь сравнивать нас с\nСадирой!"
+  },
+  {
+   "id": 84,
+   "en": "Now you've made ME angry!",
+   "ru": "Теперь ты разозлила МЕНЯ!"
+  },
+  {
+   "id": 85,
+   "en": "I'm beaten!",
+   "ru": "Я побеждена!"
+  },
+  {
+   "id": 86,
+   "en": "Now the secret of my dad's laugh is\ngoing to spread across the Continent.\nEveryone will mock him...and me!",
+   "ru": "Теперь тайна папиного смеха\nразлетится по Континенту. Все\nбудут смеяться над нами!"
+  },
+  {
+   "id": 87,
+   "en": "I AM SO TOTALLY EMBARRASSED!!",
+   "ru": "МНЕ ТАК РЕАЛЬНО СТЫДНО!!"
+  },
+  {
+   "id": 88,
+   "en": "Claire?!",
+   "ru": "Клэр?!"
+  },
+  {
+   "id": 89,
+   "en": "Damn you all! You'll pay for what\nyou've done to my daughter!",
+   "ru": "Будьте вы прокляты! Вы\nзаплатите за то, что сделали с\nмоей дочерью!"
+  },
+  {
+   "id": 90,
+   "en": "I can't believe I've lost...",
+   "ru": "Не верится, что я проиграл..."
+  },
+  {
+   "id": 91,
+   "en": "And to a group of liars who have\ndefiled my daughter's good name!",
+   "ru": "Да ещё шайке лжецов,\nопорочивших доброе имя моей\nдочери!"
+  },
+  {
+   "id": 92,
+   "en": "Aargh!",
+   "ru": "Аргх!"
+  },
+  {
+   "id": 93,
+   "en": "Daddy?!",
+   "ru": "Папа?!"
+  },
+  {
+   "id": 94,
+   "en": "Okay, that is IT!!",
+   "ru": "Так, всё, ХВАТИТ!!"
+  },
+  {
+   "id": 95,
+   "en": "Once again, Princess Sadira has left\npain and destruction in her wake.",
+   "ru": "И снова принцесса Садира\nоставила за собой боль и\nразрушения."
+  },
+  {
+   "id": 96,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 97,
+   "en": "\n\n\n",
+   "ru": ""
+  }
+ ]
+}

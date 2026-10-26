@@ -1,0 +1,646 @@
+{
+ "file": 128,
+ "kind": "battle",
+ "lines": [
+  {
+   "id": 0,
+   "en": "Prince Bastion, you will fight each of\nmy soldiers in turn. When your ATAC\nis disabled, the test is over.",
+   "ru": "Принц, вы сразитесь с моими\nвоинами по очереди. Откажет\nАТАК - испытанию конец."
+  },
+  {
+   "id": 1,
+   "en": "Attacks that could injure or kill\neither yourself or my soldiers are,\nof course, strictly prohibited.",
+   "ru": "Удары, способные ранить или\nубить вас или моих воинов,\nразумеется, строго запрещены."
+  },
+  {
+   "id": 2,
+   "en": "Are you ready?",
+   "ru": "Вы готовы?"
+  },
+  {
+   "id": 3,
+   "en": "Whenever you are, Marquis Dionne.",
+   "ru": "Как только будете готовы вы,\nмаркиз Дионн."
+  },
+  {
+   "id": 4,
+   "en": "First soldier! Enter the arena!",
+   "ru": "Первый воин! На арену!"
+  },
+  {
+   "id": 5,
+   "en": "Fight!",
+   "ru": "Бой!"
+  },
+  {
+   "id": 6,
+   "en": "Great work, Bastion! One down, who\nknows how many to go!",
+   "ru": "Отлично, Бастион! Один есть, а\nсколько ещё - кто знает!"
+  },
+  {
+   "id": 7,
+   "en": "What a hunk of muscles!",
+   "ru": "Какая гора мускулов!"
+  },
+  {
+   "id": 8,
+   "en": "That was wonderful, Bastion! Keep\nfighting hard!",
+   "ru": "Чудесно, Бастион! Держись!"
+  },
+  {
+   "id": 9,
+   "en": "Good kill, Bastion! That was cool!",
+   "ru": "Здорово уложил, Бастион! Круто!"
+  },
+  {
+   "id": 10,
+   "en": "Bastion, once you're done beating all\nthese soldiers, let's go eat something\nreally creamy!",
+   "ru": "Бастион, когда побьёшь всех этих\nвоинов, пойдём съедим\nчто-нибудь очень сливочное!"
+  },
+  {
+   "id": 11,
+   "en": "That was a textbook victory, Your\nHighness. I can see you were very\nwell-trained.",
+   "ru": "Победа как по учебнику, Ваше\nВысочество. Видно, что вас\nотлично учили."
+  },
+  {
+   "id": 12,
+   "en": "Do not lose concentration, Bastion!",
+   "ru": "Не теряй сосредоточенности,\nБастион!"
+  },
+  {
+   "id": 13,
+   "en": "Oh, Bastion!",
+   "ru": "Ох, Бастион!"
+  },
+  {
+   "id": 14,
+   "en": "Uh...did Bastion fall asleep in the\ncockpit or something?",
+   "ru": "Э-э... Бастион что, уснул в\nкабине?"
+  },
+  {
+   "id": 15,
+   "en": "That sorry effort is sure to impress\nabsolutely no one.",
+   "ru": "Таким жалким выступлением\nникого не впечатлишь."
+  },
+  {
+   "id": 16,
+   "en": "Damn it, Bastion! I didn't even have\ntime to finish my bag of popcorn!",
+   "ru": "Чёрт, Бастион! Я даже попкорн не\nуспел доесть!"
+  },
+  {
+   "id": 17,
+   "en": "Your Highness, I am disappointed in\nyour performance.",
+   "ru": "Ваше Высочество, я разочарован\nвашим выступлением."
+  },
+  {
+   "id": 18,
+   "en": "What the hell was THAT?!",
+   "ru": "Что, чёрт возьми, ЭТО было?!"
+  },
+  {
+   "id": 19,
+   "en": "Oh, Bastion! Ha, ha, ha!",
+   "ru": "Ох, Бастион! Ха-ха-ха!"
+  },
+  {
+   "id": 20,
+   "en": "He must've been nervous! You don't\nthink the Marquis would give him a\nsecond chance, do you?",
+   "ru": "Наверное, он волновался! Как\nдумаете, маркиз даст ему второй\nшанс?"
+  },
+  {
+   "id": 21,
+   "en": "(One of my soldiers was defeated? I\nam already impressed...but the test\nmust continue.)",
+   "ru": "(Один из моих воинов побеждён?\nЯ уже впечатлён... но испытание\nдолжно продолжаться.)"
+  },
+  {
+   "id": 22,
+   "en": "Second soldier! Enter the arena!",
+   "ru": "Второй воин! На арену!"
+  },
+  {
+   "id": 23,
+   "en": "Fight!",
+   "ru": "Бой!"
+  },
+  {
+   "id": 24,
+   "en": "Two down, Bastion! Keep this up and\nI'll take back all those nasty things I\nsaid about you!",
+   "ru": "Двое готовы, Бастион! Так\nдержать, и я возьму назад всё\nплохое, что о тебе говорил!"
+  },
+  {
+   "id": 25,
+   "en": "You GO, Bastion!",
+   "ru": "Давай, Бастион!"
+  },
+  {
+   "id": 26,
+   "en": "Bastion, that was fantastic! I never\nrealized you were this strong!",
+   "ru": "Бастион, это было потрясающе! Я\nи не знала, что ты такой\nсильный!"
+  },
+  {
+   "id": 27,
+   "en": "Bastion, you're my hero!",
+   "ru": "Бастион, ты мой герой!"
+  },
+  {
+   "id": 28,
+   "en": "Man, all this spectating makes me\nreally hungry!",
+   "ru": "Ох, от всех этих зрелищ я так\nпроголодался!"
+  },
+  {
+   "id": 29,
+   "en": "His Highness is demonstrating the\nincredible strength of his heart.\nPerhaps Dionne will surrender!",
+   "ru": "Его Высочество показывает\nневероятную силу духа. Может,\nДионн сдастся!"
+  },
+  {
+   "id": 30,
+   "en": "Beautiful effort. Keep it up.",
+   "ru": "Прекрасная попытка. Так\nдержать."
+  },
+  {
+   "id": 31,
+   "en": "Oh, dear. At least Bastion was able to\ndefeat one of them...do you think that\nwill be enough to pass the test?",
+   "ru": "Ох. Зато одного Бастион победил...\nдумаете, этого хватит для\nиспытания?"
+  },
+  {
+   "id": 32,
+   "en": "I don't know, Milea. Almost anyone\ncan get lucky enough to win a single\nbattle, can't they?",
+   "ru": "Не знаю, Милея. Выиграть один\nбой может повезти почти\nлюбому, правда?"
+  },
+  {
+   "id": 33,
+   "en": "Where was the fighting spirit I\nknow you possess inside?",
+   "ru": "Где же боевой дух, который я\nзнаю в тебе?"
+  },
+  {
+   "id": 34,
+   "en": "Come on, Bastion! I thought you were\nsupposed to FIGHT these guys, not let\nthem hit you!",
+   "ru": "Ну же, Бастион! Я думал, ты\nбудешь с ними ДРАТЬСЯ, а не\nподставляться под удары!"
+  },
+  {
+   "id": 35,
+   "en": "Your Highness, you won't make an\nimpression on the commoners with\nfighting like that.",
+   "ru": "Ваше Высочество, так сражаясь,\nпростой народ не впечатлишь."
+  },
+  {
+   "id": 36,
+   "en": "He'll make an impression, alright...\nan awful one!",
+   "ru": "Впечатлит, ещё как... только\nужасно!"
+  },
+  {
+   "id": 37,
+   "en": "It's never pleasant to watch someone\ntake that much punishment.",
+   "ru": "Никогда не приятно смотреть,\nкак кого-то так лупят."
+  },
+  {
+   "id": 38,
+   "en": "Oh, well! Let's give Bastion a round\nof applause for a good effort!",
+   "ru": "Ну что ж! Похлопаем Бастиону за\nхорошую попытку!"
+  },
+  {
+   "id": 39,
+   "en": "(Two soldiers?! I wonder if my men\nhave been delinquent in maintaining\ntheir training regimens!)",
+   "ru": "(Двое воинов?! Не забросили ли\nмои люди тренировки?!)"
+  },
+  {
+   "id": 40,
+   "en": "Third soldier! Enter the arena!",
+   "ru": "Третий воин! На арену!"
+  },
+  {
+   "id": 41,
+   "en": "FIGHT!!",
+   "ru": "БОЙ!!"
+  },
+  {
+   "id": 42,
+   "en": "Three down!! Bastion, I'm giving you\na kiss after this battle is over, and I\ndon't even find you attractive!",
+   "ru": "Трое!! Бастион, после боя я тебя\nпоцелую, хоть ты мне и не\nнравишься!"
+  },
+  {
+   "id": 43,
+   "en": "Let ME give him the kiss, because I\nthink he's absolutely gorgeous!",
+   "ru": "Дай Я его поцелую, по-моему, он\nпросто красавец!"
+  },
+  {
+   "id": 44,
+   "en": "Bastion, I'm so proud of you!",
+   "ru": "Бастион, я так тобой горжусь!"
+  },
+  {
+   "id": 45,
+   "en": "Bastion, you're kicking butt and\ntaking names!",
+   "ru": "Бастион, ты всем надираешь\nзадницы!"
+  },
+  {
+   "id": 46,
+   "en": "For every soldier Bastion defeats, I'm\ngoing to eat a pound of chocolate in a\nloving tribute to his skill!",
+   "ru": "За каждого побеждённого воина\nсъем полкило шоколада в честь\nБастиона!"
+  },
+  {
+   "id": 47,
+   "en": "Your Highness, show the Marquis\nand his men your true strength!",
+   "ru": "Ваше Высочество, покажите\nмаркизу и его людям свою\nистинную силу!"
+  },
+  {
+   "id": 48,
+   "en": "Impressive, to say the least. Keep\nit up, Bastion!",
+   "ru": "Впечатляет, мягко говоря. Так\nдержать, Бастион!"
+  },
+  {
+   "id": 49,
+   "en": "How unfortunate! Bastion was doing\nso well! It was still a valiant effort.",
+   "ru": "Как жаль! А Бастион так хорошо\nшёл! Всё равно это была\nдоблестная попытка."
+  },
+  {
+   "id": 50,
+   "en": "I just wonder how valiant it needs to\nbe for Marquis Dionne!",
+   "ru": "Интересно только, насколько\nдоблестной она должна быть для\nмаркиза Дионна!"
+  },
+  {
+   "id": 51,
+   "en": "You fought well, Bastion. It isn't easy\nfor one ATAC to beat two, under any\ncircumstances.",
+   "ru": "Ты хорошо сражался, Бастион.\nОдному АТАКу победить двоих\nнелегко в любых обстоятельствах."
+  },
+  {
+   "id": 52,
+   "en": "That fight took less time than it takes\nme to fully digest my breakfast.",
+   "ru": "Этот бой длился меньше, чем я\nперевариваю завтрак."
+  },
+  {
+   "id": 53,
+   "en": "Your Highness, Dionne might not be\nsatisfied with your performance!",
+   "ru": "Ваше Высочество, Дионн может\nостаться недоволен вашим\nвыступлением!"
+  },
+  {
+   "id": 54,
+   "en": "Why couldn't you have held on just a\nwhile longer, Bastion? You should've\nwon that fight!",
+   "ru": "Почему ты не продержался чуть\nдольше, Бастион? Ты должен был\nвыиграть этот бой!"
+  },
+  {
+   "id": 55,
+   "en": "Give Bastion some credit, Devlin.\nConsidering all the pressure he was\nunder, I think he did very well!",
+   "ru": "Отдай Бастиону должное, Девлин.\nПод таким давлением, по-моему,\nон молодец!"
+  },
+  {
+   "id": 56,
+   "en": "I, for one, think that Bastion did an\nexcellent job!",
+   "ru": "Лично я считаю, что Бастион\nотлично справился!"
+  },
+  {
+   "id": 57,
+   "en": "(Three victories! No one has managed\nsuch a feat until this day! The Prince\nhas uncanny strength...)",
+   "ru": "(Три победы! До сего дня такого\nне удавалось никому! У принца\nпоразительная сила...)"
+  },
+  {
+   "id": 58,
+   "en": "(So his skills must now be tested by\nsomeone equally strong.)",
+   "ru": "(Значит, проверить его должен\nкто-то столь же сильный.)"
+  },
+  {
+   "id": 59,
+   "en": "Fourth soldier! Enter the arena!",
+   "ru": "Четвёртый воин! На арену!"
+  },
+  {
+   "id": 60,
+   "en": "Hello, Bastion...and hello, ladies. You\nall must remember me, of course.",
+   "ru": "Привет, Бастион... и привет,\nдамы. Вы все меня, конечно,\nпомните."
+  },
+  {
+   "id": 61,
+   "en": "Uh...",
+   "ru": "Э-э..."
+  },
+  {
+   "id": 62,
+   "en": "Oh, the humanity! I hope you're just\nmessing with me, Bastion, or I'd be\nreally hurt!",
+   "ru": "О ужас! Надеюсь, ты просто\nшутишь, Бастион, а то мне\nправда обидно!"
+  },
+  {
+   "id": 63,
+   "en": "Wait...that voice! That horrible voice!",
+   "ru": "Постойте... этот голос! Этот\nжуткий голос!"
+  },
+  {
+   "id": 64,
+   "en": "Heh, heh, heh. There's not a woman\non the Continent who can forget my\ndulcet speech!",
+   "ru": "Хе-хе-хе. Нет на Континенте\nженщины, что забудет мою\nсладкую речь!"
+  },
+  {
+   "id": 65,
+   "en": "It's that dirty old man!",
+   "ru": "Это тот грязный старикашка!"
+  },
+  {
+   "id": 66,
+   "en": "Andrew, the alcoholic womanizer?\nWhat's HE doing here?",
+   "ru": "Эндрю, пьяница и бабник? Что\nОН здесь делает?"
+  },
+  {
+   "id": 67,
+   "en": "It's that weirdo who kept sneaking\npeeks at Milea's butt!",
+   "ru": "Это тот чудик, который всё\nподглядывал за попой Милеи!"
+  },
+  {
+   "id": 68,
+   "en": "Very funny, Puck! Uh...you ARE just\nkidding, aren't you?",
+   "ru": "Очень смешно, Пак! Э-э... ты ведь\nшутишь, правда?"
+  },
+  {
+   "id": 69,
+   "en": "Unbelievable! Simply unbelievable! I\ntry to be friendly, and what do I get?\nAn endless stream of verbal abuse!",
+   "ru": "Невероятно! Я стараюсь быть\nдружелюбным, а получаю лишь\nпоток оскорблений!"
+  },
+  {
+   "id": 70,
+   "en": "I have half a mind to get out of this\nATAC and give you all a beating!",
+   "ru": "Так и тянет вылезти из АТАКа и\nвсех вас поколотить!"
+  },
+  {
+   "id": 71,
+   "en": "Andrew! Cease your chatter\nand proceed with the test!",
+   "ru": "Эндрю! Прекрати болтать и\nпродолжай испытание!"
+  },
+  {
+   "id": 72,
+   "en": "Uh, of course, Marquis Dionne.",
+   "ru": "Э-э, конечно, маркиз Дионн."
+  },
+  {
+   "id": 73,
+   "en": "So you know, Bastion, there's nothing\npersonal about the beating I'm gonna\ngive you. It's strictly business.",
+   "ru": "Чтоб ты знал, Бастион, ничего\nличного в трёпке, которую я тебе\nзадам. Только дело."
+  },
+  {
+   "id": 74,
+   "en": "That's interesting, Andrew. I was\nabout to say the same to you.",
+   "ru": "Интересно, Эндрю. Я как раз\nхотел сказать тебе то же самое."
+  },
+  {
+   "id": 75,
+   "en": "Fight!",
+   "ru": "Бой!"
+  },
+  {
+   "id": 76,
+   "en": "You're good, Bastion! No, wait, you're\nthe best!",
+   "ru": "Ты хорош, Бастион! Нет, постой,\nты лучший!"
+  },
+  {
+   "id": 77,
+   "en": "I have to agree with you, Devlin! I\nonly wonder if Bastion is as skilled\nat other physical activities...",
+   "ru": "Соглашусь, Девлин! Интересно\nлишь, так же ли Бастион хорош в\nдругих физических занятиях..."
+  },
+  {
+   "id": 78,
+   "en": "Bastion! You're amazing!",
+   "ru": "Бастион! Ты потрясающий!"
+  },
+  {
+   "id": 79,
+   "en": "They can't control Bastion! They can\nonly hope to contain him!",
+   "ru": "Бастиона не остановить! Можно\nлишь надеяться его сдержать!"
+  },
+  {
+   "id": 80,
+   "en": "Speaking of which...I can't contain\nmy appetite any longer! Does anyone\nhave some chips? Feed? Anything?!!",
+   "ru": "Кстати... я не могу сдержать\nаппетит! У кого есть чипсы?\nКорм? Хоть что-то?!!"
+  },
+  {
+   "id": 81,
+   "en": "If Bastion hasn't demonstrated his\nheart to the Marquis by now, then\nDionne's test is fatally flawed!",
+   "ru": "Если Бастион ещё не показал\nмаркизу своё сердце, испытание\nДионна никуда не годится!"
+  },
+  {
+   "id": 82,
+   "en": "The test must be over. Dionne can't\nhave any soldiers stronger than that\nninja, can he?",
+   "ru": "Испытание наверняка закончено.\nНе может же у Дионна быть\nвоинов сильнее этого ниндзя?"
+  },
+  {
+   "id": 83,
+   "en": "Bastion, buddy, you did a fine job.\nI was almost nervous once or twice\nduring the fight. Almost.",
+   "ru": "Бастион, дружище, ты отлично\nсправился. Пару раз я почти\nзанервничал. Почти."
+  },
+  {
+   "id": 84,
+   "en": "It was an excellent duel. As soon as\nwe get out of these ATACs, I'm going\nto shake your hand.",
+   "ru": "Отличный был поединок. Как\nтолько вылезем из АТАКов,\nпожму тебе руку."
+  },
+  {
+   "id": 85,
+   "en": "I never thought that strange man\nwould be so strong.",
+   "ru": "Никогда бы не подумала, что\nэтот странный человек так\nсилён."
+  },
+  {
+   "id": 86,
+   "en": "Maybe you should've stood up and\ntried to distract him with your butt,\nMilea.",
+   "ru": "Может, тебе надо было встать и\nотвлечь его своей попой, Милея."
+  },
+  {
+   "id": 87,
+   "en": "We should've expected him to be a\ngreat fighter. He wouldn't have been\nDionne's fourth man otherwise!",
+   "ru": "Надо было ожидать, что он\nотличный боец. Иначе он не был\nбы четвёртым у Дионна!"
+  },
+  {
+   "id": 88,
+   "en": "Bastion fought really hard. Reyna, I\nthink you should bake him a cake as\na reward.",
+   "ru": "Бастион очень старался. Рейна,\nпо-моему, тебе стоит испечь ему\nторт в награду."
+  },
+  {
+   "id": 89,
+   "en": "Your Highness, you are certain to\nhave passed the Marquis' test with\nthat excellent performance.",
+   "ru": "Ваше Высочество, после такого\nвыступления вы наверняка\nпрошли испытание."
+  },
+  {
+   "id": 90,
+   "en": "Hey, Andrew! Why didn't you ever\ntell me and Barlow that you were a\nsoldier from Dionne-Lehve?",
+   "ru": "Эй, Эндрю! Почему ты не говорил\nнам с Барлоу, что ты воин из\nДионн-Леве?"
+  },
+  {
+   "id": 91,
+   "en": "Don't ask, don't tell, Devlin. That's\nmy motto.",
+   "ru": "Не спрашивай - не скажу, Девлин.\nМой девиз."
+  },
+  {
+   "id": 92,
+   "en": "That was a wonderful fight! Bastion\nsurely impressed the Marquis with\nhis speed and strength!",
+   "ru": "Чудесный был бой! Бастион\nнаверняка впечатлил маркиза\nсвоей скоростью и силой!"
+  },
+  {
+   "id": 93,
+   "en": "I know that he truly impressed ME!",
+   "ru": "Меня он точно впечатлил!"
+  },
+  {
+   "id": 94,
+   "en": "You have defeated Andrew, the finest\nsoldier in my army.",
+   "ru": "Вы победили Эндрю, лучшего\nвоина моей армии."
+  },
+  {
+   "id": 95,
+   "en": "I have no one left to send into battle\nagainst you...",
+   "ru": "Мне больше некого выставить\nпротив вас..."
+  },
+  {
+   "id": 96,
+   "en": "Ha, ha, ha, ha!",
+   "ru": "Ха-ха-ха-ха!"
+  },
+  {
+   "id": 97,
+   "en": "The test is over, Prince Bastion. You\nhave shown greater strength of heart\nthan I have ever witnessed.",
+   "ru": "Испытание окончено, принц\nБастион. Вы показали такую силу\nдуха, какой я ещё не видел."
+  },
+  {
+   "id": 98,
+   "en": "And you have guaranteed that I will\nbe training my soldiers much harder\nin the future.",
+   "ru": "И гарантировали, что впредь я\nбуду тренировать своих воинов\nкуда усерднее."
+  },
+  {
+   "id": 99,
+   "en": "Now I have a request of you, Prince\nBastion...I would like to engage you\nin battle.",
+   "ru": "А теперь у меня к вам просьба,\nпринц Бастион... Я хотел бы\nсразиться с вами."
+  },
+  {
+   "id": 100,
+   "en": "The outcome will have no effect on\nthe test, I assure you. Gratia is yours.\nThis is purely a personal matter.",
+   "ru": "Исход никак не повлияет на\nиспытание, уверяю вас. Гратия\nваша. Это сугубо личное дело."
+  },
+  {
+   "id": 101,
+   "en": "His Highness has already fought four\nopponents! It would hardly be a fair\nfight, Marquis Dionne!",
+   "ru": "Его Высочество уже бился с\nчетырьмя! Это будет нечестный\nбой, маркиз Дионн!"
+  },
+  {
+   "id": 102,
+   "en": "I don't mind, Galvas.",
+   "ru": "Я не против, Гальвас."
+  },
+  {
+   "id": 103,
+   "en": "In fact, I think fighting the Marquis\nwould be an excellent test of its own.",
+   "ru": "Более того, бой с маркизом сам по\nсебе будет отличным\nиспытанием."
+  },
+  {
+   "id": 104,
+   "en": "Your Highness!",
+   "ru": "Ваше Высочество!"
+  },
+  {
+   "id": 105,
+   "en": "Are you ready to begin?",
+   "ru": "Вы готовы начать?"
+  },
+  {
+   "id": 106,
+   "en": "Whenever you are, Marquis Dionne.",
+   "ru": "Как только будете готовы вы,\nмаркиз Дионн."
+  },
+  {
+   "id": 107,
+   "en": "Bastion! Listen up!",
+   "ru": "Бастион! Слушай!"
+  },
+  {
+   "id": 108,
+   "en": "Dionne is fighting in an ATAC called\nthe Roaring Lion. It's one of the\nmost powerful on the Continent!",
+   "ru": "Дионн сражается на АТАКе\nРычащий лев. Это один из\nсильнейших на Континенте!"
+  },
+  {
+   "id": 109,
+   "en": "One good strike is all he needs to\nknock you out of the game!",
+   "ru": "Ему хватит одного хорошего\nудара, чтобы вывести тебя из\nигры!"
+  },
+  {
+   "id": 110,
+   "en": "Understood, Zeira! Thank you!",
+   "ru": "Понял, Зейра! Спасибо!"
+  },
+  {
+   "id": 111,
+   "en": "Come on, Bastion!",
+   "ru": "Давай, Бастион!"
+  },
+  {
+   "id": 112,
+   "en": "Bastion won?! Bastion defeated the\nMarquis of Dionne-Lehve?!? This has\nto be a wonderful dream!!",
+   "ru": "Бастион победил?! Бастион\nодолел маркиза Дионн-Леве?!?\nЭто, наверное, чудесный сон!!"
+  },
+  {
+   "id": 113,
+   "en": "If that's true, then I'll ask Bastion to\npinch me!",
+   "ru": "Если так, попрошу Бастиона меня\nущипнуть!"
+  },
+  {
+   "id": 114,
+   "en": "Bastion, I'm so very proud of you!\nThis is your finest battle ever!",
+   "ru": "Бастион, я так тобой горжусь!\nЭто твой лучший бой!"
+  },
+  {
+   "id": 115,
+   "en": "You did it, Bastion! Yahoo!!",
+   "ru": "Ты сделал это, Бастион! Ура!!"
+  },
+  {
+   "id": 116,
+   "en": "Bastion is the best fighter on the\nContinent! His incredible victory\ncalls for a celebratory feast!",
+   "ru": "Бастион - лучший боец\nКонтинента! Такая победа\nтребует праздничного пира!"
+  },
+  {
+   "id": 117,
+   "en": "Your Highness, I am humbled just to\nhave seen you fight with such skill.",
+   "ru": "Ваше Высочество, видеть, как\nискусно вы сражаетесь, - уже\nчесть для меня."
+  },
+  {
+   "id": 118,
+   "en": "Bastion, your fighting skill will be\nthe stuff of legends.",
+   "ru": "Бастион, о твоём мастерстве\nсложат легенды."
+  },
+  {
+   "id": 119,
+   "en": "Prince Bastion, I am astonished at\nhow skillfully you fought with me.",
+   "ru": "Принц Бастион, я поражён, как\nискусно вы со мной сражались."
+  },
+  {
+   "id": 120,
+   "en": "If your ATAC was one of the original\nexcavated units, like mine, you might\nwell have been the victor.",
+   "ru": "Будь ваш АТАК из древних, как\nмой, вы вполне могли бы\nпобедить."
+  },
+  {
+   "id": 121,
+   "en": "I still can't believe Bastion accepted\nDionne's challenge at all.",
+   "ru": "Не верится, что Бастион вообще\nпринял вызов Дионна."
+  },
+  {
+   "id": 122,
+   "en": "Of course he accepted the challenge!\nHe's too brave to turn down a fight,\nno matter who it's against!",
+   "ru": "Конечно, принял! Он слишком\nхрабр, чтобы отказаться от боя,\nкто бы ни был противник!"
+  },
+  {
+   "id": 123,
+   "en": "He is a far better combatant at his\nage than I ever was.",
+   "ru": "В его годы он сражается куда\nлучше, чем я когда-либо."
+  },
+  {
+   "id": 124,
+   "en": "Bastion fought hard! I eat this bag of\ndonuts as a tribute to his bravery!",
+   "ru": "Бастион храбро сражался! В честь\nего отваги съедаю этот пакет\nпончиков!"
+  },
+  {
+   "id": 125,
+   "en": "Anyone who watched this battle\nwould agree that His Highness fought\nas hard as he possibly could.",
+   "ru": "Всякий, кто видел этот бой,\nсогласится: Его Высочество бился\nизо всех сил."
+  },
+  {
+   "id": 126,
+   "en": "Indeed. No one could defeat the\nMarquis AND four of the strongest\nATACs in Dionne-Lehve.",
+   "ru": "Именно. Никто не смог бы\nпобедить маркиза И четыре\nсильнейших АТАКа Дионн-Леве."
+  },
+  {
+   "id": 127,
+   "en": "I have to be honest. I never expected\nBastion to make it this far, much less\nto fight the Marquis himself!",
+   "ru": "Честно, не ждала, что Бастион\nзайдёт так далеко, да ещё и\nсразится с маркизом!"
+  }
+ ]
+}

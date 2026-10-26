@@ -1,0 +1,346 @@
+{
+ "file": 391,
+ "kind": "quip",
+ "lines": [
+  {
+   "id": 0,
+   "en": "Hey!",
+   "ru": "Эй!"
+  },
+  {
+   "id": 1,
+   "en": "You're attacking\nfrom the left!",
+   "ru": "Ты нападаешь слева!"
+  },
+  {
+   "id": 2,
+   "en": "Hey!",
+   "ru": "Эй!"
+  },
+  {
+   "id": 3,
+   "en": "You're hitting me\nfrom the right!",
+   "ru": "Ты бьёшь меня\nсправа!"
+  },
+  {
+   "id": 4,
+   "en": "Ow! Don't do that,\nyou big bully!",
+   "ru": "Ай! Не делай так,\nзадира!"
+  },
+  {
+   "id": 5,
+   "en": "That didn't even\nhurt at all!",
+   "ru": "Мне даже не больно!"
+  },
+  {
+   "id": 6,
+   "en": "I'm okay, Bastion!\nThat attack sucked!",
+   "ru": "Бастион, всё\nхорошо! Удар отстой!"
+  },
+  {
+   "id": 7,
+   "en": "You don't have to\nhit so hard!",
+   "ru": "Не надо бить так\nсильно!"
+  },
+  {
+   "id": 8,
+   "en": "Kyaah!",
+   "ru": "Кья-а!"
+  },
+  {
+   "id": 9,
+   "en": "OWWWW!",
+   "ru": "А-А-АЙ!"
+  },
+  {
+   "id": 10,
+   "en": "I am SO mad at you!",
+   "ru": "Я ТАК на тебя злюсь!"
+  },
+  {
+   "id": 11,
+   "en": "You're guilty of\nchild abuse!",
+   "ru": "Обижать детей\nнельзя!"
+  },
+  {
+   "id": 12,
+   "en": "KYAAAHHH!",
+   "ru": "КЬЯ-А-А-А!"
+  },
+  {
+   "id": 13,
+   "en": "I'm going to lose\nthis battle!",
+   "ru": "Я проиграю этот\nбой!"
+  },
+  {
+   "id": 14,
+   "en": "Oh, no!",
+   "ru": "О нет!"
+  },
+  {
+   "id": 15,
+   "en": "You're going to\nmake me cry!",
+   "ru": "Ты меня сейчас\nдоведёшь до слёз!"
+  },
+  {
+   "id": 16,
+   "en": "KYAAAAAHHH!!",
+   "ru": "КЬЯ-А-А-А-А!!"
+  },
+  {
+   "id": 17,
+   "en": "Losing isn't fun!\nLosing really sucks!",
+   "ru": "Проигрывать\nневесело! Это отстой!"
+  },
+  {
+   "id": 18,
+   "en": "I'm sorry, Bastion!",
+   "ru": "Прости, Бастион!"
+  },
+  {
+   "id": 19,
+   "en": "I tried really hard,\nBastion!",
+   "ru": "Я очень старалась,\nБастион!"
+  },
+  {
+   "id": 20,
+   "en": "You're a cheater!\nFight fair, dum-dum!",
+   "ru": "Жулик! Дерись\nчестно, дурачок!"
+  },
+  {
+   "id": 21,
+   "en": "OWWW!",
+   "ru": "А-А-АЙ!"
+  },
+  {
+   "id": 22,
+   "en": "Wow! We dodged!\nKyu-kyu!",
+   "ru": "Ух ты! Увернулись!\nКю-кю!"
+  },
+  {
+   "id": 23,
+   "en": "That was easy!\nKyu-kyu!",
+   "ru": "Легкотня! Кю-кю!"
+  },
+  {
+   "id": 24,
+   "en": "We're really good!\nKyu-kyu!",
+   "ru": "Мы молодцы! Кю-кю!"
+  },
+  {
+   "id": 25,
+   "en": "Don't try to hit\nme, dum-dum!",
+   "ru": "Не пытайся меня\nударить, дурачок!"
+  },
+  {
+   "id": 26,
+   "en": "Dodging me is mean!",
+   "ru": "Уворачиваться —\nэто подло!"
+  },
+  {
+   "id": 27,
+   "en": "It's not nice to\ndodge!",
+   "ru": "Уворачиваться\nнекрасиво!"
+  },
+  {
+   "id": 28,
+   "en": "Waaah! I messed up!",
+   "ru": "Ва-а-а! Я\nнапортачила!"
+  },
+  {
+   "id": 29,
+   "en": "Why can't I hit you?!",
+   "ru": "Почему я не могу\nпопасть?!"
+  },
+  {
+   "id": 30,
+   "en": "Go away, poopy-head!!",
+   "ru": "Уходи, какашка!!"
+  },
+  {
+   "id": 31,
+   "en": "Get away from me,\nyou big retard!",
+   "ru": "Отстань от меня,\nбалбес!"
+  },
+  {
+   "id": 32,
+   "en": "What are you doing?!",
+   "ru": "Что ты делаешь?!"
+  },
+  {
+   "id": 33,
+   "en": "I'm gonna hit you\nSO hard!",
+   "ru": "Я тебя ТАК стукну!"
+  },
+  {
+   "id": 34,
+   "en": "You're really slow,\naren't you?",
+   "ru": "Ты такой\nмедленный, да?"
+  },
+  {
+   "id": 35,
+   "en": "You don't know how\nto fight! Ha, ha, ha!",
+   "ru": "Ты не умеешь\nдраться! Ха-ха-ха!"
+  },
+  {
+   "id": 36,
+   "en": "Hey!",
+   "ru": "Эй!"
+  },
+  {
+   "id": 37,
+   "en": "HEY!!",
+   "ru": "ЭЙ!!"
+  },
+  {
+   "id": 38,
+   "en": "We saw them coming,\nKyu-Kyu!",
+   "ru": "Мы их видели,\nКю-Кю!"
+  },
+  {
+   "id": 39,
+   "en": "That wasn't very good,\nKyu-Kyu.",
+   "ru": "Это было не очень,\nКю-Кю."
+  },
+  {
+   "id": 40,
+   "en": "We won, Kyu-Kyu!\nKyu-kyu!",
+   "ru": "Мы победили,\nКю-Кю! Кю-кю!"
+  },
+  {
+   "id": 41,
+   "en": "We did it!\nKyu-kyu!",
+   "ru": "Получилось! Кю-кю!"
+  },
+  {
+   "id": 42,
+   "en": "That was too easy.\nKyu-kyu.",
+   "ru": "Слишком легко.\nКю-кю."
+  },
+  {
+   "id": 43,
+   "en": "That was fun! I want\nto beat another one!",
+   "ru": "Весело! Давай\nещё одного!"
+  },
+  {
+   "id": 44,
+   "en": "Yaah!",
+   "ru": "Йа-а!"
+  },
+  {
+   "id": 45,
+   "en": "Aaah!",
+   "ru": "А-а-а!"
+  },
+  {
+   "id": 46,
+   "en": "I'm gonna hurt you!",
+   "ru": "Я тебе сделаю\nбольно!"
+  },
+  {
+   "id": 47,
+   "en": "I can fight really\ngood! Watch me!",
+   "ru": "Я хорошо дерусь!\nСмотри!"
+  },
+  {
+   "id": 48,
+   "en": "Which attack should\nI use next time?",
+   "ru": "Какую атаку взять в\nследующий раз?"
+  },
+  {
+   "id": 49,
+   "en": "This is fun, Kyu-Kyu!\nKyu-kyu!",
+   "ru": "Как весело, Кю-Кю!\nКю-кю!"
+  },
+  {
+   "id": 50,
+   "en": "You better apologize\nfor attacking me!",
+   "ru": "Извинись, что напал\nна меня!"
+  },
+  {
+   "id": 51,
+   "en": "Leave me ALONE, you\nbig butt-head!",
+   "ru": "Отстань от МЕНЯ,\nдурак!"
+  },
+  {
+   "id": 52,
+   "en": "Yaaaah!",
+   "ru": "Йа-а-а!"
+  },
+  {
+   "id": 53,
+   "en": "You're making me\nSO MAD!!",
+   "ru": "Ты меня ТАК ЗЛИШЬ!!"
+  },
+  {
+   "id": 54,
+   "en": "Here I go!",
+   "ru": "Иду!"
+  },
+  {
+   "id": 55,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 56,
+   "en": "HEY!!",
+   "ru": "ЭЙ!!"
+  },
+  {
+   "id": 57,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 58,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 59,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 60,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 61,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 62,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 63,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 64,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 65,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 66,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 67,
+   "en": "",
+   "ru": ""
+  }
+ ]
+}

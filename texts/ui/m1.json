@@ -1,0 +1,1924 @@
+{
+ "file": 1,
+ "kind": "module",
+ "base": "0x800751a8",
+ "lines": [
+  {
+   "id": 0,
+   "addr": "0x800751b0",
+   "en": "BLSB",
+   "ru": "",
+   "refs": [
+    "0x800761dc"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 1,
+   "addr": "0x800751b8",
+   "en": "BLDB_0",
+   "ru": "",
+   "refs": [
+    "0x800761e8"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 2,
+   "addr": "0x800751c0",
+   "en": "BLDB_1",
+   "ru": "",
+   "refs": [
+    "0x80076200"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 3,
+   "addr": "0x800751c8",
+   "en": "TMDPKT",
+   "ru": "",
+   "refs": [
+    "0x80076540"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 4,
+   "addr": "0x800751d0",
+   "en": "BMK2",
+   "ru": "",
+   "refs": [
+    "0x80076550"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 5,
+   "addr": "0x800751d8",
+   "en": "ModelTxPlus > UNKNOW PRIM\n",
+   "ru": "",
+   "refs": [
+    "0x80077500"
+   ],
+   "ptrs": [],
+   "room": 28,
+   "tail": false
+  },
+  {
+   "id": 6,
+   "addr": "0x8007531c",
+   "en": "GRD_PRM",
+   "ru": "",
+   "refs": [
+    "0x8007bdb8"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 7,
+   "addr": "0x80075324",
+   "en": "GRD_VTX",
+   "ru": "",
+   "refs": [
+    "0x8007be3c"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 8,
+   "addr": "0x8007532c",
+   "en": "LOAD",
+   "ru": "",
+   "refs": [
+    "0x8007d3cc"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 9,
+   "addr": "0x80075334",
+   "en": "BLSB",
+   "ru": "",
+   "refs": [
+    "0x8007d340"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 10,
+   "addr": "0x8007533c",
+   "en": "BLDB_0",
+   "ru": "",
+   "refs": [
+    "0x8007d378"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 11,
+   "addr": "0x80075344",
+   "en": "BLDB_1",
+   "ru": "",
+   "refs": [
+    "0x8007d390"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 12,
+   "addr": "0x80075358",
+   "en": "  TRIGGER_X=%d\n",
+   "ru": "",
+   "refs": [
+    "0x8007d58c"
+   ],
+   "ptrs": [],
+   "room": 16,
+   "tail": false
+  },
+  {
+   "id": 13,
+   "addr": "0x80075368",
+   "en": "  BACKUP_BUTTON=%d\n",
+   "ru": "",
+   "refs": [
+    "0x8007d59c"
+   ],
+   "ptrs": [],
+   "room": 20,
+   "tail": false
+  },
+  {
+   "id": 14,
+   "addr": "0x8007537c",
+   "en": "  JSB=%d\n",
+   "ru": "",
+   "refs": [
+    "0x8007d5ac"
+   ],
+   "ptrs": [],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 15,
+   "addr": "0x80075388",
+   "en": "  JTB=%d\n",
+   "ru": "",
+   "refs": [
+    "0x8007d5bc"
+   ],
+   "ptrs": [],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 16,
+   "addr": "0x800753a4",
+   "en": "AP %3d",
+   "ru": "",
+   "refs": [
+    "0x80081a04"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 17,
+   "addr": "0x800753ac",
+   "en": "FP %3d",
+   "ru": "",
+   "refs": [
+    "0x80081a24"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 18,
+   "addr": "0x800753b4",
+   "en": "Rough",
+   "ru": "Ухабы",
+   "refs": [
+    "0x80082124"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 19,
+   "addr": "0x800753bc",
+   "en": "%2dH",
+   "ru": "%2dВ",
+   "refs": [
+    "0x80082178"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 20,
+   "addr": "0x800753d0",
+   "en": "HP",
+   "ru": "",
+   "refs": [
+    "0x800823d4"
+   ],
+   "ptrs": [],
+   "room": 4,
+   "tail": false
+  },
+  {
+   "id": 21,
+   "addr": "0x800753e0",
+   "en": "BATTLE ANIMATION ON",
+   "ru": "АНИМАЦИЯ БОЯ ВКЛ",
+   "refs": [
+    "0x800824a0"
+   ],
+   "ptrs": [],
+   "room": 20,
+   "tail": false
+  },
+  {
+   "id": 22,
+   "addr": "0x800753f4",
+   "en": "BATTLE ANIMATION OFF",
+   "ru": "АНИМАЦИЯ БОЯ ВЫКЛ",
+   "refs": [
+    "0x800824b4"
+   ],
+   "ptrs": [],
+   "room": 24,
+   "tail": false
+  },
+  {
+   "id": 23,
+   "addr": "0x8007540c",
+   "en": "FIRE IS COOL. HUH-HUH",
+   "ru": "",
+   "refs": [
+    "0x80082588"
+   ],
+   "ptrs": [],
+   "room": 24,
+   "tail": false
+  },
+  {
+   "id": 24,
+   "addr": "0x80075424",
+   "en": "GAMERS' REP. RULES!",
+   "ru": "",
+   "refs": [
+    "0x80082620"
+   ],
+   "ptrs": [],
+   "room": 20,
+   "tail": false
+  },
+  {
+   "id": 25,
+   "addr": "0x80075438",
+   "en": "YOU'RE PROBING BUSH",
+   "ru": "",
+   "refs": [
+    "0x800826a4"
+   ],
+   "ptrs": [],
+   "room": 20,
+   "tail": false
+  },
+  {
+   "id": 26,
+   "addr": "0x8007544c",
+   "en": "DON'T P IN THE MOAT",
+   "ru": "",
+   "refs": [
+    "0x80082728"
+   ],
+   "ptrs": [],
+   "room": 20,
+   "tail": false
+  },
+  {
+   "id": 27,
+   "addr": "0x80075460",
+   "en": "YOU'RE IN DEEP GUANO",
+   "ru": "",
+   "refs": [
+    "0x800827ac"
+   ],
+   "ptrs": [],
+   "room": 24,
+   "tail": false
+  },
+  {
+   "id": 28,
+   "addr": "0x80075478",
+   "en": "SAND IN UNDIES: OUCH",
+   "ru": "",
+   "refs": [
+    "0x80082838"
+   ],
+   "ptrs": [],
+   "room": 24,
+   "tail": false
+  },
+  {
+   "id": 29,
+   "addr": "0x80075490",
+   "en": "ROCKY MOUNTAIN HIGH!",
+   "ru": "",
+   "refs": [
+    "0x800828c4"
+   ],
+   "ptrs": [],
+   "room": 24,
+   "tail": false
+  },
+  {
+   "id": 30,
+   "addr": "0x800754a8",
+   "en": "THERE CAN BE ONLY ONE",
+   "ru": "",
+   "refs": [
+    "0x80082950"
+   ],
+   "ptrs": [],
+   "room": 24,
+   "tail": false
+  },
+  {
+   "id": 31,
+   "addr": "0x800754c0",
+   "en": "MULE: BEST GAME EVER",
+   "ru": "",
+   "refs": [
+    "0x800829e8"
+   ],
+   "ptrs": [],
+   "room": 24,
+   "tail": false
+  },
+  {
+   "id": 32,
+   "addr": "0x800754d8",
+   "en": "RADCOT: FAT, NOT PHAT",
+   "ru": "",
+   "refs": [
+    "0x80082a74"
+   ],
+   "ptrs": [],
+   "room": 24,
+   "tail": false
+  },
+  {
+   "id": 33,
+   "addr": "0x800754f0",
+   "en": "DON'T BELIEVE D HYPE",
+   "ru": "",
+   "refs": [
+    "0x80082b0c"
+   ],
+   "ptrs": [],
+   "room": 24,
+   "tail": false
+  },
+  {
+   "id": 34,
+   "addr": "0x80075508",
+   "en": "YOU'RE A STAIRMASTER",
+   "ru": "",
+   "refs": [
+    "0x80082b98"
+   ],
+   "ptrs": [],
+   "room": 24,
+   "tail": false
+  },
+  {
+   "id": 35,
+   "addr": "0x80075520",
+   "en": "ANDREW: NOT A VIRGIN",
+   "ru": "",
+   "refs": [
+    "0x80082c24"
+   ],
+   "ptrs": [],
+   "room": 24,
+   "tail": false
+  },
+  {
+   "id": 36,
+   "addr": "0x80075538",
+   "en": "ROCK N ROLL ALL NITE",
+   "ru": "",
+   "refs": [
+    "0x80082cb0"
+   ],
+   "ptrs": [],
+   "room": 24,
+   "tail": false
+  },
+  {
+   "id": 37,
+   "addr": "0x80075550",
+   "en": "TEAR DOWN THE WALL!",
+   "ru": "",
+   "refs": [
+    "0x80082d3c"
+   ],
+   "ptrs": [],
+   "room": 20,
+   "tail": false
+  },
+  {
+   "id": 38,
+   "addr": "0x80075564",
+   "en": "PIZZA: BEST FOOD EVER",
+   "ru": "",
+   "refs": [
+    "0x80082dc0"
+   ],
+   "ptrs": [],
+   "room": 24,
+   "tail": false
+  },
+  {
+   "id": 39,
+   "addr": "0x8007557c",
+   "en": "ANAGRAM: RRSGIMYITNAA",
+   "ru": "",
+   "refs": [
+    "0x80082e58"
+   ],
+   "ptrs": [],
+   "room": 24,
+   "tail": false
+  },
+  {
+   "id": 40,
+   "addr": "0x80075594",
+   "en": "#x INFO",
+   "ru": "#x ИНФО",
+   "refs": [
+    "0x80082f6c"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 41,
+   "addr": "0x8007559c",
+   "en": "#t BACKUP",
+   "ru": "#t ОТМЕНА",
+   "refs": [
+    "0x80082f84",
+    "0x80083254",
+    "0x80083374"
+   ],
+   "ptrs": [],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 42,
+   "addr": "0x800755a8",
+   "en": "#x ACCEPT",
+   "ru": "#x ОК",
+   "refs": [
+    "0x80082fec",
+    "0x80083104",
+    "0x800831b8",
+    "0x80083300"
+   ],
+   "ptrs": [],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 43,
+   "addr": "0x800755b4",
+   "en": "#t CANCEL",
+   "ru": "#t ОТМЕНА",
+   "refs": [
+    "0x80083060",
+    "0x800830ec"
+   ],
+   "ptrs": [],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 44,
+   "addr": "0x800755c0",
+   "en": "#x RETRY",
+   "ru": "#x ПОВТОР",
+   "refs": [
+    "0x80083078"
+   ],
+   "ptrs": [],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 45,
+   "addr": "0x800755cc",
+   "en": "#x LOCATE",
+   "ru": "",
+   "refs": [
+    "0x800832ec"
+   ],
+   "ptrs": [],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 46,
+   "addr": "0x800756b4",
+   "en": "MEMSrc",
+   "ru": "",
+   "refs": [
+    "0x80084488"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 47,
+   "addr": "0x800756bc",
+   "en": "MEMDST",
+   "ru": "",
+   "refs": [
+    "0x80084494"
+   ],
+   "ptrs": [],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 48,
+   "addr": "0x800756ec",
+   "en": "WEP",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x800a56ac"
+   ],
+   "room": 4,
+   "tail": false
+  },
+  {
+   "id": 49,
+   "addr": "0x800756f0",
+   "en": "DEF",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x800a56a8"
+   ],
+   "room": 4,
+   "tail": false
+  },
+  {
+   "id": 50,
+   "addr": "0x800756f4",
+   "en": "AGL",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x800a56a4"
+   ],
+   "room": 4,
+   "tail": false
+  },
+  {
+   "id": 51,
+   "addr": "0x800756f8",
+   "en": "DEX",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x800a56a0"
+   ],
+   "room": 4,
+   "tail": false
+  },
+  {
+   "id": 52,
+   "addr": "0x800756fc",
+   "en": "POW",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x800a569c"
+   ],
+   "room": 4,
+   "tail": false
+  },
+  {
+   "id": 53,
+   "addr": "0x80075700",
+   "en": "BAS",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x800a5698"
+   ],
+   "room": 4,
+   "tail": false
+  },
+  {
+   "id": 54,
+   "addr": "0x80075738",
+   "en": "Level  %2d",
+   "ru": "Уровень %2d",
+   "refs": [
+    "0x80086e4c"
+   ],
+   "ptrs": [],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 55,
+   "addr": "0x80075744",
+   "en": "\tName\t  Level\t Range\tSpeed\t\t\t HP",
+   "ru": "\tИмя\t\t Ур.\t\tДальн.\tСкор.\t\t\t HP",
+   "refs": [
+    "0x800877c4"
+   ],
+   "ptrs": [],
+   "room": 36,
+   "tail": false
+  },
+  {
+   "id": 56,
+   "addr": "0x80075770",
+   "en": "AP",
+   "ru": "",
+   "refs": [
+    "0x80087e5c",
+    "0x800891fc",
+    "0x8008b2dc"
+   ],
+   "ptrs": [
+    "0x800a57a4"
+   ],
+   "room": 4,
+   "tail": false
+  },
+  {
+   "id": 57,
+   "addr": "0x80075774",
+   "en": "FP",
+   "ru": "",
+   "refs": [
+    "0x80087e74",
+    "0x80089214",
+    "0x8008b2f8"
+   ],
+   "ptrs": [
+    "0x800a57a8"
+   ],
+   "room": 4,
+   "tail": false
+  },
+  {
+   "id": 58,
+   "addr": "0x80075778",
+   "en": "HP",
+   "ru": "",
+   "refs": [
+    "0x80087e8c",
+    "0x8008922c",
+    "0x8008b314"
+   ],
+   "ptrs": [
+    "0x800a57ac"
+   ],
+   "room": 4,
+   "tail": false
+  },
+  {
+   "id": 59,
+   "addr": "0x80075784",
+   "en": "STS_TMD",
+   "ru": "",
+   "refs": [
+    "0x8008815c"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 60,
+   "addr": "0x8007578c",
+   "en": "STR_MA",
+   "ru": "",
+   "refs": [
+    "0x800881a4"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 61,
+   "addr": "0x80075794",
+   "en": "STS_SDB",
+   "ru": "",
+   "refs": [
+    "0x800881b0"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 62,
+   "addr": "0x800757a0",
+   "en": "Current Level\t\t\t%d\n",
+   "ru": "Уровень\t\t\t\t\t%d\n",
+   "refs": [
+    "0x8008865c"
+   ],
+   "ptrs": [],
+   "room": 20,
+   "tail": false
+  },
+  {
+   "id": 63,
+   "addr": "0x800757b4",
+   "en": "Exp. To Next\t\t\t%d\n",
+   "ru": "Опыт до ур.\t\t\t%d\n",
+   "refs": [
+    "0x8008869c"
+   ],
+   "ptrs": [],
+   "room": 20,
+   "tail": false
+  },
+  {
+   "id": 64,
+   "addr": "0x800757c8",
+   "en": "Exp. To Next\t\t\t---\n",
+   "ru": "Опыт до ур.\t\t\t---\n",
+   "refs": [
+    "0x800886b0"
+   ],
+   "ptrs": [],
+   "room": 20,
+   "tail": false
+  },
+  {
+   "id": 65,
+   "addr": "0x800757dc",
+   "en": "Spirit\t\t\t\t\t\t%d\n",
+   "ru": "Дух\t\t\t\t\t\t\t%d\n",
+   "refs": [
+    "0x800886d8"
+   ],
+   "ptrs": [],
+   "room": 16,
+   "tail": false
+  },
+  {
+   "id": 66,
+   "addr": "0x800757ec",
+   "en": "Range\t\t\t\t\t\t%d\n",
+   "ru": "Дальность\t\t\t\t%d\n",
+   "refs": [
+    "0x80088704"
+   ],
+   "ptrs": [],
+   "room": 16,
+   "tail": false
+  },
+  {
+   "id": 67,
+   "addr": "0x800757fc",
+   "en": "Speed\t\t\t\t\t\t%d.%02d\n",
+   "ru": "Скорость\t\t\t\t%d.%02d\n",
+   "refs": [
+    "0x80088744"
+   ],
+   "ptrs": [],
+   "room": 20,
+   "tail": false
+  },
+  {
+   "id": 68,
+   "addr": "0x80075810",
+   "en": "Attack",
+   "ru": "Атака",
+   "refs": [
+    "0x800887a0"
+   ],
+   "ptrs": [
+    "0x800a57c0"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 69,
+   "addr": "0x80075818",
+   "en": "Support",
+   "ru": "Поддержка",
+   "refs": [
+    "0x800887c8"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 70,
+   "addr": "0x80075820",
+   "en": "Dormant",
+   "ru": "Резерв",
+   "refs": [
+    "0x800887f0"
+   ],
+   "ptrs": [],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 71,
+   "addr": "0x8007582c",
+   "en": "NOW LOADING",
+   "ru": "",
+   "refs": [
+    "0x80088b98"
+   ],
+   "ptrs": [],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 72,
+   "addr": "0x80075840",
+   "en": "Vibration",
+   "ru": "Вибрация",
+   "refs": [],
+   "ptrs": [
+    "0x800a5718"
+   ],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 73,
+   "addr": "0x8007584c",
+   "en": "Battle Anim.",
+   "ru": "Анимация боя",
+   "refs": [],
+   "ptrs": [
+    "0x800a5714"
+   ],
+   "room": 16,
+   "tail": false
+  },
+  {
+   "id": 74,
+   "addr": "0x8007585c",
+   "en": "Sound",
+   "ru": "Звук",
+   "refs": [],
+   "ptrs": [
+    "0x800a5710"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 75,
+   "addr": "0x80075864",
+   "en": "Msg. Speed",
+   "ru": "Скор. текста",
+   "refs": [],
+   "ptrs": [
+    "0x800a570c"
+   ],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 76,
+   "addr": "0x80075870",
+   "en": "Status Box",
+   "ru": "Окно статуса",
+   "refs": [],
+   "ptrs": [
+    "0x800a5708"
+   ],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 77,
+   "addr": "0x8007587c",
+   "en": "Map Zoom",
+   "ru": "Масштаб",
+   "refs": [],
+   "ptrs": [
+    "0x800a5704"
+   ],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 78,
+   "addr": "0x80075888",
+   "en": "V. Scroll",
+   "ru": "Прокрутка",
+   "refs": [],
+   "ptrs": [
+    "0x800a5700"
+   ],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 79,
+   "addr": "0x80075894",
+   "en": "Cursor",
+   "ru": "Курсор",
+   "refs": [],
+   "ptrs": [
+    "0x800a56fc"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 80,
+   "addr": "0x8007589c",
+   "en": "Center",
+   "ru": "Центр",
+   "refs": [],
+   "ptrs": [
+    "0x800a5724"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 81,
+   "addr": "0x800758a4",
+   "en": "Left",
+   "ru": "Слева",
+   "refs": [],
+   "ptrs": [
+    "0x800a5720"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 82,
+   "addr": "0x800758ac",
+   "en": "Right",
+   "ru": "Справа",
+   "refs": [],
+   "ptrs": [
+    "0x800a571c"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 83,
+   "addr": "0x800758b4",
+   "en": "On",
+   "ru": "Вкл",
+   "refs": [],
+   "ptrs": [
+    "0x800a5730",
+    "0x800a5744"
+   ],
+   "room": 4,
+   "tail": false
+  },
+  {
+   "id": 84,
+   "addr": "0x800758b8",
+   "en": "Off",
+   "ru": "Выкл",
+   "refs": [],
+   "ptrs": [
+    "0x800a572c",
+    "0x800a5740"
+   ],
+   "room": 4,
+   "tail": false
+  },
+  {
+   "id": 85,
+   "addr": "0x800758bc",
+   "en": "Auto",
+   "ru": "Авто",
+   "refs": [],
+   "ptrs": [
+    "0x800a5728"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 86,
+   "addr": "0x800758dc",
+   "en": "Fast",
+   "ru": "Быстро",
+   "refs": [],
+   "ptrs": [
+    "0x800a5750"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 87,
+   "addr": "0x800758e4",
+   "en": "Normal",
+   "ru": "Норма",
+   "refs": [],
+   "ptrs": [
+    "0x800a574c",
+    "0x800a57d0"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 88,
+   "addr": "0x800758ec",
+   "en": "Slow",
+   "ru": "Медленно",
+   "refs": [],
+   "ptrs": [
+    "0x800a5748"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 89,
+   "addr": "0x800758f4",
+   "en": "Mono",
+   "ru": "Моно",
+   "refs": [],
+   "ptrs": [
+    "0x800a5758"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 90,
+   "addr": "0x800758fc",
+   "en": "Stereo",
+   "ru": "Стерео",
+   "refs": [],
+   "ptrs": [
+    "0x800a5754"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 91,
+   "addr": "0x80075904",
+   "en": "Exp. #k1,%5d#k0,",
+   "ru": "Опыт #k1,%5d#k0,",
+   "refs": [
+    "0x80089eac"
+   ],
+   "ptrs": [],
+   "room": 20,
+   "tail": false
+  },
+  {
+   "id": 92,
+   "addr": "0x80075918",
+   "en": "Money #k1,%5d#k0,",
+   "ru": "Деньги #k1,%5d#k0,",
+   "refs": [
+    "0x80089ed4"
+   ],
+   "ptrs": [],
+   "room": 20,
+   "tail": false
+  },
+  {
+   "id": 93,
+   "addr": "0x8007592c",
+   "en": "Level up!",
+   "ru": "Новый уровень!",
+   "refs": [
+    "0x8008a384"
+   ],
+   "ptrs": [],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 94,
+   "addr": "0x80075938",
+   "en": "Confirm new stats?",
+   "ru": "Принять параметры?",
+   "refs": [
+    "0x8008a630"
+   ],
+   "ptrs": [],
+   "room": 20,
+   "tail": false
+  },
+  {
+   "id": 95,
+   "addr": "0x8007594c",
+   "en": "Yes",
+   "ru": "Да",
+   "refs": [
+    "0x8008a658"
+   ],
+   "ptrs": [],
+   "room": 4,
+   "tail": false
+  },
+  {
+   "id": 96,
+   "addr": "0x80075950",
+   "en": "No",
+   "ru": "Нет",
+   "refs": [
+    "0x8008a680"
+   ],
+   "ptrs": [],
+   "room": 4,
+   "tail": false
+  },
+  {
+   "id": 97,
+   "addr": "0x80075954",
+   "en": "%d points left",
+   "ru": "Осталось: %d",
+   "refs": [
+    "0x8008ace8"
+   ],
+   "ptrs": [],
+   "room": 16,
+   "tail": false
+  },
+  {
+   "id": 98,
+   "addr": "0x80075964",
+   "en": "INDEX ERROR > MIDINFO",
+   "ru": "",
+   "refs": [
+    "0x8008af70"
+   ],
+   "ptrs": [],
+   "room": 24,
+   "tail": false
+  },
+  {
+   "id": 99,
+   "addr": "0x8007597c",
+   "en": "LV:",
+   "ru": "",
+   "refs": [
+    "0x8008b2a8"
+   ],
+   "ptrs": [],
+   "room": 4,
+   "tail": false
+  },
+  {
+   "id": 100,
+   "addr": "0x80075980",
+   "en": "ST:",
+   "ru": "",
+   "refs": [
+    "0x8008b2c0"
+   ],
+   "ptrs": [],
+   "room": 4,
+   "tail": false
+  },
+  {
+   "id": 101,
+   "addr": "0x80075984",
+   "en": "LV",
+   "ru": "",
+   "refs": [
+    "0x8008b73c"
+   ],
+   "ptrs": [],
+   "room": 4,
+   "tail": false
+  },
+  {
+   "id": 102,
+   "addr": "0x8007598c",
+   "en": "Counter",
+   "ru": "Контра",
+   "refs": [],
+   "ptrs": [
+    "0x800a57cc"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 103,
+   "addr": "0x80075994",
+   "en": " Avoid",
+   "ru": " Уклон",
+   "refs": [],
+   "ptrs": [
+    "0x800a57c8"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 104,
+   "addr": "0x8007599c",
+   "en": "Defend",
+   "ru": "Блок",
+   "refs": [],
+   "ptrs": [
+    "0x800a57c4"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 105,
+   "addr": "0x800759a4",
+   "en": " Go!",
+   "ru": " Бой!",
+   "refs": [],
+   "ptrs": [
+    "0x800a57bc"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 106,
+   "addr": "0x800759ac",
+   "en": "Assist +00%",
+   "ru": "Помощь +00%",
+   "refs": [
+    "0x8008be5c",
+    "0x8008ce50"
+   ],
+   "ptrs": [],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 107,
+   "addr": "0x800759c4",
+   "en": "Effect",
+   "ru": "Эффект",
+   "refs": [],
+   "ptrs": [
+    "0x800a57dc"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 108,
+   "addr": "0x800759cc",
+   "en": "Collision",
+   "ru": "Таран",
+   "refs": [],
+   "ptrs": [
+    "0x800a57d8"
+   ],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 109,
+   "addr": "0x800759d8",
+   "en": "Knockdown",
+   "ru": "Нокдаун",
+   "refs": [],
+   "ptrs": [
+    "0x800a57d4"
+   ],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 110,
+   "addr": "0x800759e4",
+   "en": "Emotion x",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x800a57f4"
+   ],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 111,
+   "addr": "0x80075a38",
+   "en": "NAME       AP  FP",
+   "ru": "ПРИЁМ      AP  FP",
+   "refs": [
+    "0x8008ef00"
+   ],
+   "ptrs": [],
+   "room": 20,
+   "tail": false
+  },
+  {
+   "id": 112,
+   "addr": "0x80075a4c",
+   "en": "ATTACK",
+   "ru": "АТАКА",
+   "refs": [
+    "0x8008ef3c"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 113,
+   "addr": "0x80075a54",
+   "en": "RANGE",
+   "ru": "ДИСТ.",
+   "refs": [
+    "0x8008ef54",
+    "0x8008fd6c"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 114,
+   "addr": "0x80075a5c",
+   "en": "HIT",
+   "ru": "ТОЧН",
+   "refs": [
+    "0x8008ef6c"
+   ],
+   "ptrs": [],
+   "room": 4,
+   "tail": false
+  },
+  {
+   "id": 115,
+   "addr": "0x80075a60",
+   "en": "TYPE",
+   "ru": "ТИП",
+   "refs": [
+    "0x8008ef84",
+    "0x8008fd84"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 116,
+   "addr": "0x80075a68",
+   "en": "Enemy Range",
+   "ru": "Враг в зоне",
+   "refs": [],
+   "ptrs": [
+    "0x800a5804"
+   ],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 117,
+   "addr": "0x80075a74",
+   "en": "All Enemy",
+   "ru": "Все враги",
+   "refs": [],
+   "ptrs": [
+    "0x800a5800"
+   ],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 118,
+   "addr": "0x80075a80",
+   "en": "Ally Range",
+   "ru": "Союзник в зоне",
+   "refs": [],
+   "ptrs": [
+    "0x800a57fc"
+   ],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 119,
+   "addr": "0x80075a8c",
+   "en": "All Ally",
+   "ru": "Все союзники",
+   "refs": [],
+   "ptrs": [
+    "0x800a57f8"
+   ],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 120,
+   "addr": "0x80075a98",
+   "en": "NAME            AP  FP",
+   "ru": "ПРИЁМ           AP  FP",
+   "refs": [
+    "0x8008fd18"
+   ],
+   "ptrs": [],
+   "room": 24,
+   "tail": false
+  },
+  {
+   "id": 121,
+   "addr": "0x80075ab0",
+   "en": "ABILITY",
+   "ru": "ТЕХНИКИ",
+   "refs": [
+    "0x8008fd54"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 122,
+   "addr": "0x80075bbc",
+   "en": "ERROR! EVENT PILOT NOT FOUND",
+   "ru": "",
+   "refs": [
+    "0x800a0a88"
+   ],
+   "ptrs": [],
+   "room": 33,
+   "tail": false
+  },
+  {
+   "id": 123,
+   "addr": "0x80075bfc",
+   "en": "ERROR! NOT SALLY UNIT",
+   "ru": "",
+   "refs": [
+    "0x800a1528"
+   ],
+   "ptrs": [],
+   "room": 24,
+   "tail": false
+  },
+  {
+   "id": 124,
+   "addr": "0x80075c14",
+   "en": "Yes",
+   "ru": "Да",
+   "refs": [
+    "0x800a1ab0"
+   ],
+   "ptrs": [],
+   "room": 4,
+   "tail": false
+  },
+  {
+   "id": 125,
+   "addr": "0x80075c18",
+   "en": "No",
+   "ru": "Нет",
+   "refs": [
+    "0x800a1acc"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 126,
+   "addr": "0x80075c20",
+   "en": "Checking the Memory Card...",
+   "ru": "Проверка карты памяти...",
+   "refs": [
+    "0x800a1e6c"
+   ],
+   "ptrs": [],
+   "room": 28,
+   "tail": false
+  },
+  {
+   "id": 127,
+   "addr": "0x80075c3c",
+   "en": "BASLUS-01070",
+   "ru": "",
+   "refs": [
+    "0x800a1fc0",
+    "0x800a1fdc",
+    "0x800a27b8",
+    "0x800a27d4",
+    "0x800a27f8",
+    "0x800a2e70",
+    "0x800a2e90",
+    "0x800a2eb0"
+   ],
+   "ptrs": [],
+   "room": 16,
+   "tail": false
+  },
+  {
+   "id": 128,
+   "addr": "0x80075c4c",
+   "en": "The Memory Card is not",
+   "ru": "Карта памяти не",
+   "refs": [
+    "0x800a20f4"
+   ],
+   "ptrs": [],
+   "room": 24,
+   "tail": false
+  },
+  {
+   "id": 129,
+   "addr": "0x80075c64",
+   "en": "in Memory Card slot 2.",
+   "ru": "в слоте 2.",
+   "refs": [
+    "0x800a2144"
+   ],
+   "ptrs": [],
+   "room": 24,
+   "tail": false
+  },
+  {
+   "id": 130,
+   "addr": "0x80075c7c",
+   "en": "in Memory Card slot 1.",
+   "ru": "в слоте 1.",
+   "refs": [
+    "0x800a214c"
+   ],
+   "ptrs": [],
+   "room": 24,
+   "tail": false
+  },
+  {
+   "id": 131,
+   "addr": "0x80075c94",
+   "en": "Uninitialized.  Initialize it?",
+   "ru": "Не форматирована. Формат.?",
+   "refs": [
+    "0x800a22e8"
+   ],
+   "ptrs": [],
+   "room": 32,
+   "tail": false
+  },
+  {
+   "id": 132,
+   "addr": "0x80075cb4",
+   "en": "Initializing...",
+   "ru": "Формат-ние...",
+   "refs": [
+    "0x800a24a8"
+   ],
+   "ptrs": [],
+   "room": 16,
+   "tail": false
+  },
+  {
+   "id": 133,
+   "addr": "0x80075cc4",
+   "en": "Create Vanguard Data?",
+   "ru": "Создать запись?",
+   "refs": [
+    "0x800a2684"
+   ],
+   "ptrs": [],
+   "room": 24,
+   "tail": false
+  },
+  {
+   "id": 134,
+   "addr": "0x80075cdc",
+   "en": "Overwrite existing data?",
+   "ru": "Перезаписать данные?",
+   "refs": [
+    "0x800a2928"
+   ],
+   "ptrs": [],
+   "room": 28,
+   "tail": false
+  },
+  {
+   "id": 135,
+   "addr": "0x80075cf8",
+   "en": "Saving... ",
+   "ru": "Сохранение...",
+   "refs": [
+    "0x800a2aec"
+   ],
+   "ptrs": [],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 136,
+   "addr": "0x80075d88",
+   "en": "Save completed.",
+   "ru": "Сохранено.",
+   "refs": [],
+   "ptrs": [
+    "0x800a5988"
+   ],
+   "room": 16,
+   "tail": false
+  },
+  {
+   "id": 137,
+   "addr": "0x80075d98",
+   "en": "Failed to create.",
+   "ru": "Ошибка создания.",
+   "refs": [],
+   "ptrs": [
+    "0x800a5984"
+   ],
+   "room": 20,
+   "tail": false
+  },
+  {
+   "id": 138,
+   "addr": "0x80075dac",
+   "en": "The Memory Card is full!",
+   "ru": "Карта памяти заполнена!",
+   "refs": [],
+   "ptrs": [
+    "0x800a5980"
+   ],
+   "room": 28,
+   "tail": false
+  },
+  {
+   "id": 139,
+   "addr": "0x80075dc8",
+   "en": "Failed to save.",
+   "ru": "Ошибка сохранения.",
+   "refs": [],
+   "ptrs": [
+    "0x800a597c"
+   ],
+   "room": 16,
+   "tail": false
+  },
+  {
+   "id": 140,
+   "addr": "0x80075dd8",
+   "en": "Failed to initialize.",
+   "ru": "Ошибка форматирования.",
+   "refs": [],
+   "ptrs": [
+    "0x800a5978"
+   ],
+   "room": 22,
+   "tail": false
+  },
+  {
+   "id": 141,
+   "addr": "0x80075df0",
+   "en": "Save Sharon",
+   "ru": "Спасти Шэрон",
+   "refs": [],
+   "ptrs": [
+    "0x800a5a2c"
+   ],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 142,
+   "addr": "0x80075dfc",
+   "en": "Win at a 5-against-5 group battle",
+   "ru": "Победить в бою 5 на 5",
+   "refs": [],
+   "ptrs": [
+    "0x800a5a1c"
+   ],
+   "room": 36,
+   "tail": false
+  },
+  {
+   "id": 143,
+   "addr": "0x80075e20",
+   "en": "Protect Elebu Castle",
+   "ru": "Защитить замок Элебу",
+   "refs": [],
+   "ptrs": [
+    "0x800a5a0c"
+   ],
+   "room": 24,
+   "tail": false
+  },
+  {
+   "id": 144,
+   "addr": "0x80075e38",
+   "en": "Rage around",
+   "ru": "Буйствовать",
+   "refs": [],
+   "ptrs": [
+    "0x800a59fc"
+   ],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 145,
+   "addr": "0x80075e44",
+   "en": "Defeat the devil machine",
+   "ru": "Уничтожить дьявольский АТАК",
+   "refs": [],
+   "ptrs": [
+    "0x800a59ec"
+   ],
+   "room": 28,
+   "tail": false
+  },
+  {
+   "id": 146,
+   "addr": "0x80075e60",
+   "en": "Win and advance!",
+   "ru": "Победить и пройти дальше!",
+   "refs": [],
+   "ptrs": [
+    "0x800a59dc"
+   ],
+   "room": 20,
+   "tail": false
+  },
+  {
+   "id": 147,
+   "addr": "0x80075e74",
+   "en": "At any rate, run away",
+   "ru": "Любой ценой бежать",
+   "refs": [],
+   "ptrs": [
+    "0x800a59cc"
+   ],
+   "room": 24,
+   "tail": false
+  },
+  {
+   "id": 148,
+   "addr": "0x80075e8c",
+   "en": "Save Randy",
+   "ru": "Спасти Рэнди",
+   "refs": [],
+   "ptrs": [
+    "0x800a59bc"
+   ],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 149,
+   "addr": "0x80075e98",
+   "en": "Occupy Elebu Castle",
+   "ru": "Захватить замок Элебу",
+   "refs": [],
+   "ptrs": [
+    "0x800a59ac"
+   ],
+   "room": 20,
+   "tail": false
+  },
+  {
+   "id": 150,
+   "addr": "0x80075eac",
+   "en": "Rage around showily",
+   "ru": "Буйствовать напоказ",
+   "refs": [],
+   "ptrs": [
+    "0x800a599c"
+   ],
+   "room": 24,
+   "tail": false
+  },
+  {
+   "id": 151,
+   "addr": "0x80075ec4",
+   "en": "Annihilate the enemy",
+   "ru": "Уничтожить врага",
+   "refs": [],
+   "ptrs": [
+    "0x800a598c"
+   ],
+   "room": 24,
+   "tail": false
+  },
+  {
+   "id": 152,
+   "addr": "0x80075edc",
+   "en": "Mission Objective:",
+   "ru": "Цель миссии:",
+   "refs": [
+    "0x800a3370"
+   ],
+   "ptrs": [],
+   "room": 19,
+   "tail": false
+  },
+  {
+   "id": 153,
+   "addr": "0x80075ef0",
+   "en": "SCS_SB",
+   "ru": "",
+   "refs": [
+    "0x800a3edc"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": true
+  },
+  {
+   "id": 154,
+   "addr": "0x80075ef8",
+   "en": "SCS_CHR",
+   "ru": "",
+   "refs": [
+    "0x800a3ee8"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 155,
+   "addr": "0x80075f00",
+   "en": "SCS_SPR",
+   "ru": "",
+   "refs": [
+    "0x800a3efc"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 156,
+   "addr": "0x80075f08",
+   "en": "SCS_BLK",
+   "ru": "",
+   "refs": [
+    "0x800a3f24"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  }
+ ]
+}

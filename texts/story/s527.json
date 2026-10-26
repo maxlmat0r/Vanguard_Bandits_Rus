@@ -1,0 +1,326 @@
+{
+ "file": 527,
+ "kind": "story",
+ "lines": [
+  {
+   "id": 0,
+   "en": "An Imperial soldier?!",
+   "ru": "Имперский солдат?!"
+  },
+  {
+   "id": 1,
+   "en": "What's going on, Melior?",
+   "ru": "Что происходит, Мелиор?"
+  },
+  {
+   "id": 2,
+   "en": "He was merely a messenger of the\nEmpire, Prince Bastion, and our\ndiscussion with him is complete.",
+   "ru": "Это был лишь посланник\nИмперии, принц Бастион, и\nразговор с ним окончен."
+  },
+  {
+   "id": 3,
+   "en": "(A \"discussion\"? I certainly hope\nLord Alden doesn't believe the lies\nbeing fed to him by the Empire!)",
+   "ru": "(\"Разговор\"? Надеюсь, лорд Олден\nне верит лжи, которой его\nкормит Империя!)"
+  },
+  {
+   "id": 4,
+   "en": "It has been a long time, Lord Alden.\nThank you for meeting with us.",
+   "ru": "Давно не виделись, лорд Олден.\nБлагодарю, что приняли нас."
+  },
+  {
+   "id": 5,
+   "en": "Indeed, Prince Bastion, it HAS been a\nlong while...although I have heard of\nyour exploits with Ultragunner.",
+   "ru": "Олден:\nДа, принц Бастион, давно, хотя я\nнаслышан о ваших подвигах на\nУльтраганнере."
+  },
+  {
+   "id": 6,
+   "en": "I will not waste your time or mine,\nLord Alden. I have come here for a\nsingle reason.",
+   "ru": "Не стану тратить ни ваше, ни\nсвоё время, лорд Олден. Я здесь по\nодной причине."
+  },
+  {
+   "id": 7,
+   "en": "I want to form an alliance with you,\nthat we may defeat the Empire and\nbring peace to the Continent.",
+   "ru": "Я хочу заключить с вами союз,\nчтобы победить Империю и\nпринести мир Континенту."
+  },
+  {
+   "id": 8,
+   "en": "I see.",
+   "ru": "Понятно."
+  },
+  {
+   "id": 9,
+   "en": "I would obviously be disappointed\nif you declined my offer, Alden, but\nI would certainly understand.",
+   "ru": "Ваш отказ меня, конечно,\nогорчит, Олден, но я пойму."
+  },
+  {
+   "id": 10,
+   "en": "What I do NOT want is for Hibernia\nto become an enemy of the Kingdom...\nbecause we would both suffer.",
+   "ru": "Я НЕ хочу, чтобы Хиберния стала\nврагом Королевства. Пострадали\nбы мы оба."
+  },
+  {
+   "id": 11,
+   "en": "Both of us, Prince Bastion? Are you\ncertain of that?",
+   "ru": "Мы оба, принц Бастион? Вы в\nэтом уверены?"
+  },
+  {
+   "id": 12,
+   "en": "Certain enough to bet my life upon it,\nLord Alden.",
+   "ru": "Настолько, что готов поставить\nна это жизнь, лорд Олден."
+  },
+  {
+   "id": 13,
+   "en": "Prince Bastion, I realize the\nimpropriety of my request, but may\nI interrupt for a few moments?",
+   "ru": "Принц Бастион, понимаю, это\nнеучтиво, но позвольте мне\nвмешаться на минутку?"
+  },
+  {
+   "id": 14,
+   "en": "Uh...certainly, Melior.",
+   "ru": "Э-э... конечно, Мелиор."
+  },
+  {
+   "id": 15,
+   "en": "Thank you so much, Prince Bastion.",
+   "ru": "Огромное спасибо, принц Бастион."
+  },
+  {
+   "id": 16,
+   "en": "Actually, my interruption concerns\none of the members of your party.",
+   "ru": "Вообще-то, я хочу спросить об\nодном из ваших спутников."
+  },
+  {
+   "id": 17,
+   "en": "How did Devlin come to join you?",
+   "ru": "Как Девлин оказался с вами?"
+  },
+  {
+   "id": 18,
+   "en": "Devlin?",
+   "ru": "Девлин?"
+  },
+  {
+   "id": 19,
+   "en": "(I knew I should have stayed with\nGalvas back in the capital city...)",
+   "ru": "(Так и знал, что надо было\nостаться с Гальвасом в столице...)"
+  },
+  {
+   "id": 20,
+   "en": "When you left here, you claimed\nthat you were sick of war, and\nnow you fight for the Kingdom?",
+   "ru": "Уходя отсюда, ты говорил, что\nсыт войной по горло, а теперь\nсражаешься за Королевство?"
+  },
+  {
+   "id": 21,
+   "en": "What has brought about this\nchange of heart, Devlin? I demand\nthe simple courtesy of an answer!",
+   "ru": "Что заставило тебя передумать,\nДевлин? Я требую хотя бы\nпростой вежливости - ответа!"
+  },
+  {
+   "id": 22,
+   "en": "...   ...   ...",
+   "ru": ""
+  },
+  {
+   "id": 23,
+   "en": "Devlin, you must realize that your\nanswer could greatly benefit Bastion.\nPlease share your reasons with us.",
+   "ru": "Девлин, пойми, твой ответ может\nочень помочь Бастиону. Прошу,\nобъясни нам."
+  },
+  {
+   "id": 24,
+   "en": "(I knew she would say that...)",
+   "ru": "(Так и знал, что она это\nскажет...)"
+  },
+  {
+   "id": 25,
+   "en": "Melior, just because I'm your\nbrother doesn't give you the\nright to make me feel so guilty.",
+   "ru": "Мелиор, то, что я твой брат, не\nдаёт тебе права так меня\nсовестить."
+  },
+  {
+   "id": 26,
+   "en": "Devlin, you're Melior's brother?!",
+   "ru": "Девлин, ты брат Мелиор?!"
+  },
+  {
+   "id": 27,
+   "en": "Devlin, that hotty is your sister?!",
+   "ru": "Девлин, эта красотка - твоя\nсестра?!"
+  },
+  {
+   "id": 28,
+   "en": "Man, am I glad you didn't see me try\nto pinch her posterior as she was\nescorting us!",
+   "ru": "Ох, хорошо, что ты не видел, как\nя пытался ущипнуть её пониже\nспины по дороге сюда!"
+  },
+  {
+   "id": 29,
+   "en": "Actually, I did...and we're going to\nhave a little discussion about that\nafter this meeting is adjourned.",
+   "ru": "Вообще-то видела... и после этой\nвстречи мы с тобой об этом\nпобеседуем."
+  },
+  {
+   "id": 30,
+   "en": "As for you, Melior, I'll try to explain\nas best I can.",
+   "ru": "А тебе, Мелиор, я попробую\nобъяснить, как смогу."
+  },
+  {
+   "id": 31,
+   "en": "We grew up watching the Kingdom\nand the Empire fight each other, and\nyou know how much it upset me.",
+   "ru": "Мы выросли, глядя, как воюют\nКоролевство и Империя, и ты\nзнаешь, как меня это мучило."
+  },
+  {
+   "id": 32,
+   "en": "While we lived in peace, the citizens\nof those two nations lived in fear,\nand we did nothing to help them.",
+   "ru": "Мы жили в мире, а жители тех\nдвух стран - в страхе, и мы\nничем им не помогали."
+  },
+  {
+   "id": 33,
+   "en": "I grew tired of watching the world\ncollapse around us...so I left with the\ngoal of helping the innocent.",
+   "ru": "Мне надоело смотреть, как вокруг\nрушится мир... и я ушёл, чтобы\nпомогать невинным."
+  },
+  {
+   "id": 34,
+   "en": "But for every life I was able to save,\nthere were three I was not...and my\ndesire turned to despair.",
+   "ru": "Но на каждую спасённую жизнь\nприходились три потерянные... и\nнадежда сменилась отчаянием."
+  },
+  {
+   "id": 35,
+   "en": "That's when I met Bastion. He pulled\nme away from the brink of death...\nboth physically and spiritually.",
+   "ru": "Тогда я встретил Бастиона. Он\nвытащил меня с края гибели... и\nтелом, и душой."
+  },
+  {
+   "id": 36,
+   "en": "Yes, he engages in warfare, but not\nto expand his domain and revel in\nhis power. He fights...for peace.",
+   "ru": "Да, он воюет, но не ради новых\nземель и упоения властью. Он\nсражается... за мир."
+  },
+  {
+   "id": 37,
+   "en": "When Bastion defeats the Empire, the\npeople of the Continent will be saved\nfrom a lifetime of suffering.",
+   "ru": "Когда Бастион победит Империю,\nнарод Континента избавится от\nвечных страданий."
+  },
+  {
+   "id": 38,
+   "en": "That is why I have joined with him,\nMelior...and that is why Lord Alden\nshould join with him as well.",
+   "ru": "Вот почему я с ним, Мелиор... и\nвот почему лорду Олдену тоже\nстоит к нему примкнуть."
+  },
+  {
+   "id": 39,
+   "en": "Thank you, Devlin...and thank you,\nYour Highness. Please continue.",
+   "ru": "Спасибо, Девлин... и спасибо вам,\nВаше Высочество. Прошу,\nпродолжайте."
+  },
+  {
+   "id": 40,
+   "en": "I don't quite know what to say after\nthat, Melior...",
+   "ru": "Даже не знаю, что сказать после\nэтого, Мелиор..."
+  },
+  {
+   "id": 41,
+   "en": "I would also speak to your friends,\nPrince Bastion.",
+   "ru": "Я хотел бы поговорить и с\nвашими друзьями, принц\nБастион."
+  },
+  {
+   "id": 42,
+   "en": "Tell me, Duke Zeira, are you as\nenamored of Prince Bastion as is\nDevlin?",
+   "ru": "Скажите, герцог Зейра, вы так же\nочарованы принцем Бастионом,\nкак Девлин?"
+  },
+  {
+   "id": 43,
+   "en": "I am, Alden. I've yet to meet a \nkinder and more honorable young\nman.",
+   "ru": "Да, Олден. Я не встречал юноши\nдобрее и благороднее."
+  },
+  {
+   "id": 44,
+   "en": "And you, warrior of Dionne? How do\nyou feel about the Prince?",
+   "ru": "А вы, воин Дионна? Что вы\nдумаете о принце?"
+  },
+  {
+   "id": 45,
+   "en": "Who, Bastion? Truth be told, I love\nthe guy...in an entirely platonic\nway, mind you.",
+   "ru": "О Бастионе? Честно говоря, я его\nобожаю... совершенно\nплатонически, учтите."
+  },
+  {
+   "id": 46,
+   "en": "Indeed, Prince Bastion, you seem to\nhave the support of anyone who has\nentered your life.",
+   "ru": "Похоже, принц Бастион, вас\nподдерживает каждый, кто\nвстретился на вашем пути."
+  },
+  {
+   "id": 47,
+   "en": "And I must confess that yet another\nperson has been singing your praises\nto me for quite some time.",
+   "ru": "И признаюсь, ещё один человек\nуже давно поёт мне вам хвалу."
+  },
+  {
+   "id": 48,
+   "en": "Please enter...",
+   "ru": "Прошу, входите..."
+  },
+  {
+   "id": 49,
+   "en": "Hello, Bastion.",
+   "ru": "Привет, Бастион."
+  },
+  {
+   "id": 50,
+   "en": "Milea!!",
+   "ru": "Милея!!"
+  },
+  {
+   "id": 51,
+   "en": "(It figures. One cute girl walks into\nthe room, and everyone forgets about\nmy emotional confession of love...)",
+   "ru": "(Ну конечно. Стоит войти одной\nмилашке, и все забывают про моё\nтрогательное признание...)"
+  },
+  {
+   "id": 52,
+   "en": "Milea, how long have you been here?!\nWhy didn't you try to contact me?!",
+   "ru": "Милея, давно ты здесь?! Почему\nне пыталась со мной связаться?!"
+  },
+  {
+   "id": 53,
+   "en": "I...I wasn't ready, Bastion.",
+   "ru": "Я... я была не готова, Бастион."
+  },
+  {
+   "id": 54,
+   "en": "Milea will be able to answer all of\nyour questions soon enough, Prince\nBastion.",
+   "ru": "Милея скоро ответит на все ваши\nвопросы, принц Бастион."
+  },
+  {
+   "id": 55,
+   "en": "All you must know for now is that\nshe has spoken of you on every day\nof her residence here.",
+   "ru": "Пока вам достаточно знать, что\nона говорила о вас каждый день,\nчто жила здесь."
+  },
+  {
+   "id": 56,
+   "en": "She has never stopped attempting to\npersuade me that you are deserving\nof my support.",
+   "ru": "Она без устали убеждала меня,\nчто вы достойны моей\nподдержки."
+  },
+  {
+   "id": 57,
+   "en": "She really is quite a special\nyoung lady. But, you know that\nalready, don't you?",
+   "ru": "Она поистине особенная девушка.\nНо вы ведь и так это знаете,\nверно?"
+  },
+  {
+   "id": 58,
+   "en": "I now realize that Milea was telling\nthe truth about you, Prince Bastion.\nYou are a great man indeed.",
+   "ru": "Теперь я вижу, что Милея\nговорила правду. Вы и впрямь\nвеликий человек, принц Бастион."
+  },
+  {
+   "id": 59,
+   "en": "Lord Alden...",
+   "ru": "Лорд Олден..."
+  },
+  {
+   "id": 60,
+   "en": "I gladly ally the nation of Hibernia\nwith the Pharastia Kingdom in its\nbattle against the Junaris Empire.",
+   "ru": "Хиберния с радостью вступает в\nсоюз с Королевством Фарастия\nпротив Империи Джунарис."
+  },
+  {
+   "id": 61,
+   "en": "Th...thank you, Lord Alden!",
+   "ru": "Б... благодарю, лорд Олден!"
+  },
+  {
+   "id": 62,
+   "en": "You will not regret your decision!",
+   "ru": "Вы не пожалеете о своём решении!"
+  },
+  {
+   "id": 63,
+   "en": "Thank you, everyone...",
+   "ru": "Спасибо всем..."
+  }
+ ]
+}

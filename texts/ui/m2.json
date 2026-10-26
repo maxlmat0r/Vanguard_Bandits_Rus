@@ -1,0 +1,1055 @@
+{
+ "file": 2,
+ "kind": "module",
+ "base": "0x800751a8",
+ "lines": [
+  {
+   "id": 0,
+   "addr": "0x800751ac",
+   "en": "29. Destruction",
+   "ru": "29. Разрушение",
+   "refs": [],
+   "ptrs": [
+    "0x8007a0a8"
+   ],
+   "room": 16,
+   "tail": false
+  },
+  {
+   "id": 1,
+   "addr": "0x800751bc",
+   "en": "28. Excitement",
+   "ru": "28. Волнение",
+   "refs": [],
+   "ptrs": [
+    "0x8007a0a4"
+   ],
+   "room": 16,
+   "tail": false
+  },
+  {
+   "id": 2,
+   "addr": "0x800751cc",
+   "en": "27. Believe My Heart",
+   "ru": "27. Верь моему сердцу",
+   "refs": [],
+   "ptrs": [
+    "0x8007a0a0"
+   ],
+   "room": 24,
+   "tail": false
+  },
+  {
+   "id": 3,
+   "addr": "0x800751e4",
+   "en": "26. After the Rain",
+   "ru": "26. После дождя",
+   "refs": [],
+   "ptrs": [
+    "0x8007a09c"
+   ],
+   "room": 20,
+   "tail": false
+  },
+  {
+   "id": 4,
+   "addr": "0x800751f8",
+   "en": "25. Ever Faithful",
+   "ru": "25. Верность",
+   "refs": [],
+   "ptrs": [
+    "0x8007a098"
+   ],
+   "room": 20,
+   "tail": false
+  },
+  {
+   "id": 5,
+   "addr": "0x8007520c",
+   "en": "24. Sunny Day",
+   "ru": "24. Солнечный день",
+   "refs": [],
+   "ptrs": [
+    "0x8007a094"
+   ],
+   "room": 16,
+   "tail": false
+  },
+  {
+   "id": 6,
+   "addr": "0x8007521c",
+   "en": "23. Red Tiger",
+   "ru": "23. Красный тигр",
+   "refs": [],
+   "ptrs": [
+    "0x8007a090"
+   ],
+   "room": 16,
+   "tail": false
+  },
+  {
+   "id": 7,
+   "addr": "0x8007522c",
+   "en": "22. Wandering",
+   "ru": "22. Странствие",
+   "refs": [],
+   "ptrs": [
+    "0x8007a08c"
+   ],
+   "room": 16,
+   "tail": false
+  },
+  {
+   "id": 8,
+   "addr": "0x8007523c",
+   "en": "21. Icy Teardrop",
+   "ru": "21. Ледяная слеза",
+   "refs": [],
+   "ptrs": [
+    "0x8007a088"
+   ],
+   "room": 20,
+   "tail": false
+  },
+  {
+   "id": 9,
+   "addr": "0x80075250",
+   "en": "20. Funny Walk",
+   "ru": "20. Смешная походка",
+   "refs": [],
+   "ptrs": [
+    "0x8007a084"
+   ],
+   "room": 16,
+   "tail": false
+  },
+  {
+   "id": 10,
+   "addr": "0x80075260",
+   "en": "19. Destiny",
+   "ru": "19. Судьба",
+   "refs": [],
+   "ptrs": [
+    "0x8007a080"
+   ],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 11,
+   "addr": "0x8007526c",
+   "en": "18. Nothingness",
+   "ru": "18. Пустота",
+   "refs": [],
+   "ptrs": [
+    "0x8007a07c"
+   ],
+   "room": 16,
+   "tail": false
+  },
+  {
+   "id": 12,
+   "addr": "0x8007527c",
+   "en": "17. Puck's Theme",
+   "ru": "17. Тема Пака",
+   "refs": [],
+   "ptrs": [
+    "0x8007a078"
+   ],
+   "room": 20,
+   "tail": false
+  },
+  {
+   "id": 13,
+   "addr": "0x80075290",
+   "en": "16. The Empire",
+   "ru": "16. Империя",
+   "refs": [],
+   "ptrs": [
+    "0x8007a074"
+   ],
+   "room": 16,
+   "tail": false
+  },
+  {
+   "id": 14,
+   "addr": "0x800752a0",
+   "en": "15. The Kingdom",
+   "ru": "15. Королевство",
+   "refs": [],
+   "ptrs": [
+    "0x8007a070"
+   ],
+   "room": 16,
+   "tail": false
+  },
+  {
+   "id": 15,
+   "addr": "0x800752b0",
+   "en": "14. Unholy Chorus",
+   "ru": "14. Нечестивый хор",
+   "refs": [],
+   "ptrs": [
+    "0x8007a06c"
+   ],
+   "room": 20,
+   "tail": false
+  },
+  {
+   "id": 16,
+   "addr": "0x800752c4",
+   "en": "13. Hole",
+   "ru": "13. Бездна",
+   "refs": [],
+   "ptrs": [
+    "0x8007a068"
+   ],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 17,
+   "addr": "0x800752d0",
+   "en": "12. Rainbow",
+   "ru": "12. Радуга",
+   "refs": [],
+   "ptrs": [
+    "0x8007a064"
+   ],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 18,
+   "addr": "0x800752dc",
+   "en": "11. Battlefield",
+   "ru": "11. Поле боя",
+   "refs": [],
+   "ptrs": [
+    "0x8007a060"
+   ],
+   "room": 16,
+   "tail": false
+  },
+  {
+   "id": 19,
+   "addr": "0x800752ec",
+   "en": "10. Chase a Dream",
+   "ru": "10. За мечтой",
+   "refs": [],
+   "ptrs": [
+    "0x8007a05c"
+   ],
+   "room": 20,
+   "tail": false
+  },
+  {
+   "id": 20,
+   "addr": "0x80075300",
+   "en": "9.  Cold Stare",
+   "ru": "9.  Холодный взгляд",
+   "refs": [],
+   "ptrs": [
+    "0x8007a058"
+   ],
+   "room": 16,
+   "tail": false
+  },
+  {
+   "id": 21,
+   "addr": "0x80075310",
+   "en": "8.  Faraway",
+   "ru": "8.  Вдали",
+   "refs": [],
+   "ptrs": [
+    "0x8007a054"
+   ],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 22,
+   "addr": "0x8007531c",
+   "en": "7.  Under the Radar",
+   "ru": "7.  Незаметно",
+   "refs": [],
+   "ptrs": [
+    "0x8007a050"
+   ],
+   "room": 20,
+   "tail": false
+  },
+  {
+   "id": 23,
+   "addr": "0x80075330",
+   "en": "6.  Broken Wings",
+   "ru": "6.  Сломанные крылья",
+   "refs": [],
+   "ptrs": [
+    "0x8007a04c"
+   ],
+   "room": 20,
+   "tail": false
+  },
+  {
+   "id": 24,
+   "addr": "0x80075344",
+   "en": "5.  In the Clouds",
+   "ru": "5.  В облаках",
+   "refs": [],
+   "ptrs": [
+    "0x8007a048"
+   ],
+   "room": 20,
+   "tail": false
+  },
+  {
+   "id": 25,
+   "addr": "0x8007535c",
+   "en": "4.  Triumphant",
+   "ru": "4.  Триумф",
+   "refs": [],
+   "ptrs": [
+    "0x8007a038"
+   ],
+   "room": 16,
+   "tail": false
+  },
+  {
+   "id": 26,
+   "addr": "0x8007536c",
+   "en": "3.  Beating Heart",
+   "ru": "3.  Стук сердца",
+   "refs": [],
+   "ptrs": [
+    "0x8007a034"
+   ],
+   "room": 20,
+   "tail": false
+  },
+  {
+   "id": 27,
+   "addr": "0x80075380",
+   "en": "2.  Endless Joy",
+   "ru": "2.  Вечная радость",
+   "refs": [],
+   "ptrs": [
+    "0x8007a030"
+   ],
+   "room": 16,
+   "tail": false
+  },
+  {
+   "id": 28,
+   "addr": "0x80075390",
+   "en": "1.  Mountaintop",
+   "ru": "1.  Вершина",
+   "refs": [],
+   "ptrs": [
+    "0x8007a02c"
+   ],
+   "room": 16,
+   "tail": false
+  },
+  {
+   "id": 29,
+   "addr": "0x800753a0",
+   "en": "SPSB",
+   "ru": "",
+   "refs": [
+    "0x80075ab4"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 30,
+   "addr": "0x800753a8",
+   "en": "SPDB_0",
+   "ru": "",
+   "refs": [
+    "0x80075ad8"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 31,
+   "addr": "0x800753b0",
+   "en": "SPDB_1",
+   "ru": "",
+   "refs": [
+    "0x80075af4"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 32,
+   "addr": "0x800753b8",
+   "en": "LOADBUF",
+   "ru": "",
+   "refs": [
+    "0x80075cb0"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 33,
+   "addr": "0x800753c4",
+   "en": "Now loading...",
+   "ru": "Загрузка...",
+   "refs": [
+    "0x80076728",
+    "0x80076c6c"
+   ],
+   "ptrs": [],
+   "room": 16,
+   "tail": false
+  },
+  {
+   "id": 34,
+   "addr": "0x800753d4",
+   "en": "VABTMP",
+   "ru": "",
+   "refs": [
+    "0x8007674c"
+   ],
+   "ptrs": [],
+   "room": 9,
+   "tail": false
+  },
+  {
+   "id": 35,
+   "addr": "0x800753e0",
+   "en": "DECENV",
+   "ru": "",
+   "refs": [
+    "0x80077110"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": true
+  },
+  {
+   "id": 36,
+   "addr": "0x800753e8",
+   "en": "STRRBUF",
+   "ru": "",
+   "refs": [
+    "0x8007711c"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 37,
+   "addr": "0x800753f0",
+   "en": "VLCBUF0",
+   "ru": "",
+   "refs": [
+    "0x80077148"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 38,
+   "addr": "0x800753f8",
+   "en": "VLCBUF1",
+   "ru": "",
+   "refs": [
+    "0x80077160"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 39,
+   "addr": "0x80075400",
+   "en": "IMGBUF0",
+   "ru": "",
+   "refs": [
+    "0x80077174"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 40,
+   "addr": "0x80075408",
+   "en": "IMGBUF1",
+   "ru": "",
+   "refs": [
+    "0x8007718c"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 41,
+   "addr": "0x80075458",
+   "en": "DECODE",
+   "ru": "",
+   "refs": [
+    "0x800782cc",
+    "0x80078e30"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 42,
+   "addr": "0x80075460",
+   "en": "SPSB",
+   "ru": "",
+   "refs": [
+    "0x8007848c"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 43,
+   "addr": "0x80075468",
+   "en": "SPDB_0",
+   "ru": "",
+   "refs": [
+    "0x800784a8"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 44,
+   "addr": "0x80075470",
+   "en": "SPDB_1",
+   "ru": "",
+   "refs": [
+    "0x800784c0"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 45,
+   "addr": "0x80075478",
+   "en": "Mono  ",
+   "ru": "Моно  ",
+   "refs": [],
+   "ptrs": [
+    "0x8007a10c"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 46,
+   "addr": "0x80075480",
+   "en": "Stereo",
+   "ru": "Стерео",
+   "refs": [],
+   "ptrs": [
+    "0x8007a108"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 47,
+   "addr": "0x80075488",
+   "en": "Fast  ",
+   "ru": "Быстро",
+   "refs": [],
+   "ptrs": [
+    "0x8007a118"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 48,
+   "addr": "0x80075490",
+   "en": "Normal",
+   "ru": "Норма ",
+   "refs": [],
+   "ptrs": [
+    "0x8007a114"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 49,
+   "addr": "0x80075498",
+   "en": "Slow  ",
+   "ru": "Медл. ",
+   "refs": [],
+   "ptrs": [
+    "0x8007a110"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 50,
+   "addr": "0x800754a0",
+   "en": "Bells  ",
+   "ru": "Колокол",
+   "refs": [],
+   "ptrs": [
+    "0x8007a124"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 51,
+   "addr": "0x800754a8",
+   "en": "Fanfare",
+   "ru": "Фанфары",
+   "refs": [],
+   "ptrs": [
+    "0x8007a120"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 52,
+   "addr": "0x800754b0",
+   "en": "Ballad ",
+   "ru": "Баллада",
+   "refs": [],
+   "ptrs": [
+    "0x8007a11c"
+   ],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 53,
+   "addr": "0x800754b8",
+   "en": "Tomorrow",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8007a134"
+   ],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 54,
+   "addr": "0x800754c4",
+   "en": "The Battle",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8007a130"
+   ],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 55,
+   "addr": "0x800754d0",
+   "en": "Together   ",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8007a12c"
+   ],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 56,
+   "addr": "0x800754dc",
+   "en": "Believe    ",
+   "ru": "",
+   "refs": [],
+   "ptrs": [
+    "0x8007a128"
+   ],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 57,
+   "addr": "0x800754e8",
+   "en": "On",
+   "ru": "Вкл",
+   "refs": [],
+   "ptrs": [
+    "0x8007a13c"
+   ],
+   "room": 4,
+   "tail": false
+  },
+  {
+   "id": 58,
+   "addr": "0x800754ec",
+   "en": "Off",
+   "ru": "Выкл",
+   "refs": [],
+   "ptrs": [
+    "0x8007a138"
+   ],
+   "room": 4,
+   "tail": false
+  },
+  {
+   "id": 59,
+   "addr": "0x800754f0",
+   "en": "Bloopers 9",
+   "ru": "Ляпы 9",
+   "refs": [],
+   "ptrs": [
+    "0x8007a164"
+   ],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 60,
+   "addr": "0x800754fc",
+   "en": "Bloopers 8",
+   "ru": "Ляпы 8",
+   "refs": [],
+   "ptrs": [
+    "0x8007a160"
+   ],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 61,
+   "addr": "0x80075508",
+   "en": "Bloopers 7",
+   "ru": "Ляпы 7",
+   "refs": [],
+   "ptrs": [
+    "0x8007a15c"
+   ],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 62,
+   "addr": "0x80075514",
+   "en": "Bloopers 6",
+   "ru": "Ляпы 6",
+   "refs": [],
+   "ptrs": [
+    "0x8007a158"
+   ],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 63,
+   "addr": "0x80075520",
+   "en": "Bloopers 5",
+   "ru": "Ляпы 5",
+   "refs": [],
+   "ptrs": [
+    "0x8007a154"
+   ],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 64,
+   "addr": "0x8007552c",
+   "en": "Bloopers 4",
+   "ru": "Ляпы 4",
+   "refs": [],
+   "ptrs": [
+    "0x8007a150"
+   ],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 65,
+   "addr": "0x80075538",
+   "en": "Bloopers 3",
+   "ru": "Ляпы 3",
+   "refs": [],
+   "ptrs": [
+    "0x8007a14c"
+   ],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 66,
+   "addr": "0x80075544",
+   "en": "Bloopers 2",
+   "ru": "Ляпы 2",
+   "refs": [],
+   "ptrs": [
+    "0x8007a148"
+   ],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 67,
+   "addr": "0x80075550",
+   "en": "Bloopers 1",
+   "ru": "Ляпы 1",
+   "refs": [],
+   "ptrs": [
+    "0x8007a144"
+   ],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 68,
+   "addr": "0x8007555c",
+   "en": "Normal    ",
+   "ru": "Обычный   ",
+   "refs": [],
+   "ptrs": [
+    "0x8007a140"
+   ],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 69,
+   "addr": "0x80075568",
+   "en": "Locked",
+   "ru": "Закрыто",
+   "refs": [
+    "0x80078824",
+    "0x8007886c",
+    "0x800788b4"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 70,
+   "addr": "0x80075570",
+   "en": "Options",
+   "ru": "Настройки",
+   "refs": [
+    "0x800789d8"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 71,
+   "addr": "0x80075578",
+   "en": "Load Stats",
+   "ru": "Загр. сохр.",
+   "refs": [
+    "0x80078a1c"
+   ],
+   "ptrs": [],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 72,
+   "addr": "0x80075584",
+   "en": "Sound Mode",
+   "ru": "Звук",
+   "refs": [
+    "0x80078a40"
+   ],
+   "ptrs": [],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 73,
+   "addr": "0x80075590",
+   "en": "Message Speed",
+   "ru": "Скор. текста",
+   "refs": [
+    "0x80078a78"
+   ],
+   "ptrs": [],
+   "room": 16,
+   "tail": false
+  },
+  {
+   "id": 74,
+   "addr": "0x800755a0",
+   "en": "Vibration",
+   "ru": "Вибрация",
+   "refs": [
+    "0x80078ab0"
+   ],
+   "ptrs": [],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 75,
+   "addr": "0x800755ac",
+   "en": "ATAC Viewer",
+   "ru": "Галерея АТАКов",
+   "refs": [
+    "0x80078ae8"
+   ],
+   "ptrs": [],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 76,
+   "addr": "0x800755b8",
+   "en": "%d/32 ATACs",
+   "ru": "АТАКов: %d/32",
+   "refs": [
+    "0x80078b0c"
+   ],
+   "ptrs": [],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 77,
+   "addr": "0x800755c4",
+   "en": "Missions Won",
+   "ru": "Победы",
+   "refs": [
+    "0x80078b38"
+   ],
+   "ptrs": [],
+   "room": 16,
+   "tail": false
+  },
+  {
+   "id": 78,
+   "addr": "0x800755d4",
+   "en": "%d/56 Missions",
+   "ru": "Миссий: %d/56",
+   "refs": [
+    "0x80078b5c"
+   ],
+   "ptrs": [],
+   "room": 16,
+   "tail": false
+  },
+  {
+   "id": 79,
+   "addr": "0x800755e4",
+   "en": "End Credits",
+   "ru": "Титры",
+   "refs": [
+    "0x80078b88"
+   ],
+   "ptrs": [],
+   "room": 12,
+   "tail": false
+  },
+  {
+   "id": 80,
+   "addr": "0x800755f0",
+   "en": "Music",
+   "ru": "Музыка",
+   "refs": [
+    "0x80078bc0"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 81,
+   "addr": "0x800755f8",
+   "en": "Opening Movie",
+   "ru": "Вступление",
+   "refs": [
+    "0x80078bf8"
+   ],
+   "ptrs": [],
+   "room": 16,
+   "tail": false
+  },
+  {
+   "id": 82,
+   "addr": "0x80075608",
+   "en": "Exit",
+   "ru": "Выход",
+   "refs": [
+    "0x80078c30"
+   ],
+   "ptrs": [],
+   "room": 8,
+   "tail": false
+  },
+  {
+   "id": 83,
+   "addr": "0x80075664",
+   "en": "MDEC_rest:bad option(%d)\n",
+   "ru": "",
+   "refs": [
+    "0x80079934"
+   ],
+   "ptrs": [],
+   "room": 28,
+   "tail": false
+  },
+  {
+   "id": 84,
+   "addr": "0x80075680",
+   "en": "MDEC_in_sync",
+   "ru": "",
+   "refs": [
+    "0x80079abc"
+   ],
+   "ptrs": [],
+   "room": 16,
+   "tail": false
+  },
+  {
+   "id": 85,
+   "addr": "0x80075690",
+   "en": "MDEC_out_sync",
+   "ru": "",
+   "refs": [
+    "0x80079b50"
+   ],
+   "ptrs": [],
+   "room": 16,
+   "tail": false
+  },
+  {
+   "id": 86,
+   "addr": "0x800756a0",
+   "en": "%s timeout:\n",
+   "ru": "",
+   "refs": [
+    "0x80079bb0"
+   ],
+   "ptrs": [],
+   "room": 20,
+   "tail": false
+  }
+ ]
+}

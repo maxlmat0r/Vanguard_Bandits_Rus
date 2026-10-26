@@ -1,0 +1,21 @@
+{
+ "file": 662,
+ "kind": "story",
+ "lines": [
+  {
+   "id": 0,
+   "en": "Kingdom Soldier:\nThe Empire has posted ATACs at the\nentrance and the center of Eiza.",
+   "ru": "Солдат Королевства:\nИмперия поставила АТАКи у\nвхода и в центре Эйзы."
+  },
+  {
+   "id": 1,
+   "en": "If the entrance guards spot us, they\nwill immediately notify the others.",
+   "ru": "Если нас заметит стража у входа,\nона немедленно предупредит\nостальных."
+  },
+  {
+   "id": 2,
+   "en": "Mmmmm. We'll have to plan our\napproach carefully, then.",
+   "ru": "Ммм. Значит, подходить надо с\nумом."
+  }
+ ]
+}

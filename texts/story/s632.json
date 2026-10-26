@@ -1,0 +1,36 @@
+{
+ "file": 632,
+ "kind": "story",
+ "lines": [
+  {
+   "id": 0,
+   "en": "We're nearing the capital.",
+   "ru": "Мы приближаемся к столице."
+  },
+  {
+   "id": 1,
+   "en": "But now we have to get through this\ntotally guarded checkpoint.",
+   "ru": "Но сначала надо пройти этот\nреально укреплённый пост."
+  },
+  {
+   "id": 2,
+   "en": "It's possible, but unlikely, that these\ntroops will heed my orders and let us\npass without incident.",
+   "ru": "Возможно, хоть и вряд ли, эти\nсолдаты послушаются меня и\nпропустят нас без боя."
+  },
+  {
+   "id": 3,
+   "en": "If not...we'll have to fight.",
+   "ru": "Если нет... придётся сражаться."
+  },
+  {
+   "id": 4,
+   "en": "I was expecting a fight in any case,\nSadira. Let's go.",
+   "ru": "Я в любом случае ждал боя,\nСадира. Вперёд."
+  },
+  {
+   "id": 5,
+   "en": "Let's see if Sadira still possesses any\nauthority within the Empire...",
+   "ru": "Посмотрим, осталась ли у Садиры\nхоть какая-то власть в Империи..."
+  }
+ ]
+}

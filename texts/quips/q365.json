@@ -1,0 +1,346 @@
+{
+ "file": 365,
+ "kind": "quip",
+ "lines": [
+  {
+   "id": 0,
+   "en": "Left!",
+   "ru": "Слева!"
+  },
+  {
+   "id": 1,
+   "en": "Urrrk!",
+   "ru": "Кха!"
+  },
+  {
+   "id": 2,
+   "en": "Right!",
+   "ru": "Справа!"
+  },
+  {
+   "id": 3,
+   "en": "Aargh!",
+   "ru": "Аргх!"
+  },
+  {
+   "id": 4,
+   "en": "Is that all?",
+   "ru": "И это всё?"
+  },
+  {
+   "id": 5,
+   "en": "That wasn't much!",
+   "ru": "Негусто!"
+  },
+  {
+   "id": 6,
+   "en": "I demand that you\ngive me a real fight!",
+   "ru": "Я требую настоящего\nбоя!"
+  },
+  {
+   "id": 7,
+   "en": "Hmmph.",
+   "ru": "Хм."
+  },
+  {
+   "id": 8,
+   "en": "Huh?!",
+   "ru": "А?!"
+  },
+  {
+   "id": 9,
+   "en": "You're doing well!",
+   "ru": "Неплохо держишься!"
+  },
+  {
+   "id": 10,
+   "en": "You're a promising\nwarrior! Keep it up!",
+   "ru": "Многообещающий\nвоин! Так держать!"
+  },
+  {
+   "id": 11,
+   "en": "To have inflicted an\ninjury upon me!",
+   "ru": "Ранить меня — это\nнадо суметь!"
+  },
+  {
+   "id": 12,
+   "en": "Arrghhh!!",
+   "ru": "А-аргх!!"
+  },
+  {
+   "id": 13,
+   "en": "That was entirely\nuncalled for!",
+   "ru": "Это было совершенно\nни к чему!"
+  },
+  {
+   "id": 14,
+   "en": "What power!!",
+   "ru": "Какая сила!!"
+  },
+  {
+   "id": 15,
+   "en": "No one has tested my\nstrength as you do!",
+   "ru": "Никто ещё так меня\nне испытывал!"
+  },
+  {
+   "id": 16,
+   "en": "Noooooooo!!",
+   "ru": "Не-е-е-ет!!"
+  },
+  {
+   "id": 17,
+   "en": "To have suffered the\ndisgrace of defeat!",
+   "ru": "Познать позор\nпоражения!"
+  },
+  {
+   "id": 18,
+   "en": "The battle is already\nover for me?!",
+   "ru": "Для меня битва уже\nокончена?!"
+  },
+  {
+   "id": 19,
+   "en": "This cannot be the\nend for me...!",
+   "ru": "Неужели это конец...!"
+  },
+  {
+   "id": 20,
+   "en": "From the rear?!",
+   "ru": "С тыла?!"
+  },
+  {
+   "id": 21,
+   "en": "What was that?!",
+   "ru": "Это что было?!"
+  },
+  {
+   "id": 22,
+   "en": "Too easy!",
+   "ru": "Слишком просто!"
+  },
+  {
+   "id": 23,
+   "en": "You will need to be\nfaster than that!",
+   "ru": "Надо быть\nпошустрее!"
+  },
+  {
+   "id": 24,
+   "en": "You lack both speed\nand skill!",
+   "ru": "Ни скорости, ни\nумения!"
+  },
+  {
+   "id": 25,
+   "en": "Too slow!",
+   "ru": "Слишком медленно!"
+  },
+  {
+   "id": 26,
+   "en": "Impossible!",
+   "ru": "Невозможно!"
+  },
+  {
+   "id": 27,
+   "en": "Damn it!",
+   "ru": "Проклятье!"
+  },
+  {
+   "id": 28,
+   "en": "An excellent dodge!",
+   "ru": "Отличный уворот!"
+  },
+  {
+   "id": 29,
+   "en": "Have I grown slow\nwith age?",
+   "ru": "Я что, к старости\nстал медлителен?"
+  },
+  {
+   "id": 30,
+   "en": "Oooof!!",
+   "ru": "Ух!!"
+  },
+  {
+   "id": 31,
+   "en": "Hmmph!",
+   "ru": "Хм!"
+  },
+  {
+   "id": 32,
+   "en": "The final strike will\nbe mine!",
+   "ru": "Последний удар\nбудет за мной!"
+  },
+  {
+   "id": 33,
+   "en": "Well, now!",
+   "ru": "Ну-ка, ну-ка!"
+  },
+  {
+   "id": 34,
+   "en": "You're mine now!",
+   "ru": "Теперь ты мой!"
+  },
+  {
+   "id": 35,
+   "en": "There!",
+   "ru": "Вот!"
+  },
+  {
+   "id": 36,
+   "en": "Your attacks are\nweak and unfocused!",
+   "ru": "Твои удары слабы и\nнеточны!"
+  },
+  {
+   "id": 37,
+   "en": "To repel my attack?!",
+   "ru": "Отразить мою\nатаку?!"
+  },
+  {
+   "id": 38,
+   "en": "You're a fool!",
+   "ru": "Глупец!"
+  },
+  {
+   "id": 39,
+   "en": "What was that?!",
+   "ru": "Это что было?!"
+  },
+  {
+   "id": 40,
+   "en": "My courage assured\nyour defeat.",
+   "ru": "Моя отвага решила\nисход."
+  },
+  {
+   "id": 41,
+   "en": "I am a ruthless foe.\nYou are a casualty.",
+   "ru": "Я безжалостен. Ты —\nмоя жертва."
+  },
+  {
+   "id": 42,
+   "en": "Age and experience\nare my weapons.",
+   "ru": "Возраст и опыт —\nмоё оружие."
+  },
+  {
+   "id": 43,
+   "en": "I was hoping for a\nchallenge! Oh, well.",
+   "ru": "Я надеялся на вызов!\nНу что ж."
+  },
+  {
+   "id": 44,
+   "en": "Noooo!",
+   "ru": "Не-е-ет!"
+  },
+  {
+   "id": 45,
+   "en": "Raaah!",
+   "ru": "Р-ра-а!"
+  },
+  {
+   "id": 46,
+   "en": "Take this!",
+   "ru": "Получай!"
+  },
+  {
+   "id": 47,
+   "en": "Here I am!",
+   "ru": "Я здесь!"
+  },
+  {
+   "id": 48,
+   "en": "You can't endure my\nmassive attacks!",
+   "ru": "Тебе не выдержать\nмоих ударов!"
+  },
+  {
+   "id": 49,
+   "en": "How about this?!",
+   "ru": "А как тебе это?!"
+  },
+  {
+   "id": 50,
+   "en": "Behold the might of\nMarquis Dionne!",
+   "ru": "Узри мощь маркиза\nДионна!"
+  },
+  {
+   "id": 51,
+   "en": "Grraahh!!",
+   "ru": "Гр-ра-а!!"
+  },
+  {
+   "id": 52,
+   "en": "Hah!!",
+   "ru": "Ха!!"
+  },
+  {
+   "id": 53,
+   "en": "You don't belong on\nthis battlefield!",
+   "ru": "Тебе не место на поле\nбоя!"
+  },
+  {
+   "id": 54,
+   "en": "Feel the heat of the\nBursting Fire!",
+   "ru": "Почувствуй жар\nВзрывного огня!"
+  },
+  {
+   "id": 55,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 56,
+   "en": "Take this!!",
+   "ru": "Получай!!"
+  },
+  {
+   "id": 57,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 58,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 59,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 60,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 61,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 62,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 63,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 64,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 65,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 66,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 67,
+   "en": "",
+   "ru": ""
+  }
+ ]
+}

@@ -1,0 +1,346 @@
+{
+ "file": 361,
+ "kind": "quip",
+ "lines": [
+  {
+   "id": 0,
+   "en": "From the left?",
+   "ru": "Слева?"
+  },
+  {
+   "id": 1,
+   "en": "From the side?",
+   "ru": "Сбоку?"
+  },
+  {
+   "id": 2,
+   "en": "From the right?",
+   "ru": "Справа?"
+  },
+  {
+   "id": 3,
+   "en": "From the side!",
+   "ru": "Сбоку!"
+  },
+  {
+   "id": 4,
+   "en": "You're the worst I've\never fought.",
+   "ru": "Худшего противника\nу меня не было."
+  },
+  {
+   "id": 5,
+   "en": "You're not very good\nat this, are you?",
+   "ru": "Не очень-то ты\nумеешь драться, а?"
+  },
+  {
+   "id": 6,
+   "en": "You're quite annoying,\naren't you?!",
+   "ru": "Ты такой\nназойливый, да?!"
+  },
+  {
+   "id": 7,
+   "en": "You're trying to hurt\nme, aren't you?",
+   "ru": "Ты хочешь сделать\nмне больно, да?"
+  },
+  {
+   "id": 8,
+   "en": "Ouch!",
+   "ru": "Ай!"
+  },
+  {
+   "id": 9,
+   "en": "Owwww!",
+   "ru": "Ой-ой-ой!"
+  },
+  {
+   "id": 10,
+   "en": "Arrrgh!",
+   "ru": "Аргх!"
+  },
+  {
+   "id": 11,
+   "en": "What are you doing?!",
+   "ru": "Что ты делаешь?!"
+  },
+  {
+   "id": 12,
+   "en": "Auugghh!!",
+   "ru": "А-а-ах!!"
+  },
+  {
+   "id": 13,
+   "en": "You landed a lucky\nblow, that's all!",
+   "ru": "Это просто удачный\nудар, и всё!"
+  },
+  {
+   "id": 14,
+   "en": "Stop it! Please!!",
+   "ru": "Перестань!\nПожалуйста!!"
+  },
+  {
+   "id": 15,
+   "en": "I won't lose to an\nunclean opponent!",
+   "ru": "Я не проиграю\nнечестивцу!"
+  },
+  {
+   "id": 16,
+   "en": "This is the end?! No! No!\nNOOOO!!",
+   "ru": "Это конец?! Нет! Нет!\nНЕ-Е-ЕТ!!"
+  },
+  {
+   "id": 17,
+   "en": "I don't want to\nLOOOOSE!!",
+   "ru": "Не хочу\nпроигрыва-а-ать!!"
+  },
+  {
+   "id": 18,
+   "en": "What happened to me?\nI could fight once!",
+   "ru": "Что со мной? Я же\nумела сражаться!"
+  },
+  {
+   "id": 19,
+   "en": "AHHHHHH!!",
+   "ru": "А-А-А-А!!"
+  },
+  {
+   "id": 20,
+   "en": "What? You're taking\nme from behind?!",
+   "ru": "Что? Ты нападаешь\nсзади?!"
+  },
+  {
+   "id": 21,
+   "en": "What?! Aaugh!",
+   "ru": "Что?! А-ах!"
+  },
+  {
+   "id": 22,
+   "en": "Too bad!",
+   "ru": "Обидно, да?"
+  },
+  {
+   "id": 23,
+   "en": "You should aim\nbefore you attack!",
+   "ru": "Сначала прицелься,\nпотом бей!"
+  },
+  {
+   "id": 24,
+   "en": "You can't hit me!\nGive it up!",
+   "ru": "Тебе не попасть!\nСдавайся!"
+  },
+  {
+   "id": 25,
+   "en": "Too easy!",
+   "ru": "Слишком просто!"
+  },
+  {
+   "id": 26,
+   "en": "Nice move!",
+   "ru": "Хороший ход!"
+  },
+  {
+   "id": 27,
+   "en": "Oh, no!",
+   "ru": "О нет!"
+  },
+  {
+   "id": 28,
+   "en": "Huh?!",
+   "ru": "А?!"
+  },
+  {
+   "id": 29,
+   "en": "You tricked me!",
+   "ru": "Ты меня обманул!"
+  },
+  {
+   "id": 30,
+   "en": "That wasn't strong\nenough to hurt me!",
+   "ru": "Слишком слабо,\nчтобы ранить меня!"
+  },
+  {
+   "id": 31,
+   "en": "Have you no respect\nfor a Princess?!",
+   "ru": "Никакого уважения к\nпринцессе?!"
+  },
+  {
+   "id": 32,
+   "en": "I will beat you!",
+   "ru": "Я тебя одолею!"
+  },
+  {
+   "id": 33,
+   "en": "How dare you strike\na monarch!",
+   "ru": "Как ты смеешь бить\nмонарха!"
+  },
+  {
+   "id": 34,
+   "en": "You're too slow!",
+   "ru": "Слишком медленно!"
+  },
+  {
+   "id": 35,
+   "en": "There!",
+   "ru": "Вот!"
+  },
+  {
+   "id": 36,
+   "en": "That was nothing!",
+   "ru": "Пустяки!"
+  },
+  {
+   "id": 37,
+   "en": "Eeek!!",
+   "ru": "Ай-ай!!"
+  },
+  {
+   "id": 38,
+   "en": "Hah!!",
+   "ru": "Ха!!"
+  },
+  {
+   "id": 39,
+   "en": "Huh?!",
+   "ru": "А?!"
+  },
+  {
+   "id": 40,
+   "en": "I win again! Hip, hip,\nhooray!!",
+   "ru": "Снова победа! Ура,\nура!!"
+  },
+  {
+   "id": 41,
+   "en": "I was just too tough\nfor you!",
+   "ru": "Я оказалась тебе не\nпо зубам!"
+  },
+  {
+   "id": 42,
+   "en": "Mess with the best,\nlose like the rest!",
+   "ru": "Связался с лучшей,\nпроиграл как все!"
+  },
+  {
+   "id": 43,
+   "en": "You forced me to\nhumiliate you.",
+   "ru": "Ты сам вынудил\nменя тебя унизить."
+  },
+  {
+   "id": 44,
+   "en": "Rahhhh!!",
+   "ru": "Р-ра-а!!"
+  },
+  {
+   "id": 45,
+   "en": "Hey!",
+   "ru": "Эй!"
+  },
+  {
+   "id": 46,
+   "en": "You're mine now!",
+   "ru": "Теперь ты мой!"
+  },
+  {
+   "id": 47,
+   "en": "There you are!",
+   "ru": "Вот ты где!"
+  },
+  {
+   "id": 48,
+   "en": "Yaaahhhh!!",
+   "ru": "Йа-а-а!!"
+  },
+  {
+   "id": 49,
+   "en": "Is this what you\nwant?!",
+   "ru": "Ты этого хочешь?!"
+  },
+  {
+   "id": 50,
+   "en": "How is this!?",
+   "ru": "Как тебе это!?"
+  },
+  {
+   "id": 51,
+   "en": "Take the hit!",
+   "ru": "Получай!"
+  },
+  {
+   "id": 52,
+   "en": "I will never forgive\nyou for this!",
+   "ru": "Никогда тебе этого\nне прощу!"
+  },
+  {
+   "id": 53,
+   "en": "Get out of my way!!",
+   "ru": "С дороги!!"
+  },
+  {
+   "id": 54,
+   "en": "Spiral Dive!",
+   "ru": "Спиральное пике!"
+  },
+  {
+   "id": 55,
+   "en": "Huh?!",
+   "ru": "А?!"
+  },
+  {
+   "id": 56,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 57,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 58,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 59,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 60,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 61,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 62,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 63,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 64,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 65,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 66,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 67,
+   "en": "",
+   "ru": ""
+  }
+ ]
+}

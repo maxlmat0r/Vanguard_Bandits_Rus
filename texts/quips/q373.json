@@ -1,0 +1,346 @@
+{
+ "file": 373,
+ "kind": "quip",
+ "lines": [
+  {
+   "id": 0,
+   "en": "From the left!",
+   "ru": "Слева!"
+  },
+  {
+   "id": 1,
+   "en": "There!",
+   "ru": "Вот!"
+  },
+  {
+   "id": 2,
+   "en": "From the right!",
+   "ru": "Справа!"
+  },
+  {
+   "id": 3,
+   "en": "There!!",
+   "ru": "Вот!!"
+  },
+  {
+   "id": 4,
+   "en": "That was a most\nineffective attack.",
+   "ru": "Крайне бестолковая\nатака."
+  },
+  {
+   "id": 5,
+   "en": "That attack had no\ndirection or force!",
+   "ru": "Ни направления, ни\nсилы!"
+  },
+  {
+   "id": 6,
+   "en": "You insult me with\nyour pathetic strike.",
+   "ru": "Твой жалкий удар\nоскорбителен."
+  },
+  {
+   "id": 7,
+   "en": "Was that an attempt\nto cause me injury?",
+   "ru": "Это была попытка\nменя ранить?"
+  },
+  {
+   "id": 8,
+   "en": "Whooof!",
+   "ru": "Уф!"
+  },
+  {
+   "id": 9,
+   "en": "Not bad!",
+   "ru": "Неплохо!"
+  },
+  {
+   "id": 10,
+   "en": "I see that you fight\nwith intensity!",
+   "ru": "Вижу, ты бьёшься\nяростно!"
+  },
+  {
+   "id": 11,
+   "en": "Aaargh!",
+   "ru": "А-аргх!"
+  },
+  {
+   "id": 12,
+   "en": "I did not expect such\nprowess from you!",
+   "ru": "Не ожидал от тебя\nтакой доблести!"
+  },
+  {
+   "id": 13,
+   "en": "Allow me a moment\nto regroup!",
+   "ru": "Дай мне собраться с\nсилами!"
+  },
+  {
+   "id": 14,
+   "en": "Gwaahh!!",
+   "ru": "Гва-а!!"
+  },
+  {
+   "id": 15,
+   "en": "Your technique is\nmasterful!",
+   "ru": "Твоя техника\nвеликолепна!"
+  },
+  {
+   "id": 16,
+   "en": "AAARRRGGGHHH!",
+   "ru": "А-А-А-Р-Р-ГХ!"
+  },
+  {
+   "id": 17,
+   "en": "Defeat never becomes\nless painful.",
+   "ru": "Поражение не\nстановится легче."
+  },
+  {
+   "id": 18,
+   "en": "My battalion is\nstronger without me.",
+   "ru": "Без меня мой\nбатальон сильнее."
+  },
+  {
+   "id": 19,
+   "en": "I have not the skills\nto wage war.",
+   "ru": "Мне не хватает\nумения воевать."
+  },
+  {
+   "id": 20,
+   "en": "Attacking me from\nbehind?!",
+   "ru": "Нападаешь сзади?!"
+  },
+  {
+   "id": 21,
+   "en": "Damn it!",
+   "ru": "Проклятье!"
+  },
+  {
+   "id": 22,
+   "en": "Avoiding you was\na trifle.",
+   "ru": "Уклониться было\nпустяком."
+  },
+  {
+   "id": 23,
+   "en": "You demonstrate a\nlack of ability.",
+   "ru": "Ты не показал\nумения."
+  },
+  {
+   "id": 24,
+   "en": "You disappoint me.",
+   "ru": "Ты меня\nразочаровал."
+  },
+  {
+   "id": 25,
+   "en": "You have no skill and\nno experience.",
+   "ru": "У тебя ни умения, ни\nопыта."
+  },
+  {
+   "id": 26,
+   "en": "Not bad.",
+   "ru": "Неплохо."
+  },
+  {
+   "id": 27,
+   "en": "Not bad at all.",
+   "ru": "Совсем неплохо."
+  },
+  {
+   "id": 28,
+   "en": "Damn!",
+   "ru": "Проклятье!"
+  },
+  {
+   "id": 29,
+   "en": "Impressive!",
+   "ru": "Впечатляет!"
+  },
+  {
+   "id": 30,
+   "en": "Urrrrgh!",
+   "ru": "У-у-ргх!"
+  },
+  {
+   "id": 31,
+   "en": "You're not strong\nenough to win!",
+   "ru": "Тебе не хватит сил\nпобедить!"
+  },
+  {
+   "id": 32,
+   "en": "You'll be the one\nto lose today!",
+   "ru": "Сегодня проиграешь\nты!"
+  },
+  {
+   "id": 33,
+   "en": "It's not over yet!",
+   "ru": "Это ещё не конец!"
+  },
+  {
+   "id": 34,
+   "en": "There you are!",
+   "ru": "Вот ты где!"
+  },
+  {
+   "id": 35,
+   "en": "I weep at your\nlack of skill.",
+   "ru": "Я плачу над твоим\nнеумением."
+  },
+  {
+   "id": 36,
+   "en": "Haaaaah!",
+   "ru": "Ха-а-а-а!"
+  },
+  {
+   "id": 37,
+   "en": "What was that?!",
+   "ru": "Это что было?!"
+  },
+  {
+   "id": 38,
+   "en": "Hah!",
+   "ru": "Ха!"
+  },
+  {
+   "id": 39,
+   "en": "What was THAT?!",
+   "ru": "Это ЧТО было?!"
+  },
+  {
+   "id": 40,
+   "en": "I did not savor\ndefeating you.",
+   "ru": "Победа над тобой не\nв радость."
+  },
+  {
+   "id": 41,
+   "en": "I pray this is my\nfinal battle.",
+   "ru": "Молю, чтоб этот бой\nбыл последним."
+  },
+  {
+   "id": 42,
+   "en": "The war is over for\nyou.",
+   "ru": "Для тебя война\nокончена."
+  },
+  {
+   "id": 43,
+   "en": ". . .  . . .  . . .",
+   "ru": ""
+  },
+  {
+   "id": 44,
+   "en": "Oooof!",
+   "ru": "Ух!"
+  },
+  {
+   "id": 45,
+   "en": "Haaah!",
+   "ru": "Ха-а!"
+  },
+  {
+   "id": 46,
+   "en": "Are you ready for\nmy power?",
+   "ru": "Готов к моей мощи?"
+  },
+  {
+   "id": 47,
+   "en": "Your defeat is a\ncertainty.",
+   "ru": "Твоё поражение\nнеизбежно."
+  },
+  {
+   "id": 48,
+   "en": "Get out of my way!",
+   "ru": "С дороги!"
+  },
+  {
+   "id": 49,
+   "en": "I'll rip your ATAC\nlimb from limb!",
+   "ru": "Разорву твой АТАК\nна куски!"
+  },
+  {
+   "id": 50,
+   "en": "I'll stop you!",
+   "ru": "Я остановлю тебя!"
+  },
+  {
+   "id": 51,
+   "en": "Haaaah!",
+   "ru": "Ха-а-а!"
+  },
+  {
+   "id": 52,
+   "en": "Waaaah!!",
+   "ru": "Ва-а-а!!"
+  },
+  {
+   "id": 53,
+   "en": "Forgive me!",
+   "ru": "Прости меня!"
+  },
+  {
+   "id": 54,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 55,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 56,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 57,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 58,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 59,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 60,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 61,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 62,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 63,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 64,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 65,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 66,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 67,
+   "en": "",
+   "ru": ""
+  }
+ ]
+}

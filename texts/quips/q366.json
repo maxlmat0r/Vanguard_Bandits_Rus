@@ -1,0 +1,346 @@
+{
+ "file": 366,
+ "kind": "quip",
+ "lines": [
+  {
+   "id": 0,
+   "en": "Hmmph.",
+   "ru": "Хм."
+  },
+  {
+   "id": 1,
+   "en": "Fool!",
+   "ru": "Глупец!"
+  },
+  {
+   "id": 2,
+   "en": "Hmmm?",
+   "ru": "Хм-м?"
+  },
+  {
+   "id": 3,
+   "en": "Idiot!",
+   "ru": "Идиот!"
+  },
+  {
+   "id": 4,
+   "en": "What a puny strike.\nHow kind you are.",
+   "ru": "Хилый удар.\nКак любезно."
+  },
+  {
+   "id": 5,
+   "en": "I barely consider that\nto be an attack.",
+   "ru": "Я это и атакой-то не\nсчитаю."
+  },
+  {
+   "id": 6,
+   "en": "That attack, like you,\nis cheap and common.",
+   "ru": "Удар дешёвый\nи пошлый, как ты."
+  },
+  {
+   "id": 7,
+   "en": "Should I feign injury\nfor your benefit?",
+   "ru": "Мне притвориться\nраненым ради тебя?"
+  },
+  {
+   "id": 8,
+   "en": "More powerful than\nI was expecting!",
+   "ru": "Сильнее, чем я\nожидал!"
+  },
+  {
+   "id": 9,
+   "en": "A surprising show of\nstrength from you!",
+   "ru": "Неожиданная сила!"
+  },
+  {
+   "id": 10,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 11,
+   "en": "Aargh!!",
+   "ru": "Аргх!!"
+  },
+  {
+   "id": 12,
+   "en": "Damn you!",
+   "ru": "Чтоб тебя!"
+  },
+  {
+   "id": 13,
+   "en": "You make me howl\nwith pain!",
+   "ru": "Я вою от боли!"
+  },
+  {
+   "id": 14,
+   "en": "This is unacceptable!",
+   "ru": "Это недопустимо!"
+  },
+  {
+   "id": 15,
+   "en": "I will find a way to\ndefeat you!",
+   "ru": "Я найду способ тебя\nпобедить!"
+  },
+  {
+   "id": 16,
+   "en": "What humiliation I\nhave suffered today!",
+   "ru": "Какое унижение я\nсегодня испытал!"
+  },
+  {
+   "id": 17,
+   "en": "Your combat skills\nare magnificent.",
+   "ru": "Ты великолепно\nсражаешься."
+  },
+  {
+   "id": 18,
+   "en": "The battle has ended\nfor me!",
+   "ru": "Для меня битва\nокончена!"
+  },
+  {
+   "id": 19,
+   "en": "I bow humbly to your\nmighty strength!",
+   "ru": "Смиренно склоняюсь\nпред твоей силой!"
+  },
+  {
+   "id": 20,
+   "en": "Unngh!",
+   "ru": "Угх!"
+  },
+  {
+   "id": 21,
+   "en": "From behind me?",
+   "ru": "Сзади?"
+  },
+  {
+   "id": 22,
+   "en": "Pathetic!",
+   "ru": "Жалкое зрелище!"
+  },
+  {
+   "id": 23,
+   "en": "You DO realize that I\ncan see you, correct?",
+   "ru": "Ты ведь понимаешь,\nчто я тебя вижу?"
+  },
+  {
+   "id": 24,
+   "en": "You are the shame of\nyour family.",
+   "ru": "Ты позор своей\nсемьи."
+  },
+  {
+   "id": 25,
+   "en": "You will NEVER hit\nme, you fool!",
+   "ru": "Тебе НИКОГДА в меня\nне попасть, глупец!"
+  },
+  {
+   "id": 26,
+   "en": "How dare you avoid\nmy brilliant attack!",
+   "ru": "Как ты посмел\nувернуться?!"
+  },
+  {
+   "id": 27,
+   "en": "You dodged me?!",
+   "ru": "Ты увернулся?!"
+  },
+  {
+   "id": 28,
+   "en": "Stand still, you cur!",
+   "ru": "Стой смирно, шавка!"
+  },
+  {
+   "id": 29,
+   "en": "Unacceptable!",
+   "ru": "Недопустимо!"
+  },
+  {
+   "id": 30,
+   "en": "A wasted effort!",
+   "ru": "Напрасные старания!"
+  },
+  {
+   "id": 31,
+   "en": "Urrrk!",
+   "ru": "Кха!"
+  },
+  {
+   "id": 32,
+   "en": "You can't hurt me!",
+   "ru": "Тебе меня не ранить!"
+  },
+  {
+   "id": 33,
+   "en": "Damn it!",
+   "ru": "Проклятье!"
+  },
+  {
+   "id": 34,
+   "en": "Much too obvious!",
+   "ru": "Слишком очевидно!"
+  },
+  {
+   "id": 35,
+   "en": "Have you no defense,\nmy foolish foe?",
+   "ru": "У тебя нет защиты,\nглупый враг?"
+  },
+  {
+   "id": 36,
+   "en": "Away with you.",
+   "ru": "Прочь."
+  },
+  {
+   "id": 37,
+   "en": "You insolent fool!",
+   "ru": "Наглый глупец!"
+  },
+  {
+   "id": 38,
+   "en": "There you are.",
+   "ru": "Вот ты где."
+  },
+  {
+   "id": 39,
+   "en": "Huh?!",
+   "ru": "А?!"
+  },
+  {
+   "id": 40,
+   "en": "You will never win\nwith power alone.",
+   "ru": "Одной силой не\nпобедишь."
+  },
+  {
+   "id": 41,
+   "en": "Another day, another\nglorious victory!",
+   "ru": "Новый день, новая\nславная победа!"
+  },
+  {
+   "id": 42,
+   "en": "Checkmate.",
+   "ru": "Шах и мат."
+  },
+  {
+   "id": 43,
+   "en": "You failed to call on\nyour inner strength!",
+   "ru": "Тебе не хватило\nвнутренней силы!"
+  },
+  {
+   "id": 44,
+   "en": "Haaah!",
+   "ru": "Ха-а!"
+  },
+  {
+   "id": 45,
+   "en": "Mmmph!",
+   "ru": "Хм-мф!"
+  },
+  {
+   "id": 46,
+   "en": "You will fall!",
+   "ru": "Ты падёшь!"
+  },
+  {
+   "id": 47,
+   "en": "You cannot run nor\nhide from me, fool!",
+   "ru": "От меня не убежать\nи не спрятаться!"
+  },
+  {
+   "id": 48,
+   "en": "You annoy me!",
+   "ru": "Ты меня\nраздражаешь!"
+  },
+  {
+   "id": 49,
+   "en": "You will succumb to\nmy strength!",
+   "ru": "Ты падёшь пред\nмоей силой!"
+  },
+  {
+   "id": 50,
+   "en": "Feel the fangs of the\nIce Wolf!",
+   "ru": "Отведай клыков\nЛедяного волка!"
+  },
+  {
+   "id": 51,
+   "en": "Here I come!",
+   "ru": "Иду!"
+  },
+  {
+   "id": 52,
+   "en": "How is this?!",
+   "ru": "Как тебе это?!"
+  },
+  {
+   "id": 53,
+   "en": "Witness the power of\nthe Ice Blade!",
+   "ru": "Узри мощь Ледяного\nклинка!"
+  },
+  {
+   "id": 54,
+   "en": "Admire the beauty of\na Blizzard Break!",
+   "ru": "Восхитись красотой\nЛедяного разлома!"
+  },
+  {
+   "id": 55,
+   "en": "NO!!!",
+   "ru": "НЕТ!!!"
+  },
+  {
+   "id": 56,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 57,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 58,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 59,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 60,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 61,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 62,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 63,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 64,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 65,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 66,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 67,
+   "en": "",
+   "ru": ""
+  }
+ ]
+}

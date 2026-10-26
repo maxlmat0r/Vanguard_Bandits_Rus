@@ -1,0 +1,436 @@
+{
+ "file": 591,
+ "kind": "story",
+ "lines": [
+  {
+   "id": 0,
+   "en": "Now then, Duyere, WHAT are you\ngoing to do?",
+   "ru": "Итак, Дюйер, ЧТО ты собираешься\nделать?"
+  },
+  {
+   "id": 1,
+   "en": "I'm going to call off the search for\nthe traitor...",
+   "ru": "Я отменю поиски предателя..."
+  },
+  {
+   "id": 2,
+   "en": "I'm going to speak with Father right\naway about forging an alliance with\nthe Kingdom...",
+   "ru": "Немедленно поговорю с отцом о\nсоюзе с Королевством..."
+  },
+  {
+   "id": 3,
+   "en": "And I'm going to forget this\nembarrassing chapter of my life\never happened.",
+   "ru": "И забуду, что эта постыдная\nглава моей жизни вообще была."
+  },
+  {
+   "id": 4,
+   "en": "What has Father been doing lately,\nanyway? I haven't seen him since I\nran away!",
+   "ru": "А что вообще отец делал в\nпоследнее время? Я не видела его\nс тех пор, как сбежала!"
+  },
+  {
+   "id": 5,
+   "en": "He's been...sleeping.",
+   "ru": "Он... спал."
+  },
+  {
+   "id": 6,
+   "en": "Huh?",
+   "ru": "А?"
+  },
+  {
+   "id": 7,
+   "en": "He keeps claiming he's too tired to do\nanything. I think he might be nearing\nthe end of his days.",
+   "ru": "Он всё твердит, что слишком\nустал, чтобы что-то делать.\nДумаю, его дни сочтены."
+  },
+  {
+   "id": 8,
+   "en": "I'm sure he'll listen to whatever I\nhave to say.",
+   "ru": "Уверена, меня он выслушает."
+  },
+  {
+   "id": 9,
+   "en": "I suppose that I'll just have to wake\nFather up, won't I?",
+   "ru": "Видимо, придётся мне разбудить\nотца, верно?"
+  },
+  {
+   "id": 10,
+   "en": "We're leaving, Duyere!",
+   "ru": "Мы уходим, Дюйер!"
+  },
+  {
+   "id": 11,
+   "en": "Alright.",
+   "ru": "Хорошо."
+  },
+  {
+   "id": 12,
+   "en": "I had a lot of fun adventuring with\nyou, Bastion!",
+   "ru": "Было так весело путешествовать с\nтобой, Бастион!"
+  },
+  {
+   "id": 13,
+   "en": "That's because you caused all sorts\nof trouble and had us to protect you\nfrom the consequences.",
+   "ru": "Потому что ты устраивала\nсплошные неприятности, а мы\nзащищали тебя от последствий."
+  },
+  {
+   "id": 14,
+   "en": "Be sure to come and visit me soon!\nTake care! Goodbye!",
+   "ru": "Навещай меня поскорее! Береги\nсебя! Пока!"
+  },
+  {
+   "id": 15,
+   "en": "I will be paying Sadira a visit right\naround the time Hell freezes over.",
+   "ru": "Я навещу Садиру, когда ад\nзамёрзнет."
+  },
+  {
+   "id": 16,
+   "en": "I don't think I'm going to miss her\nvery much, either.",
+   "ru": "Я тоже вряд ли буду по ней\nскучать."
+  },
+  {
+   "id": 17,
+   "en": "Well, only one question remains.",
+   "ru": "Что ж, остался один вопрос."
+  },
+  {
+   "id": 18,
+   "en": "What are we going to do with the\nold man?",
+   "ru": "Что нам делать со стариком?"
+  },
+  {
+   "id": 19,
+   "en": "I suggest you start by referring to\nme with my given name! 'Old man,'\nindeed!",
+   "ru": "Предлагаю для начала называть\nменя по имени! \"Старик\", ишь\nты!"
+  },
+  {
+   "id": 20,
+   "en": "Now, then. I have a question to ask\nof the little boy with the spectacles.",
+   "ru": "Итак. У меня вопрос к мальчику в\nочках."
+  },
+  {
+   "id": 21,
+   "en": "What do you wanna know?",
+   "ru": "Чего вы хотите знать?"
+  },
+  {
+   "id": 22,
+   "en": "You were able to revive the Zulwarn\nATAC, when, according to the myths\nand legends regarding it...",
+   "ru": "Ты сумел пробудить АТАК\nЗулварн, хотя, согласно мифам и\nлегендам о нём..."
+  },
+  {
+   "id": 23,
+   "en": "...many gallons of human blood are\nrequired to fuel its components.",
+   "ru": "...для питания его механизмов\nнужны вёдра человеческой крови."
+  },
+  {
+   "id": 24,
+   "en": "Is it true?",
+   "ru": "Это правда?"
+  },
+  {
+   "id": 25,
+   "en": "I just made some adjustments to the\namount of blood it needed, and then\nI pricked my finger. It was easy.",
+   "ru": "Я просто подправил, сколько\nкрови ему нужно, а потом уколол\nпалец. Это было легко."
+  },
+  {
+   "id": 26,
+   "en": "Disgusting!",
+   "ru": "Мерзость!"
+  },
+  {
+   "id": 27,
+   "en": "Nasty!",
+   "ru": "Гадость!"
+  },
+  {
+   "id": 28,
+   "en": "You fed the Zulwarn with your own\nblood?!",
+   "ru": "Ты кормил Зулварн своей\nкровью?!"
+  },
+  {
+   "id": 29,
+   "en": "Puck, are you sure that was a wise\nthing to do?",
+   "ru": "Пак, ты уверен, что это было\nразумно?"
+  },
+  {
+   "id": 30,
+   "en": "What do you mean, Bastion? I did it\nbecause I wanted to help you!",
+   "ru": "О чём ты, Бастион? Я сделал это,\nпотому что хотел тебе помочь!"
+  },
+  {
+   "id": 31,
+   "en": "The Zulwarn's hunger has been\nawakened, little boy, and it will\nuse you to satisfy its desires.",
+   "ru": "Голод Зулварна пробуждён,\nмальчик, и он утолит его тобой."
+  },
+  {
+   "id": 32,
+   "en": "Have you not heard the tales, Puck,\nthat the Zulwarn has been imbued\nwith malevolent spirits?",
+   "ru": "Разве ты не слышал, Пак, что в\nЗулварне обитают злые духи?"
+  },
+  {
+   "id": 33,
+   "en": "Bastion, you're silly! The Zulwarn is\njust a really weird ATAC, that's all!",
+   "ru": "Бастион, ты глупый! Зулварн -\nпросто очень странный АТАК, вот\nи всё!"
+  },
+  {
+   "id": 34,
+   "en": "An ATAC fueled by blood is not\nweird, Puck. It's evil.",
+   "ru": "АТАК, питающийся кровью, - это\nне странно, Пак. Это зло."
+  },
+  {
+   "id": 35,
+   "en": "And on that note...I'm out of\nhere. Got business to, uh, take\ncare of.",
+   "ru": "И на этой ноте... я сваливаю. У\nменя, э-э, дела."
+  },
+  {
+   "id": 36,
+   "en": "Take care!",
+   "ru": "Берегите себя!"
+  },
+  {
+   "id": 37,
+   "en": "And, uh, Marquis Dionne is expecting\nmy return, so I should leave before it\ngets dark...",
+   "ru": "И, э-э, маркиз Дионн ждёт моего\nвозвращения, так что мне пора,\nпока не стемнело..."
+  },
+  {
+   "id": 38,
+   "en": "What's the matter with everyone?",
+   "ru": "Что это со всеми?"
+  },
+  {
+   "id": 39,
+   "en": "I don't get it, either. Don't they want\nto stay for the celebration feast?",
+   "ru": "Я тоже не понимаю. Они что, не\nхотят остаться на праздничный\nпир?"
+  },
+  {
+   "id": 40,
+   "en": "I would love to stay as well, but, uh,\nI must return to Avalon. Er, I mean,\nwe both do. Isn't that right, Milea?",
+   "ru": "Я бы с радостью осталась, но,\nэ-э, мне надо в Авалон. То есть\nнам обеим. Правда, Милея?"
+  },
+  {
+   "id": 41,
+   "en": "We do?",
+   "ru": "Надо?"
+  },
+  {
+   "id": 42,
+   "en": "Oh, I mean, we do!",
+   "ru": "Ой, то есть надо!"
+  },
+  {
+   "id": 43,
+   "en": "Take care, now.",
+   "ru": "Берегите себя."
+  },
+  {
+   "id": 44,
+   "en": "Hold on, you guys. You're about to\nlearn something very interesting.",
+   "ru": "Погодите. Сейчас вы узнаете\nкое-что очень интересное."
+  },
+  {
+   "id": 45,
+   "en": "Mmmm, yes! Are you going to tell\nthem your dark secret?",
+   "ru": "Ммм, да! Ты расскажешь им свою\nмрачную тайну?"
+  },
+  {
+   "id": 46,
+   "en": "They deserve to know of your\nlineage...",
+   "ru": "Они заслуживают знать о твоём\nпроисхождении..."
+  },
+  {
+   "id": 47,
+   "en": "...grandson!",
+   "ru": "...внучок!"
+  },
+  {
+   "id": 48,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 49,
+   "en": "Puck, why didn't you tell us?!",
+   "ru": "Пак, почему ты нам не сказал?!"
+  },
+  {
+   "id": 50,
+   "en": "I just thought it would be a little\nmore dramatic this way.",
+   "ru": "Просто подумал, что так будет\nдраматичнее."
+  },
+  {
+   "id": 51,
+   "en": "My dad used to tell me how you paid\nmore attention to your ATAC designs\nthan to him, Grandpa.",
+   "ru": "Папа рассказывал, что ты уделял\nсвоим АТАКам больше внимания,\nчем ему, дедуля."
+  },
+  {
+   "id": 52,
+   "en": "I guess that's why he ran away from\nyou. And that's why I always wanted\nto be a better engineer than you.",
+   "ru": "Наверное, поэтому он от тебя и\nсбежал. И поэтому я всегда хотел\nстать инженером лучше тебя."
+  },
+  {
+   "id": 53,
+   "en": "But now I find out that you didn't\neven have the skills to activate the\nUltragunner. How disappointing!",
+   "ru": "А теперь выясняется, что ты\nдаже Ультраганнер запустить не\nсмог. Какое разочарование!"
+  },
+  {
+   "id": 54,
+   "en": "You dirty little turd. I'll show\nyou disappointing!",
+   "ru": "Ах ты, мелкий паршивец. Я тебе\nпокажу разочарование!"
+  },
+  {
+   "id": 55,
+   "en": "(Puck has never spoken like this to\nanyone before! I'm convinced that the\nZulwarn is affecting him.)",
+   "ru": "(Пак никогда ни с кем так не\nговорил! Я уверена, на него\nдействует Зулварн.)"
+  },
+  {
+   "id": 56,
+   "en": "(Why is Puck acting this way?!\nHow long has he been harboring\nthese secrets, and this anger?)",
+   "ru": "(Почему Пак так себя ведёт?! Как\nдолго он скрывал эти тайны и\nэту злость?)"
+  },
+  {
+   "id": 57,
+   "en": "I thought that becoming the best\nengineer on the Continent would\nfeel more satisfying somehow.",
+   "ru": "Я думал, стать лучшим\nинженером Континента будет\nкак-то приятнее."
+  },
+  {
+   "id": 58,
+   "en": "Arrogant midget bastard!",
+   "ru": "Самонадеянный недомерок!"
+  },
+  {
+   "id": 59,
+   "en": "It's alright, though. I just need to set\na new goal for myself, and I already\nhave one in mind.",
+   "ru": "Ну и ладно. Мне просто нужна\nновая цель, и она у меня уже\nесть."
+  },
+  {
+   "id": 60,
+   "en": "I think you know what I'm talking\nabout, don't you, Bastion?",
+   "ru": "Думаю, ты понимаешь, о чём я,\nда, Бастион?"
+  },
+  {
+   "id": 61,
+   "en": "Uh...",
+   "ru": "Э-э..."
+  },
+  {
+   "id": 62,
+   "en": "You don't have to be afraid of the\nZulwarn, Bastion! I mean, look at\nBarlow here. He's not afraid at all!",
+   "ru": "Не надо бояться Зулварна,\nБастион! Вот, посмотри на\nБарлоу. Он вообще не боится!"
+  },
+  {
+   "id": 63,
+   "en": "I showed him the Zulwarn, and he\nthought it was neat! He even gave it\na few drops of his blood!",
+   "ru": "Я показал ему Зулварн, и ему\nпонравилось! Он даже дал ему\nпару капель своей крови!"
+  },
+  {
+   "id": 64,
+   "en": "Didn't you, Barlow?",
+   "ru": "Правда, Барлоу?"
+  },
+  {
+   "id": 65,
+   "en": "I sure did.",
+   "ru": "Ещё как."
+  },
+  {
+   "id": 66,
+   "en": "Barlow?!",
+   "ru": "Барлоу?!"
+  },
+  {
+   "id": 67,
+   "en": "It was really fun, Bastion. You and\nMilea should try it, too!",
+   "ru": "Было очень весело, Бастион. Вам с\nМилеей тоже стоит попробовать!"
+  },
+  {
+   "id": 68,
+   "en": "Puck even says that I can try it again\nwhenever I want!",
+   "ru": "Пак даже говорит, что я могу\nповторить, когда захочу!"
+  },
+  {
+   "id": 69,
+   "en": "Thank you for the offer, Barlow, but\nI'll keep my bodily fluids to myself.",
+   "ru": "Спасибо за предложение, Барлоу,\nно свои жидкости я оставлю при\nсебе."
+  },
+  {
+   "id": 70,
+   "en": "(Barlow's acting strangely, as well!)",
+   "ru": "(Барлоу тоже ведёт себя странно!)"
+  },
+  {
+   "id": 71,
+   "en": "Bastion, we should leave.",
+   "ru": "Бастион, нам пора."
+  },
+  {
+   "id": 72,
+   "en": "Yes. Quickly.",
+   "ru": "Да. Быстрее."
+  },
+  {
+   "id": 73,
+   "en": "Bastion, I'm sure that you're gonna\nbe the best King ever.",
+   "ru": "Бастион, уверен, ты будешь\nлучшим королём на свете."
+  },
+  {
+   "id": 74,
+   "en": "I just hope I can give you advice once\nin a while. You know, since you and\nme are friends and all.",
+   "ru": "Надеюсь только, что смогу\nиногда давать тебе советы. Ну,\nмы же с тобой друзья и всё такое."
+  },
+  {
+   "id": 75,
+   "en": "Alright?",
+   "ru": "Ладно?"
+  },
+  {
+   "id": 76,
+   "en": "Huh?!",
+   "ru": "А?!"
+  },
+  {
+   "id": 77,
+   "en": "I said, would that be alright?",
+   "ru": "Я спросил: ладно?"
+  },
+  {
+   "id": 78,
+   "en": "Oh...uh...",
+   "ru": "А... э-э..."
+  },
+  {
+   "id": 79,
+   "en": "Of course, Puck.",
+   "ru": "Конечно, Пак."
+  },
+  {
+   "id": 80,
+   "en": "Great! I'm glad, Bastion!",
+   "ru": "Здорово! Я рад, Бастион!"
+  },
+  {
+   "id": 81,
+   "en": "Well, I'm gonna go mess around with\nthe Zulwarn. It's quite a fascinating\nATAC, you know.",
+   "ru": "Что ж, пойду повожусь с\nЗулварном. Знаешь, очень\nувлекательный АТАК."
+  },
+  {
+   "id": 82,
+   "en": "Maybe I can use some of its designs\nto improve the TICTAC...like that\namazing blood-fuel system!",
+   "ru": "Может, возьму для ТИКТАКа\nкое-что у Зулварна... например,\nчудную кровяную систему!"
+  },
+  {
+   "id": 83,
+   "en": "Let's go, Bastion! We have the entire\nworld ahead of us!",
+   "ru": "Пошли, Бастион! Перед нами весь\nмир!"
+  },
+  {
+   "id": 84,
+   "en": "(I feel stranger with every word\nPuck says to me. My thoughts are\nbecoming clouded.)",
+   "ru": "(С каждым словом Пака мне всё\nбольше не по себе. Мысли\nзатуманиваются.)"
+  },
+  {
+   "id": 85,
+   "en": "(My body...feels...weak...I...\nmust...resist...the tide of...\ndarkness that is....rising...)",
+   "ru": "(Тело... слабеет... Я... должен...\nпротивиться... поднимающейся...\nволне... тьмы...)"
+  }
+ ]
+}

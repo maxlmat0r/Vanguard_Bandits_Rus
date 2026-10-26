@@ -1,0 +1,56 @@
+{
+ "file": 625,
+ "kind": "story",
+ "lines": [
+  {
+   "id": 0,
+   "en": "Thank you for helping me to bury\nThomson. Someday, I will return\nhere and build a monument.",
+   "ru": "Спасибо, что помогли похоронить\nТомсона. Однажды я вернусь сюда\nи поставлю памятник."
+  },
+  {
+   "id": 1,
+   "en": "That's a wonderful idea, Bastion.",
+   "ru": "Чудесная мысль, Бастион."
+  },
+  {
+   "id": 2,
+   "en": "A totally wonderful idea. He needs to\nbe remembered.",
+   "ru": "Реально чудесная. Его надо\nпомнить."
+  },
+  {
+   "id": 3,
+   "en": "I will miss him.",
+   "ru": "Я буду по нему скучать."
+  },
+  {
+   "id": 4,
+   "en": "We better get moving, Bastion...",
+   "ru": "Нам пора, Бастион..."
+  },
+  {
+   "id": 5,
+   "en": "We're almost at the border, Princess.",
+   "ru": "Мы почти у границы, принцесса."
+  },
+  {
+   "id": 6,
+   "en": "Franco, we have a problem!",
+   "ru": "Франко, у нас проблема!"
+  },
+  {
+   "id": 7,
+   "en": "We're being ambushed!",
+   "ru": "Засада!"
+  },
+  {
+   "id": 8,
+   "en": "Not again!",
+   "ru": "Опять!"
+  },
+  {
+   "id": 9,
+   "en": "I wonder if these are more Kingdom\nATACs, or someone else?",
+   "ru": "Интересно, это снова АТАКи\nКоролевства или кто-то ещё?"
+  }
+ ]
+}

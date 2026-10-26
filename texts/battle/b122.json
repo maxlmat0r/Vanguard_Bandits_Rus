@@ -1,0 +1,326 @@
+{
+ "file": 122,
+ "kind": "battle",
+ "lines": [
+  {
+   "id": 0,
+   "en": "Bandit 1:\nAwright, boys, I'm gettin' bored.\nIt's time to bash these fools\ninto scrap metal!",
+   "ru": "Бандит 1:\nЛадно, ребятки, мне уже скучно.\nПора раздолбать этих дурней в\nметаллолом!"
+  },
+  {
+   "id": 1,
+   "en": "Devlin:\nI don't care if you kill me, but have\nmercy!  Allow my friend to leave!\nHe doesn't deserve this fate!",
+   "ru": "Девлин:\nПусть я умру, но смилуйтесь!\nОтпустите моего друга! Он не\nзаслужил такой участи!"
+  },
+  {
+   "id": 2,
+   "en": "The enemy is too numerous, Bastion.\nYou must leave here until the battle\nis over.",
+   "ru": "Врагов слишком много, Бастион.\nУходи отсюда, пока бой не\nзакончится."
+  },
+  {
+   "id": 3,
+   "en": "What are you saying, Father?! I'm\ngoing to stand and fight with you,\nnot run away!",
+   "ru": "Что ты такое говоришь, отец?! Я\nбуду сражаться рядом с тобой, а\nне убегать!"
+  },
+  {
+   "id": 4,
+   "en": "If we don't help these people, they'll\ndie before our eyes...and I couldn't\nlive with myself if that happened!",
+   "ru": "Если мы не поможем этим людям,\nони погибнут у нас на глазах... и\nя не смогу с этим жить!"
+  },
+  {
+   "id": 5,
+   "en": "This is my time, Father. Don't deny\nme this opportunity. I'm ready.",
+   "ru": "Это мой час, отец. Не отнимай у\nменя этот шанс. Я готов."
+  },
+  {
+   "id": 6,
+   "en": "You honor me with your\nbravery.",
+   "ru": "Твоя храбрость делает мне честь."
+  },
+  {
+   "id": 7,
+   "en": "Remember your training. Focus on...",
+   "ru": "Помни, чему я тебя учил.\nСосредоточься на..."
+  },
+  {
+   "id": 8,
+   "en": "I know, Father, I know!",
+   "ru": "Знаю, отец, знаю!"
+  },
+  {
+   "id": 9,
+   "en": "(I have no reason to worry about\nthe boy. He has already shown great\nskill. But I cannot help it...)",
+   "ru": "(Мне незачем волноваться за\nмальчика, он уже показал себя. И\nвсё же я волнуюсь...)"
+  },
+  {
+   "id": 10,
+   "en": "Bandit 7:\nHey, boss! We've got company!",
+   "ru": "Бандит 7:\nЭй, босс! У нас гости!"
+  },
+  {
+   "id": 11,
+   "en": "Bandit 1:\nHa, ha, ha! Whooo! We're in luck\ntoday, boys! Four more lambs led to\nthe slaughter!",
+   "ru": "Бандит 1:\nХа-ха-ха! Ух! Нам сегодня везёт,\nребятки! Ещё четыре барашка на\nубой!"
+  },
+  {
+   "id": 12,
+   "en": "Sadira:\nSo, the rumors were true...these\nsoldiers are out of control!!",
+   "ru": "Садира:\nЗначит, слухи не врали... эти\nсолдаты совсем отбились от рук!!"
+  },
+  {
+   "id": 13,
+   "en": "They are attacking innocent travelers\nwith Imperial ATACs, disgracing the\nvery Empire they pledged to serve!",
+   "ru": "Грабят путников на имперских\nАТАКах, позоря Империю, которой\nклялись служить!"
+  },
+  {
+   "id": 14,
+   "en": "Franco! Halak! We have some\ndiscipline to mete out!",
+   "ru": "Франко! Халак! Пора навести\nпорядок!"
+  },
+  {
+   "id": 15,
+   "en": "Father! Three more Imperial ATACs\njust appeared on the canyon ridge!\nWe're in serious trouble...",
+   "ru": "Отец! На гребне каньона ещё три\nимперских АТАКа! Мы в большой\nбеде..."
+  },
+  {
+   "id": 16,
+   "en": "I thought those three were Imperials,\nbut they're fighting on our side!",
+   "ru": "Я думал, эти трое из Империи, но\nони сражаются на нашей стороне!"
+  },
+  {
+   "id": 17,
+   "en": "Are those two men still alive?\nOr are we...too late?",
+   "ru": "Те двое ещё живы? Или мы...\nопоздали?"
+  },
+  {
+   "id": 18,
+   "en": "And watch how hard you hit 'em!\nNobody's gonna buy any ATAC parts\nfrom us if they don't work!",
+   "ru": "И полегче бейте! Никто не купит\nу нас запчасти от АТАКов, если\nони не работают!"
+  },
+  {
+   "id": 19,
+   "en": "Devlin:\nThose strangers...are helping us! I...\nI can barely believe my eyes!",
+   "ru": "Девлин:\nЭти незнакомцы... помогают нам!\nЯ... я глазам своим не верю!"
+  },
+  {
+   "id": 20,
+   "en": "Are you too weak from hunger to\nthink clearly, Barlow?! Move closer\nto those friendly ATACs!",
+   "ru": "Ты что, с голоду соображать\nперестал, Барлоу?! Держись ближе\nк союзным АТАКам!"
+  },
+  {
+   "id": 21,
+   "en": "Barlow:\nHow many times do I have to tell\nyou, Devlin?! I'm not fat--I have\na glandular disorder!",
+   "ru": "Барлоу:\nСколько раз тебе повторять,\nДевлин?! Я не толстый, у меня\nгормональное расстройство!"
+  },
+  {
+   "id": 22,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 23,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 24,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 25,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 26,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 27,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 28,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 29,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 30,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 31,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 32,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 33,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 34,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 35,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 36,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 37,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 38,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 39,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 40,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 41,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 42,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 43,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 44,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 45,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 46,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 47,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 48,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 49,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 50,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 51,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 52,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 53,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 54,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 55,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 56,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 57,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 58,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 59,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 60,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 61,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 62,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 63,
+   "en": "\n\n\n",
+   "ru": ""
+  }
+ ]
+}

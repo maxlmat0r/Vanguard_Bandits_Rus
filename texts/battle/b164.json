@@ -1,0 +1,331 @@
+{
+ "file": 164,
+ "kind": "battle",
+ "lines": [
+  {
+   "id": 0,
+   "en": "The Prince of the Kingdom. What a\ndelight it will be to watch my ATAC\ndevour your soul.",
+   "ru": "Принц Королевства. С каким\nудовольствием я посмотрю, как\nмой АТАК пожирает твою душу."
+  },
+  {
+   "id": 1,
+   "en": "You don't frighten me, Faulkner, and\nneither does your unholy Zulwarn!",
+   "ru": "Ты меня не пугаешь, Фолкнер, как\nи твой нечестивый Зулварн!"
+  },
+  {
+   "id": 2,
+   "en": "I will have my revenge, Faulkner.\nNot just for Father, but for all the\nlives you have destroyed!",
+   "ru": "Я отомщу, Фолкнер. Не только за\nотца, но и за все загубленные\nтобой жизни!"
+  },
+  {
+   "id": 3,
+   "en": "You're not afraid of me, Bastion?\nWell, then, I shall have to put the\nfear of God into you!",
+   "ru": "Ты меня не боишься, Бастион?\nЧто ж, придётся вселить в тебя\nстрах божий!"
+  },
+  {
+   "id": 4,
+   "en": "Come, Faulkner! Come and feel the\ncold embrace of death!",
+   "ru": "Иди же, Фолкнер! Иди и\nпочувствуй холодные объятия\nсмерти!"
+  },
+  {
+   "id": 5,
+   "en": "You see, Faulkner? Zulwarn has no\npower over me!",
+   "ru": "Видишь, Фолкнер? Зулварн надо\nмной не властен!"
+  },
+  {
+   "id": 6,
+   "en": "In your zeal to destroy me, Bastion,\nhave you forgotten about the battles\nwhich your friends are waging?",
+   "ru": "Так рвёшься меня уничтожить,\nБастион, что забыл о битвах,\nкоторые ведут твои друзья?"
+  },
+  {
+   "id": 7,
+   "en": "Are you not troubled by thoughts\nof their imminent slaughter by the\nSharking hordes?",
+   "ru": "Тебя не тревожат мысли о том,\nкак их вот-вот перебьют\nполчища Шаркингов?"
+  },
+  {
+   "id": 8,
+   "en": "My friends will win, Faulkner, just\nas I will!",
+   "ru": "Мои друзья победят, Фолкнер, как\nи я!"
+  },
+  {
+   "id": 9,
+   "en": "Your defeat will be absolute!",
+   "ru": "Твоё поражение будет полным!"
+  },
+  {
+   "id": 10,
+   "en": "Cecilia?",
+   "ru": "Сесилия?"
+  },
+  {
+   "id": 11,
+   "en": "Indeed it is.",
+   "ru": "Да."
+  },
+  {
+   "id": 12,
+   "en": "What are your orders?",
+   "ru": "Ваши приказы?"
+  },
+  {
+   "id": 13,
+   "en": "Cecilia!",
+   "ru": "Сесилия!"
+  },
+  {
+   "id": 14,
+   "en": "Kill him.",
+   "ru": "Убей его."
+  },
+  {
+   "id": 15,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 16,
+   "en": "...   ...   ...",
+   "ru": ""
+  },
+  {
+   "id": 17,
+   "en": "No...oh, no! Not Faulkner!",
+   "ru": "Нет... о нет! Только не Фолкнер!"
+  },
+  {
+   "id": 18,
+   "en": "Yes.",
+   "ru": "Да."
+  },
+  {
+   "id": 19,
+   "en": "All this time, you were spying on us,\nand reporting to him!",
+   "ru": "Всё это время ты шпионила за\nнами и докладывала ему!"
+  },
+  {
+   "id": 20,
+   "en": "And a very fine job she did, Bastion.\nI was always aware of your actions,\nand you never thought to ask why.",
+   "ru": "И отлично справлялась, Бастион.\nЯ всегда знал о ваших действиях,\nа ты и не думал спросить почему."
+  },
+  {
+   "id": 21,
+   "en": "We were constantly being ambushed\nby Imperial ATACs on our journeys...",
+   "ru": "В пути нас постоянно\nподстерегали имперские АТАКи..."
+  },
+  {
+   "id": 22,
+   "en": "And I always wondered how you\nlocated us so quickly after I entered\nthe temple of the Ultragunner.",
+   "ru": "И я всегда гадал, как ты так\nбыстро нашёл нас, когда я вошёл\nв храм Ультраганнера."
+  },
+  {
+   "id": 23,
+   "en": "Now I know.",
+   "ru": "Теперь я знаю."
+  },
+  {
+   "id": 24,
+   "en": "Oh, Bastion, you sound on the verge\nof tears. Do you need a tissue?",
+   "ru": "О, Бастион, ты, кажется, вот-вот\nрасплачешься. Платочек дать?"
+  },
+  {
+   "id": 25,
+   "en": "Why, Cecilia? WHY?!",
+   "ru": "Почему, Сесилия? ПОЧЕМУ?!"
+  },
+  {
+   "id": 26,
+   "en": "Because I paid her very well, Bastion!\nShe is a mercenary! A killer for hire!",
+   "ru": "Потому что я очень хорошо ей\nплатил, Бастион! Она наёмница!\nУбийца по найму!"
+  },
+  {
+   "id": 27,
+   "en": "And you shall be her next victim!",
+   "ru": "И ты станешь её следующей\nжертвой!"
+  },
+  {
+   "id": 28,
+   "en": "...   ...   ...",
+   "ru": ""
+  },
+  {
+   "id": 29,
+   "en": "Cecilia.",
+   "ru": "Сесилия."
+  },
+  {
+   "id": 30,
+   "en": "...   ...   ...",
+   "ru": ""
+  },
+  {
+   "id": 31,
+   "en": "This isn't you, Cecilia. This isn't the\nlife you want, or the life you deserve.",
+   "ru": "Это не ты, Сесилия. Это не та\nжизнь, которую ты хочешь и\nкоторой заслуживаешь."
+  },
+  {
+   "id": 32,
+   "en": "...   ...   ...",
+   "ru": ""
+  },
+  {
+   "id": 33,
+   "en": "I know who you really are, Cecilia,\nand I love you.",
+   "ru": "Я знаю, какая ты на самом деле,\nСесилия, и я люблю тебя."
+  },
+  {
+   "id": 34,
+   "en": "...   ...   ...",
+   "ru": ""
+  },
+  {
+   "id": 35,
+   "en": "Oh, Bastion...watching you beg for\nyour miserable life leaves me both\namused and disgusted.",
+   "ru": "О, Бастион... смотреть, как ты\nмолишь о своей жалкой жизни,\nмне и смешно, и противно."
+  },
+  {
+   "id": 36,
+   "en": "Come to me, Cecilia, and be with me.\nTogether, we will make the life that\nyou have always wanted.",
+   "ru": "Иди ко мне, Сесилия. Вместе мы\nпостроим жизнь, о которой ты\nмечтала."
+  },
+  {
+   "id": 37,
+   "en": "...   ...   ...",
+   "ru": ""
+  },
+  {
+   "id": 38,
+   "en": "Yes, Bastion!",
+   "ru": "Да, Бастион!"
+  },
+  {
+   "id": 39,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 40,
+   "en": "I've been longing for those words\nwith all my heart!",
+   "ru": "Я всем сердцем ждала этих слов!"
+  },
+  {
+   "id": 41,
+   "en": "And now, to hear you speak them!",
+   "ru": "И вот я их слышу!"
+  },
+  {
+   "id": 42,
+   "en": "What is this madness, Cecilia?! You\nare my employee, and you shall obey\nmy commands! KILL HIM!!",
+   "ru": "Что за безумие, Сесилия?! Ты моя\nнаёмница и будешь выполнять\nмои приказы! УБЕЙ ЕГО!!"
+  },
+  {
+   "id": 43,
+   "en": "You should have paid attention to the\nfine print in my contract, Faulkner.",
+   "ru": "Надо было читать мелкий шрифт\nв моём контракте, Фолкнер."
+  },
+  {
+   "id": 44,
+   "en": "Paragraph 63 clearly states that my\ntask is complete when Ultragunner\nis delivered to the capital.",
+   "ru": "Пункт 63 гласит: задача\nвыполнена, когда Ультраганнер\nдоставлен в столицу."
+  },
+  {
+   "id": 45,
+   "en": "The Ultragunner stands before you,\nand the contract has been fulfilled.\nNow I'm working for Bastion.",
+   "ru": "Ультраганнер перед тобой,\nконтракт исполнен. Теперь я\nработаю на Бастиона."
+  },
+  {
+   "id": 46,
+   "en": "Do you know what you are, Cecilia?\nYou're not a mercenary. You're just\na filthy SLUT!",
+   "ru": "Знаешь, кто ты, Сесилия? Не\nнаёмница. Ты просто грязная\nПОТАСКУХА!"
+  },
+  {
+   "id": 47,
+   "en": "I don't care what you say about me,\nFaulkner! I only care about helping\nBastion to destroy you!",
+   "ru": "Плевать, что ты обо мне\nговоришь! Я лишь хочу помочь\nБастиону тебя уничтожить!"
+  },
+  {
+   "id": 48,
+   "en": "If you won't listen to me, Cecilia,\nthen I shall have to persuade you\nwith the power of Zulwarn!",
+   "ru": "Не слушаешь меня, Сесилия?\nТогда придётся убедить тебя\nсилой Зулварна!"
+  },
+  {
+   "id": 49,
+   "en": "No!",
+   "ru": "Нет!"
+  },
+  {
+   "id": 50,
+   "en": "Leave her ALONE!",
+   "ru": "Оставь её в ПОКОЕ!"
+  },
+  {
+   "id": 51,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 52,
+   "en": "You smothered my spell! How did you\nDO that?!",
+   "ru": "Ты подавил мои чары! Как ты\nэто СДЕЛАЛ?!"
+  },
+  {
+   "id": 53,
+   "en": "(I can feel my mind growing clearer...\nand stronger! I can feel the power of\nUltragunner inside of me!)",
+   "ru": "(Разум проясняется... и крепнет! Я\nчувствую в себе силу\nУльтраганнера!)"
+  },
+  {
+   "id": 54,
+   "en": "Darkness always succumbs to light,\nFaulkner, and good always triumphs\nover evil!",
+   "ru": "Тьма всегда уступает свету,\nФолкнер, а добро всегда\nпобеждает зло!"
+  },
+  {
+   "id": 55,
+   "en": "For the sake of our future!",
+   "ru": "Ради нашего будущего!"
+  },
+  {
+   "id": 56,
+   "en": "Oh, no!",
+   "ru": "О нет!"
+  },
+  {
+   "id": 57,
+   "en": "Bastion! Help me!!",
+   "ru": "Бастион! Помоги!!"
+  },
+  {
+   "id": 58,
+   "en": "Cecilia!!",
+   "ru": "Сесилия!!"
+  },
+  {
+   "id": 59,
+   "en": "You will die for that, Faulkner!!",
+   "ru": "Ты умрёшь за это, Фолкнер!!"
+  },
+  {
+   "id": 60,
+   "en": "So this...is my...inglorious end? Death\nat the...hands of...an impetuous waif?",
+   "ru": "Так вот... мой... бесславный конец?\nСмерть от... рук... взбалмошной\nдевчонки?"
+  },
+  {
+   "id": 61,
+   "en": "How amusing...and yet...how pathetic.\nThe world...could have been...mine to\ncontrol. Instead...I enter...the abyss.",
+   "ru": "Как забавно... и как... жалко. Мир...\nмог быть... моим. А вместо этого...\nя ухожу... в бездну."
+  },
+  {
+   "id": 62,
+   "en": "I pray for solace...in the next world...",
+   "ru": "Молю об утешении... в ином мире..."
+  },
+  {
+   "id": 63,
+   "en": "It's done.",
+   "ru": "Всё кончено."
+  },
+  {
+   "id": 64,
+   "en": "Faulkner is dead, the Continent is\nliberated, and Father is avenged.",
+   "ru": "Фолкнер мёртв, Континент\nсвободен, а отец отомщён."
+  }
+ ]
+}

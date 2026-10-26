@@ -1,0 +1,346 @@
+{
+ "file": 379,
+ "kind": "quip",
+ "lines": [
+  {
+   "id": 0,
+   "en": "Enemy to the left!",
+   "ru": "Враг слева!"
+  },
+  {
+   "id": 1,
+   "en": "Brace for impact!",
+   "ru": "Приготовиться к\nудару!"
+  },
+  {
+   "id": 2,
+   "en": "Enemy to the right!",
+   "ru": "Враг справа!"
+  },
+  {
+   "id": 3,
+   "en": "Incoming attack!",
+   "ru": "Атака!"
+  },
+  {
+   "id": 4,
+   "en": "No problem!",
+   "ru": "Без проблем!"
+  },
+  {
+   "id": 5,
+   "en": "How pathetic!",
+   "ru": "Жалко!"
+  },
+  {
+   "id": 6,
+   "en": "Utterly weak!",
+   "ru": "Совсем слабо!"
+  },
+  {
+   "id": 7,
+   "en": "Is that all?",
+   "ru": "И это всё?"
+  },
+  {
+   "id": 8,
+   "en": "You're starting to\nanger me!",
+   "ru": "Ты начинаешь меня\nзлить!"
+  },
+  {
+   "id": 9,
+   "en": "That strike was\nonly a fluke!",
+   "ru": "Удар был\nслучайностью!"
+  },
+  {
+   "id": 10,
+   "en": "Damn you!",
+   "ru": "Чтоб тебя!"
+  },
+  {
+   "id": 11,
+   "en": "I shall crush you\nlike an insect!",
+   "ru": "Раздавлю тебя, как\nнасекомое!"
+  },
+  {
+   "id": 12,
+   "en": "Unnnngh!!",
+   "ru": "Н-н-нгх!!"
+  },
+  {
+   "id": 13,
+   "en": "Impressive!",
+   "ru": "Впечатляет!"
+  },
+  {
+   "id": 14,
+   "en": "I won't allow\nmyself to lose!",
+   "ru": "Я не позволю себе\nпроиграть!"
+  },
+  {
+   "id": 15,
+   "en": "I won't allow\nyou to win!",
+   "ru": "Я не позволю тебе\nпобедить!"
+  },
+  {
+   "id": 16,
+   "en": "This wasn't supposed\nto happen!",
+   "ru": "Так не должно было\nслучиться!"
+  },
+  {
+   "id": 17,
+   "en": "I fought without\nskill or honor.",
+   "ru": "Я бился без умения и\nчести."
+  },
+  {
+   "id": 18,
+   "en": "This was pathetic.",
+   "ru": "Это было жалко."
+  },
+  {
+   "id": 19,
+   "en": "The battle has ended\nfor me.",
+   "ru": "Для меня битва\nокончена."
+  },
+  {
+   "id": 20,
+   "en": "Bastard!",
+   "ru": "Мерзавец!"
+  },
+  {
+   "id": 21,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 22,
+   "en": "Hmmph!",
+   "ru": "Хм!"
+  },
+  {
+   "id": 23,
+   "en": "Fool!",
+   "ru": "Глупец!"
+  },
+  {
+   "id": 24,
+   "en": "Did you really\nexpect to hit me?",
+   "ru": "Ты правда думал\nпопасть?"
+  },
+  {
+   "id": 25,
+   "en": "You don't stand a\nchance against me!",
+   "ru": "У тебя нет шансов\nпротив меня!"
+  },
+  {
+   "id": 26,
+   "en": "How DARE you!",
+   "ru": "Да как ты СМЕЕШЬ!"
+  },
+  {
+   "id": 27,
+   "en": "Damn you!",
+   "ru": "Чтоб тебя!"
+  },
+  {
+   "id": 28,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 29,
+   "en": "Are you afraid\nof my strength?",
+   "ru": "Боишься моей силы?"
+  },
+  {
+   "id": 30,
+   "en": "Auuugh!",
+   "ru": "А-а-ах!"
+  },
+  {
+   "id": 31,
+   "en": "I won't lose!",
+   "ru": "Я не проиграю!"
+  },
+  {
+   "id": 32,
+   "en": "I can't lose!",
+   "ru": "Мне нельзя\nпроиграть!"
+  },
+  {
+   "id": 33,
+   "en": "Bastard!",
+   "ru": "Мерзавец!"
+  },
+  {
+   "id": 34,
+   "en": "You're a fool!",
+   "ru": "Глупец!"
+  },
+  {
+   "id": 35,
+   "en": "That was easy!",
+   "ru": "Это было легко!"
+  },
+  {
+   "id": 36,
+   "en": "Haaaah!",
+   "ru": "Ха-а-а!"
+  },
+  {
+   "id": 37,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 38,
+   "en": "I knew what you\nplanned to do!",
+   "ru": "Я знал, что ты\nзадумал!"
+  },
+  {
+   "id": 39,
+   "en": "How do you know\nmy moves?!",
+   "ru": "Как ты угадал мой\nход?!"
+  },
+  {
+   "id": 40,
+   "en": "For the glory of\nAvalon!",
+   "ru": "Во славу Авалона!"
+  },
+  {
+   "id": 41,
+   "en": "For the honor of\nthe Kingdom!",
+   "ru": "За честь\nКоролевства!"
+  },
+  {
+   "id": 42,
+   "en": "That was too easy!\nI want another foe!",
+   "ru": "Слишком легко!\nЕщё врага!"
+  },
+  {
+   "id": 43,
+   "en": "No one can beat me!\nNO ONE!",
+   "ru": "Меня никто не\nпобедит! НИКТО!"
+  },
+  {
+   "id": 44,
+   "en": "Oooof!",
+   "ru": "Ух!"
+  },
+  {
+   "id": 45,
+   "en": "Unngh!",
+   "ru": "Угх!"
+  },
+  {
+   "id": 46,
+   "en": "Brace yourself!",
+   "ru": "Держись!"
+  },
+  {
+   "id": 47,
+   "en": "Face my wrath!",
+   "ru": "Узри мой гнев!"
+  },
+  {
+   "id": 48,
+   "en": "I will restore\npeace to Avalon!",
+   "ru": "Я верну мир Авалону!"
+  },
+  {
+   "id": 49,
+   "en": "Auuuugh!",
+   "ru": "А-а-а-ах!"
+  },
+  {
+   "id": 50,
+   "en": "Out of the way!",
+   "ru": "С дороги!"
+  },
+  {
+   "id": 51,
+   "en": "Haaaaah!",
+   "ru": "Ха-а-а-а!"
+  },
+  {
+   "id": 52,
+   "en": "Your attacks are\nall but useless!",
+   "ru": "Твои атаки почти\nбесполезны!"
+  },
+  {
+   "id": 53,
+   "en": "Go away!",
+   "ru": "Прочь!"
+  },
+  {
+   "id": 54,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 55,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 56,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 57,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 58,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 59,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 60,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 61,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 62,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 63,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 64,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 65,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 66,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 67,
+   "en": "",
+   "ru": ""
+  }
+ ]
+}

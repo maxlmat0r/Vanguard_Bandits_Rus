@@ -1,0 +1,286 @@
+{
+ "file": 148,
+ "kind": "battle",
+ "lines": [
+  {
+   "id": 0,
+   "en": "Here comes the Kingdom Army at last!\nI can't believe it took them so long to\nmobilize their forces!",
+   "ru": "Наконец-то армия Королевства!\nНе верится, что им понадобилось\nстолько времени на сборы!"
+  },
+  {
+   "id": 1,
+   "en": "Ganlon\nJust as I, ah, told you, Zakov, this\nis the perfect time to strike.",
+   "ru": "Как я, кхм, и говорил, Заков,\nсейчас лучшее время для удара."
+  },
+  {
+   "id": 2,
+   "en": "Every soldier in Araba is drunk or\nah, sleeping. We can seize control\nbefore they, ah, know what hit them.",
+   "ru": "Все солдаты Арабы пьяны или,\nкхм, спят. Захватим замок, пока\nони, э-э, не очнулись."
+  },
+  {
+   "id": 3,
+   "en": "Just when I thought I couldn't become\nany more confused! What is this man\ntalking about?",
+   "ru": "А я-то думал, что запутаться\nсильнее уже невозможно! О чём он\nговорит?"
+  },
+  {
+   "id": 4,
+   "en": "Is he an Imperial soldier as well?",
+   "ru": "Он тоже имперский солдат?"
+  },
+  {
+   "id": 5,
+   "en": "Not at all, Bastion!",
+   "ru": "Вовсе нет, Бастион!"
+  },
+  {
+   "id": 6,
+   "en": "That ATAC belongs to Ganlon, the\nKingdom's Western Corps Commander!",
+   "ru": "Это АТАК Ганлона, командира\nЗападного корпуса Королевства!"
+  },
+  {
+   "id": 7,
+   "en": "What?",
+   "ru": "Что?"
+  },
+  {
+   "id": 8,
+   "en": "Excellent vork, Ganlon. You vill be\nmade an Imperial general as soon as\nve return to dhe capital!",
+   "ru": "Отличная рапота, Ганлон. Как\nтолько фернёмся в столицу, ты\nстанешь имперским генералом!"
+  },
+  {
+   "id": 9,
+   "en": "What's going on?!",
+   "ru": "Что происходит?!"
+  },
+  {
+   "id": 10,
+   "en": "Isn't it obvious, Bastion? Ganlon\nbetrayed the Kingdom in exchange for\nmore power within the Empire!",
+   "ru": "Разве не ясно, Бастион? Ганлон\nпредал Королевство ради власти\nв Империи!"
+  },
+  {
+   "id": 11,
+   "en": "This man is a traitor.",
+   "ru": "Этот человек - предатель."
+  },
+  {
+   "id": 12,
+   "en": "He is without honor, and I was\ntaught that a man without honor\ndoesn't deserve to live.",
+   "ru": "У него нет чести, а меня учили,\nчто человек без чести не\nзаслуживает жизни."
+  },
+  {
+   "id": 13,
+   "en": "Bastion, you look really angry!",
+   "ru": "Бастион, ты такой злой!"
+  },
+  {
+   "id": 14,
+   "en": "What's the matter?",
+   "ru": "Что случилось?"
+  },
+  {
+   "id": 15,
+   "en": "You are without honor, Ganlon! You\nwould sacrifice the lives of others to\nsatisfy your own selfish desires!",
+   "ru": "У тебя нет чести, Ганлон! Ты\nжертвуешь чужими жизнями\nради своей корысти!"
+  },
+  {
+   "id": 16,
+   "en": "Well, this is awkward...",
+   "ru": "Ну, это неловко..."
+  },
+  {
+   "id": 17,
+   "en": "What the hell are you doing?! Weren't\nyou informed about...",
+   "ru": "Что ты, чёрт возьми, делаешь?!\nТебе разве не сообщили..."
+  },
+  {
+   "id": 18,
+   "en": "Wait!",
+   "ru": "Стой!"
+  },
+  {
+   "id": 19,
+   "en": "This is the Alba ATAC!",
+   "ru": "Это АТАК Альба!"
+  },
+  {
+   "id": 20,
+   "en": "Alugard, is that you?! How did you\nsurvive?! Where have you BEEN all\nthis time?",
+   "ru": "Алугард, это ты?! Как ты\nвыжил?! Где ты БЫЛ всё это\nвремя?"
+  },
+  {
+   "id": 21,
+   "en": "I don't know what you're talking\nabout, traitor! I only know that you\ndisgust me!",
+   "ru": "Не понимаю, о чём ты, предатель!\nЗнаю лишь, что ты мне\nотвратителен!"
+  },
+  {
+   "id": 22,
+   "en": "Soldiers who raid defenseless towns\nand betray one another. What a proud\narmy the Kingdom has assembled!",
+   "ru": "Солдаты грабят беззащитных и\nпредают друг друга. Славная же\nармия у Королевства!"
+  },
+  {
+   "id": 23,
+   "en": "I'm not going to let you commit this\nshameful act, Ganlon. I'm going to\nmake you bleed!",
+   "ru": "Я не дам тебе совершить это\nпостыдное дело, Ганлон. Ты у\nменя кровью умоешься!"
+  },
+  {
+   "id": 24,
+   "en": "Prepare yourself!",
+   "ru": "Готовься!"
+  },
+  {
+   "id": 25,
+   "en": "Vhat is dhis?! I asked dhe Princess to\nsend ATACs to assist me, not to attack\nour new ally!",
+   "ru": "Что это?! Я просил принцессу\nприслать АТАКи на помощь, а не\nбить нашего союсника!"
+  },
+  {
+   "id": 26,
+   "en": "Seize dhem!",
+   "ru": "Схфатить их!"
+  },
+  {
+   "id": 27,
+   "en": "Imperial Soldier:\nWhich one, Commander?!",
+   "ru": "Имперский солдат:\nКого, командир?!"
+  },
+  {
+   "id": 28,
+   "en": "Both of dhem, you idiot! NOW!!",
+   "ru": "Опоих, итиот! ЖИФО!!"
+  },
+  {
+   "id": 29,
+   "en": "Yes, sir!",
+   "ru": "Слушаюсь!"
+  },
+  {
+   "id": 30,
+   "en": "Let us see if you have any honor on\nthe field of battle!",
+   "ru": "Посмотрим, есть ли у тебя честь\nна поле боя!"
+  },
+  {
+   "id": 31,
+   "en": "Your voice is not Alugard's! You are\njust a boy!",
+   "ru": "Это не голос Алугарда! Ты всего\nлишь мальчишка!"
+  },
+  {
+   "id": 32,
+   "en": "Tell me who you are!",
+   "ru": "Говори, кто ты!"
+  },
+  {
+   "id": 33,
+   "en": "I am Bastion, son of Kamorge!",
+   "ru": "Я Бастион, сын Каморжа!"
+  },
+  {
+   "id": 34,
+   "en": "Remember both our names, you\ngutter-dwelling annoyance!",
+   "ru": "Запомни оба наших имени,\nпомоечная ты зараза!"
+  },
+  {
+   "id": 35,
+   "en": "Bastion?!",
+   "ru": "Бастион?!"
+  },
+  {
+   "id": 36,
+   "en": "This cannot be! You are lying to me!\nI demand the truth!!",
+   "ru": "Не может быть! Ты лжёшь! Я\nтребую правды!!"
+  },
+  {
+   "id": 37,
+   "en": "Haff you gone mad?! Deactiwate your\nATAC ant surrender at vunce!",
+   "ru": "Ты сошёл с ума?! Отключи АТАК и\nнемедленно стафайся!"
+  },
+  {
+   "id": 38,
+   "en": "Shut up and stay out of my way,\nZakov, or I'll defeat you along with\nthe traitor!",
+   "ru": "Заткнись и не лезь, Заков, или я\nразобью тебя заодно с\nпредателем!"
+  },
+  {
+   "id": 39,
+   "en": "How dare you speak to me dhat vay! I\nvill not tolerate insubordination!",
+   "ru": "Как ты смеешь так со мной\nгофорить! Я не потерплю\nнеподчинения!"
+  },
+  {
+   "id": 40,
+   "en": "Turn off your ATAC and surrender\nat vunce! I don't vant to hurt you!",
+   "ru": "Отключи АТАК и немедленно\nстафайся! Я не хочу тепя ранить!"
+  },
+  {
+   "id": 41,
+   "en": "I'm sorry, Commander Zakov, but I'm\nhaving far too much fun to stop now!\nHa-ha!",
+   "ru": "Простите, командир Заков, но\nмне слишком весело, чтобы\nостанавливаться! Ха-ха!"
+  },
+  {
+   "id": 42,
+   "en": "I vill be filing a formal complaint\nwith dhe Princess about dhis! Just\nyou vait and see!",
+   "ru": "Я потам принцессе официальную\nжалобу! Фот уфидишь!"
+  },
+  {
+   "id": 43,
+   "en": "(This situation is completely out of\ncontrol! I must return to the castle\nbefore I, ah, suffer more damage!)",
+   "ru": "(Всё вышло из-под контроля!\nНадо в замок, пока я, кхм, не\nпострадал сильнее!)"
+  },
+  {
+   "id": 44,
+   "en": "(Who is the boy inside the Alba? If it\nis, uh, truly Bastion, it all changes!)",
+   "ru": "(Кто этот мальчишка в Альбе?\nЕсли это и правда, э-э, Бастион,\nто всё меняется!)"
+  },
+  {
+   "id": 45,
+   "en": "(No, it's impossible. He and Alugard\nare both, ah, dead. They must be!)",
+   "ru": "(Нет, невозможно. Он и Алугард\nоба, кхм, мертвы. Так должно\nбыть!)"
+  },
+  {
+   "id": 46,
+   "en": "I cannot believe this has happened!\nBut it, ah, isn't over yet!",
+   "ru": "Не верится, что это случилось! Но\nэто, кхм, ещё не конец!"
+  },
+  {
+   "id": 47,
+   "en": "Who is dhis fool, and vhy in dhe\nworlt is he doing dhis?!",
+   "ru": "Кто этот турак и зачем он, чёрт\nфосьми, это телает?!"
+  },
+  {
+   "id": 48,
+   "en": "Damn it! My ATAC has taken too\nmuch damage! All my systems are\nshutting down!",
+   "ru": "Проклятье! Мой АТАК слишком\nповреждён! Все системы\nотключаются!"
+  },
+  {
+   "id": 49,
+   "en": "I wanted to stop Ganlon!",
+   "ru": "Я хотел остановить Ганлона!"
+  },
+  {
+   "id": 50,
+   "en": "All of you deserved to lose! All of you!",
+   "ru": "Вы все заслужили проиграть! Все!"
+  },
+  {
+   "id": 51,
+   "en": "(Father, you would have been so\nproud of me. I fought with honor,\njust as you taught me.)",
+   "ru": "(Отец, ты бы мной гордился. Я\nсражался с честью, как ты учил.)"
+  },
+  {
+   "id": 52,
+   "en": "(So...uh...)",
+   "ru": "(Так... э-э...)"
+  },
+  {
+   "id": 53,
+   "en": "(Princess Sadira is going to be upset\nabout this, isn't she?)",
+   "ru": "(Принцесса Садира ведь\nрасстроится из-за этого, да?)"
+  },
+  {
+   "id": 54,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 55,
+   "en": "\n\n\n",
+   "ru": ""
+  }
+ ]
+}

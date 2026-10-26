@@ -1,0 +1,346 @@
+{
+ "file": 406,
+ "kind": "quip",
+ "lines": [
+  {
+   "id": 0,
+   "en": "Left?!",
+   "ru": "Слева?!"
+  },
+  {
+   "id": 1,
+   "en": "There!",
+   "ru": "Вот!"
+  },
+  {
+   "id": 2,
+   "en": "Right?!",
+   "ru": "Справа?!"
+  },
+  {
+   "id": 3,
+   "en": "There!",
+   "ru": "Вот!"
+  },
+  {
+   "id": 4,
+   "en": "Uhhhhh!",
+   "ru": "У-у-ух!"
+  },
+  {
+   "id": 5,
+   "en": "Unnghh!",
+   "ru": "Н-н-нгх!"
+  },
+  {
+   "id": 6,
+   "en": "That was nothing!",
+   "ru": "Пустяки!"
+  },
+  {
+   "id": 7,
+   "en": "You won't beat me,\nyou weakling!",
+   "ru": "Тебе меня не\nпобедить, слабак!"
+  },
+  {
+   "id": 8,
+   "en": "UHHHH!!",
+   "ru": "У-У-УХ!!"
+  },
+  {
+   "id": 9,
+   "en": "You fight well, but\nyou're going to lose!",
+   "ru": "Бьёшься хорошо, но\nпроиграешь!"
+  },
+  {
+   "id": 10,
+   "en": "What was that?!",
+   "ru": "Это что было?!"
+  },
+  {
+   "id": 11,
+   "en": "Gwahhh!",
+   "ru": "Гва-а-ах!"
+  },
+  {
+   "id": 12,
+   "en": "AAUUGGHHHH!",
+   "ru": "А-А-А-ГХ!"
+  },
+  {
+   "id": 13,
+   "en": "My ATAC can't take\nmuch more!",
+   "ru": "Мой АТАК долго не\nпротянет!"
+  },
+  {
+   "id": 14,
+   "en": "What manner of\nwarrior ARE you?!",
+   "ru": "Да что ты за воин\nтакой?!"
+  },
+  {
+   "id": 15,
+   "en": "Damn you!",
+   "ru": "Чтоб тебя!"
+  },
+  {
+   "id": 16,
+   "en": "I have failed!",
+   "ru": "Я провалился!"
+  },
+  {
+   "id": 17,
+   "en": "NOOOO!!!",
+   "ru": "НЕ-Е-ЕТ!!!"
+  },
+  {
+   "id": 18,
+   "en": "Damn it!",
+   "ru": "Проклятье!"
+  },
+  {
+   "id": 19,
+   "en": "GWAHHHH!!",
+   "ru": "ГВА-А-А-АХ!!"
+  },
+  {
+   "id": 20,
+   "en": "From behind?!",
+   "ru": "Сзади?!"
+  },
+  {
+   "id": 21,
+   "en": "What are you doing?!",
+   "ru": "Что ты делаешь?!"
+  },
+  {
+   "id": 22,
+   "en": "Too easy!",
+   "ru": "Слишком просто!"
+  },
+  {
+   "id": 23,
+   "en": "You can't hit me!",
+   "ru": "Тебе меня не задеть!"
+  },
+  {
+   "id": 24,
+   "en": "You're useless!",
+   "ru": "Ты бесполезен!"
+  },
+  {
+   "id": 25,
+   "en": "That won't do it!",
+   "ru": "Так не выйдет!"
+  },
+  {
+   "id": 26,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 27,
+   "en": "NOW you've done it!",
+   "ru": "Ну ТЕПЕРЬ ты\nдопрыгался!"
+  },
+  {
+   "id": 28,
+   "en": "You're just delaying\nthe inevitable!",
+   "ru": "Это лишь\nотсрочка!"
+  },
+  {
+   "id": 29,
+   "en": "Damn it!!",
+   "ru": "Проклятье!!"
+  },
+  {
+   "id": 30,
+   "en": "You haven't won yet!",
+   "ru": "Ты ещё не победил!"
+  },
+  {
+   "id": 31,
+   "en": "I won't be defeated!",
+   "ru": "Меня не победить!"
+  },
+  {
+   "id": 32,
+   "en": "Whoooff!!",
+   "ru": "У-у-уф!!"
+  },
+  {
+   "id": 33,
+   "en": "Aaaargh!!",
+   "ru": "А-а-аргх!!"
+  },
+  {
+   "id": 34,
+   "en": "You're wide-open!",
+   "ru": "Ты весь открыт!"
+  },
+  {
+   "id": 35,
+   "en": "I won't let you\ndo that!",
+   "ru": "Не позволю!"
+  },
+  {
+   "id": 36,
+   "en": "Get away!",
+   "ru": "Прочь!"
+  },
+  {
+   "id": 37,
+   "en": "You repelled me?!",
+   "ru": "Ты меня отбил?!"
+  },
+  {
+   "id": 38,
+   "en": "There!",
+   "ru": "Вот!"
+  },
+  {
+   "id": 39,
+   "en": "How did you see\nthat coming?!",
+   "ru": "Как ты это\nпредвидел?!"
+  },
+  {
+   "id": 40,
+   "en": "You should have\nshown me respect!",
+   "ru": "Надо было меня\nуважать!"
+  },
+  {
+   "id": 41,
+   "en": "Victory is mine!\nDishonor is yours!",
+   "ru": "Мне победа, тебе\nпозор!"
+  },
+  {
+   "id": 42,
+   "en": "Alright! Where is\nmy next opponent?",
+   "ru": "Отлично! Кто\nследующий?"
+  },
+  {
+   "id": 43,
+   "en": "You were weaker\nthan I expected!",
+   "ru": "Ты оказался слабее,\nчем я думал!"
+  },
+  {
+   "id": 44,
+   "en": "Uhhhh!",
+   "ru": "У-у-ух!"
+  },
+  {
+   "id": 45,
+   "en": "Kuuuh!",
+   "ru": "Кху-у!"
+  },
+  {
+   "id": 46,
+   "en": "And here we go!",
+   "ru": "Ну, поехали!"
+  },
+  {
+   "id": 47,
+   "en": "Eat this!",
+   "ru": "Жри!"
+  },
+  {
+   "id": 48,
+   "en": "Unngh!",
+   "ru": "Угх!"
+  },
+  {
+   "id": 49,
+   "en": "Let's do it!",
+   "ru": "Давай!"
+  },
+  {
+   "id": 50,
+   "en": "Give me your full\nattention, fool!",
+   "ru": "Смотри на меня,\nглупец!"
+  },
+  {
+   "id": 51,
+   "en": "You won't take me\ndown so easily!",
+   "ru": "Меня так просто не\nсвалить!"
+  },
+  {
+   "id": 52,
+   "en": "I'll get you, my\nlittle pretty!",
+   "ru": "Я до тебя доберусь,\nкрасавчик!"
+  },
+  {
+   "id": 53,
+   "en": "Haaaaah!!",
+   "ru": "Ха-а-а-ах!!"
+  },
+  {
+   "id": 54,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 55,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 56,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 57,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 58,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 59,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 60,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 61,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 62,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 63,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 64,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 65,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 66,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 67,
+   "en": "",
+   "ru": ""
+  }
+ ]
+}

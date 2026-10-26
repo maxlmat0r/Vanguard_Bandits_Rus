@@ -1,0 +1,576 @@
+{
+ "file": 162,
+ "kind": "battle",
+ "lines": [
+  {
+   "id": 0,
+   "en": "Imperial Soldier:\nDispatch the defense force!",
+   "ru": "Имперский солдат:\nВыслать силы обороны!"
+  },
+  {
+   "id": 1,
+   "en": "The rebels are here!",
+   "ru": "Мятежники здесь!"
+  },
+  {
+   "id": 2,
+   "en": "Rebels...",
+   "ru": "Мятежники..."
+  },
+  {
+   "id": 3,
+   "en": "Only two more ATACs? I refuse to\nbelieve Faulkner would make such\na blatant strategic error!",
+   "ru": "Всего два АТАКа? Не верю, что\nФолкнер допустил такой грубый\nстратегический просчёт!"
+  },
+  {
+   "id": 4,
+   "en": "It might be hard to believe, Bastion,\nbut Faulkner is human. Perhaps he\nforgot to send more ATACs here.",
+   "ru": "Трудно поверить, Бастион, но\nФолкнер тоже человек. Может,\nзабыл прислать АТАКи."
+  },
+  {
+   "id": 5,
+   "en": "I suppose so, Cecilia.",
+   "ru": "Пожалуй, Сесилия."
+  },
+  {
+   "id": 6,
+   "en": "Like, I think you're right, Bastion.\nFaulkner's not dumb. There must be\nmore ATACs hidden somewhere!",
+   "ru": "Типа, по-моему, ты прав,\nБастион. Фолкнер не дурак. Где-то\nдолжны прятаться ещё АТАКи!"
+  },
+  {
+   "id": 7,
+   "en": "Let's fight with caution!",
+   "ru": "Сражаемся осторожно!"
+  },
+  {
+   "id": 8,
+   "en": "Imperial Soldier:\nRetreat!",
+   "ru": "Имперский солдат:\nОтступаем!"
+  },
+  {
+   "id": 9,
+   "en": "What's going on?",
+   "ru": "Что происходит?"
+  },
+  {
+   "id": 10,
+   "en": "Why are they retreating?",
+   "ru": "Почему они отступают?"
+  },
+  {
+   "id": 11,
+   "en": "Hey there!",
+   "ru": "Эй, там!"
+  },
+  {
+   "id": 12,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 13,
+   "en": "The Kingdom Army?!",
+   "ru": "Армия Королевства?!"
+  },
+  {
+   "id": 14,
+   "en": "And the man who leads them into\nbattle is Duke Zeira...",
+   "ru": "А ведёт её в бой герцог Зейра..."
+  },
+  {
+   "id": 15,
+   "en": "...the leader of Avalon!",
+   "ru": "...правитель Авалона!"
+  },
+  {
+   "id": 16,
+   "en": "What's going on here?!",
+   "ru": "Что здесь происходит?!"
+  },
+  {
+   "id": 17,
+   "en": "Like, I have NO idea!",
+   "ru": "Типа, понятия НЕ имею!"
+  },
+  {
+   "id": 18,
+   "en": "I am Duke Zeira, from the\nAvalon Principality.",
+   "ru": "Я герцог Зейра из Княжества\nАвалон."
+  },
+  {
+   "id": 19,
+   "en": "I believe I am addressing Prince\nBastion and Princess Sadira.",
+   "ru": "Полагаю, я говорю с принцем\nБастионом и принцессой Садирой."
+  },
+  {
+   "id": 20,
+   "en": "You are, Duke Zeira. Please give us a\nchance to explain why we are here.",
+   "ru": "Правильно, герцог Зейра.\nПозвольте объяснить, зачем мы\nздесь."
+  },
+  {
+   "id": 21,
+   "en": "If you don't mind, I'd like to\nask you a few questions, first.",
+   "ru": "Если не возражаете, сначала я\nзадам вам несколько вопросов."
+  },
+  {
+   "id": 22,
+   "en": "Is that alright, Prince Bastion?",
+   "ru": "Хорошо, принц Бастион?"
+  },
+  {
+   "id": 23,
+   "en": "Of course. I can hardly blame you for\nwanting to understand our motives.",
+   "ru": "Конечно. Трудно винить вас в\nжелании понять наши мотивы."
+  },
+  {
+   "id": 24,
+   "en": "Princess Sadira, have you allied\nyourself with Prince Bastion?",
+   "ru": "Принцесса Садира, вы в союзе с\nпринцем Бастионом?"
+  },
+  {
+   "id": 25,
+   "en": "Actually, I consider us allied with\neach other--but, yes, I suppose so.",
+   "ru": "Вообще-то я считаю, что мы в\nсоюзе друг с другом... но да,\nпожалуй."
+  },
+  {
+   "id": 26,
+   "en": "Prince Bastion, this is the most\nimportant question of all.",
+   "ru": "Принц Бастион, это самый\nважный вопрос."
+  },
+  {
+   "id": 27,
+   "en": "I ask that you answer honestly.",
+   "ru": "Прошу ответить честно."
+  },
+  {
+   "id": 28,
+   "en": "I shall be, Duke Zeira.",
+   "ru": "Буду, герцог Зейра."
+  },
+  {
+   "id": 29,
+   "en": "What will you do with the\nUltragunner now?",
+   "ru": "Что вы теперь будете делать с\nУльтраганнером?"
+  },
+  {
+   "id": 30,
+   "en": "...   ...   ...",
+   "ru": ""
+  },
+  {
+   "id": 31,
+   "en": "My first goal is the very reason we\nhave come here. I am going to defeat\nFaulkner and end the war.",
+   "ru": "Моя первая цель - то, зачем мы\nздесь. Я одолею Фолкнера и\nзакончу войну."
+  },
+  {
+   "id": 32,
+   "en": "Until that madman is stopped, the\nContinent will never be safe.",
+   "ru": "Пока этого безумца не\nостановить, Континенту не\nзнать покоя."
+  },
+  {
+   "id": 33,
+   "en": "And after you crush him?",
+   "ru": "А когда сокрушите его?"
+  },
+  {
+   "id": 34,
+   "en": "I don't know. I certainly don't intend\nto wage another war, or to abuse the\nUltragunner's power.",
+   "ru": "Не знаю. Новой войны я точно не\nначну и силой Ультраганнера\nзлоупотреблять не стану."
+  },
+  {
+   "id": 35,
+   "en": "...   ...   ...",
+   "ru": ""
+  },
+  {
+   "id": 36,
+   "en": "Bastion strikes me as an honest man,\nGanlon. I feel that he speaks the\ntruth.",
+   "ru": "Бастион кажется мне честным\nчеловеком, Ганлон. Чувствую, он\nговорит правду."
+  },
+  {
+   "id": 37,
+   "en": "But, uh, sir, of course he's lying! He\ndoesn't, ah, want us to destroy him!",
+   "ru": "Но, э-э, господин, конечно, он\nлжёт! Он ведь не, кхм, хочет,\nчтобы мы его уничтожили!"
+  },
+  {
+   "id": 38,
+   "en": "What do you think, Ione? Reyna?",
+   "ru": "Что скажете, Иона? Рейна?"
+  },
+  {
+   "id": 39,
+   "en": "I did not travel with him for long,\nDuke Zeira, but he impressed me as\nan honest and kind young man.",
+   "ru": "Я путешествовала с ним недолго,\nгерцог Зейра, но он показался\nмне честным и добрым юношей."
+  },
+  {
+   "id": 40,
+   "en": "My impression has not changed.",
+   "ru": "Моё мнение не изменилось."
+  },
+  {
+   "id": 41,
+   "en": "I agree with Ione. Bastion might slip\ninto occasional sexism, but is there a\nmale who doesn't?",
+   "ru": "Согласна с Ионой. Бастион порой\nбывает сексистом, но какой\nмужчина без этого?"
+  },
+  {
+   "id": 42,
+   "en": "If anything, Zeira, the only person\nwhose behavior has been suspicious\nis Ganlon's!",
+   "ru": "Если на то пошло, Зейра,\nподозрительно вёл себя только\nГанлон!"
+  },
+  {
+   "id": 43,
+   "en": "What?! How, uh, rude!",
+   "ru": "Что?! Как, кхм, грубо!"
+  },
+  {
+   "id": 44,
+   "en": "And how entirely accurate. You are\nan atrocious liar, Ganlon.",
+   "ru": "И как совершенно точно. Ты\nотвратительный лжец, Ганлон."
+  },
+  {
+   "id": 45,
+   "en": "Faulkner?!",
+   "ru": "Фолкнер?!"
+  },
+  {
+   "id": 46,
+   "en": "You!",
+   "ru": "Ты!"
+  },
+  {
+   "id": 47,
+   "en": "What kinda ATAC is that?!",
+   "ru": "Что это за АТАК?!"
+  },
+  {
+   "id": 48,
+   "en": "The Shadow ATAC, it is!",
+   "ru": "АТАК Тени это!"
+  },
+  {
+   "id": 49,
+   "en": "I vaguely recall Father speaking of a\nShadow ATAC, but I never imagined\nanything like that!",
+   "ru": "Отец как-то говорил об АТАКе\nТени, но такого я и представить\nне могла!"
+  },
+  {
+   "id": 50,
+   "en": "Allow me to introduce you all to the\ninstrument of your destruction.",
+   "ru": "Позвольте представить вам\nорудие вашей гибели."
+  },
+  {
+   "id": 51,
+   "en": "It exists in perfect disharmony with\nthe Ultragunner. The darkness which\ndevours the light.",
+   "ru": "Он пребывает в совершенной\nдисгармонии с Ультраганнером.\nТьма, пожирающая свет."
+  },
+  {
+   "id": 52,
+   "en": "This is Zulwarn!",
+   "ru": "Это Зулварн!"
+  },
+  {
+   "id": 53,
+   "en": "I've heard legends about Zulwarn,\nbut all of them end with Ultragunner\ndestroying it!",
+   "ru": "Я слышала легенды о Зулварне, и\nв них его всегда уничтожает\nУльтраганнер!"
+  },
+  {
+   "id": 54,
+   "en": "So how does it stand before us?",
+   "ru": "Так как же он оказался перед\nнами?"
+  },
+  {
+   "id": 55,
+   "en": "The legends were wrong. Zulwarn\nmerely changed its form and went\ninto a long sleep, I suppose.",
+   "ru": "Легенды ошибались. Зулварн\nлишь сменил облик и уснул\nдолгим сном, скажем так."
+  },
+  {
+   "id": 56,
+   "en": "Now the sleeper has awakened.",
+   "ru": "Теперь спящий пробудился."
+  },
+  {
+   "id": 57,
+   "en": "Bastion, there's another legend about\nZulwarn. A legend that it needs more\nthan a power stone to run.",
+   "ru": "Бастион, есть ещё легенда о\nЗулварне. Будто ему мало одного\nсилового камня."
+  },
+  {
+   "id": 58,
+   "en": "I heard that it needs...blood!",
+   "ru": "Я слышала, ему нужна... кровь!"
+  },
+  {
+   "id": 59,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 60,
+   "en": "No--!",
+   "ru": "Нет--!"
+  },
+  {
+   "id": 61,
+   "en": "Bleaugh!",
+   "ru": "Буэ!"
+  },
+  {
+   "id": 62,
+   "en": "It was not an easy task, Zeira, but I\nwas able to round up a few hundred\nuseless people for the sacrifice.",
+   "ru": "Было непросто, Зейра, но я сумел\nсобрать для жертвы несколько\nсотен бесполезных людей."
+  },
+  {
+   "id": 63,
+   "en": "I do regret the fact that I now have\nfewer subjects to rule over, but I will\nmanage to go on.",
+   "ru": "Жаль, правда, что подданных у\nменя стало меньше, но я\nкак-нибудь переживу."
+  },
+  {
+   "id": 64,
+   "en": "What have you done?!",
+   "ru": "Что ты наделал?!"
+  },
+  {
+   "id": 65,
+   "en": "Why, I have acquired the power of\na god, dear Sadira. Why don't I give\nall of you a demonstration?",
+   "ru": "Обрёл могущество бога, дорогая\nСадира. Почему бы не показать\nвам всем?"
+  },
+  {
+   "id": 66,
+   "en": "Hmmm? What's he trying to do?",
+   "ru": "Хм? Что он задумал?"
+  },
+  {
+   "id": 67,
+   "en": "I don't know, Bastion!",
+   "ru": "Не знаю, Бастион!"
+  },
+  {
+   "id": 68,
+   "en": "Gwaahh!",
+   "ru": "Аргх!"
+  },
+  {
+   "id": 69,
+   "en": "Aarrgh!",
+   "ru": "А-а-а!"
+  },
+  {
+   "id": 70,
+   "en": "Urgghh!",
+   "ru": "Ургх!"
+  },
+  {
+   "id": 71,
+   "en": "What is this?!",
+   "ru": "Что это?!"
+  },
+  {
+   "id": 72,
+   "en": "Faulkner, what are you doing?!",
+   "ru": "Фолкнер, что ты делаешь?!"
+  },
+  {
+   "id": 73,
+   "en": "I am awakening the evil within you,\nGanlon. I am placing you under the\ncontrol of Zulwarn!",
+   "ru": "Пробуждаю в тебе зло, Ганлон.\nОтдаю тебя во власть Зулварна!"
+  },
+  {
+   "id": 74,
+   "en": "...   ...   ...",
+   "ru": ""
+  },
+  {
+   "id": 75,
+   "en": "...   ...   ...",
+   "ru": ""
+  },
+  {
+   "id": 76,
+   "en": "...   ...   ...",
+   "ru": ""
+  },
+  {
+   "id": 77,
+   "en": "...   ...   ...",
+   "ru": ""
+  },
+  {
+   "id": 78,
+   "en": "...   ...   ...",
+   "ru": ""
+  },
+  {
+   "id": 79,
+   "en": "Now then, my amusing little pets.\nKill those who would stop me!",
+   "ru": "А теперь, мои забавные\nзверушки, убейте тех, кто хочет\nменя остановить!"
+  },
+  {
+   "id": 80,
+   "en": "(What has he done?!)",
+   "ru": "(Что он сделал?!)"
+  },
+  {
+   "id": 81,
+   "en": "Duke Zeira! What's wrong?! Can you\nhear me?!",
+   "ru": "Герцог Зейра! Что с вами?! Вы\nменя слышите?!"
+  },
+  {
+   "id": 82,
+   "en": "Zeira! Say something!!",
+   "ru": "Зейра! Скажите что-нибудь!!"
+  },
+  {
+   "id": 83,
+   "en": "You can scream yourself hoarse, boy,\nbut you will receive no response.",
+   "ru": "Можешь кричать до хрипоты,\nмальчик, ответа не будет."
+  },
+  {
+   "id": 84,
+   "en": "Zeira and the others are under my\nthrall. They hear only my voice now.",
+   "ru": "Зейра и остальные в моей власти.\nТеперь они слышат лишь мой\nголос."
+  },
+  {
+   "id": 85,
+   "en": "You pathetic COWARD!",
+   "ru": "Жалкий ТРУС!"
+  },
+  {
+   "id": 86,
+   "en": "I prefer to think of myself as a man\nwho carefully chooses my battles.",
+   "ru": "Я предпочитаю считать себя тем,\nкто тщательно выбирает свои\nбитвы."
+  },
+  {
+   "id": 87,
+   "en": "Consider this a test. Defeat your\nfriends here, and I shall kill you\nmyself in the Imperial capital.",
+   "ru": "Считай это испытанием. Одолей\nдрузей, и я сам убью тебя в\nимперской столице."
+  },
+  {
+   "id": 88,
+   "en": "Wait!",
+   "ru": "Стой!"
+  },
+  {
+   "id": 89,
+   "en": "Damn it!",
+   "ru": "Проклятье!"
+  },
+  {
+   "id": 90,
+   "en": "Should we, like, run away?",
+   "ru": "Может, типа, сбежим?"
+  },
+  {
+   "id": 91,
+   "en": "We can't, Claire! They would only\nhunt us down and give Faulkner\ntime to build more Sharkings.",
+   "ru": "Нельзя, Клэр! Они нас выследят,\nа Фолкнер успеет построить\nновые Шаркинги."
+  },
+  {
+   "id": 92,
+   "en": "If we retreat now, we have already\nlost the war.",
+   "ru": "Если отступим сейчас, войну мы\nуже проиграли."
+  },
+  {
+   "id": 93,
+   "en": "Then we must destroy the ATACs\nwithout harming our friends inside.",
+   "ru": "Тогда нужно уничтожить АТАКи,\nне навредив друзьям внутри."
+  },
+  {
+   "id": 94,
+   "en": "As difficult as it will be, Bastion,\nit is also our only choice.",
+   "ru": "Как ни трудно это, Бастион,\nдругого выбора нет."
+  },
+  {
+   "id": 95,
+   "en": "Duke Zeira! Wake up!",
+   "ru": "Герцог Зейра! Очнитесь!"
+  },
+  {
+   "id": 96,
+   "en": "...   ...   ...",
+   "ru": ""
+  },
+  {
+   "id": 97,
+   "en": "It's no use...!",
+   "ru": "Бесполезно...!"
+  },
+  {
+   "id": 98,
+   "en": "Reyna! Can you hear me?!",
+   "ru": "Рейна! Ты меня слышишь?!"
+  },
+  {
+   "id": 99,
+   "en": "...   ...   ...",
+   "ru": ""
+  },
+  {
+   "id": 100,
+   "en": "Damn you, Faulkner!",
+   "ru": "Будь ты проклят, Фолкнер!"
+  },
+  {
+   "id": 101,
+   "en": "I thought you despised the Empire,\nold man! And now you're allowing\nthem to manipulate you?!",
+   "ru": "Я думала, ты презираешь\nИмперию, старик! А теперь\nпозволяешь ей собой вертеть?!"
+  },
+  {
+   "id": 102,
+   "en": "Snap out of this evil trance, Galvas!\nI know you can do it!",
+   "ru": "Очнись от этого злого транса,\nГальвас! Я знаю, ты сможешь!"
+  },
+  {
+   "id": 103,
+   "en": "...   ...   ...",
+   "ru": ""
+  },
+  {
+   "id": 104,
+   "en": "Wake UP!",
+   "ru": "ОЧНИСЬ!"
+  },
+  {
+   "id": 105,
+   "en": "Duke Zeira! Please!",
+   "ru": "Герцог Зейра! Прошу!"
+  },
+  {
+   "id": 106,
+   "en": "Please open your eyes!",
+   "ru": "Прошу, откройте глаза!"
+  },
+  {
+   "id": 107,
+   "en": "...   ...   ...",
+   "ru": ""
+  },
+  {
+   "id": 108,
+   "en": "He is lost to us...",
+   "ru": "Он для нас потерян..."
+  },
+  {
+   "id": 109,
+   "en": "Just when I think Faulkner couldn't\nbecome any more evil, he does this!",
+   "ru": "Только я подумаю, что Фолкнер\nне может стать ещё злее, а он\nвытворяет такое!"
+  },
+  {
+   "id": 110,
+   "en": "Turning our friends against us,\nand sacrificing his own people!",
+   "ru": "Обращает против нас друзей и\nприносит в жертву собственный\nнарод!"
+  },
+  {
+   "id": 111,
+   "en": "Now it's HIS life that shall be ended!",
+   "ru": "Теперь оборвётся ЕГО жизнь!"
+  },
+  {
+   "id": 112,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 113,
+   "en": "\n\n\n",
+   "ru": ""
+  }
+ ]
+}

@@ -1,0 +1,101 @@
+{
+ "file": 500,
+ "kind": "story",
+ "lines": [
+  {
+   "id": 0,
+   "en": "This is Gratia, the stone which was\nused to seal Ultragunner's power.",
+   "ru": "Это Гратия - камень, которым\nзапечатали силу Ультраганнера."
+  },
+  {
+   "id": 1,
+   "en": "You have passed the test, Prince\nBastion, and I therefore give Gratia\nto you.",
+   "ru": "Вы прошли испытание, принц\nБастион, и потому я вручаю вам\nГратию."
+  },
+  {
+   "id": 2,
+   "en": "I feel strange!",
+   "ru": "Мне не по себе!"
+  },
+  {
+   "id": 3,
+   "en": "I hear a faint voice...deep inside my\nhead...calling out to me!",
+   "ru": "Я слышу слабый голос... глубоко в\nголове... он зовёт меня!"
+  },
+  {
+   "id": 4,
+   "en": "Now I'm starting to see something in\nmy mind's eye. It's a glistening white\nATAC...it's Ultragunner!",
+   "ru": "Я начинаю что-то видеть\nвнутренним взором. Сверкающий\nбелый АТАК... это Ультраганнер!"
+  },
+  {
+   "id": 5,
+   "en": "Your Highness! Are you alright?",
+   "ru": "Ваше Высочество! Вы в порядке?"
+  },
+  {
+   "id": 6,
+   "en": "Marquis Dionne, what is going on?\nWhat is happening to His Highness?!",
+   "ru": "Маркиз Дионн, что происходит?\nЧто с Его Высочеством?!"
+  },
+  {
+   "id": 7,
+   "en": "Prince Bastion has passed the second\ntest, Commander Galvas.",
+   "ru": "Принц Бастион прошёл второе\nиспытание, командир Гальвас."
+  },
+  {
+   "id": 8,
+   "en": "You never mentioned a second test,\nMarquis Dionne! Explain yourself\nat once!",
+   "ru": "Вы ничего не говорили о втором\nиспытании, маркиз Дионн!\nНемедленно объяснитесь!"
+  },
+  {
+   "id": 9,
+   "en": "Gratia is a magic stone, Commander\nGalvas. It can detect when someone\nworthy, or unworthy, possesses it.",
+   "ru": "Гратия - волшебный камень,\nкомандир. Она чувствует,\nдостоин ли тот, кто ею владеет."
+  },
+  {
+   "id": 10,
+   "en": "If someone unworthy were to take\nGratia, it would not allow him or\nher to use the Ultragunner.",
+   "ru": "Недостойному Гратия не\nпозволила бы управлять\nУльтраганнером."
+  },
+  {
+   "id": 11,
+   "en": "Because Bastion is worthy, Gratia is\nrevealing the location of Ultragunner\nto him.",
+   "ru": "Бастион достоин, и потому\nГратия открывает ему, где\nнаходится Ультраганнер."
+  },
+  {
+   "id": 12,
+   "en": "Thank you for clarifying, Marquis\nDionne, although I still wish you\nhad informed us beforehand.",
+   "ru": "Благодарю за разъяснение,\nмаркиз Дионн, хотя лучше бы вы\nпредупредили нас заранее."
+  },
+  {
+   "id": 13,
+   "en": "Your Highness! I come with extremely\nimportant news!",
+   "ru": "Ваше Высочество! Я принёс\nкрайне важные вести!"
+  },
+  {
+   "id": 14,
+   "en": "Ganlon?! Why have you followed us\nhere and ignored your sworn duty to\ndefend Araba Castle?!",
+   "ru": "Ганлон?! Почему ты здесь, а не\nзащищаешь замок Араба, как\nклялся?!"
+  },
+  {
+   "id": 15,
+   "en": "Bastion, watch out! Ganlon is a\ntraitor!",
+   "ru": "Бастион, берегись! Ганлон -\nпредатель!"
+  },
+  {
+   "id": 16,
+   "en": "Got it!",
+   "ru": "Есть!"
+  },
+  {
+   "id": 17,
+   "en": "Ganlon stole Gratia away from me!\nWhat's going on?!",
+   "ru": "Ганлон украл у меня Гратию! Что\nпроисходит?!"
+  },
+  {
+   "id": 18,
+   "en": "Let's move, Bastion! We must catch\nGanlon before he delivers Gratia\nto the Empire!",
+   "ru": "Скорее, Бастион! Нужно поймать\nГанлона, пока он не отдал\nГратию Империи!"
+  }
+ ]
+}

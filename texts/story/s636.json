@@ -1,0 +1,26 @@
+{
+ "file": 636,
+ "kind": "story",
+ "lines": [
+  {
+   "id": 0,
+   "en": "(This is the Imperial capital...)",
+   "ru": "(Это имперская столица...)"
+  },
+  {
+   "id": 1,
+   "en": "(But there's absolutely no one here.\nDid Faulkner evacuate the city?)",
+   "ru": "(Но здесь совсем никого. Фолкнер\nэвакуировал город?)"
+  },
+  {
+   "id": 2,
+   "en": "(Or did he sacrifice his own people\nin order to feed the Zulwarn?!)",
+   "ru": "(Или принёс свой народ в жертву,\nчтобы накормить Зулварн?!)"
+  },
+  {
+   "id": 3,
+   "en": "(You have committed your final\natrocity, Faulkner! This time, it\nis YOUR blood which will flow!)",
+   "ru": "(Это твоё последнее злодеяние,\nФолкнер! На этот раз прольётся\nТВОЯ кровь!)"
+  }
+ ]
+}

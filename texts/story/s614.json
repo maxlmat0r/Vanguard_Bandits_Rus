@@ -1,0 +1,21 @@
+{
+ "file": 614,
+ "kind": "story",
+ "lines": [
+  {
+   "id": 0,
+   "en": "I have some bad news to impart.\nThe Empire recently built a fortress\nto the east of here...",
+   "ru": "У меня плохие вести. Империя\nнедавно построила крепость к\nвостоку отсюда..."
+  },
+  {
+   "id": 1,
+   "en": "Great! Just...great.",
+   "ru": "Отлично! Просто... отлично."
+  },
+  {
+   "id": 2,
+   "en": "If we don't capture the fortress,\nwe can't make it to the capital city.\nWe knew this wouldn't be easy...",
+   "ru": "Не взяв крепость, до столицы не\nдобраться. Мы знали, что будет\nнелегко..."
+  }
+ ]
+}

@@ -1,0 +1,316 @@
+{
+ "file": 134,
+ "kind": "battle",
+ "lines": [
+  {
+   "id": 0,
+   "en": "I am Galvas Derid, the Southern\nCorps Commander of the Pharastia\nKingdom!",
+   "ru": "Я Гальвас Дерид, командир\nЮжного корпуса Королевства\nФарастия!"
+  },
+  {
+   "id": 1,
+   "en": "I would speak with Thomson, the\nNorthern Corps Commander!",
+   "ru": "Я хочу говорить с Томсоном,\nкомандиром Северного корпуса!"
+  },
+  {
+   "id": 2,
+   "en": "Galvas! You have chosen an excellent\nmoment to arrive!",
+   "ru": "Гальвас! Ты пришёл в самый\nподходящий момент!"
+  },
+  {
+   "id": 3,
+   "en": "Continue your assault, Thomson,\nwhile we strike the Imperial fools\nfrom the rear!",
+   "ru": "Продолжай атаку, Томсон, а мы\nударим этим имперским глупцам\nв тыл!"
+  },
+  {
+   "id": 4,
+   "en": "Attack!",
+   "ru": "В атаку!"
+  },
+  {
+   "id": 5,
+   "en": "Are you and your men alright,\nThomson?",
+   "ru": "Ты и твои люди в порядке,\nТомсон?"
+  },
+  {
+   "id": 6,
+   "en": "Yes, Galvas, thanks to you.",
+   "ru": "Да, Гальвас, благодаря тебе."
+  },
+  {
+   "id": 7,
+   "en": "Tell me, Galvas, is that white ATAC\nwhat I believe it to be?",
+   "ru": "Скажи, Гальвас, тот белый АТАК\n- это то, что я думаю?"
+  },
+  {
+   "id": 8,
+   "en": "Indeed, Thomson. It is Ultragunner,\nwith His Highness at the controls.",
+   "ru": "Именно, Томсон. Это\nУльтраганнер, и ведёт его Его\nВысочество."
+  },
+  {
+   "id": 9,
+   "en": "Mmmmm. Interesting...yes.",
+   "ru": "Ммм. Интересно... да."
+  },
+  {
+   "id": 10,
+   "en": "Dhis battle is ower, fools! Giff me\ndhe Ultragunner or I vill haff to\ntake it from you!",
+   "ru": "Пой окончен, тураки! Оттайте\nмне Ультраганнер, или я заперу\nего силой!"
+  },
+  {
+   "id": 11,
+   "en": "More Imperial forces!",
+   "ru": "Ещё имперские войска!"
+  },
+  {
+   "id": 12,
+   "en": "Thomson! Join with us to crush\nthese last remnants of the\nEmpire force!",
+   "ru": "Томсон! Присоединяйся, раздавим\nпоследние остатки имперских\nсил!"
+  },
+  {
+   "id": 13,
+   "en": "That I cannot do, Galvas.",
+   "ru": "Этого я сделать не могу, Гальвас."
+  },
+  {
+   "id": 14,
+   "en": "What kind of ungrateful snobbery\nis this?!!",
+   "ru": "Что за неблагодарное чванство?!!"
+  },
+  {
+   "id": 15,
+   "en": "We saved your lives, and now you\nendanger us all with your inaction?",
+   "ru": "Мы спасли вам жизнь, а теперь\nты подвергаешь нас всех\nопасности своим бездействием?"
+  },
+  {
+   "id": 16,
+   "en": "I cannot help you because that would\nrun counter to the plan I've devised.",
+   "ru": "Я не могу помочь, потому что это\nпротиворечит моему плану."
+  },
+  {
+   "id": 17,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 18,
+   "en": "Thomson, you were a man of honor.\nPlease tell me this is some kind\nof poorly-timed joke.",
+   "ru": "Томсон, ты был человеком чести.\nСкажи, что это просто неудачная\nшутка."
+  },
+  {
+   "id": 19,
+   "en": "Comfort me with the knowledge that\nyou have not betrayed us to the\nEmpire!",
+   "ru": "Утешь меня вестью, что ты не\nпредал нас Империи!"
+  },
+  {
+   "id": 20,
+   "en": "I'm afraid I cannot offer the\nconsolation you seek, Galvas.",
+   "ru": "Боюсь, я не могу дать тебе\nжеланного утешения, Гальвас."
+  },
+  {
+   "id": 21,
+   "en": "My soldiers and I now swear\nallegiance to the Imperial Army.",
+   "ru": "Мои солдаты и я теперь\nприсягаем имперской армии."
+  },
+  {
+   "id": 22,
+   "en": "Thomson, you are too strong a man\nto succumb to the Empire's will.",
+   "ru": "Томсон, ты слишком сильный\nчеловек, чтобы покориться воле\nИмперии."
+  },
+  {
+   "id": 23,
+   "en": "You have fought beside me in untold\nbattles, friend! Together, we have\nshed a river of Imperial blood!",
+   "ru": "Мы бились бок о бок в бессчётных\nбитвах, друг! Вместе пролили\nреку имперской крови!"
+  },
+  {
+   "id": 24,
+   "en": "Tell me why you have done this!",
+   "ru": "Скажи, зачем ты это сделал!"
+  },
+  {
+   "id": 25,
+   "en": "Tell me!!",
+   "ru": "Скажи!!"
+  },
+  {
+   "id": 26,
+   "en": "Do you really haff to scream quite so\nloutly?!",
+   "ru": "Тепе опясательно так кричать?!"
+  },
+  {
+   "id": 27,
+   "en": "Stop standing dhere, Thomson! Attack\nand kill dhem!",
+   "ru": "Хфатит стоять, Томсон! Атакуй и\nупей их!"
+  },
+  {
+   "id": 28,
+   "en": "Yes, Commander Zakov.",
+   "ru": "Слушаюсь, командир Заков."
+  },
+  {
+   "id": 29,
+   "en": "Kingdom Soldier:\nCommander Thomson! These are\nsoldiers of the Kingdom, not our\nenemies!",
+   "ru": "Солдат Королевства:\nКомандир Томсон! Это солдаты\nКоролевства, а не враги!"
+  },
+  {
+   "id": 30,
+   "en": "Do not question!! Attack them or\nface your own demise at my hand!",
+   "ru": "Не рассуждать!! Атакуйте их, или\nпогибнете от моей руки!"
+  },
+  {
+   "id": 31,
+   "en": "Thank you for helping us.",
+   "ru": "Спасибо за помощь."
+  },
+  {
+   "id": 32,
+   "en": "That must be Ultragunner...and is it\nbeing controlled by Prince Bastion?",
+   "ru": "Это, должно быть,\nУльтраганнер... и им управляет\nпринц Бастион?"
+  },
+  {
+   "id": 33,
+   "en": "Yes, Commander Thomson, it's me.",
+   "ru": "Да, командир Томсон, это я."
+  },
+  {
+   "id": 34,
+   "en": "Dhis battle is ower, fools! Giff me\ndhe Ultragunner or I vill haff to\ntake it from you!",
+   "ru": "Пой окончен, тураки! Оттайте\nмне Ультраганнер, или я заперу\nего силой!"
+  },
+  {
+   "id": 35,
+   "en": "More Imperial forces!",
+   "ru": "Ещё имперские войска!"
+  },
+  {
+   "id": 36,
+   "en": "Thomson, let's work together to beat\nthese Imperial dogs!",
+   "ru": "Томсон, давай вместе разобьём\nэтих имперских псов!"
+  },
+  {
+   "id": 37,
+   "en": "I cannot do that, Bastion.",
+   "ru": "Не могу, Бастион."
+  },
+  {
+   "id": 38,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 39,
+   "en": "And why not, Thomson?!",
+   "ru": "Почему, Томсон?!"
+  },
+  {
+   "id": 40,
+   "en": "I cannot help you because that would\ngo against the plan I devised.",
+   "ru": "Я не могу помочь, потому что это\nпротиворечит моему плану."
+  },
+  {
+   "id": 41,
+   "en": "You have betrayed us to the Empire?!",
+   "ru": "Ты предал нас Империи?!"
+  },
+  {
+   "id": 42,
+   "en": "Indeed. My soldiers and myself now\nfight for the Imperial Army.",
+   "ru": "Именно. Мои солдаты и я теперь\nсражаемся за имперскую армию."
+  },
+  {
+   "id": 43,
+   "en": "Why have you done this, Thomson?!\nWhat led you to ally with someone so\nevil as General Faulkner?!",
+   "ru": "Зачем, Томсон?! Что заставило\nтебя примкнуть к такому злодею,\nкак генерал Фолкнер?!"
+  },
+  {
+   "id": 44,
+   "en": "I cannot explain, Bastion. I only know\nwhat I must now do.",
+   "ru": "Я не могу объяснить, Бастион. Я\nлишь знаю, что должен делать."
+  },
+  {
+   "id": 45,
+   "en": "Do you really haff to scream quite so\nloutly, Bastion?!",
+   "ru": "Тепе опясательно так кричать,\nПастион?!"
+  },
+  {
+   "id": 46,
+   "en": "Stop standing dhere, Thomson! Attack\ndhem and kill dhem!",
+   "ru": "Хфатит стоять, Томсон! Атакуй и\nупей их!"
+  },
+  {
+   "id": 47,
+   "en": "Yes, Commander Zakov!",
+   "ru": "Слушаюсь, командир Заков!"
+  },
+  {
+   "id": 48,
+   "en": "Kingdom Soldier:\nCommander Thomson! These are\nsoldiers of the Kingdom, not our\nenemies!",
+   "ru": "Солдат Королевства:\nКомандир Томсон! Это солдаты\nКоролевства, а не враги!"
+  },
+  {
+   "id": 49,
+   "en": "They are our enemies now! Attack\nthem or I will attack you!",
+   "ru": "Теперь они враги! Атакуйте их,\nили я атакую вас!"
+  },
+  {
+   "id": 50,
+   "en": "I vill have Ultragunner, not Fokkner!\nThe Empire vill be MINE to control!",
+   "ru": "Ультраганнер путет мой, а не\nФоккнера! Империя путет в МОЕЙ\nвласти!"
+  },
+  {
+   "id": 51,
+   "en": "You'll never have Ultragunner!\nAll you have is a few more moments\nof your pathetic life!",
+   "ru": "Не видать тебе Ультраганнера! У\nтебя осталось лишь несколько\nмгновений жалкой жизни!"
+  },
+  {
+   "id": 52,
+   "en": "Kingdom Soldier:\nCommander Thomson! This is insane!\nWhy are you forcing us to do this?!",
+   "ru": "Солдат Королевства:\nКомандир Томсон! Это безумие!\nЗачем вы заставляете нас это\nделать?!"
+  },
+  {
+   "id": 53,
+   "en": "These are our allies! Why have you\nabandoned them?!",
+   "ru": "Это наши союзники! Почему вы\nих бросили?!"
+  },
+  {
+   "id": 54,
+   "en": "Thomson:\nShut your mouth, grunt! I don't\nneed to explain the reasons for\nmy orders.",
+   "ru": "Томсон:\nЗаткнись, солдат! Я не обязан\nобъяснять причины своих\nприказов."
+  },
+  {
+   "id": 55,
+   "en": "You will obey me or suffer the\nconsequences!",
+   "ru": "Подчиняйся, или пожалеешь!"
+  },
+  {
+   "id": 56,
+   "en": "You bastards! How coult you do dhis\nto me?!",
+   "ru": "Мерсафцы! Как фы могли так со\nмной?!"
+  },
+  {
+   "id": 57,
+   "en": "I vas going to rule dhe Continent! I\nvas going to make General Fokkner\nlick my bootheels!",
+   "ru": "Я стал пы фластелином\nКонтинента! Фоккнер лисал пы\nмне сапоги!"
+  },
+  {
+   "id": 58,
+   "en": "And I vas going to learn how to play\ndhe piano...!",
+   "ru": "И я сопирался научиться играть\nна пианино...!"
+  },
+  {
+   "id": 59,
+   "en": "(Thomson! Why?!)",
+   "ru": "(Томсон! Почему?!)"
+  },
+  {
+   "id": 60,
+   "en": "(Why did Thomson do this?)",
+   "ru": "(Зачем Томсон это сделал?)"
+  },
+  {
+   "id": 61,
+   "en": "Perhaps it is you we should be\nattacking instead of these others!",
+   "ru": "Может, напасть стоит на тебя, а\nне на них!"
+  }
+ ]
+}

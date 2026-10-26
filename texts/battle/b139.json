@@ -1,0 +1,146 @@
+{
+ "file": 139,
+ "kind": "battle",
+ "lines": [
+  {
+   "id": 0,
+   "en": "I still don't see them...",
+   "ru": "Всё ещё их не вижу..."
+  },
+  {
+   "id": 1,
+   "en": "Here they come! On the other side of\nthe bridge!",
+   "ru": "Вот они! На том берегу моста!"
+  },
+  {
+   "id": 2,
+   "en": "Unbelievable! Nordilain is attacking\nonce more!",
+   "ru": "Невероятно! Нордилейн снова\nатакует!"
+  },
+  {
+   "id": 3,
+   "en": "And it seems they are being led by\nDuke Logan himself!",
+   "ru": "И, похоже, ведёт их сам герцог\nЛоган!"
+  },
+  {
+   "id": 4,
+   "en": "I know he's trying to stop us and all,\nbut I can't help admiring his ATAC.\nIt's so damn MANLY.",
+   "ru": "Он хочет нас остановить и всё\nтакое, но какой у него АТАК!\nЧертовски МУЖЕСТВЕННЫЙ."
+  },
+  {
+   "id": 5,
+   "en": "Ha, ha, ha! I'm glad you made it!\nAn old man like me doesn't have\nmuch time left to wait around!",
+   "ru": "Ха-ха-ха! Рад, что вы пришли!\nСтарику вроде меня долго ждать\nне по годам!"
+  },
+  {
+   "id": 6,
+   "en": "That red ATAC is huge! Is it one of\nthe original excavated models?",
+   "ru": "Огромный красный АТАК! Это\nодин из древних?"
+  },
+  {
+   "id": 7,
+   "en": "Yes. It is called the Crimson, and\nDuke Logan's been piloting it since\nhe was a boy.",
+   "ru": "Да. Он зовётся Кримсон, и герцог\nЛоган водит его с детства."
+  },
+  {
+   "id": 8,
+   "en": "I was hoping we would never have to\nsee it in person...",
+   "ru": "Я надеялся, что не увижу его\nвживую..."
+  },
+  {
+   "id": 9,
+   "en": "Amazing! Duke Zeira, Lord Alden,\nand Prince Bastion's Ultragunner,\nall on a single battlefield!",
+   "ru": "Потрясающе! Герцог Зейра, лорд\nОлден и Ультраганнер принца\nБастиона - на одном поле боя!"
+  },
+  {
+   "id": 10,
+   "en": "Ha, ha, ha! I could not ask for a\nmore satisfying melee than the one\nthat's sure to unfold!",
+   "ru": "Ха-ха-ха! Лучшей сечи и\nпожелать нельзя!"
+  },
+  {
+   "id": 11,
+   "en": "Well, perhaps if I was fighting all\nthree of them by myself.",
+   "ru": "Ну, разве что если бы я дрался со\nвсеми тремя в одиночку."
+  },
+  {
+   "id": 12,
+   "en": "Attack!",
+   "ru": "В атаку!"
+  },
+  {
+   "id": 13,
+   "en": "The Crimson is slow, but it's also\nstrong, Bastion--as strong as Dionne's\nRoaring Lion!",
+   "ru": "Кримсон медленный, но сильный,\nБастион, - не слабее Рычащего\nльва Дионна!"
+  },
+  {
+   "id": 14,
+   "en": "Be careful!",
+   "ru": "Будь осторожна!"
+  },
+  {
+   "id": 15,
+   "en": "The legendary Ultragunner! Let us\nsee how strong it truly is!",
+   "ru": "Легендарный Ультраганнер!\nПосмотрим, насколько он силён\nна самом деле!"
+  },
+  {
+   "id": 16,
+   "en": "Indeed!",
+   "ru": "Именно!"
+  },
+  {
+   "id": 17,
+   "en": "Duke Zeira! How are you enjoying\nyour job as the Prince's babysitter?",
+   "ru": "Герцог Зейра! Как тебе работа\nняньки у принца?"
+  },
+  {
+   "id": 18,
+   "en": "More than you're enjoying the post\nof Imperial punching bag, no doubt.",
+   "ru": "Уж всяко приятнее, чем тебе\nдолжность имперской груши для\nбитья."
+  },
+  {
+   "id": 19,
+   "en": "Saying such things will make me hit\nyou much harder, Zeira!!",
+   "ru": "За такие слова я ударю тебя ещё\nсильнее, Зейра!!"
+  },
+  {
+   "id": 20,
+   "en": "Lord Alden! I've long desired to hand\nyou a humiliating defeat!",
+   "ru": "Лорд Олден! Я давно мечтал\nнанести тебе унизительное\nпоражение!"
+  },
+  {
+   "id": 21,
+   "en": "You need to set goals you can achieve,\nDuke Logan!",
+   "ru": "Ставь достижимые цели, герцог\nЛоган!"
+  },
+  {
+   "id": 22,
+   "en": "Ha, ha, ha!",
+   "ru": "Ха-ха-ха!"
+  },
+  {
+   "id": 23,
+   "en": "This battle is impossible to win! And\nI would expect no less from such an\nextraordinary group of ATACs!",
+   "ru": "Эту битву не выиграть! Иного от\nстоль выдающейся компании\nАТАКов я и не ждал!"
+  },
+  {
+   "id": 24,
+   "en": "We will continue this fight, and\nconclude it, at our next encounter.",
+   "ru": "Мы продолжим этот бой и\nзакончим его при следующей\nвстрече."
+  },
+  {
+   "id": 25,
+   "en": "I'd prefer you not be defeated until\nthen. I'd like to be the one to claim\nyour lives!",
+   "ru": "Постарайтесь не проиграть до\nтех пор. Я хочу забрать ваши\nжизни сам!"
+  },
+  {
+   "id": 26,
+   "en": "Logan said we would meet again.",
+   "ru": "Логан сказал, что мы встретимся\nснова."
+  },
+  {
+   "id": 27,
+   "en": "What could he possibly know that\nwe do not?",
+   "ru": "Что он может знать такого, чего\nне знаем мы?"
+  }
+ ]
+}

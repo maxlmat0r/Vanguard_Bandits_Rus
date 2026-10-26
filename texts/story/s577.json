@@ -1,0 +1,276 @@
+{
+ "file": 577,
+ "kind": "story",
+ "lines": [
+  {
+   "id": 0,
+   "en": "Bastion?",
+   "ru": "Бастион?"
+  },
+  {
+   "id": 1,
+   "en": "Isn't it a glorious view from up here,\nCecilia? I never got to enjoy it when\nFather and I were training.",
+   "ru": "Чудесный отсюда вид, правда,\nСесилия? Когда мы с отцом\nтренировались, было не до него."
+  },
+  {
+   "id": 2,
+   "en": "It's beautiful.",
+   "ru": "Красиво."
+  },
+  {
+   "id": 3,
+   "en": "Someday, perhaps, the Kingdom will\nbuild a monument here in his honor.\nHis life would inspire others.",
+   "ru": "Может, однажды Королевство\nпоставит здесь ему памятник.\nЕго жизнь вдохновит других."
+  },
+  {
+   "id": 4,
+   "en": "Bastion, are you angry at me?",
+   "ru": "Бастион, ты на меня сердишься?"
+  },
+  {
+   "id": 5,
+   "en": "About what, Cecilia?",
+   "ru": "За что, Сесилия?"
+  },
+  {
+   "id": 6,
+   "en": "About my placing you and the others\nin danger. About keeping the truth\nfrom you.",
+   "ru": "За то, что я подвергла опасности\nтебя и остальных. За то, что\nскрывала правду."
+  },
+  {
+   "id": 7,
+   "en": "I'm not angry, Cecilia. I consider it\nmy fault for not sharing my feelings\nwith you sooner.",
+   "ru": "Я не сержусь, Сесилия. Сам\nвиноват, что не открыл тебе свои\nчувства раньше."
+  },
+  {
+   "id": 8,
+   "en": "I had to fulfill the contract, Bastion.\nTo betray someone, even Faulkner,\nwould be to live without honor.",
+   "ru": "Я должна была выполнить\nконтракт. Предать даже Фолкнера\n- значит жить без чести."
+  },
+  {
+   "id": 9,
+   "en": "No one else would understand my\nactions. They would condemn them...\nand me.",
+   "ru": "Никто больше не поймёт моих\nпоступков. Они осудили бы их... и\nменя."
+  },
+  {
+   "id": 10,
+   "en": "That is why we were destined to be\ntogether. We understand each other\nin ways that no one else can.",
+   "ru": "Потому нам и суждено быть\nвместе. Мы понимаем друг друга,\nкак никто другой."
+  },
+  {
+   "id": 11,
+   "en": "I have never been in love before,\nBastion. It feels so strange, and\nyet so wonderful.",
+   "ru": "Я никогда раньше не любила,\nБастион. Это так странно и так\nчудесно."
+  },
+  {
+   "id": 12,
+   "en": "Will our love last forever, Bastion?\nOr will it fade away with time?",
+   "ru": "Наша любовь будет вечной,\nБастион? Или угаснет со\nвременем?"
+  },
+  {
+   "id": 13,
+   "en": "You say that as if you expect it to\nfade away, Cecilia.",
+   "ru": "Ты говоришь так, будто ждёшь,\nчто она угаснет, Сесилия."
+  },
+  {
+   "id": 14,
+   "en": "I'm sorry, Bastion. It's just hard for\nme to have faith in anything.",
+   "ru": "Прости, Бастион. Мне просто\nтрудно во что-то верить."
+  },
+  {
+   "id": 15,
+   "en": "I have faith in you, Cecilia, and I\nknow you have faith in me.",
+   "ru": "Я верю в тебя, Сесилия, и знаю,\nчто ты веришь в меня."
+  },
+  {
+   "id": 16,
+   "en": "Yes, Bastion, I do.",
+   "ru": "Да, Бастион, верю."
+  },
+  {
+   "id": 17,
+   "en": "Are you glad that you told your\nfriends of our relationship?",
+   "ru": "Ты рад, что рассказал друзьям о\nнас?"
+  },
+  {
+   "id": 18,
+   "en": "I am, although I certainly wish they\nhad been more enthusiastic. Princess\nSadira seemed almost despondent.",
+   "ru": "Рад, хотя хотелось бы, чтобы они\nрадовались больше. Принцесса\nСадира была почти в отчаянии."
+  },
+  {
+   "id": 19,
+   "en": "Of course, explaining that I was\nsealing Ultragunner away again\ndidn't thrill them, either.",
+   "ru": "Конечно, и то, что я снова\nзапечатываю Ультраганнер, их\nтоже не обрадовало."
+  },
+  {
+   "id": 20,
+   "en": "True.",
+   "ru": "Верно."
+  },
+  {
+   "id": 21,
+   "en": "I would destroy Ultragunner if I\nknew how. Its power is too great,\nand invariably corrupting.",
+   "ru": "Я бы уничтожил Ультраганнер,\nесли бы знал как. Его сила\nслишком велика и развращает."
+  },
+  {
+   "id": 22,
+   "en": "Also true. We saw how it affected\nFaulkner, how it twisted his mind\nand his soul.",
+   "ru": "Тоже верно. Мы видели, как она\nподействовала на Фолкнера, как\nисказила его разум и душу."
+  },
+  {
+   "id": 23,
+   "en": "I'm ready for a journey, Cecilia.",
+   "ru": "Я готов к путешествию, Сесилия."
+  },
+  {
+   "id": 24,
+   "en": "Not as the Prince of the Kingdom,\nbut as a young man with his true\nlove at his side.",
+   "ru": "Не как принц Королевства, а как\nюноша, рядом с которым его\nнастоящая любовь."
+  },
+  {
+   "id": 25,
+   "en": "Will you come with me?",
+   "ru": "Поедешь со мной?"
+  },
+  {
+   "id": 26,
+   "en": "Of course, Bastion.",
+   "ru": "Конечно, Бастион."
+  },
+  {
+   "id": 27,
+   "en": "I love you with all my heart. I want\nto be with you, now and forever.",
+   "ru": "Я люблю тебя всем сердцем. Хочу\nбыть с тобой - сейчас и всегда."
+  },
+  {
+   "id": 28,
+   "en": "And I with you, Cecilia.",
+   "ru": "И я с тобой, Сесилия."
+  },
+  {
+   "id": 29,
+   "en": "Have you any idea where you would\nlike to go first?",
+   "ru": "Ты знаешь, куда хочешь\nотправиться сначала?"
+  },
+  {
+   "id": 30,
+   "en": "I've always wanted to walk along\nthe beaches of the Empire and feel\nthe sand between my toes.",
+   "ru": "Я всегда мечтала пройтись по\nпляжам Империи, чувствуя песок\nмежду пальцами."
+  },
+  {
+   "id": 31,
+   "en": "By the way...",
+   "ru": "Кстати..."
+  },
+  {
+   "id": 32,
+   "en": "...may I ask you something?",
+   "ru": "...можно тебя кое о чём спросить?"
+  },
+  {
+   "id": 33,
+   "en": "What is it?",
+   "ru": "Что такое?"
+  },
+  {
+   "id": 34,
+   "en": "I don't quite know how to say this.",
+   "ru": "Даже не знаю, как сказать."
+  },
+  {
+   "id": 35,
+   "en": "It's alright, Bastion. Just say it.",
+   "ru": "Ничего, Бастион. Просто скажи."
+  },
+  {
+   "id": 36,
+   "en": "How long are you going to keep\nwearing that maid's uniform?",
+   "ru": "Долго ещё ты будешь носить эту\nформу горничной?"
+  },
+  {
+   "id": 37,
+   "en": "Oh, this?",
+   "ru": "Ах, это?"
+  },
+  {
+   "id": 38,
+   "en": "I don't know yet. I didn't like it at\nfirst, but I've learned to enjoy it!\nIt makes me feel a bit naughty!",
+   "ru": "Ещё не знаю. Сперва она мне не\nнравилась, но теперь даже по\nдуше! Я в ней немножко озорная!"
+  },
+  {
+   "id": 39,
+   "en": "What's wrong? Don't you like it?",
+   "ru": "Что такое? Тебе не нравится?"
+  },
+  {
+   "id": 40,
+   "en": "It's just not what I would call an\nespecially practical outfit for the\ntravels ahead of us.",
+   "ru": "Просто для предстоящих\nстранствий это не самый\nпрактичный наряд."
+  },
+  {
+   "id": 41,
+   "en": "Oh, but it is, Bastion! It's very light\nmaterial, and there are at least six\nlarge pockets--",
+   "ru": "Ещё какой практичный, Бастион!\nТкань лёгкая, и в ней не меньше\nшести больших карманов--"
+  },
+  {
+   "id": 42,
+   "en": "But you're not a maid, Cecilia!",
+   "ru": "Но ты же не горничная, Сесилия!"
+  },
+  {
+   "id": 43,
+   "en": "Bastion, I consider this the most\ncomfortable outfit I've ever worn!",
+   "ru": "Бастион, это самый удобный\nнаряд, что я когда-либо носила!"
+  },
+  {
+   "id": 44,
+   "en": "You don't like it, do you?!",
+   "ru": "Тебе он не нравится, да?!"
+  },
+  {
+   "id": 45,
+   "en": "Your voice is taking on an unusually\nhigh pitch.",
+   "ru": "У тебя голос стал непривычно\nвысоким."
+  },
+  {
+   "id": 46,
+   "en": "But--",
+   "ru": "Но--"
+  },
+  {
+   "id": 47,
+   "en": "No, Cecilia.",
+   "ru": "Нет, Сесилия."
+  },
+  {
+   "id": 48,
+   "en": "Are you sure?",
+   "ru": "Ты уверен?"
+  },
+  {
+   "id": 49,
+   "en": "Yes.",
+   "ru": "Да."
+  },
+  {
+   "id": 50,
+   "en": "Please?",
+   "ru": "Ну пожалуйста?"
+  },
+  {
+   "id": 51,
+   "en": "No!",
+   "ru": "Нет!"
+  },
+  {
+   "id": 52,
+   "en": "Pretty please?",
+   "ru": "Ну пожалуйста-пожалуйста?"
+  },
+  {
+   "id": 53,
+   "en": "Let's be reasonable about this...",
+   "ru": "Давай будем благоразумны..."
+  }
+ ]
+}

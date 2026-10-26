@@ -1,0 +1,26 @@
+{
+ "file": 624,
+ "kind": "story",
+ "lines": [
+  {
+   "id": 0,
+   "en": "Sadira, there's an ATAC straight\nahead of us! Check your scanners!",
+   "ru": "Садира, прямо по курсу АТАК!\nГлянь на сканеры!"
+  },
+  {
+   "id": 1,
+   "en": "Are we being ambushed? Are they\nfriendly?!",
+   "ru": "Это засада? Или друзья?!"
+  },
+  {
+   "id": 2,
+   "en": "Do we at least know what type of\nATAC it is?",
+   "ru": "Хоть тип АТАКа мы знаем?"
+  },
+  {
+   "id": 3,
+   "en": "Sorry, Sadira, but I don't recognize\nits radar signature! We won't know\nwhat it is 'til we see it!",
+   "ru": "Прости, Садира, я не узнаю этот\nсигнал! Пока не увидим, не\nпоймём!"
+  }
+ ]
+}

@@ -1,0 +1,346 @@
+{
+ "file": 399,
+ "kind": "quip",
+ "lines": [
+  {
+   "id": 0,
+   "en": "From the left?!",
+   "ru": "Слева?!"
+  },
+  {
+   "id": 1,
+   "en": "Come here, fool!",
+   "ru": "Иди сюда, глупец!"
+  },
+  {
+   "id": 2,
+   "en": "From the right?!",
+   "ru": "Справа?!"
+  },
+  {
+   "id": 3,
+   "en": "Get over here!",
+   "ru": "Иди сюда!"
+  },
+  {
+   "id": 4,
+   "en": "Unnngh!",
+   "ru": "Н-н-нгх!"
+  },
+  {
+   "id": 5,
+   "en": "Kuuuuh!",
+   "ru": "Кху-у-ух!"
+  },
+  {
+   "id": 6,
+   "en": "That was nothing!",
+   "ru": "Пустяки!"
+  },
+  {
+   "id": 7,
+   "en": "You can't win with\nsuch futility!",
+   "ru": "Так тебе не\nпобедить!"
+  },
+  {
+   "id": 8,
+   "en": "UNNNGH!",
+   "ru": "Н-Н-НГХ!"
+  },
+  {
+   "id": 9,
+   "en": "You're good, aren't you?",
+   "ru": "А ты хорош, да?"
+  },
+  {
+   "id": 10,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 11,
+   "en": "Noooo!",
+   "ru": "Не-е-ет!"
+  },
+  {
+   "id": 12,
+   "en": "NOOOOO!!",
+   "ru": "НЕ-Е-ЕТ!!"
+  },
+  {
+   "id": 13,
+   "en": "You're very good,\naren't you?",
+   "ru": "А ты очень хорош,\nда?"
+  },
+  {
+   "id": 14,
+   "en": "You're superb!",
+   "ru": "Превосходно!"
+  },
+  {
+   "id": 15,
+   "en": "UWAHHH!!",
+   "ru": "У-ВА-А-А!!"
+  },
+  {
+   "id": 16,
+   "en": "GWWAAHHHH!!",
+   "ru": "ГВА-А-А-А!!"
+  },
+  {
+   "id": 17,
+   "en": "I don't deserve to\ncommand this ATAC!",
+   "ru": "Не достоин я\nэтого АТАКа!"
+  },
+  {
+   "id": 18,
+   "en": "My defeat will not\nharm the Empire!",
+   "ru": "Империя не\nпострадает!"
+  },
+  {
+   "id": 19,
+   "en": "AAAAARRGH!!",
+   "ru": "А-А-А-РГХ!!"
+  },
+  {
+   "id": 20,
+   "en": "From behind?!",
+   "ru": "Сзади?!"
+  },
+  {
+   "id": 21,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 22,
+   "en": "That was weak!",
+   "ru": "Слабо!"
+  },
+  {
+   "id": 23,
+   "en": "That was sad!",
+   "ru": "Жалко!"
+  },
+  {
+   "id": 24,
+   "en": "That was foolish!",
+   "ru": "Глупо!"
+  },
+  {
+   "id": 25,
+   "en": "That was idiotic!",
+   "ru": "Идиотски!"
+  },
+  {
+   "id": 26,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 27,
+   "en": "Not bad!",
+   "ru": "Неплохо!"
+  },
+  {
+   "id": 28,
+   "en": "Very good!",
+   "ru": "Очень хорошо!"
+  },
+  {
+   "id": 29,
+   "en": "Damn!",
+   "ru": "Проклятье!"
+  },
+  {
+   "id": 30,
+   "en": "This battle is far\nfrom over!",
+   "ru": "Битва далеко не\nокончена!"
+  },
+  {
+   "id": 31,
+   "en": "I refuse to fall!",
+   "ru": "Я отказываюсь\nпадать!"
+  },
+  {
+   "id": 32,
+   "en": "Noooo!!",
+   "ru": "Не-е-ет!!"
+  },
+  {
+   "id": 33,
+   "en": "Uhhhh!!",
+   "ru": "У-у-ух!!"
+  },
+  {
+   "id": 34,
+   "en": "You're doomed!",
+   "ru": "Ты обречён!"
+  },
+  {
+   "id": 35,
+   "en": "You're stupid!",
+   "ru": "Ты тупой!"
+  },
+  {
+   "id": 36,
+   "en": "Unnngh!",
+   "ru": "Н-н-нгх!"
+  },
+  {
+   "id": 37,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 38,
+   "en": "No, no, no.",
+   "ru": "Нет, нет, нет."
+  },
+  {
+   "id": 39,
+   "en": "No, no, no!",
+   "ru": "Нет, нет, нет!"
+  },
+  {
+   "id": 40,
+   "en": "Three cheers for\nHis Majesty!",
+   "ru": "Слава Его\nВеличеству!"
+  },
+  {
+   "id": 41,
+   "en": "Only fools oppose\nthe Empire!",
+   "ru": "Только глупцы идут\nпротив Империи!"
+  },
+  {
+   "id": 42,
+   "en": "Everything for\nthe Empire!",
+   "ru": "Всё для Империи!"
+  },
+  {
+   "id": 43,
+   "en": "This victory is\nfor His Majesty!",
+   "ru": "Эта победа — для\nЕго Величества!"
+  },
+  {
+   "id": 44,
+   "en": "Oooof!",
+   "ru": "Ух!"
+  },
+  {
+   "id": 45,
+   "en": "Noooo!",
+   "ru": "Не-е-ет!"
+  },
+  {
+   "id": 46,
+   "en": "Prepare for the\ntaste of defeat!",
+   "ru": "Вкуси поражение!"
+  },
+  {
+   "id": 47,
+   "en": "Unnngh!",
+   "ru": "Н-н-нгх!"
+  },
+  {
+   "id": 48,
+   "en": "Nooooo!",
+   "ru": "Не-е-е-ет!"
+  },
+  {
+   "id": 49,
+   "en": "Prepare to lose!",
+   "ru": "Готовься проиграть!"
+  },
+  {
+   "id": 50,
+   "en": "You will move out\nof my way!",
+   "ru": "Уйди с моей дороги!"
+  },
+  {
+   "id": 51,
+   "en": "For the glory of\nHis Majesty!",
+   "ru": "Во славу Его\nВеличества!"
+  },
+  {
+   "id": 52,
+   "en": "I won't forgive the\nEmpire's enemies!",
+   "ru": "Врагам Империи нет\nпрощения!"
+  },
+  {
+   "id": 53,
+   "en": "Haaah!!",
+   "ru": "Ха-а!!"
+  },
+  {
+   "id": 54,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 55,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 56,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 57,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 58,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 59,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 60,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 61,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 62,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 63,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 64,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 65,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 66,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 67,
+   "en": "",
+   "ru": ""
+  }
+ ]
+}

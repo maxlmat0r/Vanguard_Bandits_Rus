@@ -1,0 +1,551 @@
+{
+ "file": 558,
+ "kind": "story",
+ "lines": [
+  {
+   "id": 0,
+   "en": "What are you going to do, Bastion?",
+   "ru": "Что ты будешь делать, Бастион?"
+  },
+  {
+   "id": 1,
+   "en": "I'm not entirely sure, Cecilia--and\nthe more I think about it, the less\nable I am to make a decision.",
+   "ru": "Не знаю, Сесилия. Чем больше\nдумаю, тем труднее решиться."
+  },
+  {
+   "id": 2,
+   "en": "But I will have to decide, and soon.",
+   "ru": "Но решать придётся, и скоро."
+  },
+  {
+   "id": 3,
+   "en": "Cecilia...",
+   "ru": "Сесилия..."
+  },
+  {
+   "id": 4,
+   "en": "May I ask you something?",
+   "ru": "Можно тебя спросить?"
+  },
+  {
+   "id": 5,
+   "en": "No.",
+   "ru": "Нет."
+  },
+  {
+   "id": 6,
+   "en": "But I haven't said anything yet!",
+   "ru": "Но я же ещё ничего не сказала!"
+  },
+  {
+   "id": 7,
+   "en": "And that's the way I like it.",
+   "ru": "Мне так больше нравится."
+  },
+  {
+   "id": 8,
+   "en": "I was hoping that you might be able\nto give me any advice you may have,\nor at least listen to my rambling.",
+   "ru": "Я надеялся, ты дашь мне совет\nили хотя бы выслушаешь мои\nбредни."
+  },
+  {
+   "id": 9,
+   "en": "I'll listen to you, Bastion, but only if\nyou listen to me first. Fair enough?",
+   "ru": "Я выслушаю тебя, Бастион, но\nтолько если сначала ты\nвыслушаешь меня. Договорились?"
+  },
+  {
+   "id": 10,
+   "en": "I'm not quite as silly as I pretend to\nbe, and I think you've already begun\nto realize that, haven't you?",
+   "ru": "Я не такая глупенькая, какой\nпритворяюсь, и ты, кажется, уже\nначал это понимать, да?"
+  },
+  {
+   "id": 11,
+   "en": "I can't deny it. You've acted strangely\non several occasions that I've noticed.",
+   "ru": "Не стану отрицать. Пару раз ты\nвела себя странно."
+  },
+  {
+   "id": 12,
+   "en": "Everyone else keeps underestimating\nme, which is exactly what I want.",
+   "ru": "Все меня недооценивают, а мне\nтолько того и надо."
+  },
+  {
+   "id": 13,
+   "en": "But why do you want Sadira and\nthe others to underestimate you?\nYou work for them, after all!",
+   "ru": "Но зачем тебе, чтобы Садира и\nостальные тебя недооценивали?\nТы ведь работаешь на них!"
+  },
+  {
+   "id": 14,
+   "en": "No, Bastion, I don't.",
+   "ru": "Нет, Бастион, не работаю."
+  },
+  {
+   "id": 15,
+   "en": "I don't understand.",
+   "ru": "Не понимаю."
+  },
+  {
+   "id": 16,
+   "en": "I'm a mercenary, Bastion. I work\nonly for myself. I serve whomever\npays me the most money.",
+   "ru": "Я наёмница, Бастион. Я работаю\nтолько на себя. Служу тому, кто\nбольше платит."
+  },
+  {
+   "id": 17,
+   "en": "And that would be Princess Sadira,\nwouldn't it?",
+   "ru": "То есть принцессе Садире, верно?"
+  },
+  {
+   "id": 18,
+   "en": "Try again, Bastion.",
+   "ru": "Попробуй ещё раз, Бастион."
+  },
+  {
+   "id": 19,
+   "en": "You mean...",
+   "ru": "Ты хочешь сказать..."
+  },
+  {
+   "id": 20,
+   "en": "No!",
+   "ru": "Нет!"
+  },
+  {
+   "id": 21,
+   "en": "Yes, Bastion. I began working for\nSadira because someone else paid\nme to take the job.",
+   "ru": "Да, Бастион. Я пошла служить\nСадире, потому что мне за это\nзаплатил кое-кто другой."
+  },
+  {
+   "id": 22,
+   "en": "And now you know my secret.",
+   "ru": "Теперь ты знаешь мою тайну."
+  },
+  {
+   "id": 23,
+   "en": "Cecilia, I can't believe this! I can't\nbelieve that you're a...a...",
+   "ru": "Сесилия, не могу поверить! Не\nмогу поверить, что ты... ты..."
+  },
+  {
+   "id": 24,
+   "en": "A spy? It's true!",
+   "ru": "Шпионка? Так и есть!"
+  },
+  {
+   "id": 25,
+   "en": "{02}I'm going to tell Sadira the truth!{00}{00}I'll keep your secret...for now.{00}",
+   "ru": "{02}Я расскажу Садире правду!{00}{00}Я сохраню твою тайну... пока.{00}"
+  },
+  {
+   "id": 26,
+   "en": "Do you really think I'm going to keep\na secret like that, Cecilia?! You might\nbe a traitor, but I'm certainly not!",
+   "ru": "Думаешь, я стану хранить такую\nтайну, Сесилия?! Может, ты и\nпредательница, но я - нет!"
+  },
+  {
+   "id": 27,
+   "en": "I'm going to tell Sadira everything!",
+   "ru": "Я всё расскажу Садире!"
+  },
+  {
+   "id": 28,
+   "en": "Even though you have no proof?",
+   "ru": "Даже без доказательств?"
+  },
+  {
+   "id": 29,
+   "en": "I don't need any proof! It's my word\nagainst yours!",
+   "ru": "Мне не нужны доказательства!\nМоё слово против твоего!"
+  },
+  {
+   "id": 30,
+   "en": "And who will she believe, Bastion?\nHer faithful ninja maid, or a boy\nshe fancies but barely knows?",
+   "ru": "И кому она поверит? Верной\nгорничной-ниндзя или\nмальчику, по которому сохнет?"
+  },
+  {
+   "id": 31,
+   "en": "Don't tell her, Bastion. I don't want\nto cause any trouble. I just wanted\nyou to know.",
+   "ru": "Не говори ей, Бастион. Я не хочу\nнеприятностей. Я просто хотела,\nчтобы ты знал."
+  },
+  {
+   "id": 32,
+   "en": "But WHY, Cecilia? Why give me such\na burden and then expect me to carry\nit without complaint?!",
+   "ru": "Но ЗАЧЕМ, Сесилия? Зачем\nвзваливать на меня такой груз и\nждать, что я понесу его молча?!"
+  },
+  {
+   "id": 33,
+   "en": "I...I don't know, Bastion. Because I'm\ntired of carrying that burden myself,\nI suppose.",
+   "ru": "Я... не знаю, Бастион. Наверное,\nпотому что устала нести этот\nгруз одна."
+  },
+  {
+   "id": 34,
+   "en": "Because I felt I could trust you.",
+   "ru": "Потому что почувствовала, что\nтебе можно доверять."
+  },
+  {
+   "id": 35,
+   "en": "Because I need to start telling the\ntruth before I forget how.",
+   "ru": "Потому что мне пора начать\nговорить правду, пока я не\nзабыла, как это делается."
+  },
+  {
+   "id": 36,
+   "en": "Cecilia...",
+   "ru": "Сесилия..."
+  },
+  {
+   "id": 37,
+   "en": "I'll keep your secret...for now. But I\ndon't understand why you're telling\nme this in the first place.",
+   "ru": "Я сохраню твою тайну... пока. Но\nне понимаю, зачем ты вообще\nмне это рассказала."
+  },
+  {
+   "id": 38,
+   "en": "Aren't you afraid that I'm going to\ntell Sadira?",
+   "ru": "Ты не боишься, что я расскажу\nСадире?"
+  },
+  {
+   "id": 39,
+   "en": "But you won't tell her, will you?",
+   "ru": "Но ты ведь не расскажешь,\nправда?"
+  },
+  {
+   "id": 40,
+   "en": "No.",
+   "ru": "Нет."
+  },
+  {
+   "id": 41,
+   "en": "I knew you wouldn't, Bastion. And I...",
+   "ru": "Я знала, что не расскажешь,\nБастион. И я..."
+  },
+  {
+   "id": 42,
+   "en": "You what?",
+   "ru": "Ты что?"
+  },
+  {
+   "id": 43,
+   "en": "I didn't want to lie to you anymore.",
+   "ru": "Я не хотела больше тебе лгать."
+  },
+  {
+   "id": 44,
+   "en": "I'm glad.",
+   "ru": "Я рад."
+  },
+  {
+   "id": 45,
+   "en": "I need someone to know who I am.\nWho I really am.",
+   "ru": "Мне нужно, чтобы кто-то знал,\nкто я. Кто я на самом деле."
+  },
+  {
+   "id": 46,
+   "en": "I don't understand.",
+   "ru": "Не понимаю."
+  },
+  {
+   "id": 47,
+   "en": "I'm a mercenary, Bastion. Secrets and\nlies are my business, and my life.",
+   "ru": "Я наёмница, Бастион. Тайны и\nложь - моя работа и моя жизнь."
+  },
+  {
+   "id": 48,
+   "en": "I've been doing this for so long now\nthat I'm starting to confuse the lies\nand the truth.",
+   "ru": "Я занимаюсь этим так долго,\nчто начинаю путать ложь с\nправдой."
+  },
+  {
+   "id": 49,
+   "en": "There are times when I can barely\nremember the REAL me.",
+   "ru": "Бывает, я едва помню\nНАСТОЯЩУЮ себя."
+  },
+  {
+   "id": 50,
+   "en": "Do you know how frightening it is to\nforget who you are, Bastion? To lose\nthe grip on your soul?",
+   "ru": "Знаешь, как страшно забыть, кто\nты, Бастион? Потерять власть\nнад собственной душой?"
+  },
+  {
+   "id": 51,
+   "en": "As long as one person knows who I\nreally am, I can maintain that grip.\nAt least, that's what I'm hoping.",
+   "ru": "Пока хоть один человек знает,\nкто я на самом деле, я держусь.\nНадеюсь."
+  },
+  {
+   "id": 52,
+   "en": "And I want that person to be you.",
+   "ru": "И я хочу, чтобы этим человеком\nбыл ты."
+  },
+  {
+   "id": 53,
+   "en": "...   ...   ...",
+   "ru": ""
+  },
+  {
+   "id": 54,
+   "en": "You must be shocked by all this, and\nI'm sorry. I just somehow knew that I\ncould trust you.",
+   "ru": "Ты, наверное, потрясён, и прости\nменя. Я просто почему-то знала,\nчто тебе можно доверять."
+  },
+  {
+   "id": 55,
+   "en": "I'm hoping that you and Sadira can\nend this war, even if that means I'll\nneed to find a new path in life.",
+   "ru": "Надеюсь, вы с Садирой закончите\nвойну, даже если мне придётся\nискать новый путь."
+  },
+  {
+   "id": 56,
+   "en": "Because I don't like the path I'm on\nright now, Bastion. It leads to hatred\nand darkness.",
+   "ru": "Потому что мне не нравится\nпуть, по которому я иду, Бастион.\nОн ведёт к ненависти и тьме."
+  },
+  {
+   "id": 57,
+   "en": "Have you anything to say, Bastion?",
+   "ru": "Тебе нечего сказать, Бастион?"
+  },
+  {
+   "id": 58,
+   "en": "I'm still a bit shocked by all of this,\nCecilia. You've gone several minutes\nnow without giggling!",
+   "ru": "Я всё ещё немного потрясён,\nСесилия. Ты уже несколько минут\nни разу не хихикнула!"
+  },
+  {
+   "id": 59,
+   "en": "Ha-ha! I wish I could say that was\npart of the act, but it's really just a\nnervous habit of mine!",
+   "ru": "Ха-ха! Хотела бы я сказать, что\nэто часть роли, но это просто\nнервная привычка!"
+  },
+  {
+   "id": 60,
+   "en": "I like it when you laugh, Cecilia, and\nI really like it when you smile.",
+   "ru": "Мне нравится, когда ты\nсмеёшься, Сесилия, и очень\nнравится, когда улыбаешься."
+  },
+  {
+   "id": 61,
+   "en": "I promise that you won't have to live\nthese lies much longer, Cecilia.",
+   "ru": "Обещаю, тебе недолго осталось\nжить во лжи, Сесилия."
+  },
+  {
+   "id": 62,
+   "en": "I'll hold you to that, Bastion!",
+   "ru": "Ловлю тебя на слове, Бастион!"
+  },
+  {
+   "id": 63,
+   "en": "Oh...Bastion! Cecilia!",
+   "ru": "Ой... Бастион! Сесилия!"
+  },
+  {
+   "id": 64,
+   "en": "What's the matter, Sadira? You look\nsurprised, and a little sad.",
+   "ru": "Что случилось, Садира? Ты\nвыглядишь удивлённой и\nнемного грустной."
+  },
+  {
+   "id": 65,
+   "en": "Nothing, Bastion! Nothing at all! I'll\nsee you two later, alright? Alright!\nGoodbye--",
+   "ru": "Ничего, Бастион! Совсем ничего!\nУвидимся позже, ладно? Ладно!\nПока--"
+  },
+  {
+   "id": 66,
+   "en": "Like, aren't we having a meeting in\nhere or something, Sadira?",
+   "ru": "Типа, у нас тут разве не\nсовещание или как, Садира?"
+  },
+  {
+   "id": 67,
+   "en": "Oh, uh, yes, that's right.",
+   "ru": "Ой, э-э, да, верно."
+  },
+  {
+   "id": 68,
+   "en": "Are you totally spacing, or...oh!",
+   "ru": "Ты что, реально витаешь в\nоблаках или... ой!"
+  },
+  {
+   "id": 69,
+   "en": "You're JEALOUS! How CUTE!",
+   "ru": "Ты РЕВНУЕШЬ! Как МИЛО!"
+  },
+  {
+   "id": 70,
+   "en": "Sadira and Bastion, sitting in a tree...",
+   "ru": "Тили-тили-тесто, Садира и\nБастион - жених и невеста..."
+  },
+  {
+   "id": 71,
+   "en": "If you don't shut up RIGHT NOW, I'm\ngoing to--",
+   "ru": "Если ты СЕЙЧАС ЖЕ не\nзаткнёшься, я--"
+  },
+  {
+   "id": 72,
+   "en": "Princess Sadira! What is the matter?\nWere you screaming at someone?",
+   "ru": "Принцесса Садира! Что\nслучилось? Вы на кого-то\nкричали?"
+  },
+  {
+   "id": 73,
+   "en": "Perhaps we should postpone the\nmeeting until later this evening.",
+   "ru": "Может, перенести совещание на\nвечер?"
+  },
+  {
+   "id": 74,
+   "en": "No, Franco, it's fine. I'd rather just\nget it over with!",
+   "ru": "Нет, Франко, всё в порядке. Лучше\nпокончим с этим поскорее!"
+  },
+  {
+   "id": 75,
+   "en": "Go ahead, General Thomson.",
+   "ru": "Говорите, генерал Томсон."
+  },
+  {
+   "id": 76,
+   "en": "Thank you, Princess Sadira.",
+   "ru": "Благодарю, принцесса Садира."
+  },
+  {
+   "id": 77,
+   "en": "Your Highness, have you ever heard\nof an ATAC called Ultragunner,\nalso known as the Royal ATAC?",
+   "ru": "Ваше Высочество, вы слышали об\nАТАКе Ультраганнер, который\nещё зовут Королевским АТАКом?"
+  },
+  {
+   "id": 78,
+   "en": "Father spoke of it a few times, but\nnever for long. He told me it was the\nmost powerful ATAC of all...",
+   "ru": "Отец пару раз говорил о нём, но\nмельком. Он сказал, что это\nсильнейший из АТАКов..."
+  },
+  {
+   "id": 79,
+   "en": "...and that it had been hidden away\nmany years ago because its power\nwas essentially beyond control.",
+   "ru": "...и что его спрятали много лет\nназад, потому что его силой\nпочти невозможно управлять."
+  },
+  {
+   "id": 80,
+   "en": "That is true. But did he tell you that\nits power COULD be controlled by one\nspecial individual?",
+   "ru": "Верно. Но говорил ли он, что\nуправлять этой силой МОЖЕТ\nодин особый человек?"
+  },
+  {
+   "id": 81,
+   "en": "Are you, like, implying what I think\nyou are?",
+   "ru": "Вы, типа, намекаете на то, о чём\nя думаю?"
+  },
+  {
+   "id": 82,
+   "en": "Your Highness, you are that person.\nYou were born with the gift. You can\nharness Ultragunner's power.",
+   "ru": "Этот человек - вы, Высочество.\nВы рождены с даром обуздать\nсилу Ультраганнера."
+  },
+  {
+   "id": 83,
+   "en": "Can I?",
+   "ru": "Могу?"
+  },
+  {
+   "id": 84,
+   "en": "You don't seem very surprised by\nthis news, Bastion!",
+   "ru": "Тебя это, похоже, не очень\nудивило, Бастион!"
+  },
+  {
+   "id": 85,
+   "en": "After all the revelations I've received\nin the recent past, Sadira, I've grown\nweary of surprises.",
+   "ru": "После всех недавних откровений,\nСадира, я устал удивляться."
+  },
+  {
+   "id": 86,
+   "en": "Oh.",
+   "ru": "Ох."
+  },
+  {
+   "id": 87,
+   "en": "Shortly before the Empire...acquired\nmy services, I found out Ultragunner\nis within the Merania Temple.",
+   "ru": "Незадолго до того, как Империя...\nнаняла меня, я узнал, что\nУльтраганнер в храме Мерании."
+  },
+  {
+   "id": 88,
+   "en": "It is driven by a stone named Gratia,\nwhich is possessed by Marquis\nDionne, the leader of Dionne-Lehve.",
+   "ru": "Его питает камень Гратия, что\nхранится у маркиза Дионна,\nправителя Дионн-Леве."
+  },
+  {
+   "id": 89,
+   "en": "So we need to retrieve Gratia before\nI can revive the Ultragunner.",
+   "ru": "Значит, чтобы пробудить\nУльтраганнер, нужно сначала\nдобыть Гратию."
+  },
+  {
+   "id": 90,
+   "en": "And once Ultragunner is revived, the\nworld will know that Your Highness\nis alive and well!",
+   "ru": "А когда Ультраганнер\nпробудится, мир узнает, что\nпринц жив и здоров!"
+  },
+  {
+   "id": 91,
+   "en": "The Kingdom Army will rally around\nyou...neutral countries will ally with\nyou...and the Empire will fall.",
+   "ru": "Армия Королевства сплотится\nвокруг вас, нейтральные страны\nпримкнут... и Империя падёт."
+  },
+  {
+   "id": 92,
+   "en": "Faulkner's reign of terror will be\nended at last, Your Highness. What\na glorious day that will be.",
+   "ru": "Террору Фолкнера наконец придёт\nконец, Высочество. Какой это\nбудет славный день."
+  },
+  {
+   "id": 93,
+   "en": "Thomson, I will be honest with you.\nI don't feel any particular desire to\nrestore the Kingdom to greatness.",
+   "ru": "Томсон, буду честен. Мне не\nособенно хочется возвращать\nКоролевству величие."
+  },
+  {
+   "id": 94,
+   "en": "Your Highness!! It is your birthright\nto lead the Kingdom, and you would\nsimply discard that privilege?!",
+   "ru": "Высочество!! Править\nКоролевством - ваше право по\nрождению, а вы его отбросите?!"
+  },
+  {
+   "id": 95,
+   "en": "You call it a birthright, Thomson,\nbut it merely sounds like a terrible\nburden to my ears.",
+   "ru": "Ты зовёшь это правом по\nрождению, Томсон, а для меня\nэто звучит как тяжкое бремя."
+  },
+  {
+   "id": 96,
+   "en": "All I want to focus my energies upon\nfor now is acquiring Ultragunner.",
+   "ru": "Пока я хочу сосредоточиться\nлишь на том, чтобы добыть\nУльтраганнер."
+  },
+  {
+   "id": 97,
+   "en": "I will indeed use its power, but not\nfor something so foolish as restoring\nlost glory to the fallen Kingdom.",
+   "ru": "Я использую его силу, но не ради\nтакой глупости, как былая слава\nпавшего Королевства."
+  },
+  {
+   "id": 98,
+   "en": "Then how will you use your power?",
+   "ru": "Тогда как вы используете свою\nсилу?"
+  },
+  {
+   "id": 99,
+   "en": "I will use it to bring a swift end to\nthis horrific war, of course. I will\nexecute the murderers.",
+   "ru": "Конечно, чтобы поскорее\nзакончить эту ужасную войну. Я\nказню убийц."
+  },
+  {
+   "id": 100,
+   "en": "If that is what you truly desire,\nYour Highness...",
+   "ru": "Если таково ваше истинное\nжелание, Ваше Высочество..."
+  },
+  {
+   "id": 101,
+   "en": "...I have no choice but to help you in\nany way that I can.",
+   "ru": "...мне остаётся лишь помогать\nвам всем, чем смогу."
+  },
+  {
+   "id": 102,
+   "en": "But how much assistance can you\ngive me without revealing your true\nloyalties, Thomson?",
+   "ru": "Но сколько ты сможешь помочь,\nне выдав, на чьей ты стороне,\nТомсон?"
+  },
+  {
+   "id": 103,
+   "en": "I would never endanger your safety,\nYour Highness. I will take great care\naround Faulkner.",
+   "ru": "Я никогда не подвергну вас\nопасности, Высочество. С\nФолкнером я буду осторожен."
+  },
+  {
+   "id": 104,
+   "en": "Even if he were to suspect something,\nI would sooner die than allow him to\ncoerce me into a confession.",
+   "ru": "Даже если он что-то заподозрит,\nя скорее умру, чем позволю\nвырвать у меня признание."
+  },
+  {
+   "id": 105,
+   "en": "It won't come to that, Thomson. I\ntrust you to be careful.",
+   "ru": "До этого не дойдёт, Томсон. Я\nверю, что ты будешь осторожен."
+  },
+  {
+   "id": 106,
+   "en": "Thank you, Your Highness. Unless\nyou have other ideas, I suggest we\ntravel to Dionne-Lehve.",
+   "ru": "Благодарю, Высочество. Если нет\nдругих мыслей, предлагаю ехать\nв Дионн-Леве."
+  },
+  {
+   "id": 107,
+   "en": "There, we can meet with the Marquis\nand obtain Gratia.",
+   "ru": "Там мы встретимся с маркизом и\nполучим Гратию."
+  },
+  {
+   "id": 108,
+   "en": "Let's go!",
+   "ru": "Вперёд!"
+  }
+ ]
+}

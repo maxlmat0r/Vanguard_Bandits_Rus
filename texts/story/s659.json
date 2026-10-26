@@ -1,0 +1,21 @@
+{
+ "file": 659,
+ "kind": "story",
+ "lines": [
+  {
+   "id": 0,
+   "en": "The Imperial Army has us completely\nsurrounded! Not good!",
+   "ru": "Имперская армия нас полностью\nокружила! Плохо дело!"
+  },
+  {
+   "id": 1,
+   "en": "I care not if they send one soldier or\na thousand to attack! We will defeat\nthem all!",
+   "ru": "Мне всё равно, пошлют они\nодного солдата или тысячу! Мы\nпобедим всех!"
+  },
+  {
+   "id": 2,
+   "en": "We will give His Highness all the time\nhe needs to resurrect the power of the\nUltragunner!",
+   "ru": "Мы дадим Его Высочеству время\nпробудить силу Ультраганнера!"
+  }
+ ]
+}

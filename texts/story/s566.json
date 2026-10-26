@@ -1,0 +1,516 @@
+{
+ "file": 566,
+ "kind": "story",
+ "lines": [
+  {
+   "id": 0,
+   "en": "(My father was killed in his sleep...\nbrutally murdered.)",
+   "ru": "(Моего отца убили во сне...\nжестоко убили.)"
+  },
+  {
+   "id": 1,
+   "en": "(And now I am a fugitive from my\nown country, suspected of plotting\nthe crime!)",
+   "ru": "(А теперь я беглянка из\nсобственной страны, которую\nподозревают в этом злодеянии!)"
+  },
+  {
+   "id": 2,
+   "en": "(My brain-dead brother is being\nblatantly manipulated, but is too\ndim to realize it.)",
+   "ru": "(Моим безмозглым братом нагло\nвертят, а он слишком туп, чтобы\nэто понять.)"
+  },
+  {
+   "id": 3,
+   "en": "(And that bastard Faulkner seems to\nhave all but taken over the Empire.)",
+   "ru": "(А этот мерзавец Фолкнер,\nпохоже, почти прибрал Империю\nк рукам.)"
+  },
+  {
+   "id": 4,
+   "en": "(All this has happened despite my\nbest efforts to stop the war. What\na failure I am!)",
+   "ru": "(И всё это несмотря на все мои\nусилия остановить войну. Какая\nже я неудачница!)"
+  },
+  {
+   "id": 5,
+   "en": "(My life is disintegrating before my\neyes, and I am powerless to stop it...)",
+   "ru": "(Моя жизнь рушится на глазах, а\nя ничего не могу поделать...)"
+  },
+  {
+   "id": 6,
+   "en": "Sadira?",
+   "ru": "Садира?"
+  },
+  {
+   "id": 7,
+   "en": "Hello, Bastion. Is everything alright?",
+   "ru": "Привет, Бастион. Всё в порядке?"
+  },
+  {
+   "id": 8,
+   "en": "Of course, Sadira. I only came here to\nspeak with you, if you don't mind.",
+   "ru": "Конечно, Садира. Я просто\nпришёл поговорить с тобой, если\nты не против."
+  },
+  {
+   "id": 9,
+   "en": "Certainly, Bastion. You know how\nmuch I enjoy your company.",
+   "ru": "Конечно, Бастион. Ты знаешь, как\nя люблю твоё общество."
+  },
+  {
+   "id": 10,
+   "en": "I've caused you so much trouble.\nI've even made you an exile from\nyour own nation. I'm so sorry.",
+   "ru": "Я доставил тебе столько бед.\nИз-за меня ты даже стала\nизгнанницей. Мне так жаль."
+  },
+  {
+   "id": 11,
+   "en": "It isn't your fault, Bastion. I believe\nthat Faulkner would have done this\neven if we had never met.",
+   "ru": "Ты не виноват, Бастион. Думаю,\nФолкнер сделал бы это, даже если\nбы мы не встретились."
+  },
+  {
+   "id": 12,
+   "en": "Your presence merely set events into\nmotion sooner than they would have\notherwise occurred.",
+   "ru": "Ты лишь ускорил события,\nкоторые и так бы произошли."
+  },
+  {
+   "id": 13,
+   "en": "I suppose that's true.",
+   "ru": "Пожалуй, это так."
+  },
+  {
+   "id": 14,
+   "en": "Sadira?",
+   "ru": "Садира?"
+  },
+  {
+   "id": 15,
+   "en": "Yes?",
+   "ru": "Да?"
+  },
+  {
+   "id": 16,
+   "en": "I am grateful to you for all the help\nand support you have given me.",
+   "ru": "Я благодарен тебе за всю помощь\nи поддержку."
+  },
+  {
+   "id": 17,
+   "en": "You knew that helping me find the\nUltragunner would be dangerous,\nyet you did it without hesitation.",
+   "ru": "Ты знала, что помогать мне\nискать Ультраганнер опасно, но\nне колебалась ни секунды."
+  },
+  {
+   "id": 18,
+   "en": "I cannot express my thanks to you\nwith mere words, Sadira. If only\nyou could see into my heart...",
+   "ru": "Словами не выразить мою\nблагодарность. Если бы ты\nзаглянула мне в сердце..."
+  },
+  {
+   "id": 19,
+   "en": "(Oh, Bastion, if only you would come\nto me, and take me in your arms, and\nkiss me softly!)",
+   "ru": "(Ох, Бастион, если бы ты\nподошёл, обнял меня и нежно\nпоцеловал!)"
+  },
+  {
+   "id": 20,
+   "en": "I am of the Kingdom. You are of the\nEmpire. Why did you help me when\nI am considered your enemy?",
+   "ru": "Я из Королевства. Ты из Империи.\nПочему ты помогала мне, если я\nсчитаюсь твоим врагом?"
+  },
+  {
+   "id": 21,
+   "en": "Because I lo...er, I mean...I judge each\nperson I meet as an individual, not a\nstereotype.",
+   "ru": "Потому что я люб... э-э, то есть...\nя сужу о каждом человеке по нему\nсамому, а не по ярлыкам."
+  },
+  {
+   "id": 22,
+   "en": "I determined long ago that there are\ngood people, and bad ones, in both\nthe Kingdom and the Empire.",
+   "ru": "Я давно поняла, что хорошие и\nплохие люди есть и в\nКоролевстве, и в Империи."
+  },
+  {
+   "id": 23,
+   "en": "And as for you, Bastion, I've grown\nto trust you more than anyone else\nin my life. You're so...wonderful...",
+   "ru": "А тебе, Бастион, я доверяю\nбольше, чем кому-либо в жизни.\nТы такой... чудесный..."
+  },
+  {
+   "id": 24,
+   "en": "Could you repeat that, Sadira? Your\nvoice trailed off.",
+   "ru": "Повтори, пожалуйста, Садира. Ты\nговорила совсем тихо."
+  },
+  {
+   "id": 25,
+   "en": "(You heard me, Bastion! Now get over\nhere and kiss me, you fool!)",
+   "ru": "(Ты всё слышал, Бастион! Иди\nсюда и поцелуй меня, дурак!)"
+  },
+  {
+   "id": 26,
+   "en": "Sadira?",
+   "ru": "Садира?"
+  },
+  {
+   "id": 27,
+   "en": "What's wrong with you, Bastion?!\nCan't you see how I feel?!",
+   "ru": "Что с тобой, Бастион?! Ты не\nвидишь, что я чувствую?!"
+  },
+  {
+   "id": 28,
+   "en": "What are you angry about, Sadira?!",
+   "ru": "Чего ты злишься, Садира?!"
+  },
+  {
+   "id": 29,
+   "en": "Never mind, Bastion! Just go away\nand leave me alone!",
+   "ru": "Неважно, Бастион! Уходи и оставь\nменя в покое!"
+  },
+  {
+   "id": 30,
+   "en": "{02}Alright, Sadira. Good night.{00}{00}Please tell me what's wrong!{00}",
+   "ru": "{02}Хорошо, Садира. Спокойной ночи.{00}{00}Скажи, что не так!{00}"
+  },
+  {
+   "id": 31,
+   "en": "Alright, Sadira. I'm very sorry if I\nsaid something to offend you.",
+   "ru": "Хорошо, Садира. Прости, если я\nчем-то тебя обидел."
+  },
+  {
+   "id": 32,
+   "en": "Good night.",
+   "ru": "Спокойной ночи."
+  },
+  {
+   "id": 33,
+   "en": "Bastion, wait!",
+   "ru": "Бастион, подожди!"
+  },
+  {
+   "id": 34,
+   "en": "Bastion...",
+   "ru": "Бастион..."
+  },
+  {
+   "id": 35,
+   "en": "(I'm such an idiot.)",
+   "ru": "(Какая же я дура.)"
+  },
+  {
+   "id": 36,
+   "en": "You're SUCH an idiot!",
+   "ru": "Ты ТАКАЯ дура!"
+  },
+  {
+   "id": 37,
+   "en": "It's nice to see you, too, Claire!",
+   "ru": "Я тоже рада тебя видеть, Клэр!"
+  },
+  {
+   "id": 38,
+   "en": "'Go away and leave me alone' isn't\nthe best way to win Bastion's love,\nSadira! Like, call it a hunch!",
+   "ru": "\"Уходи и оставь меня\" - так\nБастиона не завоюешь, Садира!\nТипа, интуиция!"
+  },
+  {
+   "id": 39,
+   "en": "I didn't know what to say, Claire!\nI was flustered, alright?!",
+   "ru": "Я не знала, что сказать, Клэр! Я\nрастерялась, ясно?!"
+  },
+  {
+   "id": 40,
+   "en": "I set up the perfect romantic moment\nfor you, and you blew it!",
+   "ru": "Я устроила тебе идеальный\nромантический момент, а ты его\nзапорола!"
+  },
+  {
+   "id": 41,
+   "en": "Like, have you EVER had a boyfriend,\nSadira? Or are you totally pure?",
+   "ru": "Типа, у тебя ВООБЩЕ был\nкогда-нибудь парень, Садира?\nИли ты совсем невинная?"
+  },
+  {
+   "id": 42,
+   "en": "You...you set this up? How?",
+   "ru": "Ты... ты это подстроила? Как?"
+  },
+  {
+   "id": 43,
+   "en": "I told Bastion that you were bummed\nand that he should cheer you up.",
+   "ru": "Я сказала Бастиону, что ты\nрасстроена и надо тебя\nподбодрить."
+  },
+  {
+   "id": 44,
+   "en": "And then you hid behind the door and\nlistened to our entire conversation?",
+   "ru": "А потом спряталась за дверью и\nподслушала весь наш разговор?"
+  },
+  {
+   "id": 45,
+   "en": "Well, DUH! I wanted to see if Bastion\nwould make the moves or not!",
+   "ru": "Ну, АЛЁ! Я хотела посмотреть,\nрешится Бастион или нет!"
+  },
+  {
+   "id": 46,
+   "en": "What?! Not only are you rude, you're\nan enormous pervert, as well!",
+   "ru": "Что?! Мало того, что ты\nгрубиянка, так ещё и жуткая\nизвращенка!"
+  },
+  {
+   "id": 47,
+   "en": "You're just venting and stuff because\nyou totally screwed up your chances\nwith Bastion!",
+   "ru": "Ты просто срываешься, потому\nчто реально запорола свои шансы\nс Бастионом!"
+  },
+  {
+   "id": 48,
+   "en": "That's not true! I'm venting because\nyou drive me crazy, Claire! You...",
+   "ru": "Неправда! Я срываюсь, потому\nчто ты сводишь меня с ума,\nКлэр! Ты..."
+  },
+  {
+   "id": 49,
+   "en": "You...",
+   "ru": "Ты..."
+  },
+  {
+   "id": 50,
+   "en": "You're right. I'm a total failure\nin the romance department, I'm\nafraid.",
+   "ru": "Ты права. Боюсь, в любви я\nполная неудачница."
+  },
+  {
+   "id": 51,
+   "en": "I'm always right, Sadira. Like, you\nshould have noticed that by now.",
+   "ru": "Я всегда права, Садира. Типа,\nпора бы уже заметить."
+  },
+  {
+   "id": 52,
+   "en": "Why don't we sneak into my daddy's\nliquor cabinet and totally drown our\nsorrows together?",
+   "ru": "Давай проберёмся к папиному\nбару и реально утопим наши\nпечали?"
+  },
+  {
+   "id": 53,
+   "en": "That could be the best idea you've\never had, Claire.",
+   "ru": "Пожалуй, это лучшая твоя идея,\nКлэр."
+  },
+  {
+   "id": 54,
+   "en": "Please tell me what's wrong, Sadira!\nI'm worried about you!",
+   "ru": "Скажи, что не так, Садира! Я за\nтебя волнуюсь!"
+  },
+  {
+   "id": 55,
+   "en": "You're worried about me?",
+   "ru": "Ты за меня волнуешься?"
+  },
+  {
+   "id": 56,
+   "en": "I'm worried you might do something\nfoolish because of all the trouble I've\ncaused you.",
+   "ru": "Боюсь, как бы ты не наделала\nглупостей из-за всех бед, что я\nтебе принёс."
+  },
+  {
+   "id": 57,
+   "en": "I would never harm myself, Bastion.\nI might be depressed, but I am not so\nfoolish as to throw my life away.",
+   "ru": "Я никогда не наврежу себе,\nБастион. Я подавлена, но не\nнастолько глупа."
+  },
+  {
+   "id": 58,
+   "en": "I'm glad to hear that, Sadira.",
+   "ru": "Рад это слышать, Садира."
+  },
+  {
+   "id": 59,
+   "en": "Life is a precious gift, not a burden,\nas some people think it to be.",
+   "ru": "Жизнь - драгоценный дар, а не\nбремя, как думают некоторые."
+  },
+  {
+   "id": 60,
+   "en": "What will you do now, Sadira?",
+   "ru": "Что ты теперь будешь делать,\nСадира?"
+  },
+  {
+   "id": 61,
+   "en": "I don't have many options, frankly.",
+   "ru": "Выбор у меня, честно говоря,\nневелик."
+  },
+  {
+   "id": 62,
+   "en": "I have to make my foolish brother\nsee the truth. I have to put an end\nto Faulkner's evil.",
+   "ru": "Я должна открыть глаза глупому\nбрату. Должна покончить со злом\nФолкнера."
+  },
+  {
+   "id": 63,
+   "en": "And after that?",
+   "ru": "А потом?"
+  },
+  {
+   "id": 64,
+   "en": "You mean, after all this madness\nhas come to an end? The first thing\nI would like to do is...well...",
+   "ru": "То есть когда всё это безумие\nзакончится? Первым делом я бы\nхотела... ну..."
+  },
+  {
+   "id": 65,
+   "en": "I'd like to embark on a well-deserved\nvacation. Just me...and you.",
+   "ru": "Я бы хотела заслуженно\nотдохнуть. Только я... и ты."
+  },
+  {
+   "id": 66,
+   "en": "Excuse me?",
+   "ru": "Прости?"
+  },
+  {
+   "id": 67,
+   "en": "Er...I mean...uh...",
+   "ru": "Э-э... то есть... ну..."
+  },
+  {
+   "id": 68,
+   "en": "Heh, heh, heh. You meant all of us,\ndidn't you? That was a good one,\nSadira. You really had me going!",
+   "ru": "Хе-хе-хе. Ты имела в виду нас\nвсех, да? Хорошая шутка, Садира.\nТы меня почти провела!"
+  },
+  {
+   "id": 69,
+   "en": "No, Bastion! I wasn't joking! I meant\nwhat I said!",
+   "ru": "Нет, Бастион! Я не шутила! Я\nсказала то, что думаю!"
+  },
+  {
+   "id": 70,
+   "en": "Oh.",
+   "ru": "Ох."
+  },
+  {
+   "id": 71,
+   "en": "I didn't mean to embarrass you.",
+   "ru": "Я не хотела тебя смущать."
+  },
+  {
+   "id": 72,
+   "en": "I shouldn't have said anything.",
+   "ru": "Не надо было ничего говорить."
+  },
+  {
+   "id": 73,
+   "en": "I'm so sorry...",
+   "ru": "Прости меня..."
+  },
+  {
+   "id": 74,
+   "en": "Don't be sorry, Sadira. I have the\nsame feelings for you. I just didn't\nhave the bravery to express them.",
+   "ru": "Не извиняйся, Садира. Я\nчувствую то же самое. Просто не\nхватало смелости сказать."
+  },
+  {
+   "id": 75,
+   "en": "And once we've brought this war to\nan end, I would very much like to see\nwhere our hearts take us.",
+   "ru": "И когда мы закончим эту войну,\nя очень хочу узнать, куда\nприведут нас наши сердца."
+  },
+  {
+   "id": 76,
+   "en": "Would you?",
+   "ru": "Правда?"
+  },
+  {
+   "id": 77,
+   "en": "When I started this crusade, it was\nto gain revenge for my father, and to\nbring peace to the Continent.",
+   "ru": "Начиная этот поход, я хотел\nотомстить за отца и принести\nмир Континенту."
+  },
+  {
+   "id": 78,
+   "en": "That has changed, Sadira. I'm still\nfighting for those things...but most\nimportantly, I'm fighting for you.",
+   "ru": "Теперь всё иначе, Садира. Я\nпо-прежнему сражаюсь за это...\nно прежде всего - за тебя."
+  },
+  {
+   "id": 79,
+   "en": "And I am fighting for you, Bastion.\nTogether, we will win.",
+   "ru": "А я сражаюсь за тебя, Бастион.\nВместе мы победим."
+  },
+  {
+   "id": 80,
+   "en": "Good night, Sadira. With any luck, I\nwill dream of you.",
+   "ru": "Спокойной ночи, Садира. Если\nповезёт, ты мне приснишься."
+  },
+  {
+   "id": 81,
+   "en": "Good night, Bastion.",
+   "ru": "Спокойной ночи, Бастион."
+  },
+  {
+   "id": 82,
+   "en": "(Wow!)",
+   "ru": "(Ух ты!)"
+  },
+  {
+   "id": 83,
+   "en": "(I told him how I feel, and he feels\nthe same way! This is wonderful!!)",
+   "ru": "(Я сказала ему, что чувствую, и\nон чувствует то же самое! Как\nчудесно!!)"
+  },
+  {
+   "id": 84,
+   "en": "You GO, girlfriend!",
+   "ru": "Так держать, подруга!"
+  },
+  {
+   "id": 85,
+   "en": "Claire? What are you doing here?\nAnd what do you mean?!",
+   "ru": "Клэр? Что ты здесь делаешь? И\nчто ты имеешь в виду?!"
+  },
+  {
+   "id": 86,
+   "en": "I mean, like, I can't believe that you\nfinally told Bastion that you dig him!",
+   "ru": "Типа, не верится, что ты наконец\nсказала Бастиону, что он тебе\nнравится!"
+  },
+  {
+   "id": 87,
+   "en": "'Let's go on a trip, Bastion! Just me\nand you and my lingerie!' Ha, ha, ha!",
+   "ru": "\"Поехали в путешествие, Бастион!\nТолько ты, я и моё бельё!\"\nХа-ха-ха!"
+  },
+  {
+   "id": 88,
+   "en": "You were totally blatant! I loved it!",
+   "ru": "Ты была реально прямолинейна!\nОбожаю!"
+  },
+  {
+   "id": 89,
+   "en": "So where are you and Bastion going\nto take your 'vacation'?",
+   "ru": "Так куда вы с Бастионом поедете\n\"отдыхать\"?"
+  },
+  {
+   "id": 90,
+   "en": "And why do I have the feeling you\nwon't be getting any rest? Ha, ha, ha!",
+   "ru": "И почему мне кажется, что\nотдохнуть вам не удастся?\nХа-ха-ха!"
+  },
+  {
+   "id": 91,
+   "en": "You hid behind the door and listened\nto our entire conversation?!",
+   "ru": "Ты спряталась за дверью и\nподслушала весь наш разговор?!"
+  },
+  {
+   "id": 92,
+   "en": "Well, DUH! I wanted to see if Bastion\nwould make the moves or not!",
+   "ru": "Ну, АЛЁ! Я хотела посмотреть,\nрешится Бастион или нет!"
+  },
+  {
+   "id": 93,
+   "en": "What?! Not only are you rude, you're\nan enormous pervert, as well!",
+   "ru": "Что?! Мало того, что ты\nгрубиянка, так ещё и жуткая\nизвращенка!"
+  },
+  {
+   "id": 94,
+   "en": "Hey, you should be thanking me! I'm\nthe one who told him that he should\ncome here and cheer you up!",
+   "ru": "Эй, вообще-то спасибо скажи! Это\nя велела ему прийти и\nподбодрить тебя!"
+  },
+  {
+   "id": 95,
+   "en": "But, like, who cares about that?!\nWhat matters is you and Bastion\nare totally a power couple now!",
+   "ru": "Но, типа, какая разница?!\nГлавное, что вы с Бастионом\nтеперь реально звёздная пара!"
+  },
+  {
+   "id": 96,
+   "en": "The Prince and the Princess! It's SO\nromantic and cliched. It's just too\nway perfect...I can't stand it!",
+   "ru": "Принц и принцесса! Это ТАК\nромантично и банально. Это\nслишком идеально... не могу!"
+  },
+  {
+   "id": 97,
+   "en": "Uh, aren't you being a bit hasty,\nClaire? We haven't even kissed yet!",
+   "ru": "Э-э, не торопишься ли ты, Клэр?\nМы ещё даже не целовались!"
+  },
+  {
+   "id": 98,
+   "en": "What if he decides that we should\njust remain friends?",
+   "ru": "А вдруг он решит, что нам лучше\nостаться друзьями?"
+  },
+  {
+   "id": 99,
+   "en": "Like, whatEVER! He's totally yours,\nSadira! Stick a fork in him, 'cause\nhe's done!",
+   "ru": "Да ЛАДНО! Он реально твой,\nСадира! Готовенький!"
+  },
+  {
+   "id": 100,
+   "en": "Now let's go break into my daddy's\nliquor cabinet! It's time to celebrate!",
+   "ru": "А теперь давай вскроем папин\nбар! Пора праздновать!"
+  },
+  {
+   "id": 101,
+   "en": "I don't think that's a very good idea!",
+   "ru": "По-моему, это не лучшая идея!"
+  }
+ ]
+}

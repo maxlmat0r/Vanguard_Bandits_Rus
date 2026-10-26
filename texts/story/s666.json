@@ -1,0 +1,16 @@
+{
+ "file": 666,
+ "kind": "story",
+ "lines": [
+  {
+   "id": 0,
+   "en": "Is this another Nordilain attack?",
+   "ru": "Это снова нападение\nНордилейна?"
+  },
+  {
+   "id": 1,
+   "en": "My scanners are blank! What's going\non? Why can't we see them?!",
+   "ru": "Сканеры пусты! Что происходит?\nПочему мы их не видим?!"
+  }
+ ]
+}

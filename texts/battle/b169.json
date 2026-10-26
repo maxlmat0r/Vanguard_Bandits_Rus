@@ -1,0 +1,566 @@
+{
+ "file": 169,
+ "kind": "battle",
+ "lines": [
+  {
+   "id": 0,
+   "en": "Here she comes...",
+   "ru": "Вот она..."
+  },
+  {
+   "id": 1,
+   "en": "Oh, no!",
+   "ru": "О нет!"
+  },
+  {
+   "id": 2,
+   "en": "It's the Kingdom Army! And the ATAC\nleading them is...but it couldn't be!",
+   "ru": "Армия Королевства! А их ведёт...\nне может быть!"
+  },
+  {
+   "id": 3,
+   "en": "Hello, Sadira.",
+   "ru": "Привет, Садира."
+  },
+  {
+   "id": 4,
+   "en": "Uh--hello?",
+   "ru": "Э-э... привет?"
+  },
+  {
+   "id": 5,
+   "en": "Why have you come here? Did you\nfollow us?",
+   "ru": "Зачем ты пришла? Ты что, шла\nза нами?"
+  },
+  {
+   "id": 6,
+   "en": "Prince Bastion! It's you!",
+   "ru": "Принц Бастион! Это ты!"
+  },
+  {
+   "id": 7,
+   "en": "But I'm certain that the Ultragunner\nwas claimed by General Faulkner!",
+   "ru": "Но я уверена, что Ультраганнер\nзабрал генерал Фолкнер!"
+  },
+  {
+   "id": 8,
+   "en": "This isn't the Ultragunner, Sadira.",
+   "ru": "Это не Ультраганнер, Садира."
+  },
+  {
+   "id": 9,
+   "en": "Now answer the question! Why did\nyou follow us here, and what do you\nwant?",
+   "ru": "А теперь отвечай! Зачем ты шла\nза нами и чего хочешь?"
+  },
+  {
+   "id": 10,
+   "en": "It's a long story.",
+   "ru": "Долгая история."
+  },
+  {
+   "id": 11,
+   "en": "Please wait, Princess!",
+   "ru": "Подождите, принцесса!"
+  },
+  {
+   "id": 12,
+   "en": "Won't you come back to the castle\nwith us?",
+   "ru": "Не вернётесь ли с нами в замок?"
+  },
+  {
+   "id": 13,
+   "en": "I understand your frustration,\nPrincess, but running away from\nthe capital will not help matters!",
+   "ru": "Понимаю вашу досаду, принцесса,\nно бегство из столицы делу не\nпоможет!"
+  },
+  {
+   "id": 14,
+   "en": "I beg you to reconsider your actions...\nhmmm? What's this?",
+   "ru": "Умоляю, передумайте... хм? Что\nэто?"
+  },
+  {
+   "id": 15,
+   "en": "Bastion! You were stalling me until\nthey could catch up, weren't you?!",
+   "ru": "Бастион! Ты меня задерживал,\nпока они не догонят, да?!"
+  },
+  {
+   "id": 16,
+   "en": "No, I wasn't, Sadira! I was trying to\nfind out why you're here, and now I\nknow, thanks to Franco!",
+   "ru": "Нет, Садира! Я пытался узнать,\nзачем ты здесь, и теперь знаю,\nспасибо Франко!"
+  },
+  {
+   "id": 17,
+   "en": "Why have you run away from the\nEmpire? And aren't you a little old\nto be a runaway?",
+   "ru": "Почему ты сбежала из Империи?\nИ не старовата ли ты для\nпобегов?"
+  },
+  {
+   "id": 18,
+   "en": "You don't understand what's going\non, Bastion, so I suggest that you still\nyour tongue!",
+   "ru": "Ты не понимаешь, что\nпроисходит, Бастион, так что\nсоветую придержать язык!"
+  },
+  {
+   "id": 19,
+   "en": "Prince Bastion!",
+   "ru": "Принц Бастион!"
+  },
+  {
+   "id": 20,
+   "en": "It's good to see you here! Your timing\nis impeccable!",
+   "ru": "Рад вас видеть! Вы как нельзя\nвовремя!"
+  },
+  {
+   "id": 21,
+   "en": "I ask for your help in seizing the\nPrincess before she causes herself\nany more trouble!",
+   "ru": "Прошу вашей помощи: задержите\nпринцессу, пока она не навлекла\nна себя ещё больше бед!"
+  },
+  {
+   "id": 22,
+   "en": "She doesn't understand that running\naway is the worst possible course of\naction she could have taken!",
+   "ru": "Она не понимает, что бегство -\nхудшее, что она могла сделать!"
+  },
+  {
+   "id": 23,
+   "en": "Please, Bastion! Seize her quickly!",
+   "ru": "Прошу, Бастион! Задержите её\nскорее!"
+  },
+  {
+   "id": 24,
+   "en": "I'm starting to feel like we've just\nstumbled into the middle of a very\nmessy situation.",
+   "ru": "Мне начинает казаться, что мы\nугодили в самую гущу очень\nзапутанной истории."
+  },
+  {
+   "id": 25,
+   "en": "I know that you'll help me, Bastion!\nYou and your friends have to drive\nFranco away from here!",
+   "ru": "Я знаю, ты мне поможешь,\nБастион! Вы с друзьями должны\nпрогнать Франко!"
+  },
+  {
+   "id": 26,
+   "en": "We don't have to do anything, Sadira!",
+   "ru": "Ничего мы не должны, Садира!"
+  },
+  {
+   "id": 27,
+   "en": "You're no better than anyone else,\nSadira, and yet you always act as\nif you are!",
+   "ru": "Ты ничем не лучше других,\nСадира, а ведёшь себя так, будто\nлучше!"
+  },
+  {
+   "id": 28,
+   "en": "Bastion isn't just another Imperial\nsubject you can order around!",
+   "ru": "Бастион - не очередной\nимперский подданный, которым\nможно командовать!"
+  },
+  {
+   "id": 29,
+   "en": "And who are YOU?!",
+   "ru": "А ТЫ ещё кто такая?!"
+  },
+  {
+   "id": 30,
+   "en": "My name is Milea. Bastion and I have\ngrown up together! We are the best of\nfriends!",
+   "ru": "Меня зовут Милея. Мы с\nБастионом выросли вместе! Мы\nлучшие друзья!"
+  },
+  {
+   "id": 31,
+   "en": "You and he are 'friends'?",
+   "ru": "Вы с ним \"друзья\"?"
+  },
+  {
+   "id": 32,
+   "en": "You're quite emotional for someone\nwho claims only to have feelings of\nfriendship, aren't you?",
+   "ru": "Для той, кто говорит лишь о\nдружбе, ты что-то слишком\nвзволнована, а?"
+  },
+  {
+   "id": 33,
+   "en": "And you seem to be quite jealous of\nour friendship, Sadira! Perhaps it's\nyou who's hiding your feelings!",
+   "ru": "А ты, похоже, ревнуешь к нашей\nдружбе, Садира! Может, это ты\nскрываешь свои чувства!"
+  },
+  {
+   "id": 34,
+   "en": "Don't be silly.",
+   "ru": "Не говори глупостей."
+  },
+  {
+   "id": 35,
+   "en": "Princess! Please! Don't make me use\nforce to return you to the capital!",
+   "ru": "Принцесса! Прошу! Не заставляйте\nменя силой возвращать вас в\nстолицу!"
+  },
+  {
+   "id": 36,
+   "en": "Let's all go back together, Princess!\nIt'll be much better if we don't have\nto fight!",
+   "ru": "Вернёмся все вместе, принцесса!\nБудет гораздо лучше без драки!"
+  },
+  {
+   "id": 37,
+   "en": "Bastion!",
+   "ru": "Бастион!"
+  },
+  {
+   "id": 38,
+   "en": "NOW what?",
+   "ru": "Ну ЧТО ещё?"
+  },
+  {
+   "id": 39,
+   "en": "If you protect me from Franco and\nthe others, I'll tell you something I\nknow you want to hear!",
+   "ru": "Если защитишь меня от Франко\nи остальных, я расскажу то, что\nты наверняка хочешь услышать!"
+  },
+  {
+   "id": 40,
+   "en": "That you're going to leave me alone\nfor the rest of my life?",
+   "ru": "Что ты оставишь меня в покое до\nконца моих дней?"
+  },
+  {
+   "id": 41,
+   "en": "Very funny! What I'll tell you is the\nlocation of the Ultragunner, and its\nmost treasured secret!",
+   "ru": "Очень смешно! Я скажу, где\nУльтраганнер и в чём его самая\nценная тайна!"
+  },
+  {
+   "id": 42,
+   "en": "This is information you won't find\nanywhere else, Bastion. I'm the only\none who has it!",
+   "ru": "Больше нигде этого не узнаешь,\nБастион. Знаю только я!"
+  },
+  {
+   "id": 43,
+   "en": "Besides, aren't you embarrassed to\nbe driving that ATAC instead of the\nUltragunner? Come on, admit it!",
+   "ru": "К тому же тебе разве не стыдно\nводить этот АТАК вместо\nУльтраганнера? Ну признайся!"
+  },
+  {
+   "id": 44,
+   "en": "I'm not embarrassed to be piloting\nthe TICTAC! I'm proud!",
+   "ru": "Мне не стыдно водить ТИКТАК! Я\nгоржусь!"
+  },
+  {
+   "id": 45,
+   "en": "I'm certain that this ATAC is just as\npowerful as the Ultragunner, if not\nmore so.",
+   "ru": "Уверен, этот АТАК не слабее\nУльтраганнера, а то и сильнее."
+  },
+  {
+   "id": 46,
+   "en": "Perhaps it is, but what will other\npeople think when they see it? Will\nthey be as impressed?",
+   "ru": "Может, и так, но что подумают\nлюди, увидев его? Будут ли они\nтак же впечатлены?"
+  },
+  {
+   "id": 47,
+   "en": "The Ultragunner is an ATAC of legend,\nBastion! It's guaranteed to impress or\nintimidate anyone who sees it!",
+   "ru": "Ультраганнер - легендарный\nАТАК, Бастион! Он наверняка\nвпечатлит или устрашит любого!"
+  },
+  {
+   "id": 48,
+   "en": "(I hate it when she makes reasoned\nand rational statements!)",
+   "ru": "(Ненавижу, когда она говорит\nразумные и рассудительные\nвещи!)"
+  },
+  {
+   "id": 49,
+   "en": "Oh, well. I suppose your TICTAC\nwill be fine for all the unnecessary\ncombat you'll be getting into.",
+   "ru": "Ну ладно. Наверное, для всех\nненужных боёв, в которые ты\nввяжешься, и ТИКТАК сойдёт."
+  },
+  {
+   "id": 50,
+   "en": "(I hope I don't hurt Puck's feelings\ntoo badly by doing this...)",
+   "ru": "(Надеюсь, Пак не слишком\nобидится...)"
+  },
+  {
+   "id": 51,
+   "en": "Alright, Sadira. You have a deal.",
+   "ru": "Хорошо, Садира. Договорились."
+  },
+  {
+   "id": 52,
+   "en": "We'll drive away the Imperials, and\nyou'll tell us where the Ultragunner\nis hidden...as well as its secret.",
+   "ru": "Мы прогоним имперцев, а ты\nскажешь, где спрятан\nУльтраганнер... и его тайну."
+  },
+  {
+   "id": 53,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 54,
+   "en": "That's right, Bastion!",
+   "ru": "Вот именно, Бастион!"
+  },
+  {
+   "id": 55,
+   "en": "I guarantee this secret will rock you\nto your very foundations.",
+   "ru": "Гарантирую, эта тайна потрясёт\nтебя до глубины души."
+  },
+  {
+   "id": 56,
+   "en": "(I think she's lying to you, Bastion.)",
+   "ru": "(По-моему, она тебе лжёт,\nБастион.)"
+  },
+  {
+   "id": 57,
+   "en": "Well, everyone? Do you have any\nobjections to defending Sadira?",
+   "ru": "Ну что, все? Есть возражения\nпротив защиты Садиры?"
+  },
+  {
+   "id": 58,
+   "en": "Not as long as we get to eat dinner\nwhen we're done!",
+   "ru": "Нет, если потом будет ужин!"
+  },
+  {
+   "id": 59,
+   "en": "Not a problem, buddy. I've been\nhoping to get some action--on the\nbattlefield, but of course.",
+   "ru": "Без проблем, дружище. Я как раз\nнадеялся на немного жаркого\nдела - на поле боя, конечно."
+  },
+  {
+   "id": 60,
+   "en": "Bastion, I've noticed something very\ninteresting about you.",
+   "ru": "Бастион, я заметила в тебе\nкое-что очень интересное."
+  },
+  {
+   "id": 61,
+   "en": "What's that?",
+   "ru": "Что?"
+  },
+  {
+   "id": 62,
+   "en": "You are completely unable to say no\nto a woman. I'll have to keep that in\nmind! Heh, heh, heh!",
+   "ru": "Ты совершенно не умеешь\nотказывать женщинам. Буду\nиметь в виду! Хе-хе-хе!"
+  },
+  {
+   "id": 63,
+   "en": "That's, uh, nice.",
+   "ru": "Это, э-э, мило."
+  },
+  {
+   "id": 64,
+   "en": "But let's change the subject with\nhaste, shall we?",
+   "ru": "Но давайте скорее сменим тему,\nа?"
+  },
+  {
+   "id": 65,
+   "en": "Franco! I don't have any quarrel\nwith you, but I need to know what\nSadira has offered to tell me.",
+   "ru": "Франко! Я ничего против тебя не\nимею, но мне нужно знать, что\nСадира обещала рассказать."
+  },
+  {
+   "id": 66,
+   "en": "Don't be fooled, Prince Bastion! She\nknows nothing of the Ultragunner,\nnor of any secrets!",
+   "ru": "Не дайте себя обмануть, принц\nБастион! Она ничего не знает ни\nоб Ультраганнере, ни о тайнах!"
+  },
+  {
+   "id": 67,
+   "en": "She will say whatever will lead you\nto defend her from us!",
+   "ru": "Она скажет что угодно, лишь бы\nвы защитили её от нас!"
+  },
+  {
+   "id": 68,
+   "en": "Are you calling your own Princess a\nliar, Franco?!",
+   "ru": "Ты называешь свою принцессу\nлгуньей, Франко?!"
+  },
+  {
+   "id": 69,
+   "en": "I don't mean it like that--",
+   "ru": "Я не в том смысле--"
+  },
+  {
+   "id": 70,
+   "en": "I swear on my honor that I am not\nlying to you, Bastion!",
+   "ru": "Клянусь честью, я тебе не лгу,\nБастион!"
+  },
+  {
+   "id": 71,
+   "en": "And I swear that I will not forgive\nyou for insulting me, Franco!",
+   "ru": "И клянусь, я не прощу тебе это\nоскорбление, Франко!"
+  },
+  {
+   "id": 72,
+   "en": "Prepare for your humiliating defeat!",
+   "ru": "Готовься к унизительному\nпоражению!"
+  },
+  {
+   "id": 73,
+   "en": "Princess!",
+   "ru": "Принцесса!"
+  },
+  {
+   "id": 74,
+   "en": "Bastion!",
+   "ru": "Бастион!"
+  },
+  {
+   "id": 75,
+   "en": "(Sigh...) Yes, Sadira?",
+   "ru": "(Вздох...) Да, Садира?"
+  },
+  {
+   "id": 76,
+   "en": "I won't forgive you if you harm\nFranco, Cecilia, or anyone else!",
+   "ru": "Я тебе не прощу, если ты\nнавредишь Франко, Сесилии или\nкому-нибудь ещё!"
+  },
+  {
+   "id": 77,
+   "en": "I wasn't intending to harm anyone to\nbegin with, Sadira!",
+   "ru": "Я и не собирался никому вредить,\nСадира!"
+  },
+  {
+   "id": 78,
+   "en": "Franco, I don't want to fight you...",
+   "ru": "Франко, я не хочу с тобой\nдраться..."
+  },
+  {
+   "id": 79,
+   "en": "I would ask you to retreat before we\nare forced into further conflict.",
+   "ru": "Прошу тебя отступить, пока нам\nне пришлось сражаться дальше."
+  },
+  {
+   "id": 80,
+   "en": "I can't do that!",
+   "ru": "Не могу!"
+  },
+  {
+   "id": 81,
+   "en": "I can't return to the capital without\nthe Princess in my possession!",
+   "ru": "Я не могу вернуться в столицу\nбез принцессы!"
+  },
+  {
+   "id": 82,
+   "en": "You don't understand, Bastion! You\ndon't realize what's going on here!",
+   "ru": "Ты не понимаешь, Бастион! Ты не\nпонимаешь, что здесь\nпроисходит!"
+  },
+  {
+   "id": 83,
+   "en": "Without the Princess, I...",
+   "ru": "Без принцессы я..."
+  },
+  {
+   "id": 84,
+   "en": "I'm doomed.",
+   "ru": "Я обречён."
+  },
+  {
+   "id": 85,
+   "en": "What do you mean?",
+   "ru": "О чём вы?"
+  },
+  {
+   "id": 86,
+   "en": "It's Halak! She will be enraged\nwith me!",
+   "ru": "Это Халак! Она будет в ярости!"
+  },
+  {
+   "id": 87,
+   "en": "Uh, Halak?",
+   "ru": "Э-э, Халак?"
+  },
+  {
+   "id": 88,
+   "en": "The elder woman who uses the High\nSpeech of the ancients. You could not\nhave forgotten her.",
+   "ru": "Пожилая дама, что говорит\nВысокой речью древних. Ты не\nмог её забыть."
+  },
+  {
+   "id": 89,
+   "en": "I vaguely recall her, yes.",
+   "ru": "Смутно припоминаю, да."
+  },
+  {
+   "id": 90,
+   "en": "You don't understand the terror she\nwill put me through, Bastion.",
+   "ru": "Ты не понимаешь, какой ужас она\nмне устроит, Бастион."
+  },
+  {
+   "id": 91,
+   "en": "Apparently not.",
+   "ru": "Видимо, нет."
+  },
+  {
+   "id": 92,
+   "en": "But I made a promise to Sadira, and\nI intend to keep it. You won't take her\nback if she doesn't want to go.",
+   "ru": "Но я дал Садире обещание и\nсдержу его. Вы не заберёте её,\nесли она не хочет."
+  },
+  {
+   "id": 93,
+   "en": "How can you be so cruel?!",
+   "ru": "Как можно быть таким\nжестоким?!"
+  },
+  {
+   "id": 94,
+   "en": "Princess Sadira, I am at your mercy!\nPlease return to the capital or I will\nsuffer Halak's wrath!",
+   "ru": "Принцесса Садира, я в вашей\nвласти! Вернитесь в столицу, или\nменя постигнет гнев Халак!"
+  },
+  {
+   "id": 95,
+   "en": "No, Franco! I would rather that you\nsuffer her wrath instead of me!",
+   "ru": "Нет, Франко! Пусть лучше её гнев\nпостигнет тебя, а не меня!"
+  },
+  {
+   "id": 96,
+   "en": "If you're not careful, Sadira, you're\ngoing to be captured by the Kingdom!\nTHEN what will happen?!",
+   "ru": "Если не будете осторожны,\nСадира, вас схватит Королевство!\nИ ЧТО тогда?!"
+  },
+  {
+   "id": 97,
+   "en": "Nothing will happen, because I'll be\nin the company of Prince Bastion!",
+   "ru": "Ничего, потому что я буду в\nобществе принца Бастиона!"
+  },
+  {
+   "id": 98,
+   "en": "That's absurd!",
+   "ru": "Это абсурд!"
+  },
+  {
+   "id": 99,
+   "en": "Princess, won't you return with us?",
+   "ru": "Принцесса, может, вернётесь с\nнами?"
+  },
+  {
+   "id": 100,
+   "en": "Absolutely not!",
+   "ru": "Ни за что!"
+  },
+  {
+   "id": 101,
+   "en": "You realize that will make\nHalak very upset.",
+   "ru": "Вы понимаете, что Халак очень\nрасстроится."
+  },
+  {
+   "id": 102,
+   "en": "Then make her mad!",
+   "ru": "Ну так пусть злится!"
+  },
+  {
+   "id": 103,
+   "en": "You are cruel, Princess!",
+   "ru": "Вы жестоки, принцесса!"
+  },
+  {
+   "id": 104,
+   "en": "Princess Sadira, I will never forget\nyour behavior on this day!",
+   "ru": "Принцесса Садира, я никогда не\nзабуду, как вы себя сегодня вели!"
+  },
+  {
+   "id": 105,
+   "en": "I thought I was your friend, but I see\nthat I was mistaken!",
+   "ru": "Я думала, я ваш друг, но, вижу,\nошибалась!"
+  },
+  {
+   "id": 106,
+   "en": "You're a very mean person, Princess!",
+   "ru": "Вы очень злая, принцесса!"
+  },
+  {
+   "id": 107,
+   "en": "I'm telling Halak on you!",
+   "ru": "Я всё расскажу Халак!"
+  },
+  {
+   "id": 108,
+   "en": "(We've driven them off...)",
+   "ru": "(Мы их прогнали...)"
+  },
+  {
+   "id": 109,
+   "en": "(But I'm still not sure whether or not\nit was a good idea.)",
+   "ru": "(Но я всё ещё не уверен, была ли\nэто хорошая мысль.)"
+  },
+  {
+   "id": 110,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 111,
+   "en": "\n\n\n",
+   "ru": ""
+  }
+ ]
+}

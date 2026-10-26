@@ -1,0 +1,271 @@
+{
+ "file": 560,
+ "kind": "story",
+ "lines": [
+  {
+   "id": 0,
+   "en": "Welcome, friends. I am Marquis\nDionne-Lehve.",
+   "ru": "Добро пожаловать, друзья. Я\nмаркиз Дионн-Леве."
+  },
+  {
+   "id": 1,
+   "en": "I am Prince Bastion. Thank you for\nmeeting with us, Dionne.",
+   "ru": "Я принц Бастион. Спасибо, что\nприняли нас, Дионн."
+  },
+  {
+   "id": 2,
+   "en": "Andrew tells me that you were able\nto pass his test quite easily...and he\nis my most skilled warrior.",
+   "ru": "Эндрю говорит, вы легко прошли\nего испытание... а он мой лучший\nвоин."
+  },
+  {
+   "id": 3,
+   "en": "If you are truly that strong, you may\nindeed be the one to claim Gratia.",
+   "ru": "Если вы и правда так сильны,\nвозможно, именно вам суждено\nполучить Гратию."
+  },
+  {
+   "id": 4,
+   "en": "I WILL be the one to claim it, Dionne.",
+   "ru": "Я ПОЛУЧУ её, Дионн."
+  },
+  {
+   "id": 5,
+   "en": "There is little difference between\nconfidence and foolishness, Bastion.",
+   "ru": "Между уверенностью и глупостью\nразница невелика, Бастион."
+  },
+  {
+   "id": 6,
+   "en": "But I digress. Please make yourselves\ncomfortable. I rarely have visitors.",
+   "ru": "Но я отвлёкся. Располагайтесь.\nГости у меня редкость."
+  },
+  {
+   "id": 7,
+   "en": "Like, thanks, Dionne! You're a lot\nnicer than Daddy said you were!",
+   "ru": "Типа, спасибо, Дионн! Вы куда\nмилее, чем говорил папа!"
+  },
+  {
+   "id": 8,
+   "en": "Is your father still insisting that we\nfought to a draw, Claire? Someday,\nperhaps he will admit defeat.",
+   "ru": "Твой отец всё твердит, что у нас\nбыла ничья, Клэр? Может,\nоднажды признает поражение."
+  },
+  {
+   "id": 9,
+   "en": "While I appreciate your hospitality,\nMarquis Dionne, I really don't want\nto waste any time.",
+   "ru": "Ценю ваше гостеприимство,\nмаркиз Дионн, но мне не хочется\nтерять время."
+  },
+  {
+   "id": 10,
+   "en": "Are you in such a hurry to possess\nGratia? Very well, Bastion. Answer\nthese questions, if you would.",
+   "ru": "Так спешите получить Гратию?\nХорошо, Бастион. Ответьте,\nпожалуйста, на вопросы."
+  },
+  {
+   "id": 11,
+   "en": "Why have you allied yourself with\nthe Empire? And for what purposes\nwill you use the Ultragunner?",
+   "ru": "Почему вы в союзе с Империей? И\nдля чего вы используете\nУльтраганнер?"
+  },
+  {
+   "id": 12,
+   "en": "Take your time, Bastion, and speak\nthe truth.",
+   "ru": "Не торопитесь, Бастион, и\nговорите правду."
+  },
+  {
+   "id": 13,
+   "en": "I have joined with Princess Sadira\nbecause, like me, she wants only to\nbring peace to our world.",
+   "ru": "Я с принцессой Садирой, потому\nчто она, как и я, хочет лишь\nмира для нашего мира."
+  },
+  {
+   "id": 14,
+   "en": "(I hope that isn't the only reason he\nhas stayed at my side.)",
+   "ru": "(Надеюсь, это не единственная\nпричина, по которой он рядом со\nмной.)"
+  },
+  {
+   "id": 15,
+   "en": "But I do not consider myself an ally\nof the Empire by any means.",
+   "ru": "Но союзником Империи я себя ни\nв коей мере не считаю."
+  },
+  {
+   "id": 16,
+   "en": "From your tone of voice, I take it\nthat you consider the Empire to be\n'evil...'",
+   "ru": "Судя по вашему тону, вы\nсчитаете Империю \"злом\"..."
+  },
+  {
+   "id": 17,
+   "en": "...which also means you consider the\nKingdom to be 'good.' But from what\nI have witnessed, Marquis Dionne...",
+   "ru": "...а значит, Королевство -\n\"добром\". Но, судя по тому, что я\nвидел, маркиз Дионн..."
+  },
+  {
+   "id": 18,
+   "en": "...the issue is not so clear. There are\nmany good people in the Empire, and\nmany evil ones in the Kingdom.",
+   "ru": "...всё не так просто. В Империи\nмного добрых людей, а в\nКоролевстве - много злых."
+  },
+  {
+   "id": 19,
+   "en": "It is foolish to simplify the issue by\nignoring the shades of gray between\nthe black and the white.",
+   "ru": "Глупо упрощать, не замечая\nоттенков серого между чёрным и\nбелым."
+  },
+  {
+   "id": 20,
+   "en": "And what will you do with the power\nof Ultragunner, Bastion?",
+   "ru": "А что вы сделаете с силой\nУльтраганнера, Бастион?"
+  },
+  {
+   "id": 21,
+   "en": "I don't entirely know yet.",
+   "ru": "Я ещё не вполне знаю."
+  },
+  {
+   "id": 22,
+   "en": "I know that with the Ultragunner in\nmy possession, I can prove my lineage\nto the world.",
+   "ru": "Знаю, что с Ультраганнером\nсмогу доказать миру своё\nпроисхождение."
+  },
+  {
+   "id": 23,
+   "en": "And I can end this meaningless war\nonce and for all. I haven't considered\nwhat comes after that. Not yet.",
+   "ru": "И раз и навсегда закончить эту\nбессмысленную войну. Что будет\nпотом, я ещё не думал."
+  },
+  {
+   "id": 24,
+   "en": "Are those suitable answers, Dionne?",
+   "ru": "Подходят такие ответы, Дионн?"
+  },
+  {
+   "id": 25,
+   "en": "Indeed, they are.",
+   "ru": "Вполне."
+  },
+  {
+   "id": 26,
+   "en": "I have a final question, Bastion. Are\nyou and your friends ready to show\nthe degree of your determination?",
+   "ru": "Последний вопрос, Бастион.\nГотовы ли вы с друзьями\nпоказать свою решимость?"
+  },
+  {
+   "id": 27,
+   "en": "And how will we do that?",
+   "ru": "И как мы это сделаем?"
+  },
+  {
+   "id": 28,
+   "en": "On the field of battle.",
+   "ru": "На поле боя."
+  },
+  {
+   "id": 29,
+   "en": "A tournament of sorts, with five\nwarriors on each of our squads.",
+   "ru": "Своего рода турнир, по пять\nвоинов в каждом отряде."
+  },
+  {
+   "id": 30,
+   "en": "The format will be strict, and the\ncombat will be real, Bastion. None\nof my warriors will hold back.",
+   "ru": "Правила будут строгими, а бой -\nнастоящим, Бастион. Мои воины\nне будут сдерживаться."
+  },
+  {
+   "id": 31,
+   "en": "There will be no second chances. If\nyou are defeated, Gratia will never\nbe yours.",
+   "ru": "Второго шанса не будет.\nПроиграете - Гратии вам не\nвидать."
+  },
+  {
+   "id": 32,
+   "en": "Do you agree to my test?",
+   "ru": "Принимаете моё испытание?"
+  },
+  {
+   "id": 33,
+   "en": "My quest has nothing to do with my\nfriends, Dionne! I will gladly fight\nyou myself, but--",
+   "ru": "Мои друзья тут ни при чём,\nДионн! Я охотно сражусь с вами\nсам, но--"
+  },
+  {
+   "id": 34,
+   "en": "Your friends are inextricably a part\nof your quest, Bastion. Have they not\nhelped you make it this far?",
+   "ru": "Друзья неотделимы от вашего\nпути, Бастион. Разве не они\nпомогли вам дойти сюда?"
+  },
+  {
+   "id": 35,
+   "en": "If you are to be a great leader, Prince\nBastion, you must surround yourself\nwith capable companions.",
+   "ru": "Чтобы стать великим вождём,\nпринц Бастион, нужно окружить\nсебя достойными спутниками."
+  },
+  {
+   "id": 36,
+   "en": "Don't worry, Bastion! We'll gladly\nfight together!",
+   "ru": "Не волнуйся, Бастион! Мы с\nрадостью сразимся вместе!"
+  },
+  {
+   "id": 37,
+   "en": "Of course!",
+   "ru": "Ну конечно!"
+  },
+  {
+   "id": 38,
+   "en": "Let's, like, get ready to rumble!",
+   "ru": "Типа, давайте зажжём!"
+  },
+  {
+   "id": 39,
+   "en": "I would be honored to represent you\nin this battle, Prince Bastion.",
+   "ru": "Почту за честь представлять вас\nв этой битве, принц Бастион."
+  },
+  {
+   "id": 40,
+   "en": "Thank you, everyone.",
+   "ru": "Спасибо всем."
+  },
+  {
+   "id": 41,
+   "en": "I accept your challenge, Dionne.",
+   "ru": "Я принимаю ваш вызов, Дионн."
+  },
+  {
+   "id": 42,
+   "en": "How shall we structure our squad,\nBastion? It's obvious that you should\nbe the last to fight...",
+   "ru": "Как построим отряд, Бастион?\nЯсно, что ты должен сражаться\nпоследним..."
+  },
+  {
+   "id": 43,
+   "en": "...but which of us should go first?",
+   "ru": "...но кто из нас пойдёт первым?"
+  },
+  {
+   "id": 44,
+   "en": "Like, I'll go first, Sadira.",
+   "ru": "Типа, я пойду первой, Садира."
+  },
+  {
+   "id": 45,
+   "en": "I'll beat the first four of Dionne's\nguys and make it really easy for the\nrest of you.",
+   "ru": "Побью первых четырёх бойцов\nДионна, и вам всем будет\nреально легко."
+  },
+  {
+   "id": 46,
+   "en": "Alright. Franco will be second,\nCecilia will be third, and I will\nbe fourth. Does that sound good?",
+   "ru": "Хорошо. Франко второй, Сесилия\nтретья, а я четвёртая. Годится?"
+  },
+  {
+   "id": 47,
+   "en": "It sure does to me, Princess!",
+   "ru": "Мне - ещё как, принцесса!"
+  },
+  {
+   "id": 48,
+   "en": "I would argue to include you in our\ngroup, Halak, but I know that your\nhip has been giving you trouble.",
+   "ru": "Я бы предложил взять и тебя,\nХалак, но знаю, что тебя мучает\nбедро."
+  },
+  {
+   "id": 49,
+   "en": "Your kindness is noted, Franco.",
+   "ru": "Доброта твоя замечена, Франко."
+  },
+  {
+   "id": 50,
+   "en": "Know that I will take your fighting\nspirit into battle with me.",
+   "ru": "Знай, что я возьму с собой в бой\nтвой боевой дух."
+  },
+  {
+   "id": 51,
+   "en": "Our team has been decided, Dionne.",
+   "ru": "Наш отряд определён, Дионн."
+  },
+  {
+   "id": 52,
+   "en": "Then follow me to the arena.",
+   "ru": "Тогда следуйте за мной на арену."
+  }
+ ]
+}

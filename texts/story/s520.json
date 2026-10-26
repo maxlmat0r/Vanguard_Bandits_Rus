@@ -1,0 +1,211 @@
+{
+ "file": 520,
+ "kind": "story",
+ "lines": [
+  {
+   "id": 0,
+   "en": "Imperial Chief of Security:\nYour Highness, Prince Duyere! We\nhave an emergency situation!",
+   "ru": "Начальник имперской охраны:\nВаше Высочество, принц Дюйер!\nЧрезвычайное происшествие!"
+  },
+  {
+   "id": 1,
+   "en": "I'm standing right here! There's no\nneed to scream! Now tell me what's\ngoing on!!",
+   "ru": "Я стою прямо перед тобой!\nНезачем кричать! Говори, что\nслучилось!!"
+  },
+  {
+   "id": 2,
+   "en": "I apologize for having to deliver such\ndistressing news, Your Highness...",
+   "ru": "Простите, что приношу столь\nгорестные вести, Ваше\nВысочество..."
+  },
+  {
+   "id": 3,
+   "en": "But your father, Emperor Degalle,\nhas been assassinated.",
+   "ru": "Но ваш отец, император Дегаль,\nубит."
+  },
+  {
+   "id": 4,
+   "en": "What?! That old goat was far too\ntenacious to yield to assassins!",
+   "ru": "Что?! Этот старый козёл был\nслишком живуч, чтобы пасть от\nрук убийц!"
+  },
+  {
+   "id": 5,
+   "en": "You are obviously mistaken!",
+   "ru": "Ты явно ошибаешься!"
+  },
+  {
+   "id": 6,
+   "en": "I'm afraid not, Your Highness. The\nKing is dead. I won't describe the\ncondition in which we found him.",
+   "ru": "Боюсь, что нет. Император мёртв.\nНе стану описывать, в каком\nвиде мы его нашли."
+  },
+  {
+   "id": 7,
+   "en": "Have you yet found the assassin?! We\nwill lop off his head and return it to\nthe Kingdom from whence he came!",
+   "ru": "Убийцу нашли?! Мы снесём ему\nголову и отошлём её в\nКоролевство, откуда он явился!"
+  },
+  {
+   "id": 8,
+   "en": "We have not found the assassin yet,\nYour Highness, but we do not believe\nthe Kingdom orchestrated this.",
+   "ru": "Убийцу пока не нашли, Ваше\nВысочество, но мы не думаем, что\nза этим стоит Королевство."
+  },
+  {
+   "id": 9,
+   "en": "The evidence at the scene leads me to\nbelieve that your father's murderer\nis from within our own ranks.",
+   "ru": "Улики указывают на то, что\nубийца вашего отца - из наших\nсобственных рядов."
+  },
+  {
+   "id": 10,
+   "en": "Unbelievable! Have you any suspects?\nI want you to interrogate everyone in\nthe palace if you must!",
+   "ru": "Невероятно! Есть подозреваемые?\nЕсли нужно, допросите весь\nдворец!"
+  },
+  {
+   "id": 11,
+   "en": "Actually, Your Highness, many people\nbelieve they know who the killer is.",
+   "ru": "Вообще-то, Ваше Высочество,\nмногие считают, что знают, кто\nубийца."
+  },
+  {
+   "id": 12,
+   "en": "And what is his name?! I sincerely\nhope he has already been arrested!",
+   "ru": "И как его зовут?! Надеюсь, его\nуже арестовали!"
+  },
+  {
+   "id": 13,
+   "en": "The lead suspect is you, Prince. Many\nImperials seem to lay the guilt for\nthis heinous act at your feet.",
+   "ru": "Главный подозреваемый - вы,\nпринц. Многие имперцы винят в\nэтом злодеянии вас."
+  },
+  {
+   "id": 14,
+   "en": "No one has spoken of this aloud, of\ncourse--not yet, at least. But someone\nwill, and once that happens...",
+   "ru": "Вслух, конечно, никто этого не\nговорит - пока. Но кто-нибудь\nскажет, и тогда..."
+  },
+  {
+   "id": 15,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 16,
+   "en": "I've never heard anything so\nludicrous!",
+   "ru": "Ничего нелепее в жизни не\nслышал!"
+  },
+  {
+   "id": 17,
+   "en": "Why would I betray my own father?!\nWhat would I gain from his death?!",
+   "ru": "Зачем мне предавать родного\nотца?! Что я выиграю от его\nсмерти?!"
+  },
+  {
+   "id": 18,
+   "en": "Tell me who is spreading these lies,\nand I shall have their loose tongues\ncut out of their large mouths!",
+   "ru": "Скажи, кто распускает эту ложь,\nи я велю вырезать их болтливые\nязыки!"
+  },
+  {
+   "id": 19,
+   "en": "Caution, Your Highness! We are in the\nmidst of an extremely dangerous\nsituation!",
+   "ru": "Осторожнее, Ваше Высочество!\nПоложение крайне опасное!"
+  },
+  {
+   "id": 20,
+   "en": "If your father can be assassinated in\nthe palace, you can surely be slain as\nwell.",
+   "ru": "Если вашего отца смогли убить\nво дворце, то и вас тоже могут."
+  },
+  {
+   "id": 21,
+   "en": "You must act with care. If you do\nanything foolish, it may be perceived\nas a sign of your guilt.",
+   "ru": "Действуйте осмотрительно.\nЛюбой глупый шаг сочтут\nпризнаком вины."
+  },
+  {
+   "id": 22,
+   "en": "Now I understand. With my father's\ndeath, I have inherited leadership of\nthe Empire...",
+   "ru": "Теперь понимаю. Со смертью отца\nко мне перешла власть над\nИмперией..."
+  },
+  {
+   "id": 23,
+   "en": "But the rumors are probably saying\nthat I was unwilling to wait for my\nfather to die of natural causes.",
+   "ru": "А слухи, видно, твердят, что я не\nзахотел ждать, пока отец умрёт\nсвоей смертью."
+  },
+  {
+   "id": 24,
+   "en": "Exactly, Your Highness.",
+   "ru": "Именно так, Ваше Высочество."
+  },
+  {
+   "id": 25,
+   "en": "But how can I dispel the suspicion?\nHow I can prove my innocence?",
+   "ru": "Но как развеять подозрения? Как\nдоказать мою невиновность?"
+  },
+  {
+   "id": 26,
+   "en": "Surely you must have some training\nregarding a situation like this! Tell\nme what to do!",
+   "ru": "Уж тебя-то, наверное, учили, что\nделать в таких случаях! Скажи,\nкак быть!"
+  },
+  {
+   "id": 27,
+   "en": "Frankly, Your Highness, there is only\none course of action you can take.",
+   "ru": "Откровенно говоря, Ваше\nВысочество, путь у вас лишь\nодин."
+  },
+  {
+   "id": 28,
+   "en": "Yes?!",
+   "ru": "Ну?!"
+  },
+  {
+   "id": 29,
+   "en": "You must immediately stake your\nclaim to the throne and announce\na ceremony of ascension.",
+   "ru": "Немедленно заявить права на\nтрон и объявить церемонию\nвосшествия."
+  },
+  {
+   "id": 30,
+   "en": "But I don't understand.",
+   "ru": "Но я не понимаю."
+  },
+  {
+   "id": 31,
+   "en": "It's obvious that this assassination\nwas conceived to place suspicion\nupon you, Prince Duyere.",
+   "ru": "Ясно, что убийство задумано,\nчтобы бросить подозрение на\nвас, принц Дюйер."
+  },
+  {
+   "id": 32,
+   "en": "If you proceed to claim the throne,\nthe rumors and suspicion will only\nincrease...",
+   "ru": "Если вы займёте трон, слухи и\nподозрения лишь усилятся..."
+  },
+  {
+   "id": 33,
+   "en": "And the person who plotted this will\nmake their next move. That is when\nwe shall seize him.",
+   "ru": "И тот, кто это затеял, сделает\nследующий ход. Тогда мы его и\nсхватим."
+  },
+  {
+   "id": 34,
+   "en": "So we pretend to fall into his trap,\nwhen we actually lure the foul\ntraitor into ours...",
+   "ru": "Значит, мы делаем вид, что\nпопались в его ловушку, а на деле\nзаманиваем предателя в нашу..."
+  },
+  {
+   "id": 35,
+   "en": "Why didn't I think of that?",
+   "ru": "Как я сам не додумался?"
+  },
+  {
+   "id": 36,
+   "en": "I will make the announcement of my\nascension at once! I expect you to\nguard me quite closely...",
+   "ru": "Я немедленно объявлю о\nвосшествии на трон! Охраняй\nменя как можно лучше..."
+  },
+  {
+   "id": 37,
+   "en": "And, I have one more request of you.",
+   "ru": "И ещё одна просьба."
+  },
+  {
+   "id": 38,
+   "en": "Yes, Your Highness?",
+   "ru": "Да, Ваше Высочество?"
+  },
+  {
+   "id": 39,
+   "en": "I wish to see my father one last time.",
+   "ru": "Я хочу в последний раз увидеть\nотца."
+  },
+  {
+   "id": 40,
+   "en": "I will take you to him, Prince Duyere.",
+   "ru": "Я провожу вас к нему, принц\nДюйер."
+  }
+ ]
+}

@@ -1,0 +1,346 @@
+{
+ "file": 368,
+ "kind": "quip",
+ "lines": [
+  {
+   "id": 0,
+   "en": "From the left?",
+   "ru": "Слева?"
+  },
+  {
+   "id": 1,
+   "en": "An honorable tactic!",
+   "ru": "Достойная тактика!"
+  },
+  {
+   "id": 2,
+   "en": "From the right?",
+   "ru": "Справа?"
+  },
+  {
+   "id": 3,
+   "en": "An aggressive\nattack!",
+   "ru": "Яростная атака!"
+  },
+  {
+   "id": 4,
+   "en": "I am embarrassed\nfor you.",
+   "ru": "Мне стыдно за тебя."
+  },
+  {
+   "id": 5,
+   "en": "There is no honor\nin being weak.",
+   "ru": "В слабости нет чести."
+  },
+  {
+   "id": 6,
+   "en": "That attack was not\nat all effective.",
+   "ru": "Совершенно\nбесполезная атака."
+  },
+  {
+   "id": 7,
+   "en": "Your technique is\nseriously flawed.",
+   "ru": "Твоя техника никуда\nне годится."
+  },
+  {
+   "id": 8,
+   "en": "You are starting to\nanger me!",
+   "ru": "Ты начинаешь меня\nзлить!"
+  },
+  {
+   "id": 9,
+   "en": "Urrrrrk!",
+   "ru": "Кха-а!"
+  },
+  {
+   "id": 10,
+   "en": "I will not tolerate\nyou any longer!",
+   "ru": "Больше я тебя\nтерпеть не стану!"
+  },
+  {
+   "id": 11,
+   "en": "You won't finish me\noff so easily!",
+   "ru": "Меня так просто не\nдобить!"
+  },
+  {
+   "id": 12,
+   "en": "Aaarrrgghh!",
+   "ru": "А-а-аргх!"
+  },
+  {
+   "id": 13,
+   "en": "You will be difficult\nto defeat!",
+   "ru": "Тебя будет трудно\nпобедить!"
+  },
+  {
+   "id": 14,
+   "en": "I will overcome the\npain you cause me!",
+   "ru": "Я превозмогу эту\nболь!"
+  },
+  {
+   "id": 15,
+   "en": "I cannot be defeated!\nI am too strong!",
+   "ru": "Меня не победить! Я\nслишком силён!"
+  },
+  {
+   "id": 16,
+   "en": "I have dishonored\nthe Kingdom!",
+   "ru": "Я опозорил\nКоролевство!"
+  },
+  {
+   "id": 17,
+   "en": "I know that my loss\nwill be avenged!",
+   "ru": "Знаю, за меня\nотомстят!"
+  },
+  {
+   "id": 18,
+   "en": "I will always regret\nthis ignoble defeat!",
+   "ru": "Вечно буду жалеть о\nпозорном поражении!"
+  },
+  {
+   "id": 19,
+   "en": "You will be defeated\nsoon enough!",
+   "ru": "Скоро ты будешь\nповержен!"
+  },
+  {
+   "id": 20,
+   "en": "Show courage! Don't\nattack from behind!",
+   "ru": "Будь смелее! Не бей в\nспину!"
+  },
+  {
+   "id": 21,
+   "en": "Aarrgghh!!",
+   "ru": "А-аргх!!"
+  },
+  {
+   "id": 22,
+   "en": "Hmmph!",
+   "ru": "Хм!"
+  },
+  {
+   "id": 23,
+   "en": "I move quickly for\nan old man, eh?!",
+   "ru": "Шустрый я для\nстарика, а?!"
+  },
+  {
+   "id": 24,
+   "en": "Do you think you\ncan hit me? Do you?!",
+   "ru": "Думаешь, попадёшь\nв меня? Думаешь?!"
+  },
+  {
+   "id": 25,
+   "en": "You fight without\nskill or honor!",
+   "ru": "Ты бьёшься без\nумения и чести!"
+  },
+  {
+   "id": 26,
+   "en": "You--!!",
+   "ru": "Ах ты...!!"
+  },
+  {
+   "id": 27,
+   "en": "Damn it!",
+   "ru": "Проклятье!"
+  },
+  {
+   "id": 28,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 29,
+   "en": "I will not miss\nyou again!",
+   "ru": "Больше я не\nпромахнусь!"
+  },
+  {
+   "id": 30,
+   "en": "Your blows are too\nweak to hurt me!",
+   "ru": "Твои удары слишком\nслабы!"
+  },
+  {
+   "id": 31,
+   "en": "Soon, it will be MY\nturn to strike!",
+   "ru": "Скоро МОЙ черёд\nбить!"
+  },
+  {
+   "id": 32,
+   "en": "I have never lost a\nbattle!",
+   "ru": "Я не проиграл ни\nодного боя!"
+  },
+  {
+   "id": 33,
+   "en": "I will claim this\nvictory, not you!",
+   "ru": "Эта победа будет\nмоей, не твоей!"
+  },
+  {
+   "id": 34,
+   "en": "Too easy!",
+   "ru": "Слишком просто!"
+  },
+  {
+   "id": 35,
+   "en": "A trifling attack!",
+   "ru": "Пустяковый удар!"
+  },
+  {
+   "id": 36,
+   "en": "Haaaaaah!",
+   "ru": "Ха-а-а-а!"
+  },
+  {
+   "id": 37,
+   "en": "Errrggh?!",
+   "ru": "Э-эргх?!"
+  },
+  {
+   "id": 38,
+   "en": "That was no attack!\nThat was a joke!",
+   "ru": "Это не атака! Это\nшутка!"
+  },
+  {
+   "id": 39,
+   "en": "I must have revealed\nmy attack somehow!",
+   "ru": "Видно, я как-то\nвыдал свой удар!"
+  },
+  {
+   "id": 40,
+   "en": "I will not allow the\nEmpire to succeed!",
+   "ru": "Я не дам Империи\nпобедить!"
+  },
+  {
+   "id": 41,
+   "en": "I will not rest until\nwe crush the Empire!",
+   "ru": "Не успокоюсь, пока не\nсокрушим Империю!"
+  },
+  {
+   "id": 42,
+   "en": "Begone, feeble foe!",
+   "ru": "Прочь, жалкий враг!"
+  },
+  {
+   "id": 43,
+   "en": "The Kingdom will\nbe triumphant!",
+   "ru": "Королевство\nвосторжествует!"
+  },
+  {
+   "id": 44,
+   "en": "Grrrrrr!!",
+   "ru": "Р-р-р-р!!"
+  },
+  {
+   "id": 45,
+   "en": "Rrauugh!!",
+   "ru": "Р-ра-а-ах!!"
+  },
+  {
+   "id": 46,
+   "en": "Take this, fool!",
+   "ru": "Получай, глупец!"
+  },
+  {
+   "id": 47,
+   "en": "No mercy for allies\nof the Empire!",
+   "ru": "Пособникам Империи\nпощады нет!"
+  },
+  {
+   "id": 48,
+   "en": "Will you run away,\nor surrender?!",
+   "ru": "Сбежишь или\nсдашься?!"
+  },
+  {
+   "id": 49,
+   "en": "Rrraaaahhhh!",
+   "ru": "Р-р-ра-а-а!"
+  },
+  {
+   "id": 50,
+   "en": "Go ahead! Make my\nday!",
+   "ru": "Давай! Порадуй\nменя!"
+  },
+  {
+   "id": 51,
+   "en": "Repent for your\nwicked ways!",
+   "ru": "Покайся в своих\nзлодеяниях!"
+  },
+  {
+   "id": 52,
+   "en": "Your ATAC will soon\nbe scrap!",
+   "ru": "Твой АТАК скоро\nстанет ломом!"
+  },
+  {
+   "id": 53,
+   "en": "You fight as if blind,\ndeaf, and dumb!",
+   "ru": "Ты бьёшься, как\nслепой и глухой!"
+  },
+  {
+   "id": 54,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 55,
+   "en": "What's that?!",
+   "ru": "Это что?!"
+  },
+  {
+   "id": 56,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 57,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 58,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 59,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 60,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 61,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 62,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 63,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 64,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 65,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 66,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 67,
+   "en": "",
+   "ru": ""
+  }
+ ]
+}

@@ -1,0 +1,346 @@
+{
+ "file": 388,
+ "kind": "quip",
+ "lines": [
+  {
+   "id": 0,
+   "en": "From the left!",
+   "ru": "Слева!"
+  },
+  {
+   "id": 1,
+   "en": "There you are!",
+   "ru": "Вот ты где!"
+  },
+  {
+   "id": 2,
+   "en": "From the right!",
+   "ru": "Справа!"
+  },
+  {
+   "id": 3,
+   "en": "There you are!!",
+   "ru": "Вот ты где!!"
+  },
+  {
+   "id": 4,
+   "en": "Rather ineffective.",
+   "ru": "Довольно бесполезно."
+  },
+  {
+   "id": 5,
+   "en": "Hmmm? Apparently,\nI was just attacked.",
+   "ru": "Хм? Похоже,\nменя атаковали."
+  },
+  {
+   "id": 6,
+   "en": "Quite feeble.",
+   "ru": "Весьма слабо."
+  },
+  {
+   "id": 7,
+   "en": "Your attacks are\nbut an annoyance.",
+   "ru": "Твои атаки лишь\nраздражают."
+  },
+  {
+   "id": 8,
+   "en": "Your attacks are\nfueled by fury!",
+   "ru": "Твоими атаками\nдвижет ярость!"
+  },
+  {
+   "id": 9,
+   "en": "Yours is a challenge\nI gladly accept!",
+   "ru": "Охотно принимаю\nтвой вызов!"
+  },
+  {
+   "id": 10,
+   "en": "You fight very well!",
+   "ru": "Ты отлично\nсражаешься!"
+  },
+  {
+   "id": 11,
+   "en": "You are certainly a\ncapable opponent.",
+   "ru": "Ты, бесспорно,\nдостойный враг."
+  },
+  {
+   "id": 12,
+   "en": "UNNNGH!!",
+   "ru": "Н-Н-НГХ!!"
+  },
+  {
+   "id": 13,
+   "en": "Such intense pain--!",
+   "ru": "Какая сильная\nболь...!"
+  },
+  {
+   "id": 14,
+   "en": "What ARE you?!",
+   "ru": "Да КТО ты такой?!"
+  },
+  {
+   "id": 15,
+   "en": "I can't withstand\nmuch more of this!",
+   "ru": "Долго я так не\nвыдержу!"
+  },
+  {
+   "id": 16,
+   "en": "Damn you!!",
+   "ru": "Будь ты проклят!!"
+  },
+  {
+   "id": 17,
+   "en": "I have failed Sadira!",
+   "ru": "Я подвёл Садиру!"
+  },
+  {
+   "id": 18,
+   "en": "NOOOOO!!",
+   "ru": "НЕ-Е-ЕТ!!"
+  },
+  {
+   "id": 19,
+   "en": "This cannot be!",
+   "ru": "Этого не может\nбыть!"
+  },
+  {
+   "id": 20,
+   "en": "From behind!",
+   "ru": "Сзади!"
+  },
+  {
+   "id": 21,
+   "en": "You choose to strike\nlike a coward?",
+   "ru": "Бьёшь, как трус?"
+  },
+  {
+   "id": 22,
+   "en": "That attack was\nrather naive.",
+   "ru": "Довольно наивная\nатака."
+  },
+  {
+   "id": 23,
+   "en": "You need to strike\nwith more skill!",
+   "ru": "Бей искуснее!"
+  },
+  {
+   "id": 24,
+   "en": "You're even slower\nthan I had guessed.",
+   "ru": "Ты ещё медленнее,\nчем я думал."
+  },
+  {
+   "id": 25,
+   "en": "You don't belong in\nthis battle, amateur!",
+   "ru": "Тебе не место в этом\nбою, дилетант!"
+  },
+  {
+   "id": 26,
+   "en": "Oh!",
+   "ru": "О!"
+  },
+  {
+   "id": 27,
+   "en": "How'd you do that?",
+   "ru": "Как ты это сделал?"
+  },
+  {
+   "id": 28,
+   "en": "Not bad!",
+   "ru": "Неплохо!"
+  },
+  {
+   "id": 29,
+   "en": "My reflexes must be\nslowing with age.",
+   "ru": "С годами реакция\nслабеет."
+  },
+  {
+   "id": 30,
+   "en": "Aaargh!",
+   "ru": "А-аргх!"
+  },
+  {
+   "id": 31,
+   "en": "Uhhhhh!",
+   "ru": "У-у-ух!"
+  },
+  {
+   "id": 32,
+   "en": "I can withstand your\nstrongest attack!",
+   "ru": "Я выдержу твою\nсильнейшую атаку!"
+  },
+  {
+   "id": 33,
+   "en": "It's not over yet!",
+   "ru": "Это ещё не конец!"
+  },
+  {
+   "id": 34,
+   "en": "THERE!",
+   "ru": "ВОТ!"
+  },
+  {
+   "id": 35,
+   "en": "There's still a chance.",
+   "ru": "Шанс ещё есть."
+  },
+  {
+   "id": 36,
+   "en": "Be GONE with you!",
+   "ru": "ПРОЧЬ с глаз моих!"
+  },
+  {
+   "id": 37,
+   "en": "No! Impossible!!",
+   "ru": "Нет! Невозможно!!"
+  },
+  {
+   "id": 38,
+   "en": "I know what you're\ndoing before you do.",
+   "ru": "Я знаю твой ход\nраньше тебя."
+  },
+  {
+   "id": 39,
+   "en": "Whaaa?!",
+   "ru": "Что-о?!"
+  },
+  {
+   "id": 40,
+   "en": "I revel in the glory\nof the battlefield!",
+   "ru": "Упиваюсь славой\nполя боя!"
+  },
+  {
+   "id": 41,
+   "en": "Take comfort that\nyou lost to the best.",
+   "ru": "Утешься: ты\nпроиграл лучшему."
+  },
+  {
+   "id": 42,
+   "en": "What you lacked was\nthe strength of will.",
+   "ru": "Тебе не хватило силы\nволи."
+  },
+  {
+   "id": 43,
+   "en": "I expected nothing\nless than victory.",
+   "ru": "Иного, кроме победы,\nя не ждал."
+  },
+  {
+   "id": 44,
+   "en": "OOOOF!",
+   "ru": "У-У-УХ!"
+  },
+  {
+   "id": 45,
+   "en": "HAAAH!",
+   "ru": "ХА-А-А!"
+  },
+  {
+   "id": 46,
+   "en": "For the Princess!",
+   "ru": "За принцессу!"
+  },
+  {
+   "id": 47,
+   "en": "How about this?",
+   "ru": "А как тебе это?"
+  },
+  {
+   "id": 48,
+   "en": "I will cut you down,\nlike a rotting tree!",
+   "ru": "Срублю тебя, как\nгнилое дерево!"
+  },
+  {
+   "id": 49,
+   "en": "Endanger the Princess\nand suffer my wrath!",
+   "ru": "Тронешь принцессу\n— узнаешь мой гнев!"
+  },
+  {
+   "id": 50,
+   "en": "I won't hold back.\nI don't know how!",
+   "ru": "Я не сдерживаюсь. Не\nумею!"
+  },
+  {
+   "id": 51,
+   "en": "Underestimate me\nat your peril.",
+   "ru": "Недооценишь меня —\nпожалеешь."
+  },
+  {
+   "id": 52,
+   "en": "You can't stop me.",
+   "ru": "Тебе меня не\nостановить."
+  },
+  {
+   "id": 53,
+   "en": "What do you gain by\nfighting me? Nothing!",
+   "ru": "Что тебе даст бой со\nмной? Ничего!"
+  },
+  {
+   "id": 54,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 55,
+   "en": "What is this?!",
+   "ru": "Это что?!"
+  },
+  {
+   "id": 56,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 57,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 58,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 59,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 60,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 61,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 62,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 63,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 64,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 65,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 66,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 67,
+   "en": "",
+   "ru": ""
+  }
+ ]
+}

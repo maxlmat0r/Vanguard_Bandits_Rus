@@ -1,0 +1,176 @@
+{
+ "file": 550,
+ "kind": "story",
+ "lines": [
+  {
+   "id": 0,
+   "en": "Urgent news, Your Highness! I have\njust learned that Commander Zakov\nis planning to raid Araba Castle.",
+   "ru": "Срочные вести, Ваше Высочество!\nКомандир Заков готовит налёт\nна замок Араба."
+  },
+  {
+   "id": 1,
+   "en": "That castle is well inside the bounds\nof the Kingdom, so it will be heavily\ndefended.",
+   "ru": "Замок глубоко на землях\nКоролевства, так что охранять\nего будут хорошо."
+  },
+  {
+   "id": 2,
+   "en": "Has Zakov assembled a large enough\nforce to mount such an assault?",
+   "ru": "А у Закова хватит сил для такого\nштурма?"
+  },
+  {
+   "id": 3,
+   "en": "Not yet, which is why he requested\nthat you send along any ATACs you\ncan spare.",
+   "ru": "Пока нет, поэтому он просит\nприслать все АТАКи, без которых\nможно обойтись."
+  },
+  {
+   "id": 4,
+   "en": "The first time Zakov has bothered to\ncommunicate with me in months, and\nit's because he needs a favor.",
+   "ru": "Впервые за месяцы Заков\nудосужился со мной связаться - и\nто потому, что ему нужна услуга."
+  },
+  {
+   "id": 5,
+   "en": "I've never liked that man. I find his\nattitude even more annoying than his\naccent!",
+   "ru": "Никогда его не любила. Его\nманеры раздражают сильнее\nакцента!"
+  },
+  {
+   "id": 6,
+   "en": "Princess, I'd like to join Commander\nZakov's assault squadron, if you'll\nallow me.",
+   "ru": "Принцесса, если позволите, я\nхотел бы присоединиться к\nотряду командира Закова."
+  },
+  {
+   "id": 7,
+   "en": "Are you sure, Bastion? I thought you\ndidn't want to engage in any warfare\nagainst the Kingdom.",
+   "ru": "Ты уверен, Бастион? Я думала,\nты не хочешь воевать против\nКоролевства."
+  },
+  {
+   "id": 8,
+   "en": "And I still don't, Princess. I plan to\nobserve the battle, not join it.",
+   "ru": "И сейчас не хочу, принцесса. Я\nсобираюсь наблюдать за битвой,\nа не участвовать."
+  },
+  {
+   "id": 9,
+   "en": "I want to learn whatever I can about\nthe art of war, and this seems like an\nexcellent opportunity to do so.",
+   "ru": "Хочу научиться всему, что можно,\nв военном искусстве, и это\nотличная возможность."
+  },
+  {
+   "id": 10,
+   "en": "Indeed, it should be.",
+   "ru": "Пожалуй, так и есть."
+  },
+  {
+   "id": 11,
+   "en": "Then it's decided. Bastion and I will...",
+   "ru": "Тогда решено. Мы с Бастионом..."
+  },
+  {
+   "id": 12,
+   "en": "Princess! Can I come with you, too?\nPretty please? It'll be so much fun!",
+   "ru": "Принцесса! А можно мне тоже с\nвами? Ну пожалуйста? Будет так\nвесело!"
+  },
+  {
+   "id": 13,
+   "en": "Oh...ah...well...",
+   "ru": "Ох... ну... э-э..."
+  },
+  {
+   "id": 14,
+   "en": "Princess? Are you okay? Your face is\nturning red!",
+   "ru": "Принцесса? Вы в порядке? Вы\nпокраснели!"
+  },
+  {
+   "id": 15,
+   "en": "Alright, Cecilia! You can come along!",
+   "ru": "Ладно, Сесилия! Можешь ехать!"
+  },
+  {
+   "id": 16,
+   "en": "Franco, inform Commander Zakov\nthat Bastion, Cecilia, and myself will\nbe joining him.",
+   "ru": "Франко, сообщи командиру\nЗакову, что Бастион, Сесилия и я\nприсоединимся к нему."
+  },
+  {
+   "id": 17,
+   "en": "Your memory grows feeble, does it\nnot?",
+   "ru": "Слабеет ваша память, не так ли?"
+  },
+  {
+   "id": 18,
+   "en": "I didn't forget anything...did\nI Halak?",
+   "ru": "Я ничего не забыла... ведь так,\nХалак?"
+  },
+  {
+   "id": 19,
+   "en": "Duties have been neglected, yes.\nYou must remain here to fulfill\nyour responsibilities, Highness.",
+   "ru": "Обязанности ваши заброшены,\nда. Остаться вы должны, чтобы\nисполнить их, Высочество."
+  },
+  {
+   "id": 20,
+   "en": "Faulkner and your father will\nbe suspicious if you leave, they\nwill.",
+   "ru": "Фолкнер и ваш отец заподозрят\nнеладное, если уедете вы."
+  },
+  {
+   "id": 21,
+   "en": "Alright, already!",
+   "ru": "Ну хорошо, хорошо!"
+  },
+  {
+   "id": 22,
+   "en": "Bastion and Cecilia, meet Zakov at\nAraba Castle. I shall stay here to\ncare for my duties as Princess.",
+   "ru": "Бастион, Сесилия, встретьтесь с\nЗаковым у Арабы. А я останусь\nисполнять свой долг."
+  },
+  {
+   "id": 23,
+   "en": "I'm sorry that you can't go, Sadira.\nPlease work hard while we're gone!",
+   "ru": "Жаль, что ты не можешь поехать,\nСадира. Трудись усердно, пока\nнас нет!"
+  },
+  {
+   "id": 24,
+   "en": "I'll give you a full report when we\nreturn. Take care.",
+   "ru": "Когда вернёмся, я всё подробно\nрасскажу. Береги себя."
+  },
+  {
+   "id": 25,
+   "en": "Goodbye, Princess! Thank you so\nmuch for letting me go!",
+   "ru": "До свидания, принцесса!\nОгромное спасибо, что отпустили!"
+  },
+  {
+   "id": 26,
+   "en": "What are you smirking about, you\nwretched old hag?",
+   "ru": "Чего ухмыляешься, несносная\nстарая карга?"
+  },
+  {
+   "id": 27,
+   "en": "Your feelings lie near the surface,\nHighness. Hide them you must.",
+   "ru": "Чувства ваши на поверхности,\nВысочество. Скрывать их вы\nдолжны."
+  },
+  {
+   "id": 28,
+   "en": "Thank you for informing me of that,\nHalak! Perhaps I can have my heart\nremoved someday, as you did!",
+   "ru": "Спасибо, что сообщила, Халак!\nМожет, однажды я удалю себе\nсердце, как ты!"
+  },
+  {
+   "id": 29,
+   "en": "Princess, it's obvious to us all.\nPerhaps you should tell Bastion\nof your feelings for him...",
+   "ru": "Принцесса, это всем очевидно.\nМожет, вам стоит рассказать\nБастиону о своих чувствах..."
+  },
+  {
+   "id": 30,
+   "en": "Franco!",
+   "ru": "Франко!"
+  },
+  {
+   "id": 31,
+   "en": "Sadira must learn to take command\nof her feelings and learn to lead\nfrom the head, not the heart.",
+   "ru": "Садира должна научиться\nвладеть чувствами и править\nголовой, а не сердцем."
+  },
+  {
+   "id": 32,
+   "en": "I can't help it, Halak! I just want to\nmake her happy! Is that so wrong?!",
+   "ru": "Ничего не могу поделать, Халак!\nЯ просто хочу, чтобы она была\nсчастлива! Разве это плохо?!"
+  },
+  {
+   "id": 33,
+   "en": "Stop talking about me like I'm not\nin the room! I am here, and I'm\ntired of this. Case closed!",
+   "ru": "Хватит говорить обо мне так,\nбудто меня нет! Я здесь, и мне\nэто надоело. Разговор окончен!"
+  }
+ ]
+}

@@ -1,0 +1,16 @@
+{
+ "file": 700,
+ "kind": "story",
+ "lines": [
+  {
+   "id": 0,
+   "en": "I don't detect any ATACs, but I know\nFaulkner is here somewhere. I feel it\nin my gut.",
+   "ru": "АТАКов не видно, но я знаю, что\nФолкнер где-то здесь. Нутром\nчую."
+  },
+  {
+   "id": 1,
+   "en": "He's here, buddy. No doubt about it.\nFaulkner would sooner die than let\nus take the capital from him...",
+   "ru": "Он здесь, дружище. Без сомнений.\nФолкнер скорее умрёт, чем отдаст\nнам столицу..."
+  }
+ ]
+}

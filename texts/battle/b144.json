@@ -1,0 +1,466 @@
+{
+ "file": 144,
+ "kind": "battle",
+ "lines": [
+  {
+   "id": 0,
+   "en": "And here they are.",
+   "ru": "А вот и они."
+  },
+  {
+   "id": 1,
+   "en": "Faulkner!",
+   "ru": "Фолкнер!"
+  },
+  {
+   "id": 2,
+   "en": "What have you done with Franco and\nHalak, you scum?!",
+   "ru": "Что ты сделал с Франко и Халак,\nмерзавец?!"
+  },
+  {
+   "id": 3,
+   "en": "Princess Sadira.",
+   "ru": "Принцесса Садира."
+  },
+  {
+   "id": 4,
+   "en": "I am glad to see that you have finally\nrevealed who holds your loyalty, even\nif it happens to be the boy.",
+   "ru": "Рад видеть, что вы наконец\nпоказали, кому верны, пусть это\nи мальчишка."
+  },
+  {
+   "id": 5,
+   "en": "Loyalty?! I'm amazed you know the\nmeaning of the word, you fiend!",
+   "ru": "Верны?! Поражаюсь, что ты\nзнаешь значение этого слова,\nизверг!"
+  },
+  {
+   "id": 6,
+   "en": "Now tell me what happened to my\nfriends, and tell me NOW!",
+   "ru": "Говори, что случилось с моими\nдрузьями, говори СЕЙЧАС ЖЕ!"
+  },
+  {
+   "id": 7,
+   "en": "It's so touching to see your concern,\nSadira. If I had a heart, I'm sure it\nwould be warmed.",
+   "ru": "Как трогательна ваша забота,\nСадира. Будь у меня сердце, оно\nбы, уверен, растаяло."
+  },
+  {
+   "id": 8,
+   "en": "I have an idea. Why don't you ask\nyour friends how they're feeling?",
+   "ru": "У меня идея. Почему бы вам не\nспросить друзей, как они себя\nчувствуют?"
+  },
+  {
+   "id": 9,
+   "en": "Franco! Halak! We have company!\nDon't be shy! Say hello!",
+   "ru": "Франко! Халак! У нас гости! Не\nстесняйтесь! Поздоровайтесь!"
+  },
+  {
+   "id": 10,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 11,
+   "en": "I don't understand!",
+   "ru": "Не понимаю!"
+  },
+  {
+   "id": 12,
+   "en": "Unfortunately, I do.",
+   "ru": "К сожалению, я понимаю."
+  },
+  {
+   "id": 13,
+   "en": "The Crimson ATAC? Duke Logan?!",
+   "ru": "Кримсон? Герцог Логан?!"
+  },
+  {
+   "id": 14,
+   "en": "Franco! Halak! You're alright!",
+   "ru": "Франко! Халак! Вы целы!"
+  },
+  {
+   "id": 15,
+   "en": "...   ...   ...",
+   "ru": ""
+  },
+  {
+   "id": 16,
+   "en": "...   ...   ...",
+   "ru": ""
+  },
+  {
+   "id": 17,
+   "en": "Logan, you swore on your pride as a\nwarrior that you would never fight\nfor the Empire again!",
+   "ru": "Логан, вы клялись гордостью\nвоина, что больше никогда не\nбудете сражаться за Империю!"
+  },
+  {
+   "id": 18,
+   "en": "...   ...   ...",
+   "ru": ""
+  },
+  {
+   "id": 19,
+   "en": "Listen to me, Franco! Faulkner has\nsacrificed the people of the Imperial\ncapital! The man is insane! He--",
+   "ru": "Послушай, Франко! Фолкнер\nпринёс в жертву жителей\nстолицы! Он безумен! Он--"
+  },
+  {
+   "id": 20,
+   "en": "Save your breath, Sadira. Something\nis very, very wrong here!",
+   "ru": "Не трать слов, Садира. Здесь\nчто-то очень, очень не так!"
+  },
+  {
+   "id": 21,
+   "en": "Ha, ha, ha! From my vantage point,\nit is very, very right!",
+   "ru": "Ха-ха-ха! С моей точки зрения,\nвсё очень, очень так!"
+  },
+  {
+   "id": 22,
+   "en": "All these dear people are under the\ncontrol of the Zulwarn. They are my\npuppets to control.",
+   "ru": "Все эти милые люди под властью\nЗулварна. Они мои марионетки."
+  },
+  {
+   "id": 23,
+   "en": "And how I shall make them dance!",
+   "ru": "И как же я заставлю их плясать!"
+  },
+  {
+   "id": 24,
+   "en": "Unbelievable!",
+   "ru": "Невероятно!"
+  },
+  {
+   "id": 25,
+   "en": "Don't worry, Sadira! I'm confident\nthat we will break the spell when we\ndestroy the Zulwarn!",
+   "ru": "Не волнуйся, Садира! Уверен, мы\nразрушим чары, когда\nуничтожим Зулварн!"
+  },
+  {
+   "id": 26,
+   "en": "Confidence is one of your most\nendearing traits, Bastion--and one of\nyour greatest flaws.",
+   "ru": "Уверенность - самая милая твоя\nчерта, Бастион... и самый\nбольшой недостаток."
+  },
+  {
+   "id": 27,
+   "en": "The Zulwarn cannot be destroyed,\nand I cannot be stopped!!",
+   "ru": "Зулварн не уничтожить, а меня\nне остановить!!"
+  },
+  {
+   "id": 28,
+   "en": "Not again--!",
+   "ru": "Только не снова--!"
+  },
+  {
+   "id": 29,
+   "en": "Damn it!",
+   "ru": "Проклятье!"
+  },
+  {
+   "id": 30,
+   "en": "Aargh!!",
+   "ru": "Аргх!!"
+  },
+  {
+   "id": 31,
+   "en": "What's wrong, Bastion?!",
+   "ru": "Что с тобой, Бастион?!"
+  },
+  {
+   "id": 32,
+   "en": "Aahhh!!",
+   "ru": "А-а-а!!"
+  },
+  {
+   "id": 33,
+   "en": "Ah...ungh...",
+   "ru": "А... ох..."
+  },
+  {
+   "id": 34,
+   "en": "Bastion!",
+   "ru": "Бастион!"
+  },
+  {
+   "id": 35,
+   "en": "...   ...   ...",
+   "ru": ""
+  },
+  {
+   "id": 36,
+   "en": "Bastion?",
+   "ru": "Бастион?"
+  },
+  {
+   "id": 37,
+   "en": "Talk to us!",
+   "ru": "Ответь нам!"
+  },
+  {
+   "id": 38,
+   "en": "Well, well!",
+   "ru": "Так-так!"
+  },
+  {
+   "id": 39,
+   "en": "Your mind is unexpectedly fragile,\nPrince Bastion!",
+   "ru": "Ваш разум неожиданно хрупок,\nпринц Бастион!"
+  },
+  {
+   "id": 40,
+   "en": "Bastion! No!",
+   "ru": "Бастион! Нет!"
+  },
+  {
+   "id": 41,
+   "en": "Now then, my...friend.",
+   "ru": "Ну что ж, мой... друг."
+  },
+  {
+   "id": 42,
+   "en": "...   ...   ...",
+   "ru": ""
+  },
+  {
+   "id": 43,
+   "en": "Do you see your enemies? The ATACs\nbehind you? Good. I command you to\ndestroy them all, Bastion.",
+   "ru": "Видишь врагов? АТАКи за\nспиной? Хорошо. Приказываю\nуничтожить их всех, Бастион."
+  },
+  {
+   "id": 44,
+   "en": "You will not rest until they are dead!",
+   "ru": "Ты не успокоишься, пока они не\nумрут!"
+  },
+  {
+   "id": 45,
+   "en": "No!!",
+   "ru": "Нет!!"
+  },
+  {
+   "id": 46,
+   "en": "This can't be happening!",
+   "ru": "Этого не может быть!"
+  },
+  {
+   "id": 47,
+   "en": "Bastion, don't let him do this to you!",
+   "ru": "Бастион, не позволяй ему так с\nтобой поступать!"
+  },
+  {
+   "id": 48,
+   "en": "We are your friends, not him!",
+   "ru": "Твои друзья - мы, а не он!"
+  },
+  {
+   "id": 49,
+   "en": "Bastion! Regain control of yourself!\nFight Faulkner's power!",
+   "ru": "Бастион! Возьми себя в руки!\nБорись с силой Фолкнера!"
+  },
+  {
+   "id": 50,
+   "en": "If you are consumed by darkness, the,\nContinent will soon follow!",
+   "ru": "Если тебя поглотит тьма, за\nтобой последует и Континент!"
+  },
+  {
+   "id": 51,
+   "en": "...   ...   ...",
+   "ru": ""
+  },
+  {
+   "id": 52,
+   "en": "What are you doing, Bastion?",
+   "ru": "Что ты делаешь, Бастион?"
+  },
+  {
+   "id": 53,
+   "en": "You were the one chosen by the light!\nDo not allow Faulkner to envelop you\nin his eternal darkness!",
+   "ru": "Тебя избрал свет! Не дай\nФолкнеру окутать тебя вечной\nтьмой!"
+  },
+  {
+   "id": 54,
+   "en": "...   ...   ...",
+   "ru": ""
+  },
+  {
+   "id": 55,
+   "en": "Bastion, cast aside the foul magic of\nthe Zulwarn!",
+   "ru": "Бастион, сбрось мерзкие чары\nЗулварна!"
+  },
+  {
+   "id": 56,
+   "en": "...   ...   ...",
+   "ru": ""
+  },
+  {
+   "id": 57,
+   "en": "This should not have happened,\nBastion. Your relationships with\nyour comrades have grown weak.",
+   "ru": "Этого не должно было случиться,\nБастион. Твоя связь с\nтоварищами ослабла."
+  },
+  {
+   "id": 58,
+   "en": "Your fate is unavoidable...",
+   "ru": "Твоя участь неизбежна..."
+  },
+  {
+   "id": 59,
+   "en": "This just isn't like you, my friend!\nFaulkner has messed around with\nyour mojo!",
+   "ru": "Это на тебя не похоже, друг мой!\nФолкнер сбил тебе все настройки!"
+  },
+  {
+   "id": 60,
+   "en": "Wake up, buddy! We need you on OUR\nside, not his! Trust me on that!",
+   "ru": "Очнись, дружище! Ты нужен на\nНАШЕЙ стороне, а не на его!\nПоверь мне!"
+  },
+  {
+   "id": 61,
+   "en": "...   ...   ...",
+   "ru": ""
+  },
+  {
+   "id": 62,
+   "en": "Bastion, I usually don't spank anyone\nunless they ask me to, but I'll have to\nmake an exception in your case!",
+   "ru": "Бастион, обычно я не шлёпаю\nтех, кто не просит, но для тебя\nсделаю исключение!"
+  },
+  {
+   "id": 63,
+   "en": "I know you're stronger than this,\nBastion! I know you can fight the\nspell Faulkner has cast upon you!",
+   "ru": "Я знаю, ты сильнее этого,\nБастион! Знаю, ты можешь\nбороться с чарами Фолкнера!"
+  },
+  {
+   "id": 64,
+   "en": "Have you forgotten why we're here?\nHave you forgotten the face of your\nfather?!",
+   "ru": "Ты забыл, зачем мы здесь? Ты\nзабыл лицо своего отца?!"
+  },
+  {
+   "id": 65,
+   "en": "...   ...   ...",
+   "ru": ""
+  },
+  {
+   "id": 66,
+   "en": "Come ON, Bastion! Fight the spell!\nCome back to us!!",
+   "ru": "Ну же, Бастион! Борись с чарами!\nВернись к нам!!"
+  },
+  {
+   "id": 67,
+   "en": "Hey, Bastion!",
+   "ru": "Эй, Бастион!"
+  },
+  {
+   "id": 68,
+   "en": "What the hell is wrong with you?!\nDon't you have the strength to fight\nFaulkner's spell?!",
+   "ru": "Да что с тобой, чёрт возьми?!\nТебе не хватает сил бороться с\nчарами Фолкнера?!"
+  },
+  {
+   "id": 69,
+   "en": "Alugard is watching your actions,\nand weeping with disgust!",
+   "ru": "Алугард смотрит на тебя и\nплачет от отвращения!"
+  },
+  {
+   "id": 70,
+   "en": "...   ...   ...",
+   "ru": ""
+  },
+  {
+   "id": 71,
+   "en": "You're awful, Bastion! I thought we\nwere friends! Don't you remember all\nthe snacks we scarfed together?",
+   "ru": "Ты ужасный, Бастион! Я думал,\nмы друзья! Не помнишь, сколько\nвкусняшек мы вместе слопали?"
+  },
+  {
+   "id": 72,
+   "en": "Don't do this, Bastion! Don't forget\neverything we've fought for!",
+   "ru": "Не делай этого, Бастион! Не\nзабывай всё, за что мы боролись!"
+  },
+  {
+   "id": 73,
+   "en": "...   ...   ...",
+   "ru": ""
+  },
+  {
+   "id": 74,
+   "en": "Bastion! What's WRONG with you?!",
+   "ru": "Бастион! Что с ТОБОЙ?!"
+  },
+  {
+   "id": 75,
+   "en": "Have you forgotten about me?!",
+   "ru": "Ты что, забыл обо мне?!"
+  },
+  {
+   "id": 76,
+   "en": "...   ...   ...",
+   "ru": ""
+  },
+  {
+   "id": 77,
+   "en": "Oh, Bastion! Please come out of this\nhorrible trance! Please remember us!",
+   "ru": "Ох, Бастион! Прошу, очнись от\nэтого ужасного транса! Вспомни\nнас!"
+  },
+  {
+   "id": 78,
+   "en": "Remember me...",
+   "ru": "Вспомни меня..."
+  },
+  {
+   "id": 79,
+   "en": "...   ...   ...",
+   "ru": ""
+  },
+  {
+   "id": 80,
+   "en": "You were going to bring peace to the\nContinent, Bastion! You were going to\ndefeat Faulkner!",
+   "ru": "Ты собирался принести\nКонтиненту мир, Бастион!\nСобирался победить Фолкнера!"
+  },
+  {
+   "id": 81,
+   "en": "Awaken your memories, Bastion!",
+   "ru": "Пробуди свою память, Бастион!"
+  },
+  {
+   "id": 82,
+   "en": "Answer me!",
+   "ru": "Ответь мне!"
+  },
+  {
+   "id": 83,
+   "en": "...   ...   ...",
+   "ru": ""
+  },
+  {
+   "id": 84,
+   "en": "Yes! OH, YES!!",
+   "ru": "Да! О, ДА!!"
+  },
+  {
+   "id": 85,
+   "en": "I applaud you, Bastion! Everyone in\nthis cruel world who cared for you\nnow lies dead at your feet!",
+   "ru": "Аплодирую, Бастион! Все, кому ты\nбыл дорог, лежат мёртвыми у\nтвоих ног!"
+  },
+  {
+   "id": 86,
+   "en": "All the obstacles in my path have\nbeen removed. The Continent will\nsoon be mine to control.",
+   "ru": "Все препятствия на моём пути\nустранены. Скоро Континент\nбудет в моей власти."
+  },
+  {
+   "id": 87,
+   "en": "This sense of triumph is even greater\nthan I imagined...as is the knowledge\nthat I can do anything I want!",
+   "ru": "Это чувство триумфа даже\nсильнее, чем я представлял... как\nи осознание, что я могу всё!"
+  },
+  {
+   "id": 88,
+   "en": "How shall I wield my omnipotence\nfirst? So many choices, and so much\ntime! Ha, ha, ha, ha!",
+   "ru": "С чего начать моё\nвсемогущество? Столько\nвариантов! Ха-ха-ха!"
+  },
+  {
+   "id": 89,
+   "en": "I don't like you anymore, Bastion!\nYou're mean!!",
+   "ru": "Ты мне больше не нравишься,\nБастион! Ты злой!!"
+  },
+  {
+   "id": 90,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 91,
+   "en": "\n\n\n",
+   "ru": ""
+  }
+ ]
+}

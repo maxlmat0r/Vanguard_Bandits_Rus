@@ -1,0 +1,226 @@
+{
+ "file": 540,
+ "kind": "story",
+ "lines": [
+  {
+   "id": 0,
+   "en": "And that's the last I saw of them.",
+   "ru": "И больше я их не видела."
+  },
+  {
+   "id": 1,
+   "en": "I'm so sorry, Sadira.",
+   "ru": "Мне так жаль, Садира."
+  },
+  {
+   "id": 2,
+   "en": "I don't know if they're alive or dead,\nBastion, but if it is the former, I will\ndo anything to save them.",
+   "ru": "Не знаю, живы они или мертвы,\nБастион, но если живы, я сделаю\nвсё, чтобы их спасти."
+  },
+  {
+   "id": 3,
+   "en": "And after the atrocities Faulkner has\ncommitted against my people, I must\npunish him. I must kill him.",
+   "ru": "А после злодеяний Фолкнера\nпротив моего народа я должна\nнаказать его. Должна убить."
+  },
+  {
+   "id": 4,
+   "en": "Bastion, I ask you...I beg you...",
+   "ru": "Бастион, я прошу тебя... умоляю..."
+  },
+  {
+   "id": 5,
+   "en": "Allow me to join you! Allow me to\nvisit justice upon Faulkner!",
+   "ru": "Позволь мне присоединиться!\nПозволь свершить правосудие\nнад Фолкнером!"
+  },
+  {
+   "id": 6,
+   "en": "{02}Of course, Sadira.{00}{00}I'm sorry, Sadira.{00}",
+   "ru": "{02}Конечно, Садира.{00}{00}Прости, Садира.{00}"
+  },
+  {
+   "id": 7,
+   "en": "Bastion\nOf course, Sadira. It would be our\nhonor if you joined us. I only wish\nyou had done this sooner!",
+   "ru": "Конечно, Садира. Для нас честь,\nчто ты с нами. Жаль лишь, что\nты не пришла раньше!"
+  },
+  {
+   "id": 8,
+   "en": "Are you sure, Bastion?",
+   "ru": "Ты уверен, Бастион?"
+  },
+  {
+   "id": 9,
+   "en": "Does anyone here object to Princess\nSadira joining our party?",
+   "ru": "Кто-нибудь возражает, чтобы\nпринцесса Садира\nприсоединилась к нам?"
+  },
+  {
+   "id": 10,
+   "en": "Why are you asking, Bastion? Even if\nwe said no, you'd just bring her with\nus anyway!",
+   "ru": "Зачем спрашивать, Бастион?\nДаже скажи мы \"нет\", ты бы всё\nравно её взял!"
+  },
+  {
+   "id": 11,
+   "en": "Am I right?",
+   "ru": "Я прав?"
+  },
+  {
+   "id": 12,
+   "en": "Yes, you are. In this case, I would\nabuse my power.",
+   "ru": "Прав. В этом случае я\nзлоупотреблю властью."
+  },
+  {
+   "id": 13,
+   "en": "Thank you, Bastion.",
+   "ru": "Спасибо, Бастион."
+  },
+  {
+   "id": 14,
+   "en": "Don't worry about it, Sadira.",
+   "ru": "Не беспокойся, Садира."
+  },
+  {
+   "id": 15,
+   "en": "Well, Bastion, it's time.",
+   "ru": "Что ж, Бастион, пора."
+  },
+  {
+   "id": 16,
+   "en": "Yes, Zeira, it is.",
+   "ru": "Да, Зейра, пора."
+  },
+  {
+   "id": 17,
+   "en": "Let's go, everyone.",
+   "ru": "Вперёд, все."
+  },
+  {
+   "id": 18,
+   "en": "{02}Let's bring peace to the Continent!{00}{00}Let's bring an end to Faulkner's life!{00}",
+   "ru": "{02}Принесём мир Континенту!{00}{00}Покончим с Фолкнером!{00}"
+  },
+  {
+   "id": 19,
+   "en": "Let's bring this war to an end.",
+   "ru": "Положим конец этой войне."
+  },
+  {
+   "id": 20,
+   "en": "Let's bring peace to the Continent!",
+   "ru": "Принесём мир Континенту!"
+  },
+  {
+   "id": 21,
+   "en": "Let's put a stop to the madness that\nhas infected the Junaris Empire.",
+   "ru": "Остановим безумие, охватившее\nИмперию Джунарис."
+  },
+  {
+   "id": 22,
+   "en": "Let's bring an end to Faulkner's life!",
+   "ru": "Покончим с Фолкнером!"
+  },
+  {
+   "id": 23,
+   "en": "I'm sorry, Sadira, but I just don't\nthink that's a good idea.",
+   "ru": "Прости, Садира, но, по-моему, это\nплохая мысль."
+  },
+  {
+   "id": 24,
+   "en": "Why not, Bastion? Tell me why not!!",
+   "ru": "Почему, Бастион? Скажи, почему!!"
+  },
+  {
+   "id": 25,
+   "en": "Please stay calm, Sadira. There's no\nneed to get upset.",
+   "ru": "Успокойся, Садира. Не нужно\nрасстраиваться."
+  },
+  {
+   "id": 26,
+   "en": "While we defeat Faulkner, you can\nlocate Franco and Halak. Don't you\nthink that makes more sense?",
+   "ru": "Пока мы побеждаем Фолкнера, ты\nнайдёшь Франко и Халак. Разве\nтак не разумнее?"
+  },
+  {
+   "id": 27,
+   "en": "No, I don't!! Bastion, I'm going to\nkeep screaming until you reverse\nyour ridiculous decision!",
+   "ru": "Нет!! Бастион, я буду кричать,\nпока ты не отменишь своё\nнелепое решение!"
+  },
+  {
+   "id": 28,
+   "en": "Uh, Bastion, in the interest of sparing\nour eardrums further torment...",
+   "ru": "Э-э, Бастион, ради спасения\nнаших ушей от дальнейших мук..."
+  },
+  {
+   "id": 29,
+   "en": "Why don't you allow Sadira to come\nalong with us? She DOES have a very\npowerful ATAC.",
+   "ru": "Почему бы не взять Садиру с\nсобой? У неё ВЕДЬ очень мощный\nАТАК."
+  },
+  {
+   "id": 30,
+   "en": "It's quite unlike you to refuse the\nrequest of a woman, not to mention\nextremely dangerous.",
+   "ru": "Отказывать женщине на тебя не\nпохоже, не говоря уже о том, как\nэто опасно."
+  },
+  {
+   "id": 31,
+   "en": "Devlin has a point, however sexist\nhis joke may be.",
+   "ru": "Девлин прав, хоть шутка у него и\nсомнительная."
+  },
+  {
+   "id": 32,
+   "en": "We need as much help as we can get,\nBastion. We're hardly in a position to\nturn down her offer. Are we?",
+   "ru": "Нам нужна любая помощь,\nБастион. Мы не в том положении,\nчтобы отказываться. Не так ли?"
+  },
+  {
+   "id": 33,
+   "en": "No, I suppose we're not.",
+   "ru": "Пожалуй, не в том."
+  },
+  {
+   "id": 34,
+   "en": "Alright, Sadira. You may join us.\nI apologize for my earlier reaction.",
+   "ru": "Хорошо, Садира. Ты можешь идти\nс нами. Прости за мою прежнюю\nреакцию."
+  },
+  {
+   "id": 35,
+   "en": "I just...I didn't want you risking your\nlife as well. I've already lost so many\npeople I care about.",
+   "ru": "Я просто... не хотел, чтобы и ты\nрисковала жизнью. Я уже потерял\nстольких дорогих мне людей."
+  },
+  {
+   "id": 36,
+   "en": "We all have, Bastion. And that's why\nwe shall send Faulkner into Hell,\nwhere he belongs.",
+   "ru": "Мы все потеряли, Бастион. Потому\nмы и отправим Фолкнера в ад,\nгде ему самое место."
+  },
+  {
+   "id": 37,
+   "en": "Indeed, Zeira. We're going to send\nhim back home.",
+   "ru": "Именно, Зейра. Отправим его\nдомой."
+  },
+  {
+   "id": 38,
+   "en": "Let's go, everyone.",
+   "ru": "Вперёд, все."
+  },
+  {
+   "id": 39,
+   "en": "{02}Let's bring peace to the Continent!{00}{00}Let's bring an end to Faulkner's life!{00}",
+   "ru": "{02}Принесём мир Континенту!{00}{00}Покончим с Фолкнером!{00}"
+  },
+  {
+   "id": 40,
+   "en": "Let's bring this war to an end.",
+   "ru": "Положим конец этой войне."
+  },
+  {
+   "id": 41,
+   "en": "Let's bring peace to the Continent!",
+   "ru": "Принесём мир Континенту!"
+  },
+  {
+   "id": 42,
+   "en": "Let's put a stop to the madness that\nhas infected the Junaris Empire.",
+   "ru": "Остановим безумие, охватившее\nИмперию Джунарис."
+  },
+  {
+   "id": 43,
+   "en": "Let's bring an end to Faulkner's life!",
+   "ru": "Покончим с Фолкнером!"
+  }
+ ]
+}

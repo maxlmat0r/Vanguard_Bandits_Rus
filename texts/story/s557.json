@@ -1,0 +1,151 @@
+{
+ "file": 557,
+ "kind": "story",
+ "lines": [
+  {
+   "id": 0,
+   "en": "I apologize for my subordinate's\nbehavior, Princess Sadira. He tends\nto act before thinking.",
+   "ru": "Прошу прощения за поведение\nподчинённого, принцесса Садира.\nОн склонен действовать не думая."
+  },
+  {
+   "id": 1,
+   "en": "Then again, with the daughter of\nour enemy's leader in your party,\nI cannot entirely blame him.",
+   "ru": "Впрочем, когда в вашем отряде\nдочь вождя наших врагов, его\nтрудно винить."
+  },
+  {
+   "id": 2,
+   "en": "I apologize as well, Lord Alden. I\nshould have realized the emotions\nClaire's presence would elicit.",
+   "ru": "И вы простите меня, лорд Олден.\nМне следовало понять, какие\nчувства вызовет Клэр."
+  },
+  {
+   "id": 3,
+   "en": "Now, then, let us discuss what led me\nto seek an audience with you.",
+   "ru": "Итак, поговорим о том, зачем я\nпросила о встрече с вами."
+  },
+  {
+   "id": 4,
+   "en": "An alliance with the Empire? A peace\ntreaty between all the nations of the\nContinent?",
+   "ru": "Союз с Империей? Мирный\nдоговор между всеми странами\nКонтинента?"
+  },
+  {
+   "id": 5,
+   "en": "Yes, Lord Alden. That is my dream...\nand with your help, I can make it a\nreality.",
+   "ru": "Да, лорд Олден. Это моя мечта... и\nс вашей помощью я могу её\nосуществить."
+  },
+  {
+   "id": 6,
+   "en": "Your arguments have a great deal of\nmerit, and you are quite passionate\nabout your cause. However...",
+   "ru": "В ваших доводах много здравого,\nи вы преданы своему делу.\nОднако..."
+  },
+  {
+   "id": 7,
+   "en": "I cannot form an alliance with the\nEmpire, Sadira, nor will I sign any\npeace treaty.",
+   "ru": "Я не могу заключить союз с\nИмперией, Садира, и не подпишу\nникакого договора."
+  },
+  {
+   "id": 8,
+   "en": "Wh...and would you be so gracious as\nto explain why not?",
+   "ru": "Ч... и не будете ли вы любезны\nобъяснить почему?"
+  },
+  {
+   "id": 9,
+   "en": "This is a most delicate time, Princess\nSadira. Many events are about to be\nset into motion.",
+   "ru": "Сейчас очень деликатное время,\nпринцесса. Многое вот-вот\nпридёт в движение."
+  },
+  {
+   "id": 10,
+   "en": "To ally myself with you would be to\njeopardize all that I have worked so\nlong to achieve. Besides...",
+   "ru": "Союз с вами поставил бы под\nугрозу всё, к чему я так долго\nшёл. К тому же..."
+  },
+  {
+   "id": 11,
+   "en": "What?",
+   "ru": "Что?"
+  },
+  {
+   "id": 12,
+   "en": "If events unfold as I predict, there is\na strong possibility that the Empire\nand I will become bitter enemies.",
+   "ru": "Если всё пойдёт, как я предвижу,\nмы с Империей, скорее всего,\nстанем заклятыми врагами."
+  },
+  {
+   "id": 13,
+   "en": "Oh.",
+   "ru": "Ох."
+  },
+  {
+   "id": 14,
+   "en": "(Sadira...)",
+   "ru": "(Садира...)"
+  },
+  {
+   "id": 15,
+   "en": "I thank you for your honesty in these\nmatters, Lord Alden. I will take leave\nof you now.",
+   "ru": "Благодарю за откровенность,\nлорд Олден. Позвольте\nоткланяться."
+  },
+  {
+   "id": 16,
+   "en": "Hey, you! Bastion!",
+   "ru": "Эй, ты! Бастион!"
+  },
+  {
+   "id": 17,
+   "en": "When did you become an ally of the\nEmpire, and become friends with the\nImperial Princess?",
+   "ru": "Когда ты успел стать союзником\nИмперии и подружиться с\nимперской принцессой?"
+  },
+  {
+   "id": 18,
+   "en": "When I saw you last, you were\nchasing after an Imperial ATAC\nto gain revenge for your father!",
+   "ru": "В прошлый раз ты гнался за\nимперским АТАКом, чтобы\nотомстить за отца!"
+  },
+  {
+   "id": 19,
+   "en": "I have not forgotten my oath! I will\nhave revenge for my father in time,\nrest assured of that.",
+   "ru": "Я не забыл своей клятвы! Я\nотомщу за отца в своё время,\nбудь уверен."
+  },
+  {
+   "id": 20,
+   "en": "But I've learned much about myself\nsince I saw you last, Devlin. Perhaps\nmore than I wanted to know.",
+   "ru": "Но с нашей последней встречи я\nмногое о себе узнал, Девлин.\nПожалуй, больше, чем хотел."
+  },
+  {
+   "id": 21,
+   "en": "The entire Continent will be affected\nby the decisions you make from this\nday onward.",
+   "ru": "С этого дня твои решения\nзатронут весь Континент."
+  },
+  {
+   "id": 22,
+   "en": "You might not want to accept your\nlineage, or the responsibility that\ncomes with it, but you must.",
+   "ru": "Можешь не хотеть принимать\nсвоё происхождение и\nответственность, но ты должен."
+  },
+  {
+   "id": 23,
+   "en": "Indecision is weakness. Indecision is\nwithout honor. Is that the legacy you\ndesire, Prince Bastion?",
+   "ru": "Нерешительность - слабость, в\nней нет чести. Такого наследия\nты хочешь, принц Бастион?"
+  },
+  {
+   "id": 24,
+   "en": "You...you know who I am?",
+   "ru": "Вы... знаете, кто я?"
+  },
+  {
+   "id": 25,
+   "en": "(Why does it seem as though everyone\nknew my true identity except me?)",
+   "ru": "(Почему кажется, будто все\nзнали, кто я, кроме меня?)"
+  },
+  {
+   "id": 26,
+   "en": "Make a choice, Bastion, and step onto\nthe path of your destiny.",
+   "ru": "Сделай выбор, Бастион, и вступи\nна путь своей судьбы."
+  },
+  {
+   "id": 27,
+   "en": "You make it sound so simple, Lord\nAlden, as if I could flip a coin and\ngladly accept either result.",
+   "ru": "У вас всё так просто, лорд Олден,\nбудто я могу бросить монетку и\nпринять любой исход."
+  },
+  {
+   "id": 28,
+   "en": "But you don't understand how I feel.\nNo one does...",
+   "ru": "Но вы не понимаете, что я\nчувствую. Никто не понимает..."
+  }
+ ]
+}

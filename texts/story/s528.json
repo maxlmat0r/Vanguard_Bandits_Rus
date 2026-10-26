@@ -1,0 +1,286 @@
+{
+ "file": 528,
+ "kind": "story",
+ "lines": [
+  {
+   "id": 0,
+   "en": "Milea...",
+   "ru": "Милея..."
+  },
+  {
+   "id": 1,
+   "en": "I'm so happy to see you safe. When\nGalvas was unable to find you, we\nall feared the worst.",
+   "ru": "Я так рад, что ты цела. Когда\nГальвас не смог тебя найти, мы\nвсе боялись худшего."
+  },
+  {
+   "id": 2,
+   "en": "I'm happy to see you, too, Bastion.",
+   "ru": "Я тоже рада тебя видеть,\nБастион."
+  },
+  {
+   "id": 3,
+   "en": "I'm sorry that I caused you so much\ntrouble at the temple. I almost cost\nyou and your friends their lives!",
+   "ru": "Прости, что доставила столько\nхлопот у храма. Из-за меня вы с\nдрузьями чуть не погибли!"
+  },
+  {
+   "id": 4,
+   "en": "I was pathetic for allowing myself to\nbe captured and used against you.",
+   "ru": "Как жалко было позволить себя\nсхватить и использовать против\nтебя."
+  },
+  {
+   "id": 5,
+   "en": "I couldn't bear to face you then, and\nI can't even bear to face you now!",
+   "ru": "Тогда я не могла смотреть тебе в\nглаза, и даже сейчас не могу!"
+  },
+  {
+   "id": 6,
+   "en": "It wasn't your fault, Milea! I was at\nfault for not protecting you in such a\ndangerous situation!",
+   "ru": "Ты не виновата, Милея! Это я\nвиноват, что не защитил тебя в\nтакой опасности!"
+  },
+  {
+   "id": 7,
+   "en": "All this time, I thought that you were\nupset with me, but you're only upset\nwith yourself!",
+   "ru": "А я всё это время думал, что ты\nзлишься на меня, а ты злишься\nна себя!"
+  },
+  {
+   "id": 8,
+   "en": "I forgive you, Bastion. As long as you\nforgive me.",
+   "ru": "Я прощаю тебя, Бастион. Если ты\nпростишь меня."
+  },
+  {
+   "id": 9,
+   "en": "Of course, Milea--if you promise to\nexplain how you ended up here.",
+   "ru": "Конечно, Милея, - если\nрасскажешь, как ты здесь\nоказалась."
+  },
+  {
+   "id": 10,
+   "en": "Well...after Faulkner released me, I\nwas so upset with myself that I ran\nblindly away from the battle.",
+   "ru": "Когда Фолкнер меня отпустил, я\nтак злилась на себя, что бежала\nкуда глаза глядят."
+  },
+  {
+   "id": 11,
+   "en": "There were so many tears in my eyes\nthat the world in front of me was a\nblur of brown and green.",
+   "ru": "Слёзы застилали глаза, и всё\nпередо мной расплывалось\nбурыми и зелёными пятнами."
+  },
+  {
+   "id": 12,
+   "en": "I never saw the cliff, Bastion. I only\nfelt myself fall through the air and\nsmash into the ground.",
+   "ru": "Я не заметила обрыва, Бастион.\nТолько почувствовала, как падаю\nи ударяюсь о землю."
+  },
+  {
+   "id": 13,
+   "en": "Were you injured?!",
+   "ru": "Ты ранилась?!"
+  },
+  {
+   "id": 14,
+   "en": "Most definitely...but I was found by\nLord Alden and Melior as they were\nreturning to Hibernia.",
+   "ru": "Ещё как... но меня нашли лорд\nОлден и Мелиор, возвращавшиеся\nв Хибернию."
+  },
+  {
+   "id": 15,
+   "en": "They tended to my injuries, and I\nasked them for asylum, because I\nwas too distraught to face you.",
+   "ru": "Они вылечили меня, и я\nпопросила убежища: мне было\nстыдно возвращаться к тебе."
+  },
+  {
+   "id": 16,
+   "en": "They agreed, and brought me here\nto recuperate. Then I made another\nrequest of them, Bastion.",
+   "ru": "Они привезли меня сюда\nпоправляться. А потом я\nпопросила их ещё кое о чём."
+  },
+  {
+   "id": 17,
+   "en": "I asked them to teach me how to use\nan ATAC.",
+   "ru": "Я попросила научить меня\nводить АТАК."
+  },
+  {
+   "id": 18,
+   "en": "You're not serious, are you?",
+   "ru": "Ты ведь не всерьёз?"
+  },
+  {
+   "id": 19,
+   "en": "I didn't want to be helpless anymore.\nI wanted to feel useful, and I wanted\nto help you.",
+   "ru": "Я больше не хотела быть\nбеспомощной. Хотела быть\nполезной и помогать тебе."
+  },
+  {
+   "id": 20,
+   "en": "Alden and Melior were very patient,\nand taught me very well. They say I\nhave a gift for piloting ATACs!",
+   "ru": "Олден и Мелиор терпеливо меня\nучили. Говорят, у меня талант к\nАТАКам!"
+  },
+  {
+   "id": 21,
+   "en": "Bastion, allow me to fight with you.\nI want to help you defeat the Empire!",
+   "ru": "Бастион, позволь мне сражаться с\nтобой. Я хочу помочь тебе\nпобедить Империю!"
+  },
+  {
+   "id": 22,
+   "en": "I want to make amends for all the\ntrouble I caused you, and I want to\nshare in your triumphs. Please...",
+   "ru": "Я хочу загладить вину за все\nхлопоты и разделить с тобой\nпобеды. Прошу..."
+  },
+  {
+   "id": 23,
+   "en": "{02}Of course, Milea. I would be honored.{00}{00}I'm sorry, Milea, but I can't do that.{00}",
+   "ru": "{02}Конечно, Милея. Почту за честь.{00}{00}Прости, Милея, но я не могу.{00}"
+  },
+  {
+   "id": 24,
+   "en": "Of course, Milea. I would be honored.",
+   "ru": "Конечно, Милея. Почту за честь."
+  },
+  {
+   "id": 25,
+   "en": "Just promise me you won't outpilot\nme too badly in front of the others!",
+   "ru": "Только обещай не слишком\nобставлять меня при остальных!"
+  },
+  {
+   "id": 26,
+   "en": "Ha, ha, ha! I'll certainly try not to\nembarrass you, Bastion!",
+   "ru": "Ха-ха-ха! Постараюсь тебя не\nпозорить, Бастион!"
+  },
+  {
+   "id": 27,
+   "en": "Bastion! We're under attack!",
+   "ru": "Бастион! На нас напали!"
+  },
+  {
+   "id": 28,
+   "en": "Well, Milea? Are you sure that you're\nready for this?",
+   "ru": "Ну что, Милея? Ты точно к этому\nготова?"
+  },
+  {
+   "id": 29,
+   "en": "Yes, Bastion. I want nothing more\nthan the chance to fight by your\nside.",
+   "ru": "Да, Бастион. Больше всего на\nсвете я хочу сражаться рядом с\nтобой."
+  },
+  {
+   "id": 30,
+   "en": "Then let's go!",
+   "ru": "Тогда вперёд!"
+  },
+  {
+   "id": 31,
+   "en": "Thank you, Bastion...",
+   "ru": "Спасибо, Бастион..."
+  },
+  {
+   "id": 32,
+   "en": "I'm sorry, Milea, but I can't do that.",
+   "ru": "Прости, Милея, но я не могу."
+  },
+  {
+   "id": 33,
+   "en": "Why not, Bastion?!",
+   "ru": "Почему, Бастион?!"
+  },
+  {
+   "id": 34,
+   "en": "I have been trained by Lord Alden\nand Melior, his strongest warrior!\nI am more than capable!",
+   "ru": "Меня учили лорд Олден и Мелиор,\nего сильнейший воин! Я более чем\nспособна!"
+  },
+  {
+   "id": 35,
+   "en": "I have no doubt that you are, Milea,\nbut I don't want you to be a part of\nthis battle.",
+   "ru": "Не сомневаюсь, Милея, но я не\nхочу, чтобы ты участвовала в\nэтой битве."
+  },
+  {
+   "id": 36,
+   "en": "I want you to wait in the capital city\nuntil this war is over.",
+   "ru": "Я хочу, чтобы ты ждала в\nстолице, пока не закончится\nвойна."
+  },
+  {
+   "id": 37,
+   "en": "Bastion, I don't understand!",
+   "ru": "Бастион, я не понимаю!"
+  },
+  {
+   "id": 38,
+   "en": "I have already lost so many friends\nin this war, Milea. People I deeply\ncare about. People I love.",
+   "ru": "Я уже потерял на этой войне\nмногих друзей, Милея. Тех, кто\nмне дорог. Кого я люблю."
+  },
+  {
+   "id": 39,
+   "en": "I already thought you were lost to me\nonce before, and I could not bear it if\nyou were lost a second time.",
+   "ru": "Однажды я уже думал, что\nпотерял тебя, и не вынесу, если\nэто случится снова."
+  },
+  {
+   "id": 40,
+   "en": "I love you, Milea. I don't want you\nplaced in danger. I want to end this\nwar and come home to you.",
+   "ru": "Я люблю тебя, Милея. Не хочу,\nчтобы ты рисковала. Хочу\nзакончить войну и вернуться."
+  },
+  {
+   "id": 41,
+   "en": "Oh...",
+   "ru": "Ох..."
+  },
+  {
+   "id": 42,
+   "en": "Alright, Bastion. If you want me to\nwait for you, I will.",
+   "ru": "Хорошо, Бастион. Если хочешь,\nчтобы я ждала, я буду ждать."
+  },
+  {
+   "id": 43,
+   "en": "I love you too, Bastion.",
+   "ru": "Я тоже люблю тебя, Бастион."
+  },
+  {
+   "id": 44,
+   "en": "Milea...",
+   "ru": "Милея..."
+  },
+  {
+   "id": 45,
+   "en": "Yes, Bastion?",
+   "ru": "Да, Бастион?"
+  },
+  {
+   "id": 46,
+   "en": "Have I told you how beautiful you\nlook in the moonlight?",
+   "ru": "Я говорил тебе, как ты прекрасна\nв лунном свете?"
+  },
+  {
+   "id": 47,
+   "en": "We're under attack! Bastion, where...",
+   "ru": "На нас напали! Бастион, где..."
+  },
+  {
+   "id": 48,
+   "en": "...are you?",
+   "ru": "...ты?"
+  },
+  {
+   "id": 49,
+   "en": "I'm sorry, Bastion! I didn't mean to\ninterrupt your...conversation!",
+   "ru": "Ой, прости, Бастион! Я не хотела\nпрерывать вашу... беседу!"
+  },
+  {
+   "id": 50,
+   "en": "What are you implying, Reyna? Milea\nand I were just kiss--uh, catching\nup!",
+   "ru": "На что ты намекаешь, Рейна? Мы\nс Милеей просто целова... э-э,\nобщались!"
+  },
+  {
+   "id": 51,
+   "en": "Oh, really? Is THAT what you kids\nare calling it these days?",
+   "ru": "Ах, вот как? Так ЭТО у вас теперь\nтак называется?"
+  },
+  {
+   "id": 52,
+   "en": "Reyna!",
+   "ru": "Рейна!"
+  },
+  {
+   "id": 53,
+   "en": "See you on the battlefield, stud boy!",
+   "ru": "Увидимся на поле боя, сердцеед!"
+  },
+  {
+   "id": 54,
+   "en": "Uh...I have to go, Milea. Take care of\nyourself, alright?",
+   "ru": "Э-э... мне пора, Милея. Береги\nсебя, ладно?"
+  },
+  {
+   "id": 55,
+   "en": "Of course, Bastion. Be careful!",
+   "ru": "Конечно, Бастион. Будь\nосторожен!"
+  }
+ ]
+}

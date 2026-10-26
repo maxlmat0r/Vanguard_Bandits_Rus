@@ -1,0 +1,346 @@
+{
+ "file": 403,
+ "kind": "quip",
+ "lines": [
+  {
+   "id": 0,
+   "en": "From the left side?!",
+   "ru": "С левого бока?!"
+  },
+  {
+   "id": 1,
+   "en": "You aren't all that!",
+   "ru": "Не так уж ты и крут!"
+  },
+  {
+   "id": 2,
+   "en": "From the right side?!",
+   "ru": "С правого бока?!"
+  },
+  {
+   "id": 3,
+   "en": "You don't impress me!",
+   "ru": "Ты меня не\nвпечатлил!"
+  },
+  {
+   "id": 4,
+   "en": "Uhhh!",
+   "ru": "У-у-ух!"
+  },
+  {
+   "id": 5,
+   "en": "Was that an attack or\na love tap?",
+   "ru": "Это была атака или\nласка?"
+  },
+  {
+   "id": 6,
+   "en": "That attack won't even\nmake a dent!",
+   "ru": "Этот удар и\nвмятины не оставит!"
+  },
+  {
+   "id": 7,
+   "en": "What's wrong? Realized\nhow hard you suck?",
+   "ru": "Что такое? Понял,\nкакой ты отстой?"
+  },
+  {
+   "id": 8,
+   "en": "Owww!",
+   "ru": "Ай-ай!"
+  },
+  {
+   "id": 9,
+   "en": "You're pretty good for\na spineless worm!",
+   "ru": "Неплохо для\nбесхребетного червя!"
+  },
+  {
+   "id": 10,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 11,
+   "en": "You tried to kill me!\nYou bastard!",
+   "ru": "Ты хотел меня убить!\nМерзавец!"
+  },
+  {
+   "id": 12,
+   "en": "AARGH!!",
+   "ru": "АРГХ!!"
+  },
+  {
+   "id": 13,
+   "en": "Should I be bleeding\nfrom that?",
+   "ru": "Мне что, кровью\nистекать от этого?"
+  },
+  {
+   "id": 14,
+   "en": "Wh--what are you?!",
+   "ru": "Ч... что ты такое?!"
+  },
+  {
+   "id": 15,
+   "en": "I didn't realize how\nmuch pain I can endure!",
+   "ru": "Не знал, что могу\nстолько вытерпеть!"
+  },
+  {
+   "id": 16,
+   "en": "Calgon, take me away!",
+   "ru": "Мамочки, забери\nменя отсюда!"
+  },
+  {
+   "id": 17,
+   "en": "Scavengers will tear\nmy ATAC apart!",
+   "ru": "Мой АТАК растащат\nмародёры!"
+  },
+  {
+   "id": 18,
+   "en": "Where were my friends\nwhen I needed them?!",
+   "ru": "Где же мои\nдрузья?!"
+  },
+  {
+   "id": 19,
+   "en": "Oh no, oh no, oh NOOO!!!",
+   "ru": "Ой нет, ой нет, ой\nНЕ-Е-ЕТ!!!"
+  },
+  {
+   "id": 20,
+   "en": "From behind?!",
+   "ru": "Сзади?!"
+  },
+  {
+   "id": 21,
+   "en": "What are you up to,\ncoward?!",
+   "ru": "Что задумал, трус?!"
+  },
+  {
+   "id": 22,
+   "en": "A foolish attack\nfrom, er, a fool!",
+   "ru": "Глупая атака от...\nэ-э, глупца!"
+  },
+  {
+   "id": 23,
+   "en": "You lack both skill\nand strength!",
+   "ru": "Ни умения, ни силы!"
+  },
+  {
+   "id": 24,
+   "en": "Too bad, eh? You hoser!",
+   "ru": "Не повезло, а?\nЧучело!"
+  },
+  {
+   "id": 25,
+   "en": "What a tremendous\nmiss! Bravo!",
+   "ru": "Какой потрясающий\nпромах! Браво!"
+  },
+  {
+   "id": 26,
+   "en": "What?! How dare you!",
+   "ru": "Что?! Да как ты\nсмеешь!"
+  },
+  {
+   "id": 27,
+   "en": "Damn it! I knew that\nwas too slow!",
+   "ru": "Чёрт! Знал же, что\nслишком медленно!"
+  },
+  {
+   "id": 28,
+   "en": "Did I say that you\ncould dodge? Did I?!",
+   "ru": "Кто разрешал\nуворачиваться?!"
+  },
+  {
+   "id": 29,
+   "en": "Ugh!",
+   "ru": "Угх!"
+  },
+  {
+   "id": 30,
+   "en": "You won't hurt me\nwith that!",
+   "ru": "Этим ты меня не\nранишь!"
+  },
+  {
+   "id": 31,
+   "en": "A valiant effort\nfrom a born loser!",
+   "ru": "Храбро, хоть\nи неудачник!"
+  },
+  {
+   "id": 32,
+   "en": "Ooooff!!",
+   "ru": "У-у-уф!!"
+  },
+  {
+   "id": 33,
+   "en": "Aaaugh!!",
+   "ru": "А-а-ах!!"
+  },
+  {
+   "id": 34,
+   "en": "You leave yourself\nwide open!",
+   "ru": "Ты весь нараспашку!"
+  },
+  {
+   "id": 35,
+   "en": "This is too easy!",
+   "ru": "Слишком легко!"
+  },
+  {
+   "id": 36,
+   "en": "I won't let you hurt\nthis lovely ATAC!",
+   "ru": "Не дам портить мой\nмилый АТАК!"
+  },
+  {
+   "id": 37,
+   "en": "You insult me!",
+   "ru": "Ты меня\nоскорбляешь!"
+  },
+  {
+   "id": 38,
+   "en": "I knew what you were\nplanning, fool!",
+   "ru": "Я знал, что ты\nзадумал, глупец!"
+  },
+  {
+   "id": 39,
+   "en": "Damn you!",
+   "ru": "Чтоб тебя!"
+  },
+  {
+   "id": 40,
+   "en": "Excellent! More parts\nfor the scrap heap!",
+   "ru": "Отлично! Ещё\nзапчасти на свалку!"
+  },
+  {
+   "id": 41,
+   "en": "Serves you right for\nattacking me!",
+   "ru": "Так тебе и надо!"
+  },
+  {
+   "id": 42,
+   "en": "Your ATAC is worth\nmore than your life!",
+   "ru": "Твой АТАК стоит\nдороже твоей жизни!"
+  },
+  {
+   "id": 43,
+   "en": "A bandit's life is\nthe one for me!",
+   "ru": "Жизнь бандита —\nвот это по мне!"
+  },
+  {
+   "id": 44,
+   "en": "Haaaah!",
+   "ru": "Ха-а-а!"
+  },
+  {
+   "id": 45,
+   "en": "Yaaaah!",
+   "ru": "Йа-а-а!"
+  },
+  {
+   "id": 46,
+   "en": "Here I come!",
+   "ru": "Иду!"
+  },
+  {
+   "id": 47,
+   "en": "Take THIS!",
+   "ru": "Получай!"
+  },
+  {
+   "id": 48,
+   "en": "Judo CHOP!",
+   "ru": "Дзюдо-РУБКА!"
+  },
+  {
+   "id": 49,
+   "en": "Here we go!",
+   "ru": "Поехали!"
+  },
+  {
+   "id": 50,
+   "en": "Your ATAC will be mine!\nIt WILL be mine!",
+   "ru": "Твой АТАК будет\nмоим! БУДЕТ моим!"
+  },
+  {
+   "id": 51,
+   "en": "I'll give you the\ndeath you deserve!",
+   "ru": "Ты получишь\nзаслуженную смерть!"
+  },
+  {
+   "id": 52,
+   "en": "I'll strip you of what\nlittle dignity you have!",
+   "ru": "Лишу тебя\nостатков чести!"
+  },
+  {
+   "id": 53,
+   "en": "You shouldn't get\nin my way, fool!",
+   "ru": "Не стой у меня на\nпути, глупец!"
+  },
+  {
+   "id": 54,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 55,
+   "en": "What the hell?!",
+   "ru": "Какого чёрта?!"
+  },
+  {
+   "id": 56,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 57,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 58,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 59,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 60,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 61,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 62,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 63,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 64,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 65,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 66,
+   "en": "",
+   "ru": ""
+  },
+  {
+   "id": 67,
+   "en": "",
+   "ru": ""
+  }
+ ]
+}

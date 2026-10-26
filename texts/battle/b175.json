@@ -1,0 +1,216 @@
+{
+ "file": 175,
+ "kind": "battle",
+ "lines": [
+  {
+   "id": 0,
+   "en": "I see Zeira and Faulkner!",
+   "ru": "Вижу Зейру и Фолкнера!"
+  },
+  {
+   "id": 1,
+   "en": "This must be the vast majority of the\nKingdom Army.",
+   "ru": "Здесь, должно быть, почти вся\nармия Королевства."
+  },
+  {
+   "id": 2,
+   "en": "Well, this is a surprise...",
+   "ru": "Вот так сюрприз..."
+  },
+  {
+   "id": 3,
+   "en": "Prince Bastion and the others!",
+   "ru": "Принц Бастион и остальные!"
+  },
+  {
+   "id": 4,
+   "en": "Your Highness!",
+   "ru": "Ваше Высочество!"
+  },
+  {
+   "id": 5,
+   "en": "Where have you all BEEN?",
+   "ru": "Где вы все БЫЛИ?"
+  },
+  {
+   "id": 6,
+   "en": "It's a very long story, Duke Zeira.",
+   "ru": "Очень долгая история, герцог\nЗейра."
+  },
+  {
+   "id": 7,
+   "en": "Perhaps that's best saved until\nafter we've decimated the Imperial\nArmy, then.",
+   "ru": "Тогда, пожалуй, прибережём её до\nразгрома имперской армии."
+  },
+  {
+   "id": 8,
+   "en": "(Kingdom reinforcements? I thought\nthis was practically every ATAC they\ncould scrounge up.)",
+   "ru": "(Подкрепление Королевства? Я\nдумал, это почти все АТАКи, что\nони смогли наскрести.)"
+  },
+  {
+   "id": 9,
+   "en": "It's Sadira and her new 'friends.'",
+   "ru": "Это Садира и её новые \"друзья\"."
+  },
+  {
+   "id": 10,
+   "en": "Strike them down, Faulkner! Every\none of them!",
+   "ru": "Порази их, Фолкнер! Всех до\nодного!"
+  },
+  {
+   "id": 11,
+   "en": "Are you certain, Your Highness?",
+   "ru": "Вы уверены, Ваше Высочество?"
+  },
+  {
+   "id": 12,
+   "en": "I no longer have a sister, Faulkner.\nShe died when she betrayed me.",
+   "ru": "У меня больше нет сестры,\nФолкнер. Она умерла, когда\nпредала меня."
+  },
+  {
+   "id": 13,
+   "en": "The woman inside Sylpheed is but a\ntraitorous wench!",
+   "ru": "Женщина в Сильфиде - лишь\nвероломная девка!"
+  },
+  {
+   "id": 14,
+   "en": "Mmmm. Harsh. I like it. Your wish\nshall be executed exactly as you\ndesire.",
+   "ru": "Ммм. Жёстко. Мне нравится. Ваша\nволя будет исполнена в точности."
+  },
+  {
+   "id": 15,
+   "en": "Show no mercy, my magnificent\nlegion! Destroy them all!",
+   "ru": "Без пощады, мой великолепный\nлегион! Уничтожить всех!"
+  },
+  {
+   "id": 16,
+   "en": "It has been a long while, Bastion.",
+   "ru": "Давно не виделись, Бастион."
+  },
+  {
+   "id": 17,
+   "en": "Where did you acquire that unusual\nATAC? It appears to be an attempt to\nreplicate the Ultragunner.",
+   "ru": "Где ты взял этот необычный\nАТАК? Похоже на попытку\nскопировать Ультраганнер."
+  },
+  {
+   "id": 18,
+   "en": "And a rather pathetic one, at that!",
+   "ru": "Причём довольно жалкую!"
+  },
+  {
+   "id": 19,
+   "en": "There is nothing pathetic about the\nTICTAC! Not even the Ultragunner\ncan match its power!",
+   "ru": "В ТИКТАКе нет ничего жалкого!\nДаже Ультраганнеру не\nсравниться с его мощью!"
+  },
+  {
+   "id": 20,
+   "en": "Liar!",
+   "ru": "Лжец!"
+  },
+  {
+   "id": 21,
+   "en": "If anyone here is pathetic, Faulkner,\nit's you!",
+   "ru": "Если кто тут и жалок, Фолкнер,\nтак это ты!"
+  },
+  {
+   "id": 22,
+   "en": "You stole the Ultragunner, and yet\nyou aren't able to activate it!",
+   "ru": "Ты украл Ультраганнер, но так и\nне смог его запустить!"
+  },
+  {
+   "id": 23,
+   "en": "Shut up, boy!",
+   "ru": "Заткнись, мальчишка!"
+  },
+  {
+   "id": 24,
+   "en": "Tell the truth, Faulkner--doesn't the\nsight of the TICTAC remind you of\nyour poor hygiene?",
+   "ru": "Признайся, Фолкнер, разве\nТИКТАК не напоминает тебе о\nнесвежем дыхании?"
+  },
+  {
+   "id": 25,
+   "en": "Silence!!",
+   "ru": "Молчать!!"
+  },
+  {
+   "id": 26,
+   "en": "What's wrong with you, Duyere?!",
+   "ru": "Что с тобой, Дюйер?!"
+  },
+  {
+   "id": 27,
+   "en": "Why do you call me a traitor?",
+   "ru": "Почему ты зовёшь меня\nпредательницей?"
+  },
+  {
+   "id": 28,
+   "en": "Anyone would consider your travels\nwith the Prince of the Kingdom to be\ntraitorous, Sadira!",
+   "ru": "Любой счёл бы твои странствия с\nпринцем Королевства\nпредательством, Садира!"
+  },
+  {
+   "id": 29,
+   "en": "If you are truly innocent, then you\nwill join us now and help us smite\nthe Kingdom Army!",
+   "ru": "Если ты правда невиновна,\nприсоединись к нам и помоги\nразбить армию Королевства!"
+  },
+  {
+   "id": 30,
+   "en": "Only then will I accept you back into\nthe Empire, and into our family!",
+   "ru": "Только тогда я приму тебя\nобратно в Империю и в нашу\nсемью!"
+  },
+  {
+   "id": 31,
+   "en": "Duyere, I've spent a lifetime ignoring\nevery word you say to me. Why am I\ngoing to start listening now?",
+   "ru": "Дюйер, я всю жизнь пропускала\nмимо ушей каждое твоё слово. С\nчего бы мне начинать слушать?"
+  },
+  {
+   "id": 32,
+   "en": "Aargh!! I'm going to give you the\nspanking that Father never did!",
+   "ru": "Аргх!! Я задам тебе порку,\nкоторую так и не задал отец!"
+  },
+  {
+   "id": 33,
+   "en": "Father wasn't a believer in corporal\npunishment, Duyere, but I am!",
+   "ru": "Отец не верил в телесные\nнаказания, Дюйер, а я верю!"
+  },
+  {
+   "id": 34,
+   "en": "I hope you have a strong bottom!",
+   "ru": "Надеюсь, у тебя крепкая задница!"
+  },
+  {
+   "id": 35,
+   "en": "AARGH!!!",
+   "ru": "АРГХ!!!"
+  },
+  {
+   "id": 36,
+   "en": "I've lost?!",
+   "ru": "Я проиграл?!"
+  },
+  {
+   "id": 37,
+   "en": "I shall remember this, and I shall\ngain my revenge! I swear it on my\nburning soul!",
+   "ru": "Я это запомню и отомщу!\nКлянусь своей пылающей душой!"
+  },
+  {
+   "id": 38,
+   "en": "I am growing VERY tired of losing!!",
+   "ru": "Мне ОЧЕНЬ надоело проигрывать!!"
+  },
+  {
+   "id": 39,
+   "en": "Damn it all!",
+   "ru": "Будь всё проклято!"
+  },
+  {
+   "id": 40,
+   "en": "Duyere and Faulkner have retreated\nto the Imperial capital...",
+   "ru": "Дюйер и Фолкнер отступили в\nимперскую столицу..."
+  },
+  {
+   "id": 41,
+   "en": "\n\n\n",
+   "ru": ""
+  }
+ ]
+}

@@ -1,0 +1,14 @@
+<iso_project image_name="Vanguard Bandits RUS.bin" cue_sheet="Vanguard Bandits RUS.cue">
+    <track type="data" cdvd_style="false">
+        <identifiers system="PLAYSTATION" application="PLAYSTATION" publisher="WORKING_DESIGNS" copyright="WORKING_DESIGNS" creation_date="0000051612000000+0"/>
+        <license file="extracted/license_data.dat"/>
+        <default_attributes gmt_offs="36" xa_attrib="32" xa_perm="1365" xa_gid="0" xa_uid="0"/>
+        <directory_tree source="extracted" gmt_offs="0">
+            <file name="STELLA.XA" type="mixed" date="20000321193250"/>
+            <file name="SYSTEM.CNF" type="data" date="20000321141636"/>
+            <file name="EPICA.BIN" type="data" date="20000516153902"/>
+            <file name="SLUS_010.70" type="data" date="20000516153904"/>
+            <dummy sectors="150" type="32"/>
+        </directory_tree>
+    </track>
+</iso_project>

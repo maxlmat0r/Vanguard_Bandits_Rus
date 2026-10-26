@@ -1,0 +1,206 @@
+{
+ "file": 494,
+ "kind": "story",
+ "lines": [
+  {
+   "id": 0,
+   "en": "I...I see. Kamorge is...dead.",
+   "ru": "Я... понимаю. Каморж... мёртв."
+  },
+  {
+   "id": 1,
+   "en": "Who was he, Galvas, and how did\nyou come to know him?",
+   "ru": "Кем он был, Гальвас, и откуда вы\nего знаете?"
+  },
+  {
+   "id": 2,
+   "en": "Kamorge was the false name he gave\nhimself when he left the Kingdom and\nwent into hiding.",
+   "ru": "Каморж - вымышленное имя,\nкоторое он взял, когда покинул\nКоролевство и скрылся."
+  },
+  {
+   "id": 3,
+   "en": "His real name...was Alugard.",
+   "ru": "Его настоящее имя... Алугард."
+  },
+  {
+   "id": 4,
+   "en": "Alugard?!",
+   "ru": "Алугард?!"
+  },
+  {
+   "id": 5,
+   "en": "He was the leader of the Guardian\nKnights! He was responsible for the\nsafety of the King himself!",
+   "ru": "Он был предводителем\nрыцарей-стражей! Он отвечал за\nбезопасность самого короля!"
+  },
+  {
+   "id": 6,
+   "en": "Yes, he was.",
+   "ru": "Да, это так."
+  },
+  {
+   "id": 7,
+   "en": "And he was your younger brother. I\nknow he died with honor, Galvas.",
+   "ru": "И он был вашим младшим\nбратом. Я знаю, он погиб с\nчестью, Гальвас."
+  },
+  {
+   "id": 8,
+   "en": "I am certain that he did.",
+   "ru": "Не сомневаюсь в этом."
+  },
+  {
+   "id": 9,
+   "en": "The last time I saw him was shortly\nafter the King perished, during the\nEmpire's assault on the capital.",
+   "ru": "В последний раз я видел его\nвскоре после гибели короля, во\nвремя штурма столицы Империей."
+  },
+  {
+   "id": 10,
+   "en": "I always believed that he fled from\nshame, that he left because he had\ndishonored the Kingdom.",
+   "ru": "Я всегда думал, что он бежал от\nпозора, что он обесчестил\nКоролевство."
+  },
+  {
+   "id": 11,
+   "en": "I tried to shut him out of my mind...\nbut I always hoped he would come\nback. I always...missed him.",
+   "ru": "Я пытался выбросить его из\nголовы... но всегда надеялся, что\nон вернётся. Я скучал по нему."
+  },
+  {
+   "id": 12,
+   "en": "Before Kamorge...died, he gave us a\nmessage for you. \"The supreme spirit\nsleeps at the feet of the lion...\"",
+   "ru": "Перед смертью Каморж передал\nвам послание: \"Высший дух спит\nу ног льва...\""
+  },
+  {
+   "id": 13,
+   "en": "\"Guide the holy lineage to the light.\"\nThe meaning of those words is a\nmystery to all of us.",
+   "ru": "\"Веди святой род к свету\". Смысл\nэтих слов никому из нас не\nпонятен."
+  },
+  {
+   "id": 14,
+   "en": "...I...I...can scarcely believe it.",
+   "ru": "...Я... не могу в это поверить."
+  },
+  {
+   "id": 15,
+   "en": "Where is Alugard's...where is the boy,\nBastion?",
+   "ru": "Где сын Алугарда... где мальчик,\nБастион?"
+  },
+  {
+   "id": 16,
+   "en": "In the reception hall, I believe. Still\nin mourning for Kamorge...Alugard.",
+   "ru": "Кажется, в приёмном зале. Всё\nещё скорбит по Каморжу...\nАлугарду."
+  },
+  {
+   "id": 17,
+   "en": "I'm certain you'll enlighten us\nsooner or later, but I'd prefer to\nknow sooner. If you don't mind...",
+   "ru": "Уверен, рано или поздно вы нам\nвсё объясните, но лучше бы\nраньше. Если не возражаете..."
+  },
+  {
+   "id": 18,
+   "en": "I was shocked when you mentioned\nthat Alugard had a son...but now I\nunderstand their true relationship.",
+   "ru": "Я был потрясён, услышав, что у\nАлугарда есть сын... но теперь\nпонимаю, кем они были."
+  },
+  {
+   "id": 19,
+   "en": "And now I understand why Alugard\nfled the capital. It was not because of\nshame, but because of his duty.",
+   "ru": "И теперь я понимаю, почему\nАлугард бежал из столицы. Не от\nпозора, а из чувства долга."
+  },
+  {
+   "id": 20,
+   "en": "Alugard took it upon himself to raise\nand protect the next King!",
+   "ru": "Алугард взял на себя долг\nвырастить и защитить будущего\nкороля!"
+  },
+  {
+   "id": 21,
+   "en": "What?!",
+   "ru": "Что?!"
+  },
+  {
+   "id": 22,
+   "en": "The blue blood of royalty flows\nthrough Bastion's veins, Ione. He is\nour fallen King's only heir.",
+   "ru": "В жилах Бастиона королевская\nкровь, Иона. Он единственный\nнаследник павшего короля."
+  },
+  {
+   "id": 23,
+   "en": "When the capital was assaulted and\nthe King perished, Alugard must have\nstolen away with Bastion.",
+   "ru": "Когда столицу штурмовали и\nкороль погиб, Алугард, должно\nбыть, тайно унёс Бастиона."
+  },
+  {
+   "id": 24,
+   "en": "But why did he stay away for so\nlong, instead of returning after the\nEmpire had been repulsed?",
+   "ru": "Но почему он так долго не\nвозвращался, даже когда\nИмперию отбросили?"
+  },
+  {
+   "id": 25,
+   "en": "I can answer that one, Ione. Bastion\nis who they wanted in the first place,\nnot the King.",
+   "ru": "Я могу ответить, Иона. Им был\nнужен прежде всего Бастион, а не\nкороль."
+  },
+  {
+   "id": 26,
+   "en": "If Alugard had come back here with\nBastion, they would've attacked us\nagain. They needed him...",
+   "ru": "Вернись Алугард с Бастионом,\nони напали бы снова. Им нужен\nбыл он..."
+  },
+  {
+   "id": 27,
+   "en": "...because he's the only one who can\npilot the Ultragunner ATAC. It's a\ngift, and a curse.",
+   "ru": "...потому что только он может\nуправлять АТАКом Ультраганнер.\nЭто дар и проклятие."
+  },
+  {
+   "id": 28,
+   "en": "Ganlon:\n(So now they know. I wonder what\nFaulkner will think of this.)",
+   "ru": "Ганлон:\n(Значит, теперь они знают.\nИнтересно, что подумает\nФолкнер.)"
+  },
+  {
+   "id": 29,
+   "en": "It all makes sense now. I can't believe\nI didn't figure it out sooner.",
+   "ru": "Теперь всё ясно. Не верится, что я\nне догадался раньше."
+  },
+  {
+   "id": 30,
+   "en": "The Empire started this war to find\nUltragunner, and to make Bastion\nuse it against us!",
+   "ru": "Империя начала войну, чтобы\nнайти Ультраганнер и обратить\nБастиона против нас!"
+  },
+  {
+   "id": 31,
+   "en": "But when Alugard took Bastion, he\ndistracted the Empire, and gave us\ntime to regroup.",
+   "ru": "Но, забрав Бастиона, Алугард\nотвлёк Империю и дал нам время\nсобраться с силами."
+  },
+  {
+   "id": 32,
+   "en": "We need the power of the\nUltragunner to reclaim what the\nEmpire has taken.",
+   "ru": "Нам нужна мощь Ультраганнера,\nчтобы вернуть то, что отняла\nИмперия."
+  },
+  {
+   "id": 33,
+   "en": "But Bastion could not have used or\ncontrolled that power when he was\nonly a boy.",
+   "ru": "Но ребёнком Бастион не смог бы\nуправлять этой силой."
+  },
+  {
+   "id": 34,
+   "en": "Alugard knew that he...that we all\nwould have to wait for Bastion to\nmature into manhood.",
+   "ru": "Алугард знал, что ему... что всем\nнам придётся ждать, пока\nБастион не повзрослеет."
+  },
+  {
+   "id": 35,
+   "en": "And, now that Bastion is a man,\nall we need to do now is FIND\nthe Ultragunner for him.",
+   "ru": "И теперь, когда Бастион вырос,\nосталось лишь НАЙТИ для него\nУльтраганнер."
+  },
+  {
+   "id": 36,
+   "en": "According to Alugard's message,\nthere may be a clue to its location\nin the kingdom of Dionne-Lehve.",
+   "ru": "Судя по посланию Алугарда,\nключ к его тайне может быть в\nкоролевстве Дионн-Леве."
+  },
+  {
+   "id": 37,
+   "en": "Then it is most likely the course\nof wisdom to journey and have\na chat with the Marquis.",
+   "ru": "Тогда разумнее всего\nотправиться туда и побеседовать\nс маркизом."
+  },
+  {
+   "id": 38,
+   "en": "What of Bastion? How do you think\nhe will react when he learns of his\ntrue lineage?",
+   "ru": "А как же Бастион? Как он\nвоспримет правду о своём\nпроисхождении?"
+  },
+  {
+   "id": 39,
+   "en": "(And will I remember to call him\n\"Your Highness\"?)",
+   "ru": "(И не забуду ли я называть его\n\"Ваше Высочество\"?)"
+  }
+ ]
+}

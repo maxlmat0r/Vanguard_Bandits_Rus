@@ -1,0 +1,1001 @@
+{
+ "file": 541,
+ "kind": "story",
+ "lines": [
+  {
+   "id": 0,
+   "en": "So you all feel alright? None of you\nare suffering after-effects from the\nmind-control of Zulwarn?",
+   "ru": "Вы все в порядке? Никаких\nпоследствий от контроля разума\nЗулварна?"
+  },
+  {
+   "id": 1,
+   "en": "We're fine, Prince Bastion, but you're\nvery kind to be so concerned. All I feel\nis shame at being manipulated...",
+   "ru": "Мы в порядке, принц Бастион,\nспасибо за заботу. Мне лишь\nстыдно, что мной управляли..."
+  },
+  {
+   "id": 2,
+   "en": "And gratitude to you for saving my\nlife. I am forever in your debt.",
+   "ru": "И я благодарен вам за спасение.\nЯ навеки ваш должник."
+  },
+  {
+   "id": 3,
+   "en": "Not at all, Logan. Just be grateful I\ndidn't use the opportunity to give you\nthe beating you so richly deserve!",
+   "ru": "Пустяки, Логан. Радуйтесь, что я\nне воспользовался случаем\nзадать вам заслуженную трёпку!"
+  },
+  {
+   "id": 4,
+   "en": "Wah, ha, ha! Grateful I am, Bastion,\nvery grateful indeed!",
+   "ru": "Ва-ха-ха! Радуюсь, Бастион, ещё\nкак радуюсь!"
+  },
+  {
+   "id": 5,
+   "en": "But my debt to you remains, and I\nshall repay it, whether it is money\nor loyalty that you desire!",
+   "ru": "Но долг остаётся, и я его верну -\nхотите вы денег или верности!"
+  },
+  {
+   "id": 6,
+   "en": "I have no need of wealth, Logan, and\nI would certainly hope your loyalty\nhas already been earned!",
+   "ru": "Богатство мне ни к чему, Логан,\nа верность вашу я, надеюсь, уже\nзаслужил!"
+  },
+  {
+   "id": 7,
+   "en": "Oh, and it has, Bastion!",
+   "ru": "О, заслужили, Бастион!"
+  },
+  {
+   "id": 8,
+   "en": "Perhaps you would care for the hand\nof my daughter! No amount of money\ncould purchase such beauty!",
+   "ru": "Может, возьмёте руку моей\nдочери? Такую красоту ни за\nкакие деньги не купишь!"
+  },
+  {
+   "id": 9,
+   "en": "DADDY! Like, WHAT are you saying?!\nEwww! I don't even know him!",
+   "ru": "ПАПА! Ты, типа, ЧТО несёшь?! Фу!\nЯ его даже не знаю!"
+  },
+  {
+   "id": 10,
+   "en": "That's right, Duke Logan! Have you\nno concern for your demo...er, \ndaughter's feelings?!",
+   "ru": "Вот именно, герцог Логан! Вам\nчто, плевать на чувства вашей\nдемо... э-э, дочери?!"
+  },
+  {
+   "id": 11,
+   "en": "I thought you wanted to repay a\ndebt, not dispose of a burden!",
+   "ru": "Я думала, вы хотите вернуть\nдолг, а не сбыть обузу!"
+  },
+  {
+   "id": 12,
+   "en": "Princess Sadira! I've never seen you\nin such a state of excitement before!",
+   "ru": "Принцесса Садира! Никогда не\nвидел вас такой взволнованной!"
+  },
+  {
+   "id": 13,
+   "en": "Oh, I have, Daddy. She's just jealous\nof me like always!",
+   "ru": "А я видела, папа. Она просто, как\nвсегда, мне завидует!"
+  },
+  {
+   "id": 14,
+   "en": "Jealous?! Of YOU?! It's obvious that\nZulwarn's spell scrambled all three\nof your brain cells, Claire!",
+   "ru": "Завидую?! ТЕБЕ?! Видно, чары\nЗулварна перемешали все три\nтвои извилины, Клэр!"
+  },
+  {
+   "id": 15,
+   "en": "Your words might, like, hurt if I\ncared what you think of me, Sadira!",
+   "ru": "Твои слова, типа, могли бы\nзадеть, если бы мне было не всё\nравно, Садира!"
+  },
+  {
+   "id": 16,
+   "en": "Just because ONE boy chooses you\nover me at the military academy,\nyou think you're special?!",
+   "ru": "Если ОДИН мальчик в военной\nакадемии выбрал тебя, а не меня,\nты думаешь, что особенная?!"
+  },
+  {
+   "id": 17,
+   "en": "Aren't the two of you forgetting\nabout Bastion's feelings?!",
+   "ru": "Вы обе не забыли о чувствах\nБастиона?!"
+  },
+  {
+   "id": 18,
+   "en": "Uh...",
+   "ru": "Э-э..."
+  },
+  {
+   "id": 19,
+   "en": "Huh?",
+   "ru": "А?"
+  },
+  {
+   "id": 20,
+   "en": "D'ohh!",
+   "ru": "Упс!"
+  },
+  {
+   "id": 21,
+   "en": "And who are you?",
+   "ru": "А ты кто такая?"
+  },
+  {
+   "id": 22,
+   "en": "I am Milea! Bastion and I grew up\ntogether under Alugard's care!",
+   "ru": "Я Милея! Мы с Бастионом выросли\nвместе под опекой Алугарда!"
+  },
+  {
+   "id": 23,
+   "en": "I am grateful to you for rescuing me\nfrom Faulkner, but this and that are\ncompletely different matters!",
+   "ru": "Я благодарна вам за спасение от\nФолкнера, но это совсем другое\nдело!"
+  },
+  {
+   "id": 24,
+   "en": "Don't get your panties in a bunch,\nSadira. I wouldn't let Daddy marry\nme off, anyway!",
+   "ru": "Не кипятись, Садира. Я бы всё\nравно не дала папе выдать меня\nзамуж!"
+  },
+  {
+   "id": 25,
+   "en": "Hmmph!",
+   "ru": "Хмф!"
+  },
+  {
+   "id": 26,
+   "en": "Hmmph!!",
+   "ru": "Хмф!!"
+  },
+  {
+   "id": 27,
+   "en": "Now, ladies! Let's remember that\nBastion isn't the only devastatingly\nhandsome man around here!",
+   "ru": "Дамы, дамы! Не забывайте, что\nБастион тут не единственный\nсногсшибательный красавец!"
+  },
+  {
+   "id": 28,
+   "en": "If there's anyone who can handle all\nthe love in this room, it's me.",
+   "ru": "Если кто и выдержит всю любовь\nв этой комнате, так это я."
+  },
+  {
+   "id": 29,
+   "en": "Like, have you always been this\ncreepy, old man, or did you have\nto practice?",
+   "ru": "Ты, типа, всегда был таким\nжутким, старик, или долго\nтренировался?"
+  },
+  {
+   "id": 30,
+   "en": "I prefer to describe myself as rugged,\nthank you very much!",
+   "ru": "Я предпочитаю называть себя\nбрутальным, если позволите!"
+  },
+  {
+   "id": 31,
+   "en": "(Maybe I'll look a little younger if I\nshave off the sideburns.)",
+   "ru": "(Может, я буду моложе\nвыглядеть, если сбрею\nбакенбарды.)"
+  },
+  {
+   "id": 32,
+   "en": "Well, Bastion, I'm afraid I have to\nwithdraw the offer of my daughter...",
+   "ru": "Что ж, Бастион, боюсь, мне\nпридётся отозвать предложение\nнасчёт дочери..."
+  },
+  {
+   "id": 33,
+   "en": "But I cannot leave without repaying\nmy debt. So here is what I intend\nto do.",
+   "ru": "Но я не могу уйти, не вернув\nдолг. Вот что я намерен сделать."
+  },
+  {
+   "id": 34,
+   "en": "Really, Logan, you don't owe me any...",
+   "ru": "Право, Логан, вы мне ничего не..."
+  },
+  {
+   "id": 35,
+   "en": "I pledge an eternal alliance between\nNordilain and the Kingdom, starting\non this glorious day.",
+   "ru": "Начиная с этого славного дня, я\nобъявляю вечный союз\nНордилейна и Королевства."
+  },
+  {
+   "id": 36,
+   "en": "Thank you, Logan.",
+   "ru": "Спасибо, Логан."
+  },
+  {
+   "id": 37,
+   "en": "But only under the condition that you\nagree to spar with me once a season!",
+   "ru": "Но лишь при условии, что раз в\nсезон вы будете со мной\nсражаться!"
+  },
+  {
+   "id": 38,
+   "en": "You would never turn down such a\nhumble request, would you, Bastion?\nWah, ha, ha!",
+   "ru": "Вы ведь не откажете в такой\nскромной просьбе, Бастион?\nВа-ха-ха!"
+  },
+  {
+   "id": 39,
+   "en": "Uh...",
+   "ru": "Э-э..."
+  },
+  {
+   "id": 40,
+   "en": "This seems to be a great deal,\nBastion! Logan gets to fight without\nactually slaying anyone...",
+   "ru": "По-моему, отличная сделка,\nБастион! Логан будет драться,\nникого не убивая..."
+  },
+  {
+   "id": 41,
+   "en": "And tasting the bitter herb of\ndefeat is guaranteed to keep\nyou humble!",
+   "ru": "А горький вкус поражений не\nдаст тебе зазнаться!"
+  },
+  {
+   "id": 42,
+   "en": "Very humble--and very, very bruised.",
+   "ru": "Очень не даст. И синяков будет\nочень много."
+  },
+  {
+   "id": 43,
+   "en": "Alright, Duke Logan. I look forward\nto our sparring matches...",
+   "ru": "Хорошо, герцог Логан. Жду наших\nпоединков..."
+  },
+  {
+   "id": 44,
+   "en": "Although I'm sure certain portions of\nmy anatomy won't be so enthusiastic.",
+   "ru": "Хотя некоторые части моего тела\nвряд ли разделят мой восторг."
+  },
+  {
+   "id": 45,
+   "en": "You are a brave and foolish man,\nBastion, which makes you a perfect\nsparring partner! Wah, ha, ha!",
+   "ru": "Вы храбрый и безрассудный\nчеловек, Бастион, а значит,\nидеальный соперник! Ва-ха-ха!"
+  },
+  {
+   "id": 46,
+   "en": "It will be my pleasure to bash your\nATAC into scrap on a regular basis!",
+   "ru": "С удовольствием буду регулярно\nпревращать ваш АТАК в\nметаллолом!"
+  },
+  {
+   "id": 47,
+   "en": "Take care, Prince Bastion.",
+   "ru": "Берегите себя, принц Бастион."
+  },
+  {
+   "id": 48,
+   "en": "Come along, Claire. We have a long\ntrip back home!",
+   "ru": "Пойдём, Клэр. Дорога домой\nдолгая!"
+  },
+  {
+   "id": 49,
+   "en": "Okay, Daddy.",
+   "ru": "Ладно, папа."
+  },
+  {
+   "id": 50,
+   "en": "You're totally brave to fight my dad,\nBastion. MAJOR hunkage points.",
+   "ru": "Ты реально храбрый, раз будешь\nдраться с папой, Бастион.\nЖирный плюс к крутости."
+  },
+  {
+   "id": 51,
+   "en": "Shouldn't you be leaving?!",
+   "ru": "Тебе разве не пора?!"
+  },
+  {
+   "id": 52,
+   "en": "See you later, hunky chops!",
+   "ru": "Ещё увидимся, красавчик!"
+  },
+  {
+   "id": 53,
+   "en": "Shameless! Absolutely shameless!",
+   "ru": "Бесстыдница! Абсолютная\nбесстыдница!"
+  },
+  {
+   "id": 54,
+   "en": "You're very...popular, Prince Bastion.",
+   "ru": "Вы весьма... популярны, принц\nБастион."
+  },
+  {
+   "id": 55,
+   "en": "Sometimes, Duyere, I think it's a\ncurse instead of a blessing. Damn\nthese oversized eyes!",
+   "ru": "Иногда, Дюйер, мне кажется, что\nэто проклятие, а не дар.\nПроклятые большие глаза!"
+  },
+  {
+   "id": 56,
+   "en": "In any case, I owe you my thanks.\nYou saved the Empire from falling\nunder Faulkner's control.",
+   "ru": "Как бы то ни было, я обязан вам.\nВы спасли Империю от власти\nФолкнера."
+  },
+  {
+   "id": 57,
+   "en": "Duyere...",
+   "ru": "Дюйер..."
+  },
+  {
+   "id": 58,
+   "en": "I was stupid, Sadira. I should have\nknown what Faulkner was plotting,\nand I let him use me instead.",
+   "ru": "Я был глуп, Садира. Надо было\nпонять замысел Фолкнера, а я\nдал себя использовать."
+  },
+  {
+   "id": 59,
+   "en": "If I had realized what was going on,\nperhaps I could have stopped him. All\nthis could have been prevented.",
+   "ru": "Пойми я, что происходит, может,\nя остановил бы его. Всего этого\nможно было избежать."
+  },
+  {
+   "id": 60,
+   "en": "Don't blame yourself for this, Duyere.",
+   "ru": "Не вини себя, Дюйер."
+  },
+  {
+   "id": 61,
+   "en": "You have acknowledged your transgression,\nPrince Duyere, and that is the first\nstep.",
+   "ru": "Вы признали свою ошибку, принц\nДюйер, а это первый шаг."
+  },
+  {
+   "id": 62,
+   "en": "Learn from your mistakes and you\nmay become a great leader.",
+   "ru": "Учитесь на ошибках, и вы можете\nстать великим правителем."
+  },
+  {
+   "id": 63,
+   "en": "I want nothing more, Marquis. I\nwant to be a leader that the people\nare proud to have.",
+   "ru": "Ничего другого я и не хочу,\nмаркиз. Хочу быть правителем,\nкоторым гордится народ."
+  },
+  {
+   "id": 64,
+   "en": "I will work myself into exhaustion\nto rebuild the Imperial capital, and\nto restore the honor of the Empire.",
+   "ru": "Я буду трудиться без устали,\nчтобы отстроить столицу и\nвернуть Империи честь."
+  },
+  {
+   "id": 65,
+   "en": "I want to restore MY honor, as well.",
+   "ru": "И вернуть честь СЕБЕ."
+  },
+  {
+   "id": 66,
+   "en": "I'm sure you will, Duyere. I can see\nthe spirit to succeed in your eyes.",
+   "ru": "Уверен, так и будет, Дюйер. Я\nвижу в ваших глазах волю к\nпобеде."
+  },
+  {
+   "id": 67,
+   "en": "I am hereby declaring an end to the\nwar between the Junaris Empire and\nthe Pharastia Kingdom.",
+   "ru": "Объявляю конец войны между\nИмперией Джунарис и\nКоролевством Фарастия."
+  },
+  {
+   "id": 68,
+   "en": "Let us live in peace, Prince Bastion.\nLet us bring our nations together.",
+   "ru": "Будем жить в мире, принц\nБастион. Сблизим наши народы."
+  },
+  {
+   "id": 69,
+   "en": "Indeed, Duyere. This is the dawn of a\nwonderful era in the history of the\nContinent.",
+   "ru": "Да, Дюйер. Это рассвет\nпрекрасной эпохи в истории\nКонтинента."
+  },
+  {
+   "id": 70,
+   "en": "Take care of yourself, Bastion. I will\nspeak to you soon.",
+   "ru": "Береги себя, Бастион. Скоро\nпоговорим."
+  },
+  {
+   "id": 71,
+   "en": "Bastion, there is no way for me to\nadequately express my thanks to you.\nYou have done so much for me.",
+   "ru": "Бастион, мне не выразить, как я\nтебе благодарна. Ты столько для\nменя сделал."
+  },
+  {
+   "id": 72,
+   "en": "No, Sadira. We have done much for\neach other. That is what friends do,\nand you are a great friend to me.",
+   "ru": "Нет, Садира. Мы многое сделали\nдруг для друга. Так поступают\nдрузья."
+  },
+  {
+   "id": 73,
+   "en": "May I...ask yet another favor of you,\nBastion?",
+   "ru": "Можно... попросить тебя ещё об\nодном, Бастион?"
+  },
+  {
+   "id": 74,
+   "en": "Of course, Sadira. What is it?",
+   "ru": "Конечно, Садира. О чём?"
+  },
+  {
+   "id": 75,
+   "en": "Would it be alright if I came to the\nKingdom and visited you from time\nto time?",
+   "ru": "Можно мне иногда приезжать в\nКоролевство и навещать тебя?"
+  },
+  {
+   "id": 76,
+   "en": "Of course, Sadira. I would be hurt if\nyou didn't!",
+   "ru": "Конечно, Садира. Я обижусь, если\nне будешь!"
+  },
+  {
+   "id": 77,
+   "en": "Wonderful, Bastion! Take care, and\nI'll see you soon!",
+   "ru": "Чудесно, Бастион! Береги себя,\nскоро увидимся!"
+  },
+  {
+   "id": 78,
+   "en": "You, the friend of Bastion. What's\nyour name again?",
+   "ru": "Ты, подруга Бастиона. Как, ещё\nраз, тебя зовут?"
+  },
+  {
+   "id": 79,
+   "en": "I am Milea.",
+   "ru": "Я Милея."
+  },
+  {
+   "id": 80,
+   "en": "I won't be beaten, Milea!",
+   "ru": "Я не сдамся, Милея!"
+  },
+  {
+   "id": 81,
+   "en": "Ha, ha, ha! Princess Sadira is, as\nyou have probably noticed, quite\na headstrong young woman!",
+   "ru": "Ха-ха-ха! Принцесса Садира, как\nвы, наверное, заметили, весьма\nсвоенравная девушка!"
+  },
+  {
+   "id": 82,
+   "en": "Please don't be offended by her tone.\nShe just says what's on her mind!",
+   "ru": "Не обижайтесь на её тон. Она\nпросто говорит что думает!"
+  },
+  {
+   "id": 83,
+   "en": "Thank you for saving my life, Prince\nBastion. I'm certain we will see each\nother soon! Goodbye!",
+   "ru": "Спасибо, что спасли мне жизнь,\nпринц Бастион. Уверен, мы скоро\nувидимся! Прощайте!"
+  },
+  {
+   "id": 84,
+   "en": "(I know you're watching over me,\nAlugard, and I hope that I have made\nyou proud...)",
+   "ru": "(Я знаю, ты следишь за мной,\nАлугард, и надеюсь, что ты мной\nгордишься...)"
+  },
+  {
+   "id": 85,
+   "en": "Me, too. I'm glad it's finally over!",
+   "ru": "Я тоже. Рад, что всё наконец\nзакончилось!"
+  },
+  {
+   "id": 86,
+   "en": "I know there are many things to do...\nbut the item at the top of my list is a\ngood night's rest.",
+   "ru": "Знаю, дел ещё много... но первым\nпунктом в моём списке -\nхорошенько выспаться."
+  },
+  {
+   "id": 87,
+   "en": "I believe our time together has come\nto an end, Prince Bastion. I also have\na nation to lead, as you recall.",
+   "ru": "Полагаю, наш совместный путь\nокончен, принц Бастион. Мне ведь\nтоже надо править страной."
+  },
+  {
+   "id": 88,
+   "en": "Thank you for your assistance, Lord\nAlden. I could never have come this\nfar without you at my side.",
+   "ru": "Спасибо за помощь, лорд Олден.\nБез вас я бы не зашёл так далеко."
+  },
+  {
+   "id": 89,
+   "en": "I was only doing what was best for\nthe Kingdom, my friend. Duty called,\nand I answered.",
+   "ru": "Я лишь делал то, что лучше для\nКоролевства, друг мой. Долг\nпозвал, и я ответил."
+  },
+  {
+   "id": 90,
+   "en": "Remember that I'll be watching you,\nBastion, making certain that your\nintentions are pure.",
+   "ru": "Помни, я буду следить за тобой,\nБастион, чтобы твои намерения\nоставались чистыми."
+  },
+  {
+   "id": 91,
+   "en": "I'll bear that in mind, Alden.",
+   "ru": "Буду помнить, Олден."
+  },
+  {
+   "id": 92,
+   "en": "Good.",
+   "ru": "Хорошо."
+  },
+  {
+   "id": 93,
+   "en": "Of course, I expect only purity from\nyou, Bastion. You have a kind soul.",
+   "ru": "Конечно, от тебя я жду лишь\nчистоты, Бастион. У тебя добрая\nдуша."
+  },
+  {
+   "id": 94,
+   "en": "As for you, Devlin...",
+   "ru": "Что до тебя, Девлин..."
+  },
+  {
+   "id": 95,
+   "en": "Yes, Alden?",
+   "ru": "Да, Олден?"
+  },
+  {
+   "id": 96,
+   "en": "Will you be returning to Hibernia,\nor will you be staying here?",
+   "ru": "Ты вернёшься в Хибернию или\nостанешься здесь?"
+  },
+  {
+   "id": 97,
+   "en": "I...I'm not sure, Alden.",
+   "ru": "Я... я не уверен, Олден."
+  },
+  {
+   "id": 98,
+   "en": "I have enjoyed myself enormously in\nBastion's company.",
+   "ru": "Мне было очень хорошо в\nкомпании Бастиона."
+  },
+  {
+   "id": 99,
+   "en": "And I have enjoyed your company as\nwell, but you should return home,\nat least for a while.",
+   "ru": "Мне в твоей тоже, но тебе стоит\nвернуться домой, хотя бы на\nвремя."
+  },
+  {
+   "id": 100,
+   "en": "I'm sure Melior misses you.",
+   "ru": "Уверен, Мелиор по тебе скучает."
+  },
+  {
+   "id": 101,
+   "en": "I...I miss her, too.",
+   "ru": "Я... я тоже по ней скучаю."
+  },
+  {
+   "id": 102,
+   "en": "You're right, Bastion. I need to return\nhome. I need to make peace with her.",
+   "ru": "Ты прав, Бастион. Мне нужно\nвернуться домой. Нужно\nпомириться с ней."
+  },
+  {
+   "id": 103,
+   "en": "I'm glad you feel that way, Devlin.\nFamily is the most important part of\nyour life.",
+   "ru": "Рад это слышать, Девлин. Семья\n- самое важное в жизни."
+  },
+  {
+   "id": 104,
+   "en": "May I come and visit you once you've\nreturned to the Kingdom?",
+   "ru": "Можно навестить тебя, когда ты\nвернёшься в Королевство?"
+  },
+  {
+   "id": 105,
+   "en": "Of course, Devlin! Your friendships\nare almost as important as family.",
+   "ru": "Конечно, Девлин! Друзья почти\nтак же важны, как семья."
+  },
+  {
+   "id": 106,
+   "en": "I don't expect that you'll have calmed\ndown by the next time I see you?",
+   "ru": "Не думаю, что к нашей\nследующей встрече ты\nуспокоишься?"
+  },
+  {
+   "id": 107,
+   "en": "Are you kidding?! My hyperactivity is\npart of my charm, Bastion! Heh, heh!",
+   "ru": "Шутишь?! Моя гиперактивность -\nчасть моего обаяния, Бастион!\nХе-хе!"
+  },
+  {
+   "id": 108,
+   "en": "Farewell for now!",
+   "ru": "До встречи!"
+  },
+  {
+   "id": 109,
+   "en": "Hey, Devlin! Wait up!",
+   "ru": "Эй, Девлин! Подожди!"
+  },
+  {
+   "id": 110,
+   "en": "You weren't going to leave me here,\nwere you?!",
+   "ru": "Ты же не собирался бросить меня\nздесь?!"
+  },
+  {
+   "id": 111,
+   "en": "Ah!!",
+   "ru": "Ах!!"
+  },
+  {
+   "id": 112,
+   "en": "Uh, no, Barlow, of course I wouldn't\nforget you! Come on, let's go!",
+   "ru": "Э-э, нет, Барлоу, конечно, я бы\nтебя не забыл! Пошли!"
+  },
+  {
+   "id": 113,
+   "en": "Yeah, sure...",
+   "ru": "Ну-ну..."
+  },
+  {
+   "id": 114,
+   "en": "'Bye, Bastion! 'Bye, Puck!",
+   "ru": "Пока, Бастион! Пока, Пак!"
+  },
+  {
+   "id": 115,
+   "en": "'Bye, Barlow!",
+   "ru": "Пока, Барлоу!"
+  },
+  {
+   "id": 116,
+   "en": "Don't forget to eat all your cake and\ncandy, Puck, or you won't grow up\nbig and strong like me!",
+   "ru": "Ешь побольше тортов и конфет,\nПак, а то не вырастешь большим\nи сильным, как я!"
+  },
+  {
+   "id": 117,
+   "en": "I suppose I should be the next to bid\nyou adieu, Bastion.",
+   "ru": "Полагаю, теперь моя очередь\nпрощаться, Бастион."
+  },
+  {
+   "id": 118,
+   "en": "Marquis Dionne...",
+   "ru": "Маркиз Дионн..."
+  },
+  {
+   "id": 119,
+   "en": "You really did it, Bastion. You\ndefeated the Zulwarn...you saved\nthe world.",
+   "ru": "Ты справился, Бастион. Ты\nпобедил Зулварн... ты спас мир."
+  },
+  {
+   "id": 120,
+   "en": "Only because you were at my side,\nDionne. You and I and everyone else\ndefeated him together.",
+   "ru": "Лишь потому, что вы были\nрядом, Дионн. Мы победили его\nвсе вместе."
+  },
+  {
+   "id": 121,
+   "en": "Promise that you'll come and visit me\non occasion, Bastion.",
+   "ru": "Обещай иногда навещать меня,\nБастион."
+  },
+  {
+   "id": 122,
+   "en": "I would come to visit you, but long\njourneys take a toll on the elderly.",
+   "ru": "Я бы и сам приезжал, но дальние\nпоездки тяжелы для стариков."
+  },
+  {
+   "id": 123,
+   "en": "What are you talking about, Dionne?!\nYou're still hale and hearty!",
+   "ru": "О чём вы, Дионн?! Вы ещё полны\nсил!"
+  },
+  {
+   "id": 124,
+   "en": "Ha, ha, ha! Why, thank you, Bastion!\nPerhaps you're right!",
+   "ru": "Ха-ха-ха! Спасибо, Бастион!\nМожет, ты и прав!"
+  },
+  {
+   "id": 125,
+   "en": "I may yet have another ten or fifteen\nyears left in these old legs!",
+   "ru": "Пожалуй, эти старые ноги\nпрослужат ещё лет\nдесять-пятнадцать!"
+  },
+  {
+   "id": 126,
+   "en": "Indeed you do, Dionne!",
+   "ru": "Непременно, Дионн!"
+  },
+  {
+   "id": 127,
+   "en": "Rebuilding the Kingdom and keeping\nthe peace will not be easy, Bastion. If\nyou ever need advice...",
+   "ru": "Отстроить Королевство и хранить\nмир будет нелегко, Бастион. Если\nпонадобится совет..."
+  },
+  {
+   "id": 128,
+   "en": "You shall be the first I consult,\nDionne. Rest assured of that.",
+   "ru": "Я первым делом обращусь к вам,\nДионн. Будьте уверены."
+  },
+  {
+   "id": 129,
+   "en": "Thank you, Dionne.",
+   "ru": "Спасибо, Дионн."
+  },
+  {
+   "id": 130,
+   "en": "Andrew, I need you to escort me back\nto Dionne-Lehve, seeing as how Bastion\nno longer requires your services.",
+   "ru": "Эндрю, проводи меня в\nДионн-Леве - Бастиону твои\nуслуги больше не нужны."
+  },
+  {
+   "id": 131,
+   "en": "Sure thing, Dionne.",
+   "ru": "Без проблем, Дионн."
+  },
+  {
+   "id": 132,
+   "en": "Bastion...I'm gonna miss ya, buddy.",
+   "ru": "Бастион... я буду скучать,\nдружище."
+  },
+  {
+   "id": 133,
+   "en": "We had some good times. Heck, if I\nweren't so painfully manly, I would\neven consider giving you a hug.",
+   "ru": "Славно было. Не будь я так\nмучительно мужественен, я бы\nтебя даже обнял."
+  },
+  {
+   "id": 134,
+   "en": "Uh, yes, take care, Andrew.",
+   "ru": "Э-э, да, береги себя, Эндрю."
+  },
+  {
+   "id": 135,
+   "en": "I see some of myself in you, Bastion.\nThat's why it's been so interesting\nto watch you grow up.",
+   "ru": "Я вижу в тебе себя, Бастион.\nПотому мне и было интересно\nсмотреть, как ты растёшь."
+  },
+  {
+   "id": 136,
+   "en": "Really?",
+   "ru": "Правда?"
+  },
+  {
+   "id": 137,
+   "en": "I do admit that I feel different. Not\nolder, but...more mature, I suppose.",
+   "ru": "Признаю, я чувствую себя иначе.\nНе старше, а... зрелее, наверное."
+  },
+  {
+   "id": 138,
+   "en": "You ARE more mature, my friend.\nYou started this journey as a boy,\nand you ended it as a man.",
+   "ru": "Ты И ЕСТЬ зрелее, друг мой. Ты\nначал этот путь мальчиком, а\nзакончил мужчиной."
+  },
+  {
+   "id": 139,
+   "en": "Hmmm...",
+   "ru": "Хмм..."
+  },
+  {
+   "id": 140,
+   "en": "I do believe this might be the first\nserious conversation I've ever heard\npass your lips, Andrew!",
+   "ru": "Кажется, это первый серьёзный\nразговор, что я от тебя слышала,\nЭндрю!"
+  },
+  {
+   "id": 141,
+   "en": "See that? I try to show off the brains\nbeneath the beauty, and you want me\nto tell more dirty jokes!",
+   "ru": "Видишь? Пытаюсь показать ум\nпод красотой, а вы хотите от\nменя пошлых шуточек!"
+  },
+  {
+   "id": 142,
+   "en": "Heh, heh, heh! And no one is as\nobscenely witty as you, Andrew!",
+   "ru": "Хе-хе-хе! Никто не остёр так\nнепристойно, как ты, Эндрю!"
+  },
+  {
+   "id": 143,
+   "en": "I want you to come and visit when\nyour schedule allows, Andrew.",
+   "ru": "Приезжай в гости, когда будет\nвремя, Эндрю."
+  },
+  {
+   "id": 144,
+   "en": "Take care of yourself, buddy.",
+   "ru": "Береги себя, дружище."
+  },
+  {
+   "id": 145,
+   "en": "Buddy?! Did the great Prince Bastion\nfinally acknowledge our friendship?",
+   "ru": "Дружище?! Великий принц\nБастион наконец признал нашу\nдружбу?"
+  },
+  {
+   "id": 146,
+   "en": "Now that you've admitted I'm your\nbuddy, I'll have no choice but to pay\nyou frequent visits!",
+   "ru": "Раз уж ты признал, что я твой\nдружище, придётся мне часто\nтебя навещать!"
+  },
+  {
+   "id": 147,
+   "en": "Take care, Bastion. Oh, and give my\nwarm regards to old man Galvas.",
+   "ru": "Береги себя, Бастион. И передай\nпламенный привет старику\nГальвасу."
+  },
+  {
+   "id": 148,
+   "en": "I shall.",
+   "ru": "Постараюсь."
+  },
+  {
+   "id": 149,
+   "en": "Yes?",
+   "ru": "Да?"
+  },
+  {
+   "id": 150,
+   "en": "Uh, Reyna, when I come and visit\nBastion in the capital, maybe we\ncould...uh...",
+   "ru": "Э-э, Рейна, когда я приеду к\nБастиону в столицу, может, мы\nмогли бы... э-э..."
+  },
+  {
+   "id": 151,
+   "en": "Yes?",
+   "ru": "Да?"
+  },
+  {
+   "id": 152,
+   "en": "Maybe we could sit down and have\nsome tea together?",
+   "ru": "Может, посидим и выпьем вместе\nчаю?"
+  },
+  {
+   "id": 153,
+   "en": "You're sincerely asking me on a date,\naren't you, Andrew?",
+   "ru": "Ты что, всерьёз зовёшь меня на\nсвидание, Эндрю?"
+  },
+  {
+   "id": 154,
+   "en": "I don't know if I'd call it a date, but\nI am most definitely sincere about it.",
+   "ru": "Не знаю, свидание ли это, но я\nабсолютно серьёзен."
+  },
+  {
+   "id": 155,
+   "en": "Alright, then. It's a date.",
+   "ru": "Что ж, ладно. Договорились -\nсвидание."
+  },
+  {
+   "id": 156,
+   "en": "Excellent! Wonderful! Great!",
+   "ru": "Отлично! Чудесно! Здорово!"
+  },
+  {
+   "id": 157,
+   "en": "And keep in mind that I do NOT kiss\non the first date. EVER.",
+   "ru": "И учти: на первом свидании я НЕ\nцелуюсь. НИКОГДА."
+  },
+  {
+   "id": 158,
+   "en": "D'ohh...",
+   "ru": "Упс..."
+  },
+  {
+   "id": 159,
+   "en": "Er, I mean, that's quite a prudent\npolicy Reyna, and I sincerely hope it\ndoesn't extend to the second date.",
+   "ru": "То есть благоразумно, Рейна, и я\nнадеюсь, что на второе свидание\nэто не распространяется."
+  },
+  {
+   "id": 160,
+   "en": "Take care, Bastion.",
+   "ru": "Береги себя, Бастион."
+  },
+  {
+   "id": 161,
+   "en": "Seeya soon, Reyna.",
+   "ru": "До скорого, Рейна."
+  },
+  {
+   "id": 162,
+   "en": "Goodbye, Andrew.",
+   "ru": "Пока, Эндрю."
+  },
+  {
+   "id": 163,
+   "en": "So, Reyna...",
+   "ru": "Ну, Рейна..."
+  },
+  {
+   "id": 164,
+   "en": "I had no idea you and Andrew were\nso fond of each other!",
+   "ru": "Я и не знал, что вы с Эндрю так\nдруг другу нравитесь!"
+  },
+  {
+   "id": 165,
+   "en": "Oh, Bastion, you're terrible! I mean,\nwe're just going out for tea!",
+   "ru": "Ох, Бастион, какой ты ужасный!\nМы же просто попьём чаю!"
+  },
+  {
+   "id": 166,
+   "en": "I would even have tea with YOU if\nyou ever asked me!",
+   "ru": "Я бы и с ТОБОЙ попила чаю, если\nбы ты пригласил!"
+  },
+  {
+   "id": 167,
+   "en": "Grrr...",
+   "ru": "Ррр..."
+  },
+  {
+   "id": 168,
+   "en": "Alright...I admit to a bit of a crush\non Andrew. But just a little one! And\ndon't tell him I said that!",
+   "ru": "Ладно... признаю, Эндрю мне\nнемножко нравится. Совсем\nчуть-чуть! И не говори ему!"
+  },
+  {
+   "id": 169,
+   "en": "Well, Bastion, I believe we should\nmake our way back to the capital\nnow. Galvas is waiting.",
+   "ru": "Что ж, Бастион, думаю, пора\nвозвращаться в столицу. Гальвас\nждёт."
+  },
+  {
+   "id": 170,
+   "en": "I'm sure you know that he'll waste\nno time in scolding me if I make\nyou late getting back.",
+   "ru": "Ты ведь знаешь, он не упустит\nслучая отчитать меня, если я\nтебя задержу."
+  },
+  {
+   "id": 171,
+   "en": "Quite true.",
+   "ru": "Это точно."
+  },
+  {
+   "id": 172,
+   "en": "...   ...   ...",
+   "ru": ""
+  },
+  {
+   "id": 173,
+   "en": "Zeira?",
+   "ru": "Зейра?"
+  },
+  {
+   "id": 174,
+   "en": "Yes, Bastion?",
+   "ru": "Да, Бастион?"
+  },
+  {
+   "id": 175,
+   "en": "I keep thinking about Faulkner...and\nI believe he was as much a victim in\nthis war as anyone else.",
+   "ru": "Я всё думаю о Фолкнере... и мне\nкажется, он тоже был жертвой\nэтой войны, как и все."
+  },
+  {
+   "id": 176,
+   "en": "He lost his parents...and with them,\nhis soul.",
+   "ru": "Он потерял родителей... а с ними\nи душу."
+  },
+  {
+   "id": 177,
+   "en": "I'm not excusing all the horrors he\ncommitted...just trying to understand\nwhy he committed them.",
+   "ru": "Я не оправдываю его злодеяния...\nпросто пытаюсь понять, почему\nон их совершил."
+  },
+  {
+   "id": 178,
+   "en": "Faulkner may have been a monster...\nbut he was once a man.",
+   "ru": "Может, Фолкнер и был\nчудовищем... но когда-то он был\nчеловеком."
+  },
+  {
+   "id": 179,
+   "en": "I believe you are correct, Bastion...\nbut his crimes remain unforgivable,\nstill.",
+   "ru": "Думаю, ты прав, Бастион... но его\nпреступления всё равно\nнепростительны."
+  },
+  {
+   "id": 180,
+   "en": "Everyone carries a sorrowful burden\nin their lives sooner or later. Most\ndo not seek to enslave the world.",
+   "ru": "Рано или поздно каждый несёт\nбремя скорби. Но мало кто хочет\nпоработить мир."
+  },
+  {
+   "id": 181,
+   "en": "I see your point.",
+   "ru": "Понимаю."
+  },
+  {
+   "id": 182,
+   "en": "Faulkner couldn't bear the burden of\nhis sorrow...losing his life was the\nonly form of release for him.",
+   "ru": "Фолкнер не вынес бремени\nскорби... и лишь смерть принесла\nему избавление."
+  },
+  {
+   "id": 183,
+   "en": "I don't know about THAT, Zeira...\nisn't that a little morose?",
+   "ru": "Не знаю, Зейра... не слишком ли\nэто мрачно?"
+  },
+  {
+   "id": 184,
+   "en": "The point I'm trying to make is that\nyou did the right thing. Faulkner made\nhis choice and perished for it.",
+   "ru": "Я хочу сказать, что ты поступил\nправильно. Фолкнер сделал выбор\nи погиб из-за него."
+  },
+  {
+   "id": 185,
+   "en": "You made a choice so that everyone\nwho wouldn't bend to his tyranny could\nLIVE.",
+   "ru": "А ты сделал выбор, чтобы все,\nкто не склонился перед его\nтиранией, могли ЖИТЬ."
+  },
+  {
+   "id": 186,
+   "en": "It's as simple and elegant as that. You're\na hero, and the world would be a better\nplace if we had more heros.",
+   "ru": "Всё просто и красиво. Ты герой, и\nмир стал бы лучше, будь в нём\nбольше героев."
+  },
+  {
+   "id": 187,
+   "en": "As usual, Zeira...your logic is\nunimpeachable.",
+   "ru": "Как всегда, Зейра... твоя логика\nбезупречна."
+  },
+  {
+   "id": 188,
+   "en": "You've made me feel better, anyway.",
+   "ru": "Во всяком случае, мне стало легче."
+  },
+  {
+   "id": 189,
+   "en": "I won't look back anymore. I'll look\nto the future.",
+   "ru": "Я больше не буду оглядываться\nназад. Я буду смотреть в\nбудущее."
+  },
+  {
+   "id": 190,
+   "en": "Puck...Milea...will you face the future\nwith me?",
+   "ru": "Пак... Милея... вы встретите\nбудущее вместе со мной?"
+  },
+  {
+   "id": 191,
+   "en": "Of course, Bastion!",
+   "ru": "Конечно, Бастион!"
+  },
+  {
+   "id": 192,
+   "en": "Yes, Bastion.",
+   "ru": "Да, Бастион."
+  },
+  {
+   "id": 193,
+   "en": "Zeira? Reyna? I can count on you,\ncan't I?",
+   "ru": "Зейра? Рейна? На вас я ведь могу\nрассчитывать?"
+  },
+  {
+   "id": 194,
+   "en": "Certainly, Prince!",
+   "ru": "Конечно, принц!"
+  },
+  {
+   "id": 195,
+   "en": "You might be the first man to whom\nI can't say no, Bastion! Ha, ha, ha!",
+   "ru": "Ты, наверное, первый мужчина,\nкоторому я не могу сказать \"нет\",\nБастион! Ха-ха-ха!"
+  },
+  {
+   "id": 196,
+   "en": "Then let's return to the capital and\nreceive our much-deserved scoldings\nfrom Galvas.",
+   "ru": "Тогда вернёмся в столицу и\nполучим заслуженный нагоняй\nот Гальваса."
+  },
+  {
+   "id": 197,
+   "en": "(Father...I can feel you here with me.\nI miss you, and I love you. I hope I've\nmade you proud.)",
+   "ru": "(Отец... я чувствую, что ты рядом.\nЯ скучаю и люблю тебя. Надеюсь,\nты мной гордишься.)"
+  },
+  {
+   "id": 198,
+   "en": "(Together, we will make a better\nworld for everyone...I promise!)",
+   "ru": "(Вместе мы сделаем мир лучше\nдля всех... обещаю!)"
+  }
+ ]
+}

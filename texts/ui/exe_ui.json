@@ -1,0 +1,3486 @@
+{
+ "file": "SLUS_010.70",
+ "kind": "exe",
+ "lines": [
+  {
+   "id": 0,
+   "addr": "0x800102e0",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Mercenary 9",
+   "ru": "Наёмник 9"
+  },
+  {
+   "id": 1,
+   "addr": "0x800102ec",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Mercenary 8",
+   "ru": "Наёмник 8"
+  },
+  {
+   "id": 2,
+   "addr": "0x800102f8",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Mercenary 7",
+   "ru": "Наёмник 7"
+  },
+  {
+   "id": 3,
+   "addr": "0x80010304",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Mercenary 6",
+   "ru": "Наёмник 6"
+  },
+  {
+   "id": 4,
+   "addr": "0x80010310",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Mercenary 5",
+   "ru": "Наёмник 5"
+  },
+  {
+   "id": 5,
+   "addr": "0x8001031c",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Mercenary 4",
+   "ru": "Наёмник 4"
+  },
+  {
+   "id": 6,
+   "addr": "0x80010328",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Mercenary 3",
+   "ru": "Наёмник 3"
+  },
+  {
+   "id": 7,
+   "addr": "0x80010334",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Mercenary 2",
+   "ru": "Наёмник 2"
+  },
+  {
+   "id": 8,
+   "addr": "0x80010340",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Mercenary 1",
+   "ru": "Наёмник 1"
+  },
+  {
+   "id": 9,
+   "addr": "0x8001034c",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Hibernia 9",
+   "ru": "Хиберния 9"
+  },
+  {
+   "id": 10,
+   "addr": "0x80010358",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Hibernia 8",
+   "ru": "Хиберния 8"
+  },
+  {
+   "id": 11,
+   "addr": "0x80010364",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Hibernia 7",
+   "ru": "Хиберния 7"
+  },
+  {
+   "id": 12,
+   "addr": "0x80010370",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Hibernia 6",
+   "ru": "Хиберния 6"
+  },
+  {
+   "id": 13,
+   "addr": "0x8001037c",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Hibernia 5",
+   "ru": "Хиберния 5"
+  },
+  {
+   "id": 14,
+   "addr": "0x80010388",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Hibernia 4",
+   "ru": "Хиберния 4"
+  },
+  {
+   "id": 15,
+   "addr": "0x80010394",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Hibernia 3",
+   "ru": "Хиберния 3"
+  },
+  {
+   "id": 16,
+   "addr": "0x800103a0",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Hibernia 2",
+   "ru": "Хиберния 2"
+  },
+  {
+   "id": 17,
+   "addr": "0x800103ac",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Hibernia 1",
+   "ru": "Хиберния 1"
+  },
+  {
+   "id": 18,
+   "addr": "0x800103b8",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Imperial 14",
+   "ru": "Империя 14"
+  },
+  {
+   "id": 19,
+   "addr": "0x800103c4",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Imperial 13",
+   "ru": "Империя 13"
+  },
+  {
+   "id": 20,
+   "addr": "0x800103d0",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Imperial 12",
+   "ru": "Империя 12"
+  },
+  {
+   "id": 21,
+   "addr": "0x800103dc",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Imperial 11",
+   "ru": "Империя 11"
+  },
+  {
+   "id": 22,
+   "addr": "0x800103e8",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Imperial 10",
+   "ru": "Империя 10"
+  },
+  {
+   "id": 23,
+   "addr": "0x800103f4",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Muspel 12",
+   "ru": "Муспель 12"
+  },
+  {
+   "id": 24,
+   "addr": "0x80010400",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Muspel 11",
+   "ru": "Муспель 11"
+  },
+  {
+   "id": 25,
+   "addr": "0x8001040c",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Muspel 10",
+   "ru": "Муспель 10"
+  },
+  {
+   "id": 26,
+   "addr": "0x80010418",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Muspel 9",
+   "ru": "Муспель 9"
+  },
+  {
+   "id": 27,
+   "addr": "0x80010424",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Muspel 8",
+   "ru": "Муспель 8"
+  },
+  {
+   "id": 28,
+   "addr": "0x80010430",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Muspel 7",
+   "ru": "Муспель 7"
+  },
+  {
+   "id": 29,
+   "addr": "0x8001043c",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Muspel 6",
+   "ru": "Муспель 6"
+  },
+  {
+   "id": 30,
+   "addr": "0x80010448",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Muspel 5",
+   "ru": "Муспель 5"
+  },
+  {
+   "id": 31,
+   "addr": "0x80010454",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Muspel 4",
+   "ru": "Муспель 4"
+  },
+  {
+   "id": 32,
+   "addr": "0x80010460",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Muspel 3",
+   "ru": "Муспель 3"
+  },
+  {
+   "id": 33,
+   "addr": "0x8001046c",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Muspel 2",
+   "ru": "Муспель 2"
+  },
+  {
+   "id": 34,
+   "addr": "0x80010478",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Muspel 1",
+   "ru": "Муспель 1"
+  },
+  {
+   "id": 35,
+   "addr": "0x80010484",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Nordilain 9",
+   "ru": "Нордилейн 9"
+  },
+  {
+   "id": 36,
+   "addr": "0x80010490",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Nordilain 8",
+   "ru": "Нордилейн 8"
+  },
+  {
+   "id": 37,
+   "addr": "0x8001049c",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Nordilain 7",
+   "ru": "Нордилейн 7"
+  },
+  {
+   "id": 38,
+   "addr": "0x800104a8",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Nordilain 6",
+   "ru": "Нордилейн 6"
+  },
+  {
+   "id": 39,
+   "addr": "0x800104b4",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Nordilain 5",
+   "ru": "Нордилейн 5"
+  },
+  {
+   "id": 40,
+   "addr": "0x800104c0",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Nordilain 4",
+   "ru": "Нордилейн 4"
+  },
+  {
+   "id": 41,
+   "addr": "0x800104cc",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Nordilain 3",
+   "ru": "Нордилейн 3"
+  },
+  {
+   "id": 42,
+   "addr": "0x800104d8",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Nordilain 2",
+   "ru": "Нордилейн 2"
+  },
+  {
+   "id": 43,
+   "addr": "0x800104e4",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Nordilain 1",
+   "ru": "Нордилейн 1"
+  },
+  {
+   "id": 44,
+   "addr": "0x800104f0",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Kingdom 9",
+   "ru": "Фарастия 9"
+  },
+  {
+   "id": 45,
+   "addr": "0x800104fc",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Kingdom 8",
+   "ru": "Фарастия 8"
+  },
+  {
+   "id": 46,
+   "addr": "0x80010508",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Kingdom 7",
+   "ru": "Фарастия 7"
+  },
+  {
+   "id": 47,
+   "addr": "0x80010514",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Kingdom 6",
+   "ru": "Фарастия 6"
+  },
+  {
+   "id": 48,
+   "addr": "0x80010520",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Kingdom 5",
+   "ru": "Фарастия 5"
+  },
+  {
+   "id": 49,
+   "addr": "0x8001052c",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Kingdom 4",
+   "ru": "Фарастия 4"
+  },
+  {
+   "id": 50,
+   "addr": "0x80010538",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Kingdom 3",
+   "ru": "Фарастия 3"
+  },
+  {
+   "id": 51,
+   "addr": "0x80010544",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Kingdom 2",
+   "ru": "Фарастия 2"
+  },
+  {
+   "id": 52,
+   "addr": "0x80010550",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Kingdom 1",
+   "ru": "Фарастия 1"
+  },
+  {
+   "id": 53,
+   "addr": "0x8001055c",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Avalon 9",
+   "ru": "Авалон 9"
+  },
+  {
+   "id": 54,
+   "addr": "0x80010568",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Avalon 8",
+   "ru": "Авалон 8"
+  },
+  {
+   "id": 55,
+   "addr": "0x80010574",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Avalon 7",
+   "ru": "Авалон 7"
+  },
+  {
+   "id": 56,
+   "addr": "0x80010580",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Avalon 6",
+   "ru": "Авалон 6"
+  },
+  {
+   "id": 57,
+   "addr": "0x8001058c",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Avalon 5",
+   "ru": "Авалон 5"
+  },
+  {
+   "id": 58,
+   "addr": "0x80010598",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Avalon 4",
+   "ru": "Авалон 4"
+  },
+  {
+   "id": 59,
+   "addr": "0x800105a4",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Avalon 3",
+   "ru": "Авалон 3"
+  },
+  {
+   "id": 60,
+   "addr": "0x800105b0",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Avalon 2",
+   "ru": "Авалон 2"
+  },
+  {
+   "id": 61,
+   "addr": "0x800105bc",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Avalon 1",
+   "ru": "Авалон 1"
+  },
+  {
+   "id": 62,
+   "addr": "0x800105c8",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Bodyguard 4",
+   "ru": "Охранник 4"
+  },
+  {
+   "id": 63,
+   "addr": "0x800105d4",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Bodyguard 3",
+   "ru": "Охранник 3"
+  },
+  {
+   "id": 64,
+   "addr": "0x800105e0",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Bodyguard 2",
+   "ru": "Охранник 2"
+  },
+  {
+   "id": 65,
+   "addr": "0x800105ec",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Bodyguard 1",
+   "ru": "Охранник 1"
+  },
+  {
+   "id": 66,
+   "addr": "0x800105f8",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Bandit 9",
+   "ru": "Бандит 9"
+  },
+  {
+   "id": 67,
+   "addr": "0x80010604",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Bandit 8",
+   "ru": "Бандит 8"
+  },
+  {
+   "id": 68,
+   "addr": "0x80010610",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Bandit 7",
+   "ru": "Бандит 7"
+  },
+  {
+   "id": 69,
+   "addr": "0x8001061c",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Bandit 6",
+   "ru": "Бандит 6"
+  },
+  {
+   "id": 70,
+   "addr": "0x80010628",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Bandit 5",
+   "ru": "Бандит 5"
+  },
+  {
+   "id": 71,
+   "addr": "0x80010634",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Bandit 4",
+   "ru": "Бандит 4"
+  },
+  {
+   "id": 72,
+   "addr": "0x80010640",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Bandit 3",
+   "ru": "Бандит 3"
+  },
+  {
+   "id": 73,
+   "addr": "0x8001064c",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Bandit 2",
+   "ru": "Бандит 2"
+  },
+  {
+   "id": 74,
+   "addr": "0x80010658",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Bandit 1",
+   "ru": "Бандит 1"
+  },
+  {
+   "id": 75,
+   "addr": "0x80010664",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Imperial 9",
+   "ru": "Империя 9"
+  },
+  {
+   "id": 76,
+   "addr": "0x80010670",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Imperial 8",
+   "ru": "Империя 8"
+  },
+  {
+   "id": 77,
+   "addr": "0x8001067c",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Imperial 7",
+   "ru": "Империя 7"
+  },
+  {
+   "id": 78,
+   "addr": "0x80010688",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Imperial 6",
+   "ru": "Империя 6"
+  },
+  {
+   "id": 79,
+   "addr": "0x80010694",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Imperial 5",
+   "ru": "Империя 5"
+  },
+  {
+   "id": 80,
+   "addr": "0x800106a0",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Imperial 4",
+   "ru": "Империя 4"
+  },
+  {
+   "id": 81,
+   "addr": "0x800106ac",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Imperial 3",
+   "ru": "Империя 3"
+  },
+  {
+   "id": 82,
+   "addr": "0x800106b8",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Imperial 2",
+   "ru": "Империя 2"
+  },
+  {
+   "id": 83,
+   "addr": "0x800106c4",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Imperial 1",
+   "ru": "Империя 1"
+  },
+  {
+   "id": 84,
+   "addr": "0x800106d0",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Prisoner",
+   "ru": "Пленник"
+  },
+  {
+   "id": 85,
+   "addr": "0x800106dc",
+   "mode": "ptr",
+   "max": 15,
+   "en": "Jinba Soldier",
+   "ru": "Солдат Джинбы"
+  },
+  {
+   "id": 86,
+   "addr": "0x800106ec",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Mercenary",
+   "ru": "Наёмник"
+  },
+  {
+   "id": 87,
+   "addr": "0x800106f8",
+   "mode": "ptr",
+   "max": 15,
+   "en": "Muspel Soldier",
+   "ru": "Солдат Муспеля"
+  },
+  {
+   "id": 88,
+   "addr": "0x80010708",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Red Tiger",
+   "ru": "Красный тигр"
+  },
+  {
+   "id": 89,
+   "addr": "0x80010714",
+   "mode": "ptr",
+   "max": 15,
+   "en": "Bandit Chief",
+   "ru": "Главарь"
+  },
+  {
+   "id": 90,
+   "addr": "0x80010724",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Kingdom",
+   "ru": "Фарастия"
+  },
+  {
+   "id": 91,
+   "addr": "0x8001072c",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Imperial",
+   "ru": "Империя"
+  },
+  {
+   "id": 92,
+   "addr": "0x80010738",
+   "mode": "ptr",
+   "max": 15,
+   "en": "Bodygrd Chief",
+   "ru": "Нач. охраны"
+  },
+  {
+   "id": 93,
+   "addr": "0x80010748",
+   "mode": "ptr",
+   "max": 15,
+   "en": "Imperial Gnrl.",
+   "ru": "Имп. генерал"
+  },
+  {
+   "id": 94,
+   "addr": "0x80010758",
+   "mode": "ptr",
+   "max": 15,
+   "en": "Security Chief",
+   "ru": "Нач. стражи"
+  },
+  {
+   "id": 95,
+   "addr": "0x80010768",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Degalle",
+   "ru": "Дегаль"
+  },
+  {
+   "id": 96,
+   "addr": "0x80010770",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Savaro",
+   "ru": "Саваро"
+  },
+  {
+   "id": 97,
+   "addr": "0x80010778",
+   "mode": "ptr",
+   "max": 7,
+   "en": "King",
+   "ru": "Король"
+  },
+  {
+   "id": 98,
+   "addr": "0x80010780",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Kyu-Kyu",
+   "ru": "Кю-Кю"
+  },
+  {
+   "id": 99,
+   "addr": "0x80010788",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Nana",
+   "ru": "Нана"
+  },
+  {
+   "id": 100,
+   "addr": "0x80010790",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Kuriem-Hilt",
+   "ru": "Куриэм-Хилт"
+  },
+  {
+   "id": 101,
+   "addr": "0x8001079c",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Madoc",
+   "ru": "Мэдок"
+  },
+  {
+   "id": 102,
+   "addr": "0x800107a4",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Franco",
+   "ru": "Франко"
+  },
+  {
+   "id": 103,
+   "addr": "0x800107ac",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Armory",
+   "ru": "Оружейник"
+  },
+  {
+   "id": 104,
+   "addr": "0x800107b4",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Milea",
+   "ru": "Милея"
+  },
+  {
+   "id": 105,
+   "addr": "0x800107bc",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Cecilia",
+   "ru": "Сесилия"
+  },
+  {
+   "id": 106,
+   "addr": "0x800107c4",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Puck",
+   "ru": "Пак"
+  },
+  {
+   "id": 107,
+   "addr": "0x800107cc",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Anseis",
+   "ru": "Ансеис"
+  },
+  {
+   "id": 108,
+   "addr": "0x800107d4",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Melior",
+   "ru": "Мелиор"
+  },
+  {
+   "id": 109,
+   "addr": "0x800107dc",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Cherno",
+   "ru": "Черно"
+  },
+  {
+   "id": 110,
+   "addr": "0x800107e4",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Andrew",
+   "ru": "Эндрю"
+  },
+  {
+   "id": 111,
+   "addr": "0x800107ec",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Kaidul",
+   "ru": "Кайдул"
+  },
+  {
+   "id": 112,
+   "addr": "0x800107f4",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Ione",
+   "ru": "Иона"
+  },
+  {
+   "id": 113,
+   "addr": "0x800107fc",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Shion",
+   "ru": "Шион"
+  },
+  {
+   "id": 114,
+   "addr": "0x80010804",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Claire",
+   "ru": "Клэр"
+  },
+  {
+   "id": 115,
+   "addr": "0x8001080c",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Zakov",
+   "ru": "Заков"
+  },
+  {
+   "id": 116,
+   "addr": "0x80010814",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Halak",
+   "ru": "Халак"
+  },
+  {
+   "id": 117,
+   "addr": "0x8001081c",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Thomson",
+   "ru": "Томсон"
+  },
+  {
+   "id": 118,
+   "addr": "0x80010824",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Barlow",
+   "ru": "Барлоу"
+  },
+  {
+   "id": 119,
+   "addr": "0x8001082c",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Devlin",
+   "ru": "Девлин"
+  },
+  {
+   "id": 120,
+   "addr": "0x80010834",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Reyna",
+   "ru": "Рейна"
+  },
+  {
+   "id": 121,
+   "addr": "0x8001083c",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Ganlon",
+   "ru": "Ганлон"
+  },
+  {
+   "id": 122,
+   "addr": "0x80010844",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Galvas",
+   "ru": "Гальвас"
+  },
+  {
+   "id": 123,
+   "addr": "0x8001084c",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Kamorge",
+   "ru": "Каморж"
+  },
+  {
+   "id": 124,
+   "addr": "0x80010854",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Alden",
+   "ru": "Олден"
+  },
+  {
+   "id": 125,
+   "addr": "0x8001085c",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Dionne",
+   "ru": "Дионн"
+  },
+  {
+   "id": 126,
+   "addr": "0x80010864",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Zeira",
+   "ru": "Зейра"
+  },
+  {
+   "id": 127,
+   "addr": "0x8001086c",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Radcot",
+   "ru": "Радкот"
+  },
+  {
+   "id": 128,
+   "addr": "0x80010874",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Logan",
+   "ru": "Логан"
+  },
+  {
+   "id": 129,
+   "addr": "0x8001087c",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Sadira",
+   "ru": "Садира"
+  },
+  {
+   "id": 130,
+   "addr": "0x80010884",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Duyere",
+   "ru": "Дюйер"
+  },
+  {
+   "id": 131,
+   "addr": "0x8001088c",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Faulkner",
+   "ru": "Фолкнер"
+  },
+  {
+   "id": 132,
+   "addr": "0x80010898",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Bastion",
+   "ru": "Бастион"
+  },
+  {
+   "id": 133,
+   "addr": "0x800108a0",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Haurol",
+   "ru": "Хаурол"
+  },
+  {
+   "id": 134,
+   "addr": "0x800108a8",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Andoras",
+   "ru": "Андорас"
+  },
+  {
+   "id": 135,
+   "addr": "0x800108b0",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Barazaph",
+   "ru": "Баразаф"
+  },
+  {
+   "id": 136,
+   "addr": "0x800108bc",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Dantarius",
+   "ru": "Дантариус"
+  },
+  {
+   "id": 137,
+   "addr": "0x800108c8",
+   "mode": "ptr",
+   "max": 7,
+   "en": "No. 86",
+   "ru": "No. 86"
+  },
+  {
+   "id": 138,
+   "addr": "0x800108d0",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Yurangol",
+   "ru": "Юранголь"
+  },
+  {
+   "id": 139,
+   "addr": "0x800108dc",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Bahamut",
+   "ru": "Бахамут"
+  },
+  {
+   "id": 140,
+   "addr": "0x800108e4",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Vedocorban",
+   "ru": "Ведокорбан"
+  },
+  {
+   "id": 141,
+   "addr": "0x800108f0",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Flaros",
+   "ru": "Фларос"
+  },
+  {
+   "id": 142,
+   "addr": "0x800108f8",
+   "mode": "ptr",
+   "max": 15,
+   "en": "Roaring Lion",
+   "ru": "Рычащий лев"
+  },
+  {
+   "id": 143,
+   "addr": "0x80010908",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Toreadore",
+   "ru": "Тореадор"
+  },
+  {
+   "id": 144,
+   "addr": "0x80010914",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Rahabor",
+   "ru": "Рахабор"
+  },
+  {
+   "id": 145,
+   "addr": "0x8001091c",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Crimson",
+   "ru": "Кримсон"
+  },
+  {
+   "id": 146,
+   "addr": "0x80010924",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Ratatosk",
+   "ru": "Рататоск"
+  },
+  {
+   "id": 147,
+   "addr": "0x80010930",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Eigol",
+   "ru": "Эйгол"
+  },
+  {
+   "id": 148,
+   "addr": "0x80010938",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Amphisia",
+   "ru": "Амфисия"
+  },
+  {
+   "id": 149,
+   "addr": "0x80010944",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Altagrave",
+   "ru": "Альтагрейв"
+  },
+  {
+   "id": 150,
+   "addr": "0x80010950",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Barbatos",
+   "ru": "Барбатос"
+  },
+  {
+   "id": 151,
+   "addr": "0x8001095c",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Botsu",
+   "ru": "Боцу"
+  },
+  {
+   "id": 152,
+   "addr": "0x80010964",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Einlager",
+   "ru": "Айнлагер"
+  },
+  {
+   "id": 153,
+   "addr": "0x80010970",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Sharking",
+   "ru": "Шаркинг"
+  },
+  {
+   "id": 154,
+   "addr": "0x8001097c",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Korbelan",
+   "ru": "Корбелан"
+  },
+  {
+   "id": 155,
+   "addr": "0x80010988",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Sylpheed",
+   "ru": "Сильфид"
+  },
+  {
+   "id": 156,
+   "addr": "0x80010994",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Sarbelas",
+   "ru": "Сарбелас"
+  },
+  {
+   "id": 157,
+   "addr": "0x800109a0",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Solarus",
+   "ru": "Соларус"
+  },
+  {
+   "id": 158,
+   "addr": "0x800109a8",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Waiban",
+   "ru": "Вайбан"
+  },
+  {
+   "id": 159,
+   "addr": "0x800109b0",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Glaive",
+   "ru": "Глефа"
+  },
+  {
+   "id": 160,
+   "addr": "0x800109b8",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Haizuron",
+   "ru": "Хайзурон"
+  },
+  {
+   "id": 161,
+   "addr": "0x800109c4",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Serata",
+   "ru": "Серата"
+  },
+  {
+   "id": 162,
+   "addr": "0x800109cc",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Alba",
+   "ru": "Альба"
+  },
+  {
+   "id": 163,
+   "addr": "0x800109d4",
+   "mode": "ptr",
+   "max": 7,
+   "en": "TIC-TAC",
+   "ru": "ТИК-ТАК"
+  },
+  {
+   "id": 164,
+   "addr": "0x800109dc",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Zulwarn",
+   "ru": "Зулварн"
+  },
+  {
+   "id": 165,
+   "addr": "0x800109e4",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Ultragunner",
+   "ru": "Ультраганнер"
+  },
+  {
+   "id": 166,
+   "addr": "0x800109f0",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Knockout",
+   "ru": "Нокаут"
+  },
+  {
+   "id": 167,
+   "addr": "0x800109fc",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Uppercut",
+   "ru": "Апперкот"
+  },
+  {
+   "id": 168,
+   "addr": "0x80010a08",
+   "mode": "ptr",
+   "max": 3,
+   "en": "Jab",
+   "ru": "Джеб"
+  },
+  {
+   "id": 169,
+   "addr": "0x80010a0c",
+   "mode": "ptr",
+   "max": 15,
+   "en": "Cutting Wheel",
+   "ru": "Колесо-резак"
+  },
+  {
+   "id": 170,
+   "addr": "0x80010a1c",
+   "mode": "ptr",
+   "max": 15,
+   "en": "Burning Soul",
+   "ru": "Пылающая душа"
+  },
+  {
+   "id": 171,
+   "addr": "0x80010a2c",
+   "mode": "ptr",
+   "max": 15,
+   "en": "Reyna's Trick",
+   "ru": "Трюк Рейны"
+  },
+  {
+   "id": 172,
+   "addr": "0x80010a3c",
+   "mode": "ptr",
+   "max": 15,
+   "en": "Soaring Dance",
+   "ru": "Парящий танец"
+  },
+  {
+   "id": 173,
+   "addr": "0x80010a4c",
+   "mode": "ptr",
+   "max": 15,
+   "en": "Splitting Smash",
+   "ru": "Удар-раскол"
+  },
+  {
+   "id": 174,
+   "addr": "0x80010a5c",
+   "mode": "ptr",
+   "max": 19,
+   "en": "Lightning Strike",
+   "ru": "Удар молнии"
+  },
+  {
+   "id": 175,
+   "addr": "0x80010a70",
+   "mode": "ptr",
+   "max": 15,
+   "en": "Blinding Light",
+   "ru": "Слепящий свет"
+  },
+  {
+   "id": 176,
+   "addr": "0x80010a80",
+   "mode": "ptr",
+   "max": 15,
+   "en": "Flashing Fang",
+   "ru": "Сверкающий клык"
+  },
+  {
+   "id": 177,
+   "addr": "0x80010a90",
+   "mode": "ptr",
+   "max": 15,
+   "en": "Heaven's Gate",
+   "ru": "Небесные врата"
+  },
+  {
+   "id": 178,
+   "addr": "0x80010aa0",
+   "mode": "ptr",
+   "max": 15,
+   "en": "Shadow Blade",
+   "ru": "Теневой клинок"
+  },
+  {
+   "id": 179,
+   "addr": "0x80010ab0",
+   "mode": "ptr",
+   "max": 15,
+   "en": "Dark Thunder",
+   "ru": "Тёмный гром"
+  },
+  {
+   "id": 180,
+   "addr": "0x80010ac0",
+   "mode": "ptr",
+   "max": 15,
+   "en": "Shadow Binding",
+   "ru": "Теневые путы"
+  },
+  {
+   "id": 181,
+   "addr": "0x80010ad0",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Sonic Blade",
+   "ru": "Звуковой клинок"
+  },
+  {
+   "id": 182,
+   "addr": "0x80010adc",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Spiral Dive",
+   "ru": "Штопор"
+  },
+  {
+   "id": 183,
+   "addr": "0x80010ae8",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Somersault",
+   "ru": "Сальто"
+  },
+  {
+   "id": 184,
+   "addr": "0x80010af4",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Wind Strike",
+   "ru": "Удар ветра"
+  },
+  {
+   "id": 185,
+   "addr": "0x80010b00",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Turbulence",
+   "ru": "Смерч"
+  },
+  {
+   "id": 186,
+   "addr": "0x80010b0c",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Tornado",
+   "ru": "Торнадо"
+  },
+  {
+   "id": 187,
+   "addr": "0x80010b14",
+   "mode": "ptr",
+   "max": 15,
+   "en": "Bursting Fire",
+   "ru": "Взрыв пламени"
+  },
+  {
+   "id": 188,
+   "addr": "0x80010b24",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Raging Heat",
+   "ru": "Яростный жар"
+  },
+  {
+   "id": 189,
+   "addr": "0x80010b30",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Flare Bomb",
+   "ru": "Огнебомба"
+  },
+  {
+   "id": 190,
+   "addr": "0x80010b3c",
+   "mode": "ptr",
+   "max": 15,
+   "en": "Melting Flare",
+   "ru": "Плавящий огонь"
+  },
+  {
+   "id": 191,
+   "addr": "0x80010b4c",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Fireball",
+   "ru": "Огненный шар"
+  },
+  {
+   "id": 192,
+   "addr": "0x80010b58",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Tidal Wave",
+   "ru": "Цунами"
+  },
+  {
+   "id": 193,
+   "addr": "0x80010b64",
+   "mode": "ptr",
+   "max": 15,
+   "en": "Blizzard Break",
+   "ru": "Ледяной шквал"
+  },
+  {
+   "id": 194,
+   "addr": "0x80010b74",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Mirage Mist",
+   "ru": "Туман-мираж"
+  },
+  {
+   "id": 195,
+   "addr": "0x80010b80",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Ice Storm",
+   "ru": "Ледяная буря"
+  },
+  {
+   "id": 196,
+   "addr": "0x80010b8c",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Ice Shards",
+   "ru": "Ледяные иглы"
+  },
+  {
+   "id": 197,
+   "addr": "0x80010b98",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Terra Shock",
+   "ru": "Удар земли"
+  },
+  {
+   "id": 198,
+   "addr": "0x80010ba4",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Gaia Blade",
+   "ru": "Клинок Геи"
+  },
+  {
+   "id": 199,
+   "addr": "0x80010bb0",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Earthquake",
+   "ru": "Землетрясение"
+  },
+  {
+   "id": 200,
+   "addr": "0x80010bbc",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Quicksand",
+   "ru": "Зыбучий песок"
+  },
+  {
+   "id": 201,
+   "addr": "0x80010bc8",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Kick",
+   "ru": "Пинок"
+  },
+  {
+   "id": 202,
+   "addr": "0x80010bd0",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Str. Thrust",
+   "ru": "Сил. выпад"
+  },
+  {
+   "id": 203,
+   "addr": "0x80010bdc",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Str. Slash",
+   "ru": "Сил. рубка"
+  },
+  {
+   "id": 204,
+   "addr": "0x80010be8",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Long Thrust",
+   "ru": "Дальний выпад"
+  },
+  {
+   "id": 205,
+   "addr": "0x80010bf4",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Tackle",
+   "ru": "Таран"
+  },
+  {
+   "id": 206,
+   "addr": "0x80010bfc",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Strike",
+   "ru": "Удар"
+  },
+  {
+   "id": 207,
+   "addr": "0x80010c04",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Thrust",
+   "ru": "Выпад"
+  },
+  {
+   "id": 208,
+   "addr": "0x80010c0c",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Slash",
+   "ru": "Рубка"
+  },
+  {
+   "id": 209,
+   "addr": "0x80010c14",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Counter",
+   "ru": "Контрудар"
+  },
+  {
+   "id": 210,
+   "addr": "0x80010c1c",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Avoid",
+   "ru": "Уклон"
+  },
+  {
+   "id": 211,
+   "addr": "0x80010c24",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Defend",
+   "ru": "Защита"
+  },
+  {
+   "id": 212,
+   "addr": "0x80010c2c",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Frozen",
+   "ru": "Заморожен"
+  },
+  {
+   "id": 213,
+   "addr": "0x80010c34",
+   "mode": "ptr",
+   "max": 15,
+   "en": "HP/FP Recovery",
+   "ru": "Восст. HP/FP"
+  },
+  {
+   "id": 214,
+   "addr": "0x80010c44",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Holy Light",
+   "ru": "Святой свет"
+  },
+  {
+   "id": 215,
+   "addr": "0x80010c50",
+   "mode": "ptr",
+   "max": 15,
+   "en": "DEX Increase",
+   "ru": "Рост DEX"
+  },
+  {
+   "id": 216,
+   "addr": "0x80010c60",
+   "mode": "ptr",
+   "max": 15,
+   "en": "Roaring Wind",
+   "ru": "Ревущий ветер"
+  },
+  {
+   "id": 217,
+   "addr": "0x80010c70",
+   "mode": "ptr",
+   "max": 15,
+   "en": "WEP Increase",
+   "ru": "Рост WEP"
+  },
+  {
+   "id": 218,
+   "addr": "0x80010c80",
+   "mode": "ptr",
+   "max": 15,
+   "en": "Searing Flame",
+   "ru": "Палящее пламя"
+  },
+  {
+   "id": 219,
+   "addr": "0x80010c90",
+   "mode": "ptr",
+   "max": 15,
+   "en": "Self-Sacrifice",
+   "ru": "Самопожертвов."
+  },
+  {
+   "id": 220,
+   "addr": "0x80010ca0",
+   "mode": "ptr",
+   "max": 15,
+   "en": "Blazing Phoenix",
+   "ru": "Огненный феникс"
+  },
+  {
+   "id": 221,
+   "addr": "0x80010cb0",
+   "mode": "ptr",
+   "max": 15,
+   "en": "AGL Increase",
+   "ru": "Рост AGL"
+  },
+  {
+   "id": 222,
+   "addr": "0x80010cc0",
+   "mode": "ptr",
+   "max": 15,
+   "en": "Pouring Rain",
+   "ru": "Ливень"
+  },
+  {
+   "id": 223,
+   "addr": "0x80010cd0",
+   "mode": "ptr",
+   "max": 11,
+   "en": "FP Recovery",
+   "ru": "Восст. FP"
+  },
+  {
+   "id": 224,
+   "addr": "0x80010cdc",
+   "mode": "ptr",
+   "max": 15,
+   "en": "Cooling Mist",
+   "ru": "Свежий туман"
+  },
+  {
+   "id": 225,
+   "addr": "0x80010cec",
+   "mode": "ptr",
+   "max": 15,
+   "en": "DEF Increase",
+   "ru": "Рост DEF"
+  },
+  {
+   "id": 226,
+   "addr": "0x80010cfc",
+   "mode": "ptr",
+   "max": 15,
+   "en": "Gaia Protect",
+   "ru": "Защита Геи"
+  },
+  {
+   "id": 227,
+   "addr": "0x80010d0c",
+   "mode": "ptr",
+   "max": 11,
+   "en": "HP Recovery",
+   "ru": "Восст. HP"
+  },
+  {
+   "id": 228,
+   "addr": "0x80010d18",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Earth Heal",
+   "ru": "Целебная земля"
+  },
+  {
+   "id": 229,
+   "addr": "0x80010d24",
+   "mode": "ptr",
+   "max": 15,
+   "en": "Random Rotation",
+   "ru": "Хаос-поворот"
+  },
+  {
+   "id": 230,
+   "addr": "0x80010d34",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Turn Quake",
+   "ru": "Разворот"
+  },
+  {
+   "id": 231,
+   "addr": "0x80010d40",
+   "mode": "ptr",
+   "max": 15,
+   "en": "Assassin Cape",
+   "ru": "Плащ убийцы"
+  },
+  {
+   "id": 232,
+   "addr": "0x80010d50",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Duel Rose",
+   "ru": "Роза дуэли"
+  },
+  {
+   "id": 233,
+   "addr": "0x80010d5c",
+   "mode": "ptr",
+   "max": 15,
+   "en": "Big Bracelet",
+   "ru": "Большой браслет"
+  },
+  {
+   "id": 234,
+   "addr": "0x80010d6c",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Magic Hat",
+   "ru": "Волшебная шляпа"
+  },
+  {
+   "id": 235,
+   "addr": "0x80010d78",
+   "mode": "ptr",
+   "max": 15,
+   "en": "Assassin COA",
+   "ru": "Герб убийцы"
+  },
+  {
+   "id": 236,
+   "addr": "0x80010d88",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Warrior COA",
+   "ru": "Герб воина"
+  },
+  {
+   "id": 237,
+   "addr": "0x80010d94",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Knight COA",
+   "ru": "Герб рыцаря"
+  },
+  {
+   "id": 238,
+   "addr": "0x80010da0",
+   "mode": "ptr",
+   "max": 15,
+   "en": "Family Jewels",
+   "ru": "Фамил. ценности"
+  },
+  {
+   "id": 239,
+   "addr": "0x80010db0",
+   "mode": "ptr",
+   "max": 15,
+   "en": "Devil's Horn",
+   "ru": "Рог дьявола"
+  },
+  {
+   "id": 240,
+   "addr": "0x80010dc0",
+   "mode": "ptr",
+   "max": 15,
+   "en": "Pegasus Boots",
+   "ru": "Сапоги Пегаса"
+  },
+  {
+   "id": 241,
+   "addr": "0x80010dd0",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Rainbow Gem",
+   "ru": "Радужный камень"
+  },
+  {
+   "id": 242,
+   "addr": "0x80010ddc",
+   "mode": "ptr",
+   "max": 15,
+   "en": "Wind Necklace",
+   "ru": "Ожерелье ветра"
+  },
+  {
+   "id": 243,
+   "addr": "0x80010dec",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Dex. Ring",
+   "ru": "Кольцо ловкости"
+  },
+  {
+   "id": 244,
+   "addr": "0x80010df8",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Power Tiara",
+   "ru": "Тиара силы"
+  },
+  {
+   "id": 245,
+   "addr": "0x80010e04",
+   "mode": "ptr",
+   "max": 15,
+   "en": "Holy Headband",
+   "ru": "Святая повязка"
+  },
+  {
+   "id": 246,
+   "addr": "0x80010e14",
+   "mode": "ptr",
+   "max": 15,
+   "en": "Armor Amulet",
+   "ru": "Амулет брони"
+  },
+  {
+   "id": 247,
+   "addr": "0x80010e24",
+   "mode": "ptr",
+   "max": 15,
+   "en": "Thieves' Ring",
+   "ru": "Кольцо вора"
+  },
+  {
+   "id": 248,
+   "addr": "0x80010e34",
+   "mode": "ptr",
+   "max": 15,
+   "en": "Fairy Earring",
+   "ru": "Серьга феи"
+  },
+  {
+   "id": 249,
+   "addr": "0x80010e44",
+   "mode": "ptr",
+   "max": 15,
+   "en": "Str. Gauntlet",
+   "ru": "Перчатка силы"
+  },
+  {
+   "id": 250,
+   "addr": "0x80010e54",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Nothing",
+   "ru": "Ничего"
+  },
+  {
+   "id": 251,
+   "addr": "0x80010e5c",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Quicksilver",
+   "ru": "Ртуть"
+  },
+  {
+   "id": 252,
+   "addr": "0x80010e68",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Widowmaker",
+   "ru": "Вдоводел"
+  },
+  {
+   "id": 253,
+   "addr": "0x80010e74",
+   "mode": "ptr",
+   "max": 15,
+   "en": "Slashing Iron",
+   "ru": "Рубящее железо"
+  },
+  {
+   "id": 254,
+   "addr": "0x80010e84",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Shimmerswrd",
+   "ru": "Мерцающий меч"
+  },
+  {
+   "id": 255,
+   "addr": "0x80010e90",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Tiger Blade",
+   "ru": "Тигриный клинок"
+  },
+  {
+   "id": 256,
+   "addr": "0x80010e9c",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Break Axe",
+   "ru": "Топор-лом"
+  },
+  {
+   "id": 257,
+   "addr": "0x80010ea8",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Great Axe",
+   "ru": "Большой топор"
+  },
+  {
+   "id": 258,
+   "addr": "0x80010eb4",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Battle Axe",
+   "ru": "Боевой топор"
+  },
+  {
+   "id": 259,
+   "addr": "0x80010ec0",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Hand Axe",
+   "ru": "Ручной топор"
+  },
+  {
+   "id": 260,
+   "addr": "0x80010ecc",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Halberd",
+   "ru": "Алебарда"
+  },
+  {
+   "id": 261,
+   "addr": "0x80010ed4",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Trident",
+   "ru": "Трезубец"
+  },
+  {
+   "id": 262,
+   "addr": "0x80010edc",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Partisan",
+   "ru": "Протазан"
+  },
+  {
+   "id": 263,
+   "addr": "0x80010ee8",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Spear",
+   "ru": "Копьё"
+  },
+  {
+   "id": 264,
+   "addr": "0x80010ef0",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Durandar",
+   "ru": "Дюрандаль"
+  },
+  {
+   "id": 265,
+   "addr": "0x80010efc",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Darkblade",
+   "ru": "Тёмный клинок"
+  },
+  {
+   "id": 266,
+   "addr": "0x80010f08",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Preshuze",
+   "ru": "Прешуз"
+  },
+  {
+   "id": 267,
+   "addr": "0x80010f14",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Gradius",
+   "ru": "Градиус"
+  },
+  {
+   "id": 268,
+   "addr": "0x80010f20",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Knuckle",
+   "ru": "Кастет"
+  },
+  {
+   "id": 269,
+   "addr": "0x80010f28",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Demirune",
+   "ru": "Демирун"
+  },
+  {
+   "id": 270,
+   "addr": "0x80010f34",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Skorsek",
+   "ru": "Скорсек"
+  },
+  {
+   "id": 271,
+   "addr": "0x80010f3c",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Gunganir",
+   "ru": "Гунганир"
+  },
+  {
+   "id": 272,
+   "addr": "0x80010f48",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Bloodblade",
+   "ru": "Кровавый клинок"
+  },
+  {
+   "id": 273,
+   "addr": "0x80010f54",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Fridgia",
+   "ru": "Фриджия"
+  },
+  {
+   "id": 274,
+   "addr": "0x80010f5c",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Ginsunami",
+   "ru": "Гинсунами"
+  },
+  {
+   "id": 275,
+   "addr": "0x80010f68",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Steelburn",
+   "ru": "Стилберн"
+  },
+  {
+   "id": 276,
+   "addr": "0x80010f74",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Mystaria",
+   "ru": "Мистария"
+  },
+  {
+   "id": 277,
+   "addr": "0x80010f80",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Dragontail",
+   "ru": "Хвост дракона"
+  },
+  {
+   "id": 278,
+   "addr": "0x80010f8c",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Soulstab",
+   "ru": "Душекол"
+  },
+  {
+   "id": 279,
+   "addr": "0x80010f98",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Caliban",
+   "ru": "Калибан"
+  },
+  {
+   "id": 280,
+   "addr": "0x80010fa0",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Eternus",
+   "ru": "Этернус"
+  },
+  {
+   "id": 281,
+   "addr": "0x80010fa8",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Gratia",
+   "ru": "Гратия"
+  },
+  {
+   "id": 282,
+   "addr": "0x80010fb0",
+   "mode": "ptr",
+   "max": 15,
+   "en": "Black Diamond",
+   "ru": "Чёрный алмаз"
+  },
+  {
+   "id": 283,
+   "addr": "0x80010fc0",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Evil Eye",
+   "ru": "Злой глаз"
+  },
+  {
+   "id": 284,
+   "addr": "0x80010fcc",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Dark Eye",
+   "ru": "Тёмный глаз"
+  },
+  {
+   "id": 285,
+   "addr": "0x80010fd8",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Royal Jade",
+   "ru": "Царский нефрит"
+  },
+  {
+   "id": 286,
+   "addr": "0x80010fe4",
+   "mode": "ptr",
+   "max": 15,
+   "en": "Star Diamond",
+   "ru": "Звёздный алмаз"
+  },
+  {
+   "id": 287,
+   "addr": "0x80010ff4",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Jade",
+   "ru": "Нефрит"
+  },
+  {
+   "id": 288,
+   "addr": "0x80010ffc",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Olivine",
+   "ru": "Оливин"
+  },
+  {
+   "id": 289,
+   "addr": "0x80011004",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Emerald",
+   "ru": "Изумруд"
+  },
+  {
+   "id": 290,
+   "addr": "0x8001100c",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Beryl",
+   "ru": "Берилл"
+  },
+  {
+   "id": 291,
+   "addr": "0x80011014",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Bloodstone",
+   "ru": "Кровавик"
+  },
+  {
+   "id": 292,
+   "addr": "0x80011020",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Sunstone",
+   "ru": "Солнечный камень"
+  },
+  {
+   "id": 293,
+   "addr": "0x8001102c",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Kunzite",
+   "ru": "Кунцит"
+  },
+  {
+   "id": 294,
+   "addr": "0x80011034",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Ruby",
+   "ru": "Рубин"
+  },
+  {
+   "id": 295,
+   "addr": "0x8001103c",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Jasper",
+   "ru": "Яшма"
+  },
+  {
+   "id": 296,
+   "addr": "0x80011044",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Opal",
+   "ru": "Опал"
+  },
+  {
+   "id": 297,
+   "addr": "0x8001104c",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Ocean Mist",
+   "ru": "Морской туман"
+  },
+  {
+   "id": 298,
+   "addr": "0x80011058",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Hawk's Eye",
+   "ru": "Соколиный глаз"
+  },
+  {
+   "id": 299,
+   "addr": "0x80011064",
+   "mode": "ptr",
+   "max": 15,
+   "en": "Lapis Lazuli",
+   "ru": "Лазурит"
+  },
+  {
+   "id": 300,
+   "addr": "0x80011074",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Sapphire",
+   "ru": "Сапфир"
+  },
+  {
+   "id": 301,
+   "addr": "0x80011080",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Aquamarine",
+   "ru": "Аквамарин"
+  },
+  {
+   "id": 302,
+   "addr": "0x8001108c",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Turquoise",
+   "ru": "Бирюза"
+  },
+  {
+   "id": 303,
+   "addr": "0x80011098",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Carnelian",
+   "ru": "Сердолик"
+  },
+  {
+   "id": 304,
+   "addr": "0x800110a4",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Sardonis",
+   "ru": "Сардоникс"
+  },
+  {
+   "id": 305,
+   "addr": "0x800110b0",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Tiger's Eye",
+   "ru": "Тигровый глаз"
+  },
+  {
+   "id": 306,
+   "addr": "0x800110bc",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Garnet",
+   "ru": "Гранат"
+  },
+  {
+   "id": 307,
+   "addr": "0x800110c4",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Topaz",
+   "ru": "Топаз"
+  },
+  {
+   "id": 308,
+   "addr": "0x800110cc",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Onyx",
+   "ru": "Оникс"
+  },
+  {
+   "id": 309,
+   "addr": "0x800110d4",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Bridge",
+   "ru": "Мост"
+  },
+  {
+   "id": 310,
+   "addr": "0x800110dc",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Castle",
+   "ru": "Замок"
+  },
+  {
+   "id": 311,
+   "addr": "0x800110e4",
+   "mode": "ptr",
+   "max": 7,
+   "en": "City",
+   "ru": "Город"
+  },
+  {
+   "id": 312,
+   "addr": "0x800110ec",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Road",
+   "ru": "Дорога"
+  },
+  {
+   "id": 313,
+   "addr": "0x800110f4",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Swamp",
+   "ru": "Болото"
+  },
+  {
+   "id": 314,
+   "addr": "0x800110fc",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Desert",
+   "ru": "Пустыня"
+  },
+  {
+   "id": 315,
+   "addr": "0x80011104",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Cliff",
+   "ru": "Утёс"
+  },
+  {
+   "id": 316,
+   "addr": "0x8001110c",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Rock",
+   "ru": "Скалы"
+  },
+  {
+   "id": 317,
+   "addr": "0x80011114",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Snow",
+   "ru": "Снег"
+  },
+  {
+   "id": 318,
+   "addr": "0x8001111c",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Forest",
+   "ru": "Лес"
+  },
+  {
+   "id": 319,
+   "addr": "0x80011124",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Wild",
+   "ru": "Пустошь"
+  },
+  {
+   "id": 320,
+   "addr": "0x8001112c",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Plain",
+   "ru": "Равнина"
+  },
+  {
+   "id": 321,
+   "addr": "0x80011134",
+   "mode": "ptr",
+   "max": 15,
+   "en": "Desert Motion",
+   "ru": "Ход по пустыне"
+  },
+  {
+   "id": 322,
+   "addr": "0x80011144",
+   "mode": "ptr",
+   "max": 15,
+   "en": "Forest Motion",
+   "ru": "Ход по лесу"
+  },
+  {
+   "id": 323,
+   "addr": "0x80011154",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Snow Motion",
+   "ru": "Ход по снегу"
+  },
+  {
+   "id": 324,
+   "addr": "0x80011160",
+   "mode": "ptr",
+   "max": 15,
+   "en": "Anti-Fatigue",
+   "ru": "Выносливость"
+  },
+  {
+   "id": 325,
+   "addr": "0x80011170",
+   "mode": "ptr",
+   "max": 15,
+   "en": "Natural Heal",
+   "ru": "Самолечение"
+  },
+  {
+   "id": 326,
+   "addr": "0x80011180",
+   "mode": "ptr",
+   "max": 15,
+   "en": "Rapid Motion",
+   "ru": "Быстрый ход"
+  },
+  {
+   "id": 327,
+   "addr": "0x80011190",
+   "mode": "ptr",
+   "max": 15,
+   "en": "Stealth Motion",
+   "ru": "Скрытный ход"
+  },
+  {
+   "id": 328,
+   "addr": "0x800111a0",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Mass Menace",
+   "ru": "Общая угроза"
+  },
+  {
+   "id": 329,
+   "addr": "0x800111ac",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Rear Menace",
+   "ru": "Угроза с тыла"
+  },
+  {
+   "id": 330,
+   "addr": "0x800111b8",
+   "mode": "ptr",
+   "max": 15,
+   "en": "Front Menace",
+   "ru": "Угроза спереди"
+  },
+  {
+   "id": 331,
+   "addr": "0x800111c8",
+   "mode": "ptr",
+   "max": 15,
+   "en": "Second Attack",
+   "ru": "Вторая атака"
+  },
+  {
+   "id": 332,
+   "addr": "0x800111d8",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Bad Back",
+   "ru": "Больная спина"
+  },
+  {
+   "id": 333,
+   "addr": "0x800111e4",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Hoverjets",
+   "ru": "Антиграв"
+  },
+  {
+   "id": 334,
+   "addr": "0x800111f0",
+   "mode": "ptr",
+   "max": 15,
+   "en": "Mental Vision",
+   "ru": "Мысленный взор"
+  },
+  {
+   "id": 335,
+   "addr": "0x80011200",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Assassinate",
+   "ru": "Убийство"
+  },
+  {
+   "id": 336,
+   "addr": "0x8001120c",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Chivalry",
+   "ru": "Рыцарство"
+  },
+  {
+   "id": 337,
+   "addr": "0x80011218",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Parry",
+   "ru": "Парирование"
+  },
+  {
+   "id": 338,
+   "addr": "0x80011220",
+   "mode": "ptr",
+   "max": 15,
+   "en": "Reflect Attack",
+   "ru": "Отражение"
+  },
+  {
+   "id": 339,
+   "addr": "0x80011230",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Quit",
+   "ru": "Выход"
+  },
+  {
+   "id": 340,
+   "addr": "0x80011238",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Save",
+   "ru": "Сохр."
+  },
+  {
+   "id": 341,
+   "addr": "0x80011240",
+   "mode": "ptr",
+   "max": 7,
+   "en": "System",
+   "ru": "Система"
+  },
+  {
+   "id": 342,
+   "addr": "0x80011248",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Tactics",
+   "ru": "Тактика"
+  },
+  {
+   "id": 343,
+   "addr": "0x80011250",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Turns",
+   "ru": "Ходы"
+  },
+  {
+   "id": 344,
+   "addr": "0x80011258",
+   "mode": "ptr",
+   "max": 3,
+   "en": "Map",
+   "ru": "Карта"
+  },
+  {
+   "id": 345,
+   "addr": "0x8001125c",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Units",
+   "ru": "Отряды"
+  },
+  {
+   "id": 346,
+   "addr": "0x80011264",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Focus",
+   "ru": "Фокус"
+  },
+  {
+   "id": 347,
+   "addr": "0x8001126c",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Attack",
+   "ru": "Атака"
+  },
+  {
+   "id": 348,
+   "addr": "0x80011274",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Kill Enemy",
+   "ru": "Убить врага"
+  },
+  {
+   "id": 349,
+   "addr": "0x80011280",
+   "mode": "ptr",
+   "max": 19,
+   "en": "Mission Objective:",
+   "ru": "Цель миссии:"
+  },
+  {
+   "id": 350,
+   "addr": "0x80011294",
+   "mode": "ptr",
+   "max": 23,
+   "en": "Save the current game?",
+   "ru": "Сохранить игру?"
+  },
+  {
+   "id": 351,
+   "addr": "0x800112ac",
+   "mode": "ptr",
+   "max": 3,
+   "en": "No",
+   "ru": "Нет"
+  },
+  {
+   "id": 352,
+   "addr": "0x800112b0",
+   "mode": "ptr",
+   "max": 3,
+   "en": "Yes",
+   "ru": "Да"
+  },
+  {
+   "id": 353,
+   "addr": "0x800112b4",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Cancel",
+   "ru": "Отмена"
+  },
+  {
+   "id": 354,
+   "addr": "0x800112bc",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Card 2",
+   "ru": "Карта 2"
+  },
+  {
+   "id": 355,
+   "addr": "0x800112c4",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Card 1",
+   "ru": "Карта 1"
+  },
+  {
+   "id": 356,
+   "addr": "0x800112cc",
+   "mode": "ptr",
+   "max": 23,
+   "en": "Quit the current game?",
+   "ru": "Выйти из игры?"
+  },
+  {
+   "id": 357,
+   "addr": "0x80011314",
+   "mode": "inplace",
+   "max": 7,
+   "en": "Load",
+   "ru": "Загр."
+  },
+  {
+   "id": 358,
+   "addr": "0x80011418",
+   "mode": "ptr",
+   "max": 3,
+   "en": "End",
+   "ru": "Конец"
+  },
+  {
+   "id": 359,
+   "addr": "0x8001141c",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Info",
+   "ru": "Инфо"
+  },
+  {
+   "id": 360,
+   "addr": "0x80011424",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Skill",
+   "ru": "Навык"
+  },
+  {
+   "id": 361,
+   "addr": "0x8001142c",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Attack",
+   "ru": "Атака"
+  },
+  {
+   "id": 362,
+   "addr": "0x80011434",
+   "mode": "ptr",
+   "max": 143,
+   "en": "Move",
+   "ru": "Ход"
+  },
+  {
+   "id": 363,
+   "addr": "0x800114e8",
+   "mode": "inplace",
+   "max": 19,
+   "en": "ATACs seen: %d/32",
+   "ru": "АТАКов: %d/32"
+  },
+  {
+   "id": 364,
+   "addr": "0x800114fc",
+   "mode": "inplace",
+   "max": 59,
+   "en": "Missions Won: %d/56",
+   "ru": "Миссий: %d/56"
+  },
+  {
+   "id": 365,
+   "addr": "0x80011538",
+   "mode": "inplace",
+   "max": 3,
+   "en": "Yes",
+   "ru": "Да"
+  },
+  {
+   "id": 366,
+   "addr": "0x8001153c",
+   "mode": "inplace",
+   "max": 3,
+   "en": "No",
+   "ru": "Нет"
+  },
+  {
+   "id": 367,
+   "addr": "0x80011540",
+   "mode": "inplace",
+   "max": 7,
+   "en": "Card 1",
+   "ru": "Карта1"
+  },
+  {
+   "id": 368,
+   "addr": "0x80011548",
+   "mode": "inplace",
+   "max": 7,
+   "en": "Card 2",
+   "ru": "Карта2"
+  },
+  {
+   "id": 369,
+   "addr": "0x80011550",
+   "mode": "inplace",
+   "max": 7,
+   "en": "Cancel",
+   "ru": "Отмена"
+  },
+  {
+   "id": 370,
+   "addr": "0x80011558",
+   "mode": "inplace",
+   "max": 23,
+   "en": "Save Vanguard Stats?",
+   "ru": "Сохр. статистику?"
+  },
+  {
+   "id": 371,
+   "addr": "0x80011570",
+   "mode": "inplace",
+   "max": 23,
+   "en": "The Memory Card is not",
+   "ru": "Карта памяти не"
+  },
+  {
+   "id": 372,
+   "addr": "0x80011588",
+   "mode": "inplace",
+   "max": 23,
+   "en": "in Memory Card slot 2.",
+   "ru": "в слоте 2."
+  },
+  {
+   "id": 373,
+   "addr": "0x800115a0",
+   "mode": "inplace",
+   "max": 23,
+   "en": "in Memory Card slot 1.",
+   "ru": "в слоте 1."
+  },
+  {
+   "id": 374,
+   "addr": "0x800115b8",
+   "mode": "inplace",
+   "max": 27,
+   "en": "Checking the Memory Card...",
+   "ru": "Проверка карты памяти..."
+  },
+  {
+   "id": 375,
+   "addr": "0x800115e4",
+   "mode": "inplace",
+   "max": 31,
+   "en": "Uninitialized.  Initialize it?",
+   "ru": "Не форматирована. Формат.?"
+  },
+  {
+   "id": 376,
+   "addr": "0x80011604",
+   "mode": "inplace",
+   "max": 15,
+   "en": "Initializing...",
+   "ru": "Формат-ние..."
+  },
+  {
+   "id": 377,
+   "addr": "0x80011614",
+   "mode": "inplace",
+   "max": 23,
+   "en": "Create Vanguard Data?",
+   "ru": "Создать запись?"
+  },
+  {
+   "id": 378,
+   "addr": "0x8001162c",
+   "mode": "inplace",
+   "max": 147,
+   "en": "Saving Stats...",
+   "ru": "Сохранение..."
+  },
+  {
+   "id": 379,
+   "addr": "0x800116c0",
+   "mode": "ptr",
+   "max": 11,
+   "en": "No data.",
+   "ru": "Нет данных."
+  },
+  {
+   "id": 380,
+   "addr": "0x800116cc",
+   "mode": "ptr",
+   "max": 15,
+   "en": "Failed to load.",
+   "ru": "Ошибка загрузки."
+  },
+  {
+   "id": 381,
+   "addr": "0x800116dc",
+   "mode": "ptr",
+   "max": 19,
+   "en": "Failed to create.",
+   "ru": "Ошибка создания."
+  },
+  {
+   "id": 382,
+   "addr": "0x800116f0",
+   "mode": "ptr",
+   "max": 27,
+   "en": "Not enough empty blocks.",
+   "ru": "Мало свободных блоков."
+  },
+  {
+   "id": 383,
+   "addr": "0x8001170c",
+   "mode": "ptr",
+   "max": 15,
+   "en": "Failed to save.",
+   "ru": "Ошибка сохранения."
+  },
+  {
+   "id": 384,
+   "addr": "0x8001171c",
+   "mode": "ptr",
+   "max": 59,
+   "en": "Failed to initialize.",
+   "ru": "Ошибка форматирования."
+  },
+  {
+   "id": 385,
+   "addr": "0x80011760",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Quit",
+   "ru": "Выход"
+  },
+  {
+   "id": 386,
+   "addr": "0x80011768",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Load",
+   "ru": "Загр."
+  },
+  {
+   "id": 387,
+   "addr": "0x80011770",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Save",
+   "ru": "Сохр."
+  },
+  {
+   "id": 388,
+   "addr": "0x80011778",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Equip",
+   "ru": "Снаряж."
+  },
+  {
+   "id": 389,
+   "addr": "0x80011780",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Shop",
+   "ru": "Магазин"
+  },
+  {
+   "id": 390,
+   "addr": "0x80011788",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Interview",
+   "ru": "Беседа"
+  },
+  {
+   "id": 391,
+   "addr": "0x80011794",
+   "mode": "ptr",
+   "max": 11,
+   "en": "Briefing",
+   "ru": "Брифинг"
+  },
+  {
+   "id": 392,
+   "addr": "0x800117a0",
+   "mode": "ptr",
+   "max": 7,
+   "en": "Mission",
+   "ru": "Миссия"
+  },
+  {
+   "id": 393,
+   "addr": "0x800117a8",
+   "mode": "inplace",
+   "max": 23,
+   "en": "After Chapter %d: %s",
+   "ru": "После главы %d: %s"
+  },
+  {
+   "id": 394,
+   "addr": "0x800117c0",
+   "mode": "inplace",
+   "max": 3,
+   "en": "Yes",
+   "ru": "Да"
+  },
+  {
+   "id": 395,
+   "addr": "0x800117c4",
+   "mode": "inplace",
+   "max": 3,
+   "en": "No",
+   "ru": "Нет"
+  },
+  {
+   "id": 396,
+   "addr": "0x800117c8",
+   "mode": "inplace",
+   "max": 23,
+   "en": "Quit the current game?",
+   "ru": "Выйти из игры?"
+  },
+  {
+   "id": 397,
+   "addr": "0x80011848",
+   "mode": "inplace",
+   "max": 7,
+   "en": "Load",
+   "ru": "Загр."
+  },
+  {
+   "id": 398,
+   "addr": "0x80011850",
+   "mode": "inplace",
+   "max": 7,
+   "en": "Save",
+   "ru": "Сохр."
+  },
+  {
+   "id": 399,
+   "addr": "0x80011858",
+   "mode": "inplace",
+   "max": 11,
+   "en": "Load Stats",
+   "ru": "Загр. сохр."
+  },
+  {
+   "id": 400,
+   "addr": "0x80011864",
+   "mode": "inplace",
+   "max": 7,
+   "en": "Card 2",
+   "ru": "Карта2"
+  },
+  {
+   "id": 401,
+   "addr": "0x8001186c",
+   "mode": "inplace",
+   "max": 11,
+   "en": "Card 1",
+   "ru": "Карта1"
+  },
+  {
+   "id": 402,
+   "addr": "0x80011878",
+   "mode": "inplace",
+   "max": 15,
+   "en": "(In Progress)",
+   "ru": "(В процессе)"
+  },
+  {
+   "id": 403,
+   "addr": "0x80011888",
+   "mode": "inplace",
+   "max": 11,
+   "en": "(Completed)",
+   "ru": "(Пройдено)"
+  },
+  {
+   "id": 404,
+   "addr": "0x80011894",
+   "mode": "inplace",
+   "max": 15,
+   "en": "Chapter %d: %s",
+   "ru": "Глава %d: %s"
+  },
+  {
+   "id": 405,
+   "addr": "0x800118a4",
+   "mode": "inplace",
+   "max": 11,
+   "en": "Level  %d",
+   "ru": "Уровень %d"
+  },
+  {
+   "id": 406,
+   "addr": "0x800118b0",
+   "mode": "inplace",
+   "max": 17,
+   "en": "Funds  %6d",
+   "ru": "Деньги  %6d"
+  },
+  {
+   "id": 407,
+   "addr": "0x800118c2",
+   "mode": "inplace",
+   "max": 13,
+   "en": "Empty  Slot",
+   "ru": "Пустой слот"
+  },
+  {
+   "id": 408,
+   "addr": "0x800118e0",
+   "mode": "inplace",
+   "max": 19,
+   "en": "ATACs seen: %d/32",
+   "ru": "АТАКов: %d/32"
+  },
+  {
+   "id": 409,
+   "addr": "0x800118f4",
+   "mode": "inplace",
+   "max": 19,
+   "en": "Missions Won: %d/56",
+   "ru": "Миссий: %d/56"
+  },
+  {
+   "id": 410,
+   "addr": "0x80011908",
+   "mode": "inplace",
+   "max": 3,
+   "en": "Yes",
+   "ru": "Да"
+  },
+  {
+   "id": 411,
+   "addr": "0x8001190c",
+   "mode": "inplace",
+   "max": 3,
+   "en": "No",
+   "ru": "Нет"
+  },
+  {
+   "id": 412,
+   "addr": "0x80011910",
+   "mode": "inplace",
+   "max": 23,
+   "en": "The Memory Card is not",
+   "ru": "Карта памяти не"
+  },
+  {
+   "id": 413,
+   "addr": "0x80011928",
+   "mode": "inplace",
+   "max": 23,
+   "en": "in Memory Card slot 2.",
+   "ru": "в слоте 2."
+  },
+  {
+   "id": 414,
+   "addr": "0x80011940",
+   "mode": "inplace",
+   "max": 23,
+   "en": "in Memory Card slot 1.",
+   "ru": "в слоте 1."
+  },
+  {
+   "id": 415,
+   "addr": "0x80011958",
+   "mode": "inplace",
+   "max": 27,
+   "en": "Checking the Memory Card...",
+   "ru": "Проверка карты памяти..."
+  },
+  {
+   "id": 416,
+   "addr": "0x80011974",
+   "mode": "inplace",
+   "max": 11,
+   "en": "Loading...",
+   "ru": "Загрузка..."
+  },
+  {
+   "id": 417,
+   "addr": "0x80011980",
+   "mode": "inplace",
+   "max": 31,
+   "en": "Uninitialized.  Initialize it?",
+   "ru": "Не форматирована. Формат.?"
+  },
+  {
+   "id": 418,
+   "addr": "0x800119a0",
+   "mode": "inplace",
+   "max": 15,
+   "en": "Initializing...",
+   "ru": "Формат-ние..."
+  },
+  {
+   "id": 419,
+   "addr": "0x800119b0",
+   "mode": "inplace",
+   "max": 23,
+   "en": "Create Vanguard Data?",
+   "ru": "Создать запись?"
+  },
+  {
+   "id": 420,
+   "addr": "0x800119c8",
+   "mode": "inplace",
+   "max": 11,
+   "en": "Overwrite?",
+   "ru": "Перезапис.?"
+  },
+  {
+   "id": 421,
+   "addr": "0x800119d4",
+   "mode": "inplace",
+   "max": 143,
+   "en": "Saving...",
+   "ru": "Сохран-е..."
+  },
+  {
+   "id": 422,
+   "addr": "0x80011a64",
+   "mode": "inplace",
+   "max": 15,
+   "en": "Save Completed.",
+   "ru": "Сохранено."
+  },
+  {
+   "id": 423,
+   "addr": "0x80011a74",
+   "mode": "ptr",
+   "max": 15,
+   "en": "Save declined.",
+   "ru": "Сохранение отменено."
+  },
+  {
+   "id": 424,
+   "addr": "0x80011a84",
+   "mode": "ptr",
+   "max": 11,
+   "en": "No data.",
+   "ru": "Нет данных."
+  },
+  {
+   "id": 425,
+   "addr": "0x80011a90",
+   "mode": "ptr",
+   "max": 15,
+   "en": "Failed to load.",
+   "ru": "Ошибка загрузки."
+  },
+  {
+   "id": 426,
+   "addr": "0x80011aa0",
+   "mode": "ptr",
+   "max": 19,
+   "en": "Failed to create.",
+   "ru": "Ошибка создания."
+  },
+  {
+   "id": 427,
+   "addr": "0x80011ab4",
+   "mode": "ptr",
+   "max": 27,
+   "en": "Not enough empty blocks.",
+   "ru": "Мало свободных блоков."
+  },
+  {
+   "id": 428,
+   "addr": "0x80011ad0",
+   "mode": "ptr",
+   "max": 15,
+   "en": "Failed to save.",
+   "ru": "Ошибка сохранения."
+  },
+  {
+   "id": 429,
+   "addr": "0x80011ae0",
+   "mode": "ptr",
+   "max": 23,
+   "en": "Failed to initialize.",
+   "ru": "Ошибка форматирования."
+  },
+  {
+   "id": 430,
+   "addr": "0x80011af8",
+   "mode": "inplace",
+   "max": 11,
+   "en": "#x ACCEPT",
+   "ru": "#x ОК"
+  },
+  {
+   "id": 431,
+   "addr": "0x80011b04",
+   "mode": "inplace",
+   "max": 11,
+   "en": "#t BACKUP",
+   "ru": "#t ОТМЕНА"
+  },
+  {
+   "id": 432,
+   "addr": "0x80011b10",
+   "mode": "inplace",
+   "max": 15,
+   "en": "CARD 1 #l L1",
+   "ru": "КАРТА 1 #l L1"
+  },
+  {
+   "id": 433,
+   "addr": "0x80011b20",
+   "mode": "inplace",
+   "max": 15,
+   "en": "R1 #r CARD 2",
+   "ru": "R1 #r КАРТА 2"
+  },
+  {
+   "id": 434,
+   "addr": "0x80011b30",
+   "mode": "inplace",
+   "max": 15,
+   "en": "#x RETRY",
+   "ru": "#x ПОВТОР"
+  }
+ ]
+}

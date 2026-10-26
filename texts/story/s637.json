@@ -1,0 +1,31 @@
+{
+ "file": 637,
+ "kind": "story",
+ "lines": [
+  {
+   "id": 0,
+   "en": "We've completed our sweep of the\nmountain's south face. Let's move\non to the north face.",
+   "ru": "Южный склон горы прочесали.\nПереходим на северный."
+  },
+  {
+   "id": 1,
+   "en": "Nothing on my scanners, Bastion.",
+   "ru": "На моих сканерах ничего,\nБастион."
+  },
+  {
+   "id": 2,
+   "en": "Nor on mine. Milea has already left\nthis area...or...",
+   "ru": "На моих тоже. Милея уже ушла\nотсюда... или..."
+  },
+  {
+   "id": 3,
+   "en": "There's something on MY scanners,\nbut it's definitely not Milea.",
+   "ru": "У МЕНЯ на сканерах кое-что есть,\nно это точно не Милея."
+  },
+  {
+   "id": 4,
+   "en": "What is it?!",
+   "ru": "Что там?!"
+  }
+ ]
+}

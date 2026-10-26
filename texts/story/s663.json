@@ -1,0 +1,21 @@
+{
+ "file": 663,
+ "kind": "story",
+ "lines": [
+  {
+   "id": 0,
+   "en": "This is Norze Castle?",
+   "ru": "Это замок Норзе?"
+  },
+  {
+   "id": 1,
+   "en": "Yes. The hilly terrain makes it a\ngreat place to defend, yet a tough\nplace to attack.",
+   "ru": "Да. Холмистая местность -\nотличное место для обороны и\nтяжёлое для штурма."
+  },
+  {
+   "id": 2,
+   "en": "Nonetheless, it is ours for the\ntaking today!",
+   "ru": "И всё же сегодня он станет\nнашим!"
+  }
+ ]
+}

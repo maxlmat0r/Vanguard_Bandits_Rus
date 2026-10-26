@@ -1,0 +1,166 @@
+{
+ "file": 146,
+ "kind": "battle",
+ "lines": [
+  {
+   "id": 0,
+   "en": "Attention, infidels! Surrender quietly\nand without incident, or we shall use\ndeadly force against you!",
+   "ru": "Внимание, неверные! Сдавайтесь\nтихо и мирно, иначе мы\nприменим смертоносную силу!"
+  },
+  {
+   "id": 1,
+   "en": "Rebel 1:\nWhat?!",
+   "ru": "Мятежник 1:\nЧто?!"
+  },
+  {
+   "id": 2,
+   "en": "Rebel 2:\nWe're under attack!",
+   "ru": "Мятежник 2:\nНа нас напали!"
+  },
+  {
+   "id": 3,
+   "en": "More Imperial ATACs! I can't believe\nhow many of the Empire's soldiers\nare turning against us!",
+   "ru": "Ещё имперские АТАКи! Не\nверится, сколько солдат Империи\nобращаются против нас!"
+  },
+  {
+   "id": 4,
+   "en": "Imperial Soldier:\nWhat's going on out here?!",
+   "ru": "Имперский солдат:\nЧто здесь происходит?!"
+  },
+  {
+   "id": 5,
+   "en": "Look, Franco! An Imperial officer!",
+   "ru": "Смотри, Франко! Имперский\nофицер!"
+  },
+  {
+   "id": 6,
+   "en": "Uh-oh.",
+   "ru": "Ой-ой."
+  },
+  {
+   "id": 7,
+   "en": "We've heard of peons turning against\nthe Imperial Army, but never officers!",
+   "ru": "Мы слышали, что солдатня идёт\nпротив имперской армии, но\nофицеры - никогда!"
+  },
+  {
+   "id": 8,
+   "en": "You are in the presence of Princess\nSadira, officer! You shall explain\nyour presence here at once!",
+   "ru": "Перед вами принцесса Садира,\nофицер! Немедленно объясните,\nчто вы здесь делаете!"
+  },
+  {
+   "id": 9,
+   "en": "I...I had heard news that a group of\nrebels was gathered here, so I came\nhere to negotiate with them.",
+   "ru": "Я... я слышал, что здесь собрались\nмятежники, и пришёл вести с\nними переговоры."
+  },
+  {
+   "id": 10,
+   "en": "Unfortunately, the talks broke down,\nand I'm now being held as a prisoner\nof war.",
+   "ru": "К сожалению, переговоры\nсорвались, и теперь я\nвоеннопленный."
+  },
+  {
+   "id": 11,
+   "en": "Princess, he's telling a big, fat lie!",
+   "ru": "Принцесса, он нагло врёт!"
+  },
+  {
+   "id": 12,
+   "en": "He was playing cards with these\nsoldiers not more than a few hours\nago, and doing really badly, too!",
+   "ru": "Он всего пару часов назад играл\nс этими солдатами в карты, и\nочень плохо играл!"
+  },
+  {
+   "id": 13,
+   "en": "I was doing nothing more than\ngathering intelligence!!",
+   "ru": "Я лишь собирал сведения!!"
+  },
+  {
+   "id": 14,
+   "en": "But no matter. If we surrendered to\nyou, we would be killed for crimes\nof treason against the Empire.",
+   "ru": "Но неважно. Сдайся мы вам, нас\nказнили бы за измену Империи."
+  },
+  {
+   "id": 15,
+   "en": "So we're going to kill YOU instead!\nGet them, men! NOW!",
+   "ru": "Так что лучше мы убьём ВАС!\nВзять их, ребята! СЕЙЧАС!"
+  },
+  {
+   "id": 16,
+   "en": "It doesn't have to be this way!",
+   "ru": "Всё может быть иначе!"
+  },
+  {
+   "id": 17,
+   "en": "Give up now and I might yet extend\na pardon for you all!",
+   "ru": "Сдайтесь сейчас, и, может, я ещё\nвсех вас помилую!"
+  },
+  {
+   "id": 18,
+   "en": "I would rather die on the battlefield\ntoday than spend a miserable lifetime\nin an Imperial dungeon!",
+   "ru": "Лучше погибнуть сегодня в бою,\nчем всю жизнь гнить в\nимперской темнице!"
+  },
+  {
+   "id": 19,
+   "en": "Bandit Chief:\nI've never seen ATACs like those!\nDo any of you recognize them?",
+   "ru": "Главарь бандитов:\nНикогда не видел таких АТАКов!\nКто-нибудь их узнаёт?"
+  },
+  {
+   "id": 20,
+   "en": "I do, sir! The dark blue ATAC is the\nImperial Princess, and the two silver\nATACs are her guardians!",
+   "ru": "Я, господин! Тёмно-синий АТАК -\nимперской принцессы, а два\nсеребристых - её телохранителей!"
+  },
+  {
+   "id": 21,
+   "en": "What?! This is--wonderful!",
+   "ru": "Что?! Это же... чудесно!"
+  },
+  {
+   "id": 22,
+   "en": "Can you imagine the ransom that the\nEmperor would pay us in exchange\nfor his precious daughter?!",
+   "ru": "Представляете, какой выкуп\nзаплатит император за свою\nдрагоценную дочь?!"
+  },
+  {
+   "id": 23,
+   "en": "Attack!",
+   "ru": "В атаку!"
+  },
+  {
+   "id": 24,
+   "en": "Four more rebels?! I'm starting to\nwonder if there are any soldiers left\nin the Imperial Army!",
+   "ru": "Ещё четверо мятежников?! Я\nначинаю сомневаться, остались\nли в имперской армии солдаты!"
+  },
+  {
+   "id": 25,
+   "en": "We were lucky to survive this battle...",
+   "ru": "Нам повезло пережить этот бой..."
+  },
+  {
+   "id": 26,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 27,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 28,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 29,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 30,
+   "en": "\n\n\n",
+   "ru": ""
+  },
+  {
+   "id": 31,
+   "en": "\n\n\n",
+   "ru": ""
+  }
+ ]
+}

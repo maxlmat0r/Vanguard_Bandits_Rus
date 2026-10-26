@@ -1,0 +1,26 @@
+{
+ "file": 619,
+ "kind": "story",
+ "lines": [
+  {
+   "id": 0,
+   "en": "Princess! My scanners indicate that\na group of ATACs are laying waste\nto the nearby town!",
+   "ru": "Принцесса! По сканерам, группа\nАТАКов громит соседний город!"
+  },
+  {
+   "id": 1,
+   "en": "Are they more Imperial rogues?",
+   "ru": "Снова имперские отступники?"
+  },
+  {
+   "id": 2,
+   "en": "Unfortunately, I can't tell! We'll need\nto enter the town to find out!",
+   "ru": "К сожалению, не знаю! Чтобы\nвыяснить, надо войти в город!"
+  },
+  {
+   "id": 3,
+   "en": "Come on, then! Let's go!",
+   "ru": "Тогда вперёд!"
+  }
+ ]
+}
