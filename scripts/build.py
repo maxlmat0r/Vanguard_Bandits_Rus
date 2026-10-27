@@ -308,7 +308,11 @@ def font8_site(a):
 MOD_BASE = 0x800751a8
 MOD_END = 0x800b0000
 MOD_PATCHES = {
-    0: font8_site(0x80076f24),
+    0: font8_site(0x80076f24) + [
+        # travel map: dark backdrop under the region name (POLY_FT4 x 0..136) -> 0..160;
+        # the names in file 592 are centred 8 px further right to match (gen_mapnames.py)
+        (0x800964d4, (0x240400a0, 0x24040088)),     # addiu a0,zero,160
+    ],
     1: font8_site(0x80092598) + [
         # battle-animation text renderer (quips): Cyrillic needs the relocated width tables
         (0x800a488c, (0x3c038001, 0x26634a4c)),     # lui v1,0x8001     (was addiu v1,s3,0x4a4c)
@@ -356,6 +360,14 @@ def patch_title():
     tim = open(f'{W}/assets/f420.tim', 'rb').read()
     assert len(tim) == len(old), (len(tim), len(old))
     place_file(420, compress_fixed(tim))
+    # EPICA 592 = travel-map sheet (LZ TIM); region names column x 1280..1407 (4bpp), rows 0..127
+    o, s = ORIG_ENTRIES[592]
+    d = bytearray(decompress(bytes(open(f'{W}/orig/EPICA.BIN', 'rb').read()[o:o+s])))
+    p = 8 + struct.unpack('<I', d[8:12])[0] + 12
+    blk = open(f'{W}/assets/f592_names.bin', 'rb').read()
+    for y in range(128):
+        d[p + y*768 + 640: p + y*768 + 704] = blk[y*64:(y+1)*64]
+    place_file(592, compress_fixed(bytes(d)))
 
 def patch_modules():
     total = 0

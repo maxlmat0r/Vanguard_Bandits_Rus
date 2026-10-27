@@ -139,7 +139,7 @@
    "id": 11,
    "addr": "0x80075244",
    "en": "Bastion:\n(Time grows short. Should I speak\nwith anyone else?)",
-   "ru": "",
+   "ru": "Бастион:\n(Время на исходе. Поговорить\nс кем-нибудь ещё?)",
    "refs": [
     "0x80079190"
    ],
