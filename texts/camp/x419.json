@@ -4,7 +4,7 @@
  "section": 3,
  "ctrl": 2,
  "max_px": 251,
- "max_lines": 4,
+ "max_lines": 3,
  "lines": [
   {
    "id": 0,
@@ -14,7 +14,7 @@
   {
    "id": 1,
    "en": "You're pretty cute, Bastion! You must\ntotally have a girlfriend...what? You\ndon't? That's, like, hard to believe!",
-   "ru": "Какой ты милашка, Бастион! У\nтебя, типа, точно есть девушка...\nчто? Нету? Это, типа, вообще не\nверится!"
+   "ru": "Какой ты милашка, Бастион! У\nтебя, типа, точно есть девушка...\nчто? Нету? Типа, не верится!"
   },
   {
    "id": 2,
@@ -29,7 +29,7 @@
   {
    "id": 4,
    "en": "Sadira is, like, SO jealous because\nmy hair is redder than hers! Like,\ncan I help my superior genetics?!",
-   "ru": "Садира, типа, ТАК завидует, что у\nменя волосы рыжее, чем у неё! Ну,\nтипа, я виновата, что у меня гены\nлучше?!"
+   "ru": "Садира, типа, ТАК завидует, что я\nрыжее неё! Ну, типа, я виновата,\nчто у меня гены лучше?!"
   },
   {
    "id": 5,
@@ -64,7 +64,7 @@
   {
    "id": 11,
    "en": "I know she's, like, cranky and stuff,\nbut Sadira really cares about you.\nBe good to her, okay?",
-   "ru": "Знаю, она, типа, вредная и всё\nтакое, но Садира реально за тебя\nпереживает. Будь с ней добрым,\nладно?"
+   "ru": "Знаю, она, типа, вредная, но\nСадира реально за тебя\nпереживает. Будь с ней добрее!"
   },
   {
    "id": 12,
@@ -254,7 +254,7 @@
   {
    "id": 49,
    "en": "How foolish were those bandits to\nestablish their base in a cave? I've\nnever been that fond of guano!",
-   "ru": "Какими же глупцами были\nбандиты, устроив базу в пещере!\nНикогда не любил помёт летучих\nмышей!"
+   "ru": "Какими глупцами были бандиты,\nустроив базу в пещере! Терпеть не\nмогу помёт летучих мышей!"
   },
   {
    "id": 50,
@@ -299,7 +299,7 @@
   {
    "id": 58,
    "en": "The Princess caught me telling a bad\njoke, and now she won't speak to me.\nWhy must she be so cruel?!",
-   "ru": "Принцесса застала меня за\nдурацким анекдотом и теперь со\nмной не разговаривает. Ну почему\nона так жестока?!"
+   "ru": "Принцесса застала меня за\nдурацким анекдотом и теперь со\nмной не разговаривает. За что?!"
   },
   {
    "id": 59,
@@ -364,12 +364,12 @@
   {
    "id": 71,
    "en": "Claire was my classmate at military\nschool. We didn't exactly get along. In\nfact, I basically despised her...",
-   "ru": "Клэр была моей одноклассницей в\nвоенной школе. Мы не очень\nладили. Если честно, я её просто\nпрезирала..."
+   "ru": "Клэр была моей одноклассницей в\nвоенной школе. Мы не ладили.\nЧестно говоря, я её презирала..."
   },
   {
    "id": 72,
    "en": "Are you alright, Bastion? You've been\nacting a little strangely since we left\nthe palace. What's on your mind?",
-   "ru": "Ты в порядке, Бастион? Ты странно\nсебя ведёшь с тех пор, как мы\nпокинули дворец. Что у тебя на\nуме?"
+   "ru": "Ты в порядке, Бастион? Ты сам не\nсвой с тех пор, как мы покинули\nдворец. Что случилось?"
   },
   {
    "id": 73,
@@ -434,7 +434,7 @@
   {
    "id": 85,
    "en": "Is your friend Milea somewhat shy,\nBastion? I've noticed that she rarely\nspeaks to me.",
-   "ru": "Твоя подруга Милея немного\nзастенчива, Бастион? Я заметила,\nчто она редко со мной\nразговаривает."
+   "ru": "Твоя подруга Милея стесняется,\nБастион? Я заметила, что она\nредко со мной говорит."
   },
   {
    "id": 86,
@@ -444,7 +444,7 @@
   {
    "id": 87,
    "en": "Bastion, could you rub my feet when\nthis battle is over? I always got foot-\nrubs in the Imperial palace...",
-   "ru": "Бастион, разотрёшь мне ноги,\nкогда бой закончится? В\nимператорском дворце мне всегда\nделали массаж ног..."
+   "ru": "Бастион, разотрёшь мне ноги после\nбоя? Во дворце мне всегда делали\nмассаж ног..."
   },
   {
    "id": 88,
@@ -489,7 +489,7 @@
   {
    "id": 96,
    "en": "You say you haven't changed at all,\nBastion, but this journey has changed\nyou in many ways.",
-   "ru": "Ты говоришь, что совсем не\nизменился, Бастион, но это\nпутешествие изменило тебя во\nмногом."
+   "ru": "Ты говоришь, что не изменился,\nБастион, но это путешествие во\nмногом тебя изменило."
   },
   {
    "id": 97,
@@ -529,12 +529,12 @@
   {
    "id": 104,
    "en": "Bastion, you're too nice to tell Sadira\nto leave us alone, so I will gladly do\nit for you!",
-   "ru": "Бастион, ты слишком добрый,\nчтобы попросить Садиру оставить\nнас в покое, так что я с радостью\nсделаю это за тебя!"
+   "ru": "Бастион, ты слишком добрый,\nчтобы прогнать Садиру, так что я\nс радостью сделаю это за тебя!"
   },
   {
    "id": 105,
    "en": "I'm sorry I didn't get rid of Sadira\nsooner, Bastion, but I promise I will\nafter you conquer the capital!",
-   "ru": "Прости, что я не избавилась от\nСадиры раньше, Бастион, но\nобещаю сделать это, когда ты\nзахватишь столицу!"
+   "ru": "Прости, что не избавилась от\nСадиры раньше, Бастион. Сделаю\nэто, когда возьмёшь столицу!"
   },
   {
    "id": 106,
@@ -544,7 +544,7 @@
   {
    "id": 107,
    "en": "Did you notice how easy it was for\nme to provoke Claire? Inexperience\ncan always be exploited, Bastion.",
-   "ru": "Заметили, как легко мне удалось\nвывести Клэр из себя?\nНеопытностью всегда можно\nвоспользоваться, Бастион."
+   "ru": "Заметили, как легко я вывела Клэр\nиз себя? Неопытностью всегда\nможно воспользоваться, Бастион."
   },
   {
    "id": 108,
@@ -564,7 +564,7 @@
   {
    "id": 111,
    "en": "Regardless of the outcome of this\nbattle, Bastion, it has been my honor\nto have fought on your behalf.",
-   "ru": "Каким бы ни был исход этой\nбитвы, Бастион, для меня было\nчестью сражаться на вашей\nстороне."
+   "ru": "Каким бы ни был исход битвы,\nБастион, сражаться на вашей\nстороне - честь для меня."
   },
   {
    "id": 112,
@@ -594,7 +594,7 @@
   {
    "id": 117,
    "en": "Bastion, you've been talking to Milea\na lot more than me lately! That's not\nvery nice, is it, Kyu-Kyu?",
-   "ru": "Бастион, ты в последнее время\nболтаешь с Милеей больше, чем со\nмной! Это некрасиво, правда,\nКю-Кю?"
+   "ru": "Бастион, ты теперь болтаешь с\nМилеей больше, чем со мной! Это\nнекрасиво, правда, Кю-Кю?"
   },
   {
    "id": 118,
@@ -619,7 +619,7 @@
   {
    "id": 122,
    "en": "Sometimes, Bastion, not even I know\nhow I manage to look so damn good\nall the time. Genetics, I guess.",
-   "ru": "Иногда, Бастион, даже я не\nпонимаю, как мне удаётся всегда\nвыглядеть так чертовски хорошо.\nГены, наверное."
+   "ru": "Иногда, Бастион, даже я не\nпонимаю, как мне удаётся так\nчертовски хорошо выглядеть. Гены!"
   },
   {
    "id": 123,
@@ -629,7 +629,7 @@
   {
    "id": 124,
    "en": "Bastion, my friend, the only thing a\nwoman likes more than a good kiss\nis a good spanking. Trust me.",
-   "ru": "Бастион, друг мой, женщины\nлюбят хороший поцелуй, но\nхороший шлепок любят ещё больше.\nПоверь мне."
+   "ru": "Бастион, друг мой, женщины\nлюбят хороший поцелуй, а хороший\nшлепок - ещё больше. Верь мне."
   },
   {
    "id": 125,
@@ -644,7 +644,7 @@
   {
    "id": 127,
    "en": "I will never die in combat, Bastion.\nI don't want to bring that much grief\nto the women of the Continent...",
-   "ru": "Я никогда не погибну в бою,\nБастион. Не хочу причинить\nстолько горя женщинам\nКонтинента..."
+   "ru": "Я никогда не погибну в бою,\nБастион. Не хочу так огорчать всех\nженщин Континента..."
   },
   {
    "id": 128,
@@ -664,12 +664,12 @@
   {
    "id": 131,
    "en": "The Vedocorban has always been my\nATAC of choice, Bastion. Swift, sleek,\nand sexy...just like me.",
-   "ru": "Ведокорбан всегда был моим\nлюбимым АТАКом, Бастион.\nБыстрый, гладкий и сексуальный...\nпрямо как я."
+   "ru": "Ведокорбан - мой любимый АТАК,\nБастион. Быстрый, гладкий и\nсексуальный... прямо как я."
   },
   {
    "id": 132,
    "en": "You really want to know why I\nbecame a ninja? I thought I'd get\nto wear that cool black costume.",
-   "ru": "Правда хочешь знать, почему я\nстал ниндзя? Думал, мне дадут\nносить этот крутой чёрный\nкостюм."
+   "ru": "Хочешь знать, почему я стал\nниндзя? Думал, мне дадут носить\nкрутой чёрный костюм."
   },
   {
    "id": 133,
@@ -679,7 +679,7 @@
   {
    "id": 134,
    "en": "This is it, Bastion. Focus your heart\nand your soul on Faulkner...then kill\nhim and save the world! Easy, eh?",
-   "ru": "Вот и всё, Бастион. Сосредоточь\nсердце и душу на Фолкнере... а\nпотом убей его и спаси мир! Проще\nпростого, а?"
+   "ru": "Вот и всё, Бастион. Сосредоточься\nна Фолкнере... убей его и спаси мир!\nПроще простого, а?"
   },
   {
    "id": 135,
@@ -694,7 +694,7 @@
   {
    "id": 137,
    "en": "That Sharking ATAC really shook me\nup, buddy. Can you imagine trying to\ndefeat an army of those things?",
-   "ru": "Этот АТАК Шаркинг меня здорово\nвстряхнул, дружище.\nПредставляешь, каково сражаться с\nцелой армией таких?"
+   "ru": "Этот Шаркинг меня здорово\nвстряхнул, дружище. Каково будет\nдраться с целой армией таких?"
   },
   {
    "id": 138,
@@ -714,7 +714,7 @@
   {
    "id": 141,
    "en": "The only action I've been seeing lately\nis on the battlefield. Do you think my\nsideburns have gone out of style?",
-   "ru": "Последнее время у меня все\n«подвиги» только на поле боя.\nДумаешь, бакенбарды вышли из\nмоды?"
+   "ru": "Последнее время все мои «подвиги»\n- только на поле боя. Думаешь,\nбакенбарды вышли из моды?"
   },
   {
    "id": 142,
@@ -724,7 +724,7 @@
   {
    "id": 143,
    "en": "I still cannot believe Your Highness\nhas been alive all these years, in the\ncare of my honorable brother...",
-   "ru": "Не могу поверить, что Ваше\nВысочество все эти годы был жив,\nпод опекой моего благородного\nбрата..."
+   "ru": "Не верится, что Ваше Высочество\nвсе эти годы был жив, под опекой\nмоего благородного брата..."
   },
   {
    "id": 144,
@@ -744,7 +744,7 @@
   {
    "id": 147,
    "en": "His Majesty the King was a fine man.\nIt is unfortunate that you were never\nable to meet him, Your Highness.",
-   "ru": "Его Величество король был\nпрекрасным человеком. Жаль, что\nвы так и не смогли с ним\nвстретиться, Ваше Высочество."
+   "ru": "Король был прекрасным человеком.\nЖаль, что вы так с ним и не\nвстретились, Ваше Высочество."
   },
   {
    "id": 148,
@@ -754,12 +754,12 @@
   {
    "id": 149,
    "en": "His Majesty the King was a legendary\nruler. I expect Your Highness will be\na legend in his own right.",
-   "ru": "Его Величество король был\nлегендарным правителем. Полагаю,\nВаше Высочество тоже станет\nлегендой."
+   "ru": "Король был легендарным\nправителем. Полагаю, Ваше\nВысочество тоже станет легендой."
   },
   {
    "id": 150,
    "en": "Thomson was a great man, Your\nHighness. His soul will guide us as\nwe destroy the Empire...",
-   "ru": "Томсон был великим человеком,\nВаше Высочество. Его дух поведёт\nнас, когда мы будем сокрушать\nИмперию..."
+   "ru": "Томсон был великим человеком,\nВаше Высочество. Его дух поведёт\nнас на Империю..."
   },
   {
    "id": 151,
@@ -789,7 +789,7 @@
   {
    "id": 156,
    "en": "Say, Bastion. Perhaps you should\nconsider spending some time with\nMilea. I think she fancies you.",
-   "ru": "Слушай, Бастион. Может, тебе стоит\nпобольше времени проводить с\nМилеей? По-моему, ты ей\nнравишься."
+   "ru": "Слушай, Бастион, проводи-ка\nпобольше времени с Милеей.\nПо-моему, ты ей нравишься."
   },
   {
    "id": 157,
@@ -804,7 +804,7 @@
   {
    "id": 159,
    "en": "I'm in a great mood today, Bastion!\nI think we're on the brink of rolling\nback the Imperial forces!",
-   "ru": "У меня сегодня отличное\nнастроение, Бастион! По-моему, мы\nвот-вот отбросим имперские\nвойска!"
+   "ru": "У меня отличное настроение,\nБастион! По-моему, мы вот-вот\nотбросим имперские войска!"
   },
   {
    "id": 160,
@@ -819,7 +819,7 @@
   {
    "id": 162,
    "en": "Bastion, I must admit. If you need\na laugh, talk to Andrew! There isn't\na naughty joke he doesn't know!",
-   "ru": "Бастион, признаюсь: хочешь\nпосмеяться — поговори с Эндрю!\nНет такой пошлой шутки, которой\nон не знает!"
+   "ru": "Хочешь посмеяться - поговори с\nЭндрю! Нет такой пошлой шутки,\nкоторой он не знает!"
   },
   {
    "id": 163,
@@ -834,7 +834,7 @@
   {
    "id": 165,
    "en": "Zeira\nHey, Bastion...are you and little Milea\nthinking about marriage? I must\nadmit, it seems like a great idea!",
-   "ru": "Эй, Бастион... вы с малышкой\nМилеей подумываете о свадьбе?\nПризнаюсь, по-моему, отличная\nмысль!"
+   "ru": "Эй, Бастион... вы с малышкой\nМилеей подумываете о свадьбе?\nПо-моему, отличная мысль!"
   },
   {
    "id": 166,
@@ -844,17 +844,17 @@
   {
    "id": 167,
    "en": "Faulkner thinks you a boy, Bastion,\nbut he's wrong. You're a man, and\nI expect you to show him that!",
-   "ru": "Фолкнер считает тебя мальчишкой,\nБастион, но он ошибается. Ты\nмужчина, и я жду, что ты ему это\nдокажешь!"
+   "ru": "Фолкнер считает тебя мальчишкой,\nБастион, но он ошибается. Ты\nмужчина - докажи ему это!"
   },
   {
    "id": 168,
    "en": "I've been nothing if not impressed\nwith your fighting skill, Bastion.\nShow me one more time, Highness!",
-   "ru": "Твоё боевое мастерство меня\nнеизменно впечатляет, Бастион.\nПокажи его ещё разок, Ваше\nВысочество!"
+   "ru": "Твоё боевое мастерство меня\nвпечатляет, Бастион. Покажи его\nещё разок, Ваше Высочество!"
   },
   {
    "id": 169,
    "en": "Have you ever tasted the Kingdom's\ndried sea slugs, Bastion? They're the\nbest on the Continent! Deee-LISH!",
-   "ru": "Ты пробовал сушёных морских\nслизней из Королевства, Бастион?\nЛучшие на Континенте!\nОбъеде-е-ение!"
+   "ru": "Пробовал сушёных морских слизней\nиз Королевства, Бастион? Лучшие\nна Континенте! Объеде-е-ение!"
   },
   {
    "id": 170,
@@ -874,7 +874,7 @@
   {
    "id": 173,
    "en": "I hear the local delicacy in Dionne-\nLehve is sauteed sea slugs. They cook\n'em in their own slime!",
-   "ru": "Говорят, местный деликатес в\nДионн-Леве — жареные морские\nслизни. Их готовят в собственной\nслизи!"
+   "ru": "Говорят, в Дионн-Леве деликатес -\nжареные морские слизни. Их\nготовят в собственной слизи!"
   },
   {
    "id": 174,
@@ -889,12 +889,12 @@
   {
    "id": 176,
    "en": "Hey, Bastion, I bet they hid snacks in\nthat temple along with Ultragunner!\nBring me a few, okay?",
-   "ru": "Эй, Бастион, спорим, в том храме\nвместе с Ультраганнером спрятали\nвкусняшки! Принеси мне парочку,\nладно?"
+   "ru": "Бастион, спорим, в храме с\nУльтраганнером спрятали\nвкусняшки! Принеси парочку!"
   },
   {
    "id": 177,
    "en": "Andrew told me about something\nthat feels like warm apple pie, and\nyou wouldn't BELIEVE what it is!",
-   "ru": "Эндрю рассказал мне про одну\nштуку, которая на ощупь как\nтёплый яблочный пирог, и ты НЕ\nПОВЕРИШЬ, что это!"
+   "ru": "Эндрю рассказал про штуку,\nмягкую, как тёплый яблочный\nпирог. Ты НЕ ПОВЕРИШЬ, что это!"
   },
   {
    "id": 178,
@@ -909,7 +909,7 @@
   {
    "id": 180,
    "en": "Reyna promised to make us all some\nbrownies after we take Norze Castle!\nSo let's make it quick, okay?!",
-   "ru": "Рейна обещала испечь всем\nпирожные, когда мы возьмём\nзамок Норзе! Так что давайте\nпобыстрее, ладно?!"
+   "ru": "Рейна обещала испечь всем\nпирожные, когда возьмём замок\nНорзе! Так что поторопимся!"
   },
   {
    "id": 181,
@@ -919,7 +919,7 @@
   {
    "id": 182,
    "en": "Hey, Bastion! You need to try this cup\nof Hibernian lemon-freeze! It's made\nfrom only the finest yellow snow!",
-   "ru": "Эй, Бастион! Попробуй\nхибернийский лимонный лёд!\nДелается только из лучшего\nжёлтого снега!"
+   "ru": "Эй, Бастион! Попробуй\nхибернийский лимонный лёд!\nТолько из лучшего жёлтого снега!"
   },
   {
    "id": 183,
@@ -929,12 +929,12 @@
   {
    "id": 184,
    "en": "Andrew told me I could lose weight\nif I eat less and exercise. I told him\nto take a flying leap.",
-   "ru": "Эндрю сказал, что я похудею, если\nбуду меньше есть и больше\nдвигаться. Я его послал куда\nподальше."
+   "ru": "Эндрю сказал, что я похудею, если\nбуду меньше есть и больше\nдвигаться. Я его послал подальше."
   },
   {
    "id": 185,
    "en": "Once you take over the Empire, can I\nbe allowed to digest...uh, dispose of\nthe Imperial Army's rations?",
-   "ru": "Когда ты захватишь Империю,\nможно мне переварить... то есть\nутилизировать пайки имперской\nармии?"
+   "ru": "Когда захватишь Империю, можно\nмне переварить... то есть\nутилизировать имперские пайки?"
   },
   {
    "id": 186,
@@ -949,7 +949,7 @@
   {
    "id": 188,
    "en": "When we've found Milea, could we\nembark on a search for rare snack\nfoods? I think it's a noble cause!",
-   "ru": "Когда найдём Милею, может,\nотправимся на поиски редких\nвкусняшек? По-моему, это\nблагородная цель!"
+   "ru": "Когда найдём Милею, может,\nпоищем редкие вкусняшки?\nПо-моему, это благородная цель!"
   },
   {
    "id": 189,
@@ -1009,12 +1009,12 @@
   {
    "id": 200,
    "en": "You think too much, Bastion. Feel,\ndon't think! Use your instincts! Go\nwith your gut, not your brain!",
-   "ru": "Ты слишком много думаешь,\nБастион. Чувствуй, а не думай!\nДоверься инстинктам! Слушай\nнутро, а не мозг!"
+   "ru": "Ты слишком много думаешь,\nБастион. Чувствуй, а не думай!\nДоверься инстинктам, а не мозгу!"
   },
   {
    "id": 201,
    "en": "Bastion, have you read this book? It's\nall about relationships...it taught me\nthat I have a feminine side!",
-   "ru": "Бастион, ты читал эту книгу? Она\nпро отношения... благодаря ей я\nпонял, что у меня есть женская\nсторона!"
+   "ru": "Бастион, читал эту книгу про\nотношения? Благодаря ей я понял,\nчто у меня есть женская сторона!"
   },
   {
    "id": 202,
@@ -1034,7 +1034,7 @@
   {
    "id": 205,
    "en": "Did you hear Duke Zeira speaking of\nhis difficult childhood, Bastion?! I...I\nwas moved by his courage!",
-   "ru": "Ты слышал, как герцог Зейра\nрассказывал о своём тяжёлом\nдетстве, Бастион?! Я... я тронут его\nмужеством!"
+   "ru": "Слышал, как герцог Зейра\nрассказывал о своём детстве,\nБастион?! Я тронут его мужеством!"
   },
   {
    "id": 206,
@@ -1054,7 +1054,7 @@
   {
    "id": 209,
    "en": "Did you hear Andrew speaking of all\nthe girls he's loved before?! I'd gladly\nlove half that many!",
-   "ru": "Ты слышал, как Эндрю\nрассказывал обо всех девушках,\nкоторых любил?! Мне бы хоть\nполовину!"
+   "ru": "Слышал, как Эндрю рассказывал\nобо всех своих девушках?! Мне бы\nхоть половину!"
   },
   {
    "id": 210,
@@ -1104,7 +1104,7 @@
   {
    "id": 219,
    "en": "I baked Ione some cookies, but I must\nhave used the wrong ingredients. Why\nelse would she projectile-vomit?",
-   "ru": "Я испекла Ионе печенье, но,\nнаверное, перепутала ингредиенты.\nИначе с чего бы её так фонтаном\nстошнило?"
+   "ru": "Я испекла Ионе печенье, но,\nнаверное, перепутала ингредиенты.\nИначе с чего её так стошнило?"
   },
   {
    "id": 220,
@@ -1114,7 +1114,7 @@
   {
    "id": 221,
    "en": "Bastion, why haven't you tried any of\nmy cooking yet? Just because Ione got\nsick doesn't mean YOU will!",
-   "ru": "Бастион, почему ты ещё не\nпробовал мою стряпню? Если Ионе\nстало плохо, это не значит, что и\nТЕБЕ станет!"
+   "ru": "Бастион, почему не пробуешь мою\nстряпню? Если Ионе стало плохо,\nэто не значит, что и ТЕБЕ станет!"
   },
   {
    "id": 222,
@@ -1134,7 +1134,7 @@
   {
    "id": 225,
    "en": "Look, Bastion! A bottle of vintage\nAvalonian wine! Don't make me force\nyou to have a few glasses with me!",
-   "ru": "Смотри, Бастион! Бутылка\nвыдержанного авалонского вина!\nНе заставляй меня силой поить\nтебя!"
+   "ru": "Смотри, Бастион! Выдержанное\nавалонское вино! Не заставляй\nменя поить тебя силой!"
   },
   {
    "id": 226,
@@ -1144,7 +1144,7 @@
   {
    "id": 227,
    "en": "I hope my little brothers are doing\nalright, Bastion. I hope they miss me\nas much as I miss them...",
-   "ru": "Надеюсь, у моих младших братьев\nвсё хорошо, Бастион. Надеюсь, они\nскучают по мне так же, как я по\nним..."
+   "ru": "Надеюсь, у моих младших братьев\nвсё хорошо, Бастион. Надеюсь, они\nскучают по мне, как я по ним..."
   },
   {
    "id": 228,
@@ -1169,7 +1169,7 @@
   {
    "id": 232,
    "en": "I always like to do the unexpected,\nBastion. It keeps people guessing...\nand keeps them talking about me!",
-   "ru": "Я люблю делать неожиданное,\nБастион. Люди теряются в\nдогадках... и не перестают обо мне\nговорить!"
+   "ru": "Я люблю делать неожиданное,\nБастион. Люди теряются в\nдогадках... и говорят обо мне!"
   },
   {
    "id": 233,
@@ -1229,7 +1229,7 @@
   {
    "id": 244,
    "en": "Just when I thought we'd pulled it\noff, we run into Duke Logan. Are we\ncursed with bad luck?",
-   "ru": "Только я подумала, что нам всё\nудалось, как мы наткнулись на\nгерцога Логана. Над нами что,\nпроклятие?"
+   "ru": "Только я подумала, что всё\nудалось, как мы наткнулись на\nгерцога Логана. Нас что, прокляли?"
   },
   {
    "id": 245,
@@ -1239,7 +1239,7 @@
   {
    "id": 246,
    "en": "I can't believe we made it this far,\nBastion! Perhaps we should become\nas egotistical as Sadira!",
-   "ru": "Не верится, что мы зашли так\nдалеко, Бастион! Может, нам стоит\nстать такими же\nсамовлюблёнными, как Садира!"
+   "ru": "Не верится, что мы зашли так\nдалеко, Бастион! Может, нам\nзазнаться, как Садира?"
   },
   {
    "id": 247,
@@ -1254,7 +1254,7 @@
   {
    "id": 249,
    "en": "Bastion, if Reyna offers to bake you\ncookies, I suggest you decline. Your\ndigestive system will thank you...",
-   "ru": "Бастион, если Рейна предложит\nиспечь тебе печенье, советую\nотказаться. Твой желудок скажет\nспасибо..."
+   "ru": "Бастион, если Рейна предложит\nиспечь тебе печенье, откажись.\nТвой желудок скажет спасибо..."
   },
   {
    "id": 250,

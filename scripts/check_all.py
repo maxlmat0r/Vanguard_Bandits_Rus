@@ -18,11 +18,13 @@ for p in texts.all_files(prefixes='bsqx'):
         try: enc = encode(t)
         except ValueError as e: print(f'{name} #{l["id"]}: {e}'); bad += 1; continue
         segs = enc.replace(b'\x00', b'\n').split(b'\n')
-        body = segs[1:] if segs and segs[0].endswith(b':') and name[0] != 'q' else segs
+        # a speaker line only where the English has one too (narration may end with ':')
+        named = segs[0].endswith(b':') and name[0] != 'q' and l['en'].split('\n')[0].endswith(':')
+        body = segs[1:] if named else segs
         if len([x for x in body if x]) > MAX_LINES and b'\x02' not in enc:
             print(f'{name} #{l["id"]}: >{MAX_LINES} lines'); bad += 1
         for n, s in enumerate(segs):
-            if n == 0 and s.endswith(b':') and name[0] != 'q': continue
+            if n == 0 and named: continue
             if line_px(s) > MAX_PX: print(f'{name} #{l["id"]}: {line_px(s)}px'); bad += 1
         if re.search(r'[а-яё][a-z]|[a-z][а-яё]', t, re.I): print(f'{name} #{l["id"]}: mixed'); bad += 1
 print('problems:', bad)

@@ -4,7 +4,7 @@
  "section": 0,
  "ctrl": 1,
  "max_px": 245,
- "max_lines": 4,
+ "max_lines": 3,
  "lines": [
   {
    "id": 0,
@@ -144,7 +144,7 @@
   {
    "id": 27,
    "en": "Sorry, but we don't have that type of\nequipment! Maybe you can buy it the\nnext time you go shopping, okay?",
-   "ru": "Прости, но такого снаряжения у\nнас нет! Может, купишь его, когда\nв следующий раз пойдёшь за\nпокупками?"
+   "ru": "Прости, такого снаряжения у нас\nнет! Купи его, когда снова\nпойдёшь за покупками."
   },
   {
    "id": 28,
