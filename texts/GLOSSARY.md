@@ -114,7 +114,17 @@ lparchive.org/Vanguard-Bandits. Официального русского пер
 | BATTLE ANIMATION ON / OFF | АНИМАЦИЯ БОЯ ВКЛ / ВЫКЛ |
 | MORE INFO | ДОП. ИНФО |
 | Mission Objective | Цель миссии |
-| HP, AP, FP, BAS, POW, DEX, AGL, DEF, WEP, LV | без перевода (как в оригинале) |
+| HP | ЖЗ |
+| AP | ОД |
+| FP | ПГ |
+| BAS | ОСН |
+| POW | МОЩ |
+| DEX | МТК |
+| AGL | ЛВК |
+| DEF | ЗАЩ |
+| WEP | ОРЖ |
+| LV | УР |
+| MOV (бонус снаряжения) | ДАЛ |
 
 ## Обращения
 | English | Русский |

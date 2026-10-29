@@ -4,7 +4,7 @@ Usage: python3 -I scripts/build.py <VBE_work dir>
 Reads  orig/EPICA.BIN, orig/SLUS_010.70, texts/*/*.json, assets/*
 Writes extracted/EPICA.BIN, extracted/SLUS_010.70 (then run mkpsxiso).
 """
-import sys, os, struct, json, glob
+import sys, os, re, struct, json, glob
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
 from lz import decompress, compress
@@ -203,7 +203,7 @@ def patch_exe(widths):
 # a lookup table (TABLE8, tail of the UI string pool); the cave sits in the dead debug-menu
 # text after the main width table. NOTE: 0x80064a4c/0x80064ac0 (old width tables) are
 # still used by the battle-animation module (EPICA file 1) - never reuse them.
-# Letters without a cell (Щ Ъ Ю... see CELLS8) show as '?'.
+# Letters without a cell (Й Ш Ъ Ь Э Ю, see CELLS8) show as '?'.
 CAVE8 = 0x800101e8
 TABLE8 = 0x8001116c
 T8LO = 0x3c                # TABLE8 covers codes T8LO..0xCF
@@ -213,8 +213,12 @@ T8LO = 0x3c                # TABLE8 covers codes T8LO..0xCF
 # Cells 0x1B-0x1F of row 0 are unused placeholder boxes: they may hold extra letters.
 # Symbol cells @ [ \ ] _ are reached only through TABLE8 (codes >= 0x40) and no displayed
 # string uses them as symbols, so they hold letters too. '^' stays (terrain box uses it).
+# Symbols " $ & = appear in no UI string ('=' only in debug printf text), so their
+# cells hold the letters needed by the Russian stat abbreviations (ЖЗ ПГ МОЩ ЗАЩ ОРЖ УР).
+# Щ is encoded as '*' (below T8LO, never remapped), so it is drawn in the '*' cell itself.
 CELLS8 = {'П': 0x1B, 'И': 0x1C, 'Ф': 0x1D, 'Д': 0x1E, 'Ч': 0x1F,
-          'Ц': 0x40, 'Я': 0x5B, 'Б': 0x5C, 'Л': 0x5D, 'Ы': 0x5F}
+          'Ц': 0x40, 'Я': 0x5B, 'Б': 0x5C, 'Л': 0x5D, 'Ы': 0x5F,
+          'Ж': 0x22, 'З': 0x24, 'Г': 0x26, 'Щ': 0x2A, 'У': 0x3D}
 ART8 = {
  'Б': ['#####', '#....', '####.', '#...#', '####.'],
  'Г': ['#####', '#....', '#....', '#....', '#....'],
@@ -340,7 +344,13 @@ def hi16(a): return (a + 0x8000) >> 16
 def MOD_BYTES():
     # title menu highlight bars (x, width per item), generated with assets/t413_4.tim
     menu = bytes(int(v) for v in open(f'{W}/assets/t413_menu.txt').read().split())
-    return {2: [(0x8007a0f4, (menu, bytes([144, 36, 146, 32, 137, 50])))]}
+    # equipment stat bonuses "{icon}BAS+%1d" etc. in module 0 (mod_extract skips them because
+    # of the {..} icon prefix); the abbreviation is replaced in place, same length
+    bonus = [(0x80075d48, 'BAS', 'ОСН'), (0x80075d54, 'POW', 'МОЩ'), (0x80075d60, 'DEX', 'МТК'),
+             (0x80075d6c, 'AGL', 'ЛВК'), (0x80075d78, 'DEF', 'ЗАЩ'), (0x80075d84, 'WEP', 'ОРЖ'),
+             (0x80075d90, 'WEP', 'ОРЖ'), (0x80075d9c, 'HP', 'ЖЗ'), (0x80075da8, 'MOV', 'ДАЛ')]
+    return {0: [(a, (encode(ru), en.encode())) for a, en, ru in bonus],
+            2: [(0x8007a0f4, (menu, bytes([144, 36, 146, 32, 137, 50])))]}
 
 # ---------------------------------------------------------------- title screen images
 def patch_title():
@@ -368,6 +378,21 @@ def patch_title():
     for y in range(128):
         d[p + y*768 + 640: p + y*768 + 704] = blk[y*64:(y+1)*64]
     place_file(592, compress_fixed(bytes(d)))
+
+# 8x8 string printers of the modules (m0, m1). They read '{' x y as a cursor move, but the
+# main font encodes Г as '{'; strings that go to these printers get Г as '&' instead, whose
+# 8x8 cell holds Г (CELLS8). A string counts as 8x8 if a jal to the printer follows its ref.
+PRINT8 = {0: 0x80076af0, 1: 0x800920c0}
+
+def font8_text(k, l, d):
+    t = l['ru']
+    if k not in PRINT8 or not re.search('[Гг]', t): return t
+    jal = 0x0c000000 | (PRINT8[k] >> 2 & 0x3ffffff)
+    for r in l['refs']:
+        f = int(r, 16) - MOD_BASE
+        if any(struct.unpack_from('<I', d, f + 4*i)[0] == jal for i in range(-1, 12)):   # jal may sit just before (ref in its delay slot)
+            return re.sub('[Гг]', '&', t)
+    return t
 
 def patch_modules():
     total = 0
@@ -397,7 +422,7 @@ def patch_modules():
             a = int(l['addr'], 16); f = a - MOD_BASE
             assert a not in MOD_DEAD.get(k, []) and not l['tail'], l
             assert not any(a < b < a + l['room'] for b in byaddr), ('string has a shared tail', l)
-            enc = encode(l['ru'])
+            enc = encode(font8_text(k, l, d))
             if len(enc) + 1 <= l['room']:
                 d[f:f+l['room']] = enc + bytes(l['room'] - len(enc)); n += 1
             else:

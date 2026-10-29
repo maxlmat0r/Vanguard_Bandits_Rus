@@ -1712,7 +1712,7 @@
    "mode": "ptr",
    "max": 15,
    "en": "HP/FP Recovery",
-   "ru": "Восст. HP/FP"
+   "ru": "Восст. ЖЗ/ПГ"
   },
   {
    "id": 214,
@@ -1728,7 +1728,7 @@
    "mode": "ptr",
    "max": 15,
    "en": "DEX Increase",
-   "ru": "Рост DEX"
+   "ru": "Рост МТК"
   },
   {
    "id": 216,
@@ -1744,7 +1744,7 @@
    "mode": "ptr",
    "max": 15,
    "en": "WEP Increase",
-   "ru": "Рост WEP"
+   "ru": "Рост ОРЖ"
   },
   {
    "id": 218,
@@ -1776,7 +1776,7 @@
    "mode": "ptr",
    "max": 15,
    "en": "AGL Increase",
-   "ru": "Рост AGL"
+   "ru": "Рост ЛВК"
   },
   {
    "id": 222,
@@ -1792,7 +1792,7 @@
    "mode": "ptr",
    "max": 11,
    "en": "FP Recovery",
-   "ru": "Восст. FP"
+   "ru": "Восст. ПГ"
   },
   {
    "id": 224,
@@ -1808,7 +1808,7 @@
    "mode": "ptr",
    "max": 15,
    "en": "DEF Increase",
-   "ru": "Рост DEF"
+   "ru": "Рост ЗАЩ"
   },
   {
    "id": 226,
@@ -1824,7 +1824,7 @@
    "mode": "ptr",
    "max": 11,
    "en": "HP Recovery",
-   "ru": "Восст. HP"
+   "ru": "Восст. ЖЗ"
   },
   {
    "id": 228,
